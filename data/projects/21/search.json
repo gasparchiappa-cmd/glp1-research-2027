@@ -1,0 +1,11 @@
+{
+  "project_id": 21,
+  "title": "Tecido adiposo e saúde metabólica",
+  "query": "(adipose tissue[tiab] OR adipose fibrosis[tiab]) AND (metabolic dysfunction[tiab] OR insulin resistance[tiab]) AND (histolog*[tiab] OR biops*[tiab]) AND (\"2025/01/01\"[Date - Publication] : \"3000\"[Date - Publication])",
+  "last_run_utc": "2026-11-05T23:55:18.368682+00:00",
+  "pubmed_total_matching": 178,
+  "retrieved_in_latest_run": 100,
+  "stored_unique_records": 100,
+  "retrieval_limit_per_run": 100,
+  "note": "Candidatos automáticos não equivalem a artigos incluídos. Estratégia exploratória, requer validação por revisores."
+}
