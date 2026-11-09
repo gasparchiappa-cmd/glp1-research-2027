@@ -2,10 +2,10 @@
   "project_id": 3,
   "title": "Exercício e tecido adiposo",
   "query": "(exercise[tiab] OR training[tiab]) AND (adipose tissue[tiab]) AND (inflammation[tiab] OR vascularization[tiab] OR fibrosis[tiab]) AND (\"2025/01/01\"[Date - Publication] : \"3000\"[Date - Publication])",
-  "last_run_utc": "2026-11-05T23:54:15.073289+00:00",
-  "pubmed_total_matching": 195,
+  "last_run_utc": "2026-11-09T21:27:52.546054+00:00",
+  "pubmed_total_matching": 196,
   "retrieved_in_latest_run": 100,
-  "stored_unique_records": 100,
+  "stored_unique_records": 101,
   "retrieval_limit_per_run": 100,
   "note": "Candidatos automáticos não equivalem a artigos incluídos. Estratégia exploratória, requer validação por revisores."
 }

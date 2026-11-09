@@ -2,10 +2,10 @@
   "project_id": 23,
   "title": "GLP-1 e função renal",
   "query": "(\"Glucagon-Like Peptide-1 Receptor Agonists\"[Mesh] OR semaglutide[tiab] OR liraglutide[tiab] OR tirzepatide[tiab] OR dulaglutide[tiab] OR exenatide[tiab] OR retatrutide[tiab] OR \"GLP-1\"[tiab] OR incretin*[tiab]) AND (kidney[tiab] OR renal[tiab] OR albuminuria[tiab] OR eGFR[tiab]) AND (\"2025/01/01\"[Date - Publication] : \"3000\"[Date - Publication])",
-  "last_run_utc": "2026-11-05T23:55:24.435936+00:00",
-  "pubmed_total_matching": 1562,
+  "last_run_utc": "2026-11-09T21:28:56.243714+00:00",
+  "pubmed_total_matching": 1573,
   "retrieved_in_latest_run": 100,
-  "stored_unique_records": 99,
+  "stored_unique_records": 111,
   "retrieval_limit_per_run": 100,
   "note": "Candidatos automáticos não equivalem a artigos incluídos. Estratégia exploratória, requer validação por revisores."
 }

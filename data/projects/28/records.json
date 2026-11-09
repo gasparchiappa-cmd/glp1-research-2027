@@ -1,5 +1,79 @@
 [
   {
+    "pmid": "42996489",
+    "title": "Beyond GLP-1: Charting the Future of Peptide Therapeutics in Metabolic Disease : Short title: Beyond GLP-1 Peptide Therapeutics.",
+    "authors": [
+      "Pezeshki Babak",
+      "Farjam Mojtaba",
+      "Karimi Aliasghar"
+    ],
+    "journal": "Galen medical journal",
+    "year": "2026",
+    "doi": "10.31661/gmj.v15i0.4342",
+    "abstract": "Glucagon-like peptide-1 (GLP-1)-based therapies have transformed obesity and type 2 diabetes care, establishing pharmacological weight reduction as a route to broader cardiovascular, renal, heart-failure, and metabolic benefit. Their success, however, should be viewed as a platform rather than a therapeutic endpoint. Dual- and triple-receptor agonists, amylin-based combinations, and related endocrine biologics are expanding the field from appetite suppression toward coordinated control of energy balance, glycemia, hepatic metabolism, and organ risk. The central challenge is consequently shifting from maximal agonism to optimized polypharmacology: selecting receptor combinations, potency ratios, and treatment strategies for predefined clinical objectives and patient phenotypes. Precision phenotyping and AI-enabled molecular design may accelerate this transition, but durable benefit will also depend on preservation of physical function, long-term safety, sustainable maintenance, and equitable access. The next generation of metabolic therapeutics should therefore be judged not by maximal short-term weight loss alone, but by durable health gain across organs, function, quality of life, and populations.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42996489/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42994195",
+    "title": "Psychiatric symptoms, psychological well-being and quality of life after metabolic and bariatric surgery versus incretin-based therapy in obesity: The role of weight loss.",
+    "authors": [
+      "Acar Mehmet Alptekin",
+      "Saylar Alparslan",
+      "Yazıcı Serkan",
+      "Yavuz Dilek Gogas"
+    ],
+    "journal": "General hospital psychiatry",
+    "year": "2026",
+    "doi": "10.1016/j.genhosppsych.2026.10.008",
+    "abstract": "Metabolic and bariatric surgery (MBS) and incretin-based pharmacotherapy (GLP-1 receptor agonists) cause substantial weight loss, but whether the accompanying psychological improvement is associated with the degree of weight loss or with treatment-specific mechanisms is unclear. To compare changes in psychiatric symptoms, psychological well-being and quality of life after MBS and incretin-based therapy, and to examine the role of weight loss. In this prospective, non-randomized cohort study, 207 adults with obesity (MBS, n = 97; incretin-based pharmacotherapy, n = 110 [tirzepatide 87, semaglutide 19, liraglutide 4]) completed 16 psychiatric and quality-of-life scales before treatment and at 6 months. Weight loss was 33.2 ± 9.9 kg with MBS and 16.8 ± 11.5 kg with pharmacotherapy. Both groups improved significantly on all 16 scales (r = 0.28-0.84; all p ≤ 0.02). With pharmacotherapy, improvement correlated with weight loss on all scales (all p ≤ 0.04; |r| = 0.20-0.45); after MBS, no association was observed (all p > 0.5). Crude between-group differences favoring MBS (5/16 scales) disappeared after adjustment for weight loss. Only emotion regulation difficulties showed a significant group × time interaction (coefficient 3.3, 95% CI 0.7-5.9). Both groups showed improved psychological well-being and quality of life. Improvement tracked weight loss with pharmacotherapy but not after MBS, possibly reflecting less variable weight loss after surgery. The crude advantage of MBS was no longer evident after adjusting for weight loss, suggesting an association with greater weight loss rather than a modality-specific effect, with emotion regulation as a possible exception.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42994195/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42991981",
+    "title": "Symptom improvement was not significantly associated with weight loss, dose, or treatment duration in women with lipoedema treated with tirzepatide: a retrospective cohort study of prospectively collected outcomes.",
+    "authors": [
+      "Pinto da Costa Viana Diogo",
+      "Invitti Adriana Luckow",
+      "Schor Eduardo"
+    ],
+    "journal": "Metabolism open",
+    "year": "2026",
+    "doi": "10.1016/j.metop.2026.100518",
+    "abstract": "Weight loss may not reliably improve symptoms or adipose tissue abnormalities in lipoedema. Whether symptom improvement during incretin-based pharmacotherapy is associated with the magnitude of weight loss is unknown. We retrospectively analysed prospectively collected outcomes from 49 women with clinically diagnosed lipoedema treated with tirzepatide in routine care at a specialist clinic between January 2024 and May 2026. The Lipedema Symptom Assessment Questionnaire (QuASiL; range 0-150) was completed before treatment and at the most recent follow-up (3-18 months). The primary analysis examined the association between percentage weight change and percentage symptom change. Weight change was not significantly associated with symptom change (r = 0.058, 95% confidence interval -0.23 to 0.33; p = 0.692). Baseline-adjusted analysis of covariance agreed (weight-change β = 0.03; p = 0.890). Symptom change was also not significantly associated with dose intensity or treatment duration. In contrast, weight change was associated with dose intensity (r = -0.569) and duration (r = -0.611). Every participant improved by at least 30% on the QuASiL and 93.9% by at least 50%, yet no significant association was observed between symptom improvement and weight loss, dose intensity, or treatment duration, whereas weight loss showed exposure-response associations. The near-zero estimate, small sample and uniform symptom response leave a confidence interval that does not exclude small-to-moderate associations, so independence from weight loss cannot be inferred, and without a control group the improvement cannot be attributed to tirzepatide. These hypothesis-generating findings require confirmation in controlled studies with objective outcomes.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42991981/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42991855",
+    "title": "Recent Advances in the Management of Heart Failure, Including the Role of AI and Advances in Gene Therapy.",
+    "authors": [
+      "Kattamuri Lakshmi",
+      "Sharma Kunal",
+      "Mukherjee Debabrata"
+    ],
+    "journal": "The International journal of angiology : official publication of the International College of Angiology, Inc",
+    "year": "2026",
+    "doi": "10.1055/a-2904-8847",
+    "abstract": "Heart failure (HF) remains a major cause of morbidity and mortality despite significant advances in its management. This study aimed to synthesize recent advances in HF management, including the role of artificial intelligence (AI) and advances in gene therapy. PubMed, Embase, Web of Science, and Google Scholar were searched for original research (2020-January 2026) on recent advances in HF management, including AI and gene-based therapies. While guideline-directed management and therapy (GDMT) substantially reduce mortality and hospitalization in heart failure with reduced ejection fraction (HFrEF), utilization of such therapies is frequently constrained by delayed initiation, incomplete titration, noncompliance, and cost. Beyond foundational therapy, finerenone, sodium glucose cotransporter-2 inhibitors (SGLT2i) across the ejection fraction (EF) spectrum, and glucagon-like peptide-1 receptor agonist (GLP-1 RA) for obesity-related heart failure with preserved ejection fraction (HFpEF) extend phenotype-directed options. Transcatheter mitral and tricuspid repair/replacement has shifted mitral and tricuspid regurgitation from a bystander lesion to a treatable contributor to improvement of symptoms and quality of life. Adjunctive transcatheter mitral interventions have expanded treatment options for selected symptomatic HFrEF patients with secondary mitral regurgitation (MR) despite optimized GDMT, improving MR severity, functional status, and reducing HF hospitalizations. Donor-derived cell-free DNA rejection surveillance, donation after circulatory death to expand donor supply, and refinement of left ventricular assist device (LVAD) antithrombotic strategies are evolving in advanced HF. AI tools and gene therapies are showing promising results but require further large-scale studies for validation and clinical adoption. Contemporary HF management is increasingly phenotype- and trajectory-guided, but its clinical adoption is limited by optimal implementation and access barriers. Future research should focus on outcomes-based validation with a clear patient-selection framework to enable durable real-world implementation to improve outcomes further.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42991855/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42984537",
     "title": "Analyzing postpartum patients' attitudes towards medication for weight management: a mixed-methods analysis.",
     "authors": [
@@ -1567,8 +1641,7 @@
     "doi": "10.1002/eat.70180",
     "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are increasingly prescribed for weight management. Similar to the early implementation of metabolic and bariatric surgery (MBS), little is known about how GLP-1RAs affect individuals with eating disorders (EDs) or their potential to promote, mask, or exacerbate ED psychopathology. Lacking robust empirical data directly examining associations between GLP-1RAs and ED risk, we draw on lessons from the field of MBS to summarize current critical knowledge gaps and guide clinicians, educators, researchers, and advocates on interim decision-making. As providers working at the intersection of EDs and obesity treatment, we integrate published findings with our clinical and research expertise to identify potential ED risks associated with GLP-1RA use and identify opportunities to screen and intervene. Initially in MBS practice, ED symptoms were underrecognized due to lack of standardized screening and monitoring protocols. Early concerns arose from patient reports and provider observations, followed by empirical and systematic research investigation leading to the development of structured assessment tools and protocols. Similar concerns are arising with GLP-1RA treatment, where changes in appetite and weight may, without prospective or ongoing screening, worsen existing or contribute to de novo ED behaviors and cognitions. ED providers are uniquely positioned to identify and address disordered eating occurring with GLP-1RA treatment that may be overlooked by providers with less ED training and experience. We highlight opportunities for ED professionals to engage in advocacy, education, and interdisciplinary collaboration to reduce harm and promote patient wellbeing as GLP-1RA use increases.",
     "publication_types": [
-      "Journal Article",
-      "Review"
+      "Journal Article"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42502918/",
     "screening_status": "não avaliado"

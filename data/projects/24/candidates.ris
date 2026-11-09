@@ -78,6 +78,36 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42503322/
 ER  - 
 
 TY  - JOUR
+ID  - 42996399
+TI  - Will GLP-1-based therapies reshape the epidemiology of MASLD? An emerging public health perspective.
+AU  - Pereira Evelyn Nunes Goulart da Silva
+AU  - Rodrigues Karine Lino
+JO  - Frontiers in endocrinology
+PY  - 2026
+DO  - 10.3389/fendo.2026.1981916
+AB  - Metabolic dysfunction-associated steatotic liver disease (MASLD) is the leading cause of chronic liver disease worldwide, driven by increasing obesity and type 2 diabetes mellitus. The expanding use of glucagon-like peptide-1 receptor agonists (GLP-1RAs) raises an epidemiological question: could therapies targeting these metabolic drivers reshape the future burden of chronic liver disease? GLP-1-based therapies reduce body weight and improve metabolic dysfunction, with potential implications for hepatic steatosis and disease progression. The phase 3 ESSENCE trial demonstrated histological benefits of semaglutide in metabolic dysfunction-associated steatohepatitis (MASH) with moderate-to-advanced fibrosis, supporting accelerated or conditional regulatory approvals. However, effects on liver-related clinical outcomes remain unproven. In this Perspective, we examine the evidence and translate it into an explicitly parameterized scenario using a potential impact fraction. Combining published estimates of eligibility, relative risk, treatment persistence, and effectiveness with coverage scenarios of 5%, 10%, and 20%, the model suggests relative reductions of approximately 0.3% to 1.1% in the global incidence of cirrhosis among individuals with prevalent MASLD, at equilibrium (95% uncertainty interval at 20% coverage and intermediate persistence, 0.6% to 1.6%; best-case envelope, 4.6%). These estimates represent testable hypotheses rather than established clinical effects. Effective coverage, defined as coverage multiplied by persistence, is the principal constraint. We identify observations that would refute these expectations and discuss implications for prevention, healthcare systems, and the natural history of MASLD. Population benefits will depend on sustained treatment, accessibility, affordability, and equitable implementation, alongside confirmation that histological improvements translate into fewer liver-related clinical events.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42996399/
+ER  - 
+
+TY  - JOUR
+ID  - 42991391
+TI  - Vibration-Controlled Transient Elastography (VCTE)-Based Prevalence and Assessment of Hepatic Steatosis and Fibrosis in a UK Tertiary Hospital-Based Specialist Weight Management Service: A Real-World Evaluation.
+AU  - Willis Scott A
+AU  - Ahsan Masato
+AU  - Rathi Kiran
+AU  - Lawrence Ian
+AU  - Davies Melanie J
+AU  - Webb David R
+AU  - King James A
+AU  - Ahmad Ehtasham
+JO  - Obesity science & practice
+PY  - 2026
+DO  - 10.1002/osp4.70204
+AB  - Metabolic dysfunction-associated steatotic liver disease is common in severe obesity; however, liver health assessment is inconsistently implemented in specialist weight management services and real-world data are scarce. This study evaluated the prevalence and severity of vibration-controlled transient elastography (VCTE)-defined hepatic steatosis and fibrosis risk in adults attending a UK-based Tier 3 specialist weight management service, and explored associations with clinical and metabolic characteristics. This retrospective cross-sectional study included 96 adults referred to a specialist weight management service who underwent baseline VCTE (FibroScan) between June 2024 and November 2025. Controlled attenuation parameter (CAP) and liver stiffness measurement (LSM) estimated hepatic steatosis and fibrosis risk, respectively. Demographic, anthropometric, clinical, and biochemical variables were extracted from electronic records. Generalized linear models identified factors associated with CAP and LSM, with sensitivity analyses adjusting for incretin-based therapy use. Participants were predominantly female (83.3%) and White European (81.3%), with mean age 48.7 ± 12.5 years and BMI 42.0 ± 9.4 kg/m2. VCTE-defined steatosis was present in 82.3% (CAP ≥ 248 dB·m-1), with 57.3% classified as severe (CAP ≥ 280 dB·m-1). Overall, 26.1% had elevated fibrosis risk (LSM ≥ 8 kPa), including 6.3% classified as high risk (LSM > 12 kPa). In multivariable analyses, higher BMI, HbA1c and ALT were independently associated with greater CAP, whereas BMI and HbA1c were independently associated with higher LSM. Further adjustment for incretin-based pharmacotherapy use did not alter these relationships. Hepatic steatosis and elevated fibrosis risk are highly prevalent in adults attending specialist weight management services. Adiposity and glycemic burden appear to be key determinants, supporting the integration of non-invasive liver assessment into specialist obesity care pathways.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42991391/
+ER  - 
+
+TY  - JOUR
 ID  - 42986409
 TI  - Annualized fibrosis dynamics in metabolic dysfunction-associated steatotic liver disease: a paired-biopsy cohort.
 AU  - Kawanaka Miwa
@@ -1307,6 +1337,22 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42605535/
 ER  - 
 
 TY  - JOUR
+ID  - 42599088
+TI  - Liver Organoids: From Disease Modelling to Regenerative Medicine.
+AU  - Wang Tiepeng
+AU  - Qu Xiaotian
+AU  - Si Jinhong
+AU  - Meng Junkang
+AU  - Zhang Ting
+AU  - Niu Shuliang
+JO  - Cell proliferation
+PY  - 2026
+DO  - 10.1111/cpr.70268
+AB  - Liver organoids are three-dimensional miniature liver models that recapitulate the complex architecture and key functions of the human liver in vitro, offering powerful platforms for both fundamental research and translational applications. This review systematically summarises current fabrication strategies, disease-modelling utilities and regenerative potentials of liver organoids, alongside the major challenges and future directions. In recent years, the field has witnessed several breakthroughs. Through endothelial co-culture approaches, vascularised and metabolically zonated liver organoids have been successfully generated, achieving endothelial coverage exceeding 85%. Prime editing enables precise correction of pathogenic mutations in patient-derived organoids, with no off-target effects detected at the genome-wide level. In disease modelling, iPSC-derived liver organoids faithfully recapitulate the pathological progression of metabolic dysfunction-associated steatotic liver disease (MASLD) and verify the lipid-lowering efficacy of semaglutide. Macrophage-integrated organoid models support the full life cycles of HEV, SARS-CoV-2 and dengue virus, providing new tools for antiviral drug screening. Large-scale patient-derived tumour organoid biobanks successfully preserve the heterogeneity and clinical drug-resistance signatures of liver cancers. In regenerative medicine, encapsulated hepatocyte organoids and the UTOpiA bioartificial liver system have effectively rescued acute liver failure in animal models, while gene-edited autologous organoids offer potential curative strategies for genetic disorders such as Wilson disease. Nevertheless, insufficient hepatocyte functional maturity, difficulties in constructing vascular networks, and the lack of standardised culture protocols remain major obstacles to clinical translation. By bridging fundamental liver biology and clinical practice, liver organoid technology lays a solid foundation for precision hepatology and regenerative therapies. Continued interdisciplinary efforts are still required to overcome current limitations and facilitate its clinical adoption.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42599088/
+ER  - 
+
+TY  - JOUR
 ID  - 42580587
 TI  - EQ-5D health utility gains with once-weekly semaglutide 2.4 mg in people with MASH and F2/F3 fibrosis: An analysis of ESSENCE.
 AU  - Augusto Margarida
@@ -1577,6 +1623,36 @@ PY  - 2026
 DO  - 10.1097/QAD.0000000000004544
 AB  - Metabolic dysfunction-associated steatotic liver disease (MASLD) and liver fibrosis are key drivers of morbidity and mortality in people with HIV (PWH). Limited evidence exists in PWH for managing MASLD and liver fibrosis with semaglutide. We studied adult PWH in care at 10 CFAR Network of Integrated Clinical Systems sites who initiated semaglutide for diabetes and/or weight loss and had liver fibrosis score (FIB-4) data from 4/2018-11/2024. We used adjusted linear mixed models for a quasi-experimental, pre-/post-, new-user analysis of semaglutide on FIB-4 score with several a priori stratifications by baseline fibrosis category and other relevant clinical factors. Among 1850 PWH at baseline, 1368 had FIB-4 <1.3 (no/low fibrosis), 428 had FIB-4 1.3-2.67 (moderate fibrosis), and 54 had FIB-4 >2.67 (advanced fibrosis). Most PWH had cardiometabolic conditions (diabetes 59%, dyslipidemia 62%, hypertension 80%, BMI ≥30 80%), drank alcohol with low levels of use (57%, mean AUDIT-C 1.6), and did not have hepatitis B (93%) or hepatitis C infection (86%). Mean time on semaglutide was 218 days. Semaglutide was associated with reductions in liver fibrosis score in PWH with baseline moderate-to-advanced fibrosis (FIB-4 ≥1.3; ΔFIB-4: -0.11, P < 0.01) with greatest decreases in advanced fibrosis (FIB-4 >2.67; ΔFIB-4: -0.64, P < 0.001). Semaglutide was associated with declines in liver fibrosis scores in PWH with moderate-to-advanced fibrosis and high levels of cardiometabolic conditions. Together with evidence from the general population, these findings suggest that semaglutide could help manage MASLD and liver fibrosis in PWH, especially as PWH age and experience long-term impacts of cardiometabolic disease.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42138385/
+ER  - 
+
+TY  - JOUR
+ID  - 42090713
+TI  - Improved Survival With Sodium-Glucose Cotransporter 2 Inhibitors and Glucagon-Like Peptide-1 Receptor Agonists in Patients With Heart Failure With Preserved Ejection Fraction and Metabolic Dysfunction-Associated Steatotic Liver Disease.
+AU  - Tepetes Nikolaos-Iason
+AU  - Filippatos Charalampos
+AU  - Athanasopoulos Stavros
+AU  - Konstantaki Christina
+AU  - Batziou Panagiota
+AU  - Soranidis Angelos
+AU  - Kostakou Peggy
+AU  - Stamatelopoulos Kimon
+AU  - Briasoulis Alexandros
+JO  - American journal of therapeutics
+PY  - 2026
+DO  - 10.1097/MJT.0000000000002139
+AB  - Adverse metabolic profile manifested as metabolic dysfunction-associated steatotic liver disease (MASLD) and obesity affect the development and prognosis of heart failure (HF). Whether treatments targeting metabolic derangements such as sodium-glucose cotransporter 2 inhibitors (SGLT2 inhibitors) and glucagon-like peptide-1 receptor agonists (GLP-1 receptor agonists) are associated with improved outcomes patients with both HF and MASLD or obesity warrants investigation. This retrospective study included 7 propensity score matched cohort analyses using deidentified electronic health record data from the TriNetX global health research network. We evaluated the associations between MASLD, obesity, and the use of SGLT2 inhibitors or GLP-1 receptor agonists with adverse outcomes in patients with HF. Cohorts were defined based on combinations of comorbidities (HF subtype, MASLD, obesity, diabetes status) and medication exposure. Time-to-event outcomes with the Kaplain-Meier method and with Cox proportional hazards models for the calculation of hazard ratios (HRs) and 95% confidence intervals. Among patients with HF with preserved ejection fraction (HFpEF) and HF with reduced ejection fraction, MASLD was consistently linked to increased risk of nonfatal cardiovascular events, including HF (HR = 1.09, P < 0.001 and HR = 1.23, P < 0.001), myocardial infarction (HR = 1.03, P = 0.07 and HR = 1.08, P < 0.001), and stroke (HR = 1.04, P = 0.08 and HR = 1.07, P = 0.07). Use of SGLT2 inhibitors in HFpEF and MASLD patients with or without diabetes was associated with reduced all-cause mortality (HR = 0.76, P < 0.001 and HR = 0.69, P < 0.001) and major cardiovascular events. GLP-1 receptor agonists demonstrated a significant survival benefit (HR = 0.38, P < 0.001) in obese patients with HFpEF and MASLD without diabetes. In patients with HFpEF, pharmacologic interventions targeting metabolic pathways demonstrate meaningful cardioprotective effects, especially in metabolically vulnerable subgroups.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42090713/
+ER  - 
+
+TY  - JOUR
+ID  - 41932511
+TI  - The evolving landscape of pathologic interpretation in metabolic dysfunction-associated steatotic liver disease.
+AU  - Allende Daniela S
+JO  - Human pathology
+PY  - 2026
+DO  - 10.1016/j.humpath.2026.106112
+AB  - Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most prevalent chronic liver disease worldwide. This article discussed updates in diagnosis and emerging issues. Key histologic findings include steatosis, lobular inflammation, and hepatocyte ballooning. Updated histologic guidance, with more detailed definitions, has recently been published for features in the histologic spectrum. Studies in portal changes seen in MASLD have shown the importance of this finding in relation to fibrosis and outcome. Among the emerging issues, the importance of incidental findings and regression of fibrosis features is described. Digital pathology/machine learning algorithms, stain-free technologies, and molecular testing are being integrated into the diagnosis of MASLD, still mostly in the research setting but rapidly capturing the attention of the clinical community with the intent of aiding pathologists.
+UR  - https://pubmed.ncbi.nlm.nih.gov/41932511/
 ER  - 
 
 TY  - JOUR

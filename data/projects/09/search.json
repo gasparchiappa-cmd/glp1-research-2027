@@ -2,10 +2,10 @@
   "project_id": 9,
   "title": "GLP-1 e doença de Alzheimer",
   "query": "(\"Glucagon-Like Peptide-1 Receptor Agonists\"[Mesh] OR semaglutide[tiab] OR liraglutide[tiab] OR tirzepatide[tiab] OR dulaglutide[tiab] OR exenatide[tiab] OR retatrutide[tiab] OR \"GLP-1\"[tiab] OR incretin*[tiab]) AND (Alzheimer*[tiab] OR mild cognitive impairment[tiab]) AND (\"2025/01/01\"[Date - Publication] : \"3000\"[Date - Publication])",
-  "last_run_utc": "2026-11-05T23:54:34.423567+00:00",
-  "pubmed_total_matching": 242,
+  "last_run_utc": "2026-11-09T21:28:12.086775+00:00",
+  "pubmed_total_matching": 246,
   "retrieved_in_latest_run": 100,
-  "stored_unique_records": 100,
+  "stored_unique_records": 104,
   "retrieval_limit_per_run": 100,
   "note": "Candidatos automáticos não equivalem a artigos incluídos. Estratégia exploratória, requer validação por revisores."
 }

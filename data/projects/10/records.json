@@ -17,6 +17,84 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "43001258",
+    "title": "The hypertension-NVU-cognition Axis: Mechanisms and interventions.",
+    "authors": [
+      "Tao Zhengde"
+    ],
+    "journal": "Aging brain",
+    "year": "2026",
+    "doi": "10.1016/j.nbas.2026.100174",
+    "abstract": "Midlife hypertension is a major modifiable risk factor for Alzheimer's disease, but the specific molecular pathways through which it contributes to cognitive decline-pathways that are partially independent of, and interact with, amyloid-β pathology-are not fully elucidated. This review synthesizes and elaborates the \"Hypertension-NVU-Cognition\" axis, building on the established cerebrovascular biology, neurovascular unit, cerebral small vessel disease (CSVD), and vascular cognitive impairment (VCID) literature, within which this axis is positioned as an integrative, complementary framework rather than a wholly novel or independent pathway. Sustained hypertension damages the neurovascular unit (NVU) through hemodynamic stress, blood-brain barrier (BBB) disruption (via tight junction and pericyte loss), and neuroinflammation (pro-inflammatory microglial activation and reactive astrogliosis). This NVU dysfunction directly impairs cognition via glutamate excitotoxicity, cholinergic axonal ischemia, and reduced Aβ clearance. Critically, midlife blood pressure trajectories are stronger predictors of late-life cognition than late-life levels. NVU injury frequently coexists with amyloid pathology, yet emerging evidence indicates it also contributes to cognitive decline in individuals with low amyloid burden, highlighting its complementary and potentially synergistic role alongside classical AD mechanisms. This axis highlights candidate molecular targets and biomarkers that merit further investigation for early intervention. Promising biomarkers include plasma sPDGFRβ (pericyte injury) and DCE-MRI Ktrans (BBB leakage). Promising future research directions include standardizing NVU biomarkers and conducting targeted trials that combine intensive blood pressure control with investigational NVU-protective agents (e.g., GLP-1 receptor agonists) in at-risk midlife individuals; these approaches are not yet clinically actionable and require validation in adequately powered randomized controlled trials. Understanding this axis is crucial for developing effective preventive therapies against vascular cognitive impairment.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001258/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42998120",
+    "title": "GLP-1 receptor agonist use in patients with minor stroke is associated with lower risk of post-stroke dementia.",
+    "authors": [
+      "Kakadiya Jay",
+      "Chen Huanwen",
+      "Rai Pranjal",
+      "Dhaduk Vidhi",
+      "Bathla Girish",
+      "Essibayi Muhammed Amir",
+      "Azzam Ahmed Y",
+      "Salim Hamza A",
+      "Ahmed Sabha",
+      "Soni Neetu",
+      "Yedavalli Vivek S",
+      "Dmytriw Adam A",
+      "Latifi Shahrzad",
+      "Mcintyre Matthew K",
+      "Mandel Daniel",
+      "Altschul David J",
+      "Colasurdo Marco",
+      "Malhotra Ajay",
+      "Gandhi Dheeraj",
+      "Lakhani Dhairya A"
+    ],
+    "journal": "Journal of neurology",
+    "year": "2026",
+    "doi": "10.1007/s00415-026-14251-9",
+    "abstract": "Minor ischemic stroke is associated with increased risks of post-stroke dementia independent of stroke recurrence, yet there are no guideline-recommended therapies targeted at cognitive outcomes. Glucagon-like peptide - 1 receptor agonists (GLP-1RAs) have been shown to be associated with lower risk of dementia among diabetes patients; however, their effect on cognitive outcomes among minor stroke patients is largely unknown. This retrospective cohort study used de-identified electronic health record data from the TriNetX US Collaborative Network (2016-2025). Adult patients with minor ischemic stroke (NIHSS ≤ 5 and non-disabling) were included. Patients with prior intracranial hemorrhage, mood disorders, anxiety disorders, cognitive impairment, or dementia were excluded. GLP-1RA use was defined as a prescription prior to or within 3 months of stroke diagnosis. After 1:1 propensity score matching on 75 baseline characteristics, outcomes were assessed over a 5 year follow-up using Kaplan-Meier analysis and Cox proportional hazards models. After propensity score matching, 1,425 patients per group were analyzed. Mean age was 60.7 years, with diabetes present in 92.7% and mean HbA1c of 8.7%. GLP-1RA use was associated with a 48% lower hazard of post-stroke dementia (3.4% vs. 7.0%, HR 0.52 [95% CI 0.37-0.74]) and a 31% lower hazard of other neurocognitive complaints (17.2% vs 25.6%, HR 0.69 [95% CI 0.59-0.81]) over 5 years. GLP-1RA use was also associated with reduced mortality (4.4% vs. 8.8%; HR 0.57 [95% CI 0.42-0.77]) and major ischemic stroke (1.5% vs. 2.7%; HR 0.59 [95% CI 0.35-1.01]). No significant difference in intracranial hemorrhage rates was observed. Among this cohort of minor ischemic stroke patients mostly with concomitant diabetes, GLP-1RA use was associated with significantly reduced risks of post-stroke dementia and other neurocognitive complaints. These findings support prioritizing GLP-1RA use for diabetic patients who suffered minor ischemic stroke. Prospective trials are warranted to confirm causality and determine optimal implementation.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998120/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42997476",
+    "title": "SGLT-2 Inhibitors versus GLP-1 Receptor Agonists for Dementia and Depression in Type 2 Diabetes Mellitus: A Meta-Analysis.",
+    "authors": [
+      "Pan Runzhou",
+      "Wang Bo",
+      "Li Yuzheng",
+      "Li Huiyun",
+      "Liang Xue",
+      "Zhang Yan",
+      "Liu Xiaonan",
+      "Huang Xiaowei",
+      "Wang Rongrong",
+      "Ji Hong",
+      "Zhao Yongcai"
+    ],
+    "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+    "year": "2026",
+    "doi": "10.2147/DMSO.S628886",
+    "abstract": "The comparative effects of sodium-glucose cotransporter-2 inhibitors (SGLT-2i) and glucagon-like peptide-1 receptor agonists (GLP-1RA) on dementia and depression risk in patients with type 2 diabetes mellitus (T2DM) remain unclear. We conducted a meta-analysis to directly compare the incidence of dementia and depression-related outcomes between users of these two drug classes. A systematic literature search was conducted across PubMed, Embase, Cochrane Library, and Web of Science from inception to June 1, 2026. Observational studies reporting quantifiable data on dementia or depression-related events in adults with T2DM were included. Detailed information on study design, age, demographic characteristics, eligibility criteria, outcome definitions, and outcome incidence was extracted. Data were pooled using a random-effects model to calculate odds ratios (ORs) with 95% confidence intervals (CIs). Sensitivity analyses involved sequential exclusion of individual studies. Prespecified subgroup analyses examined effect modifiers including geographic region, study design, age, and follow-up duration. Study quality was assessed using the Newcastle-Ottawa Scale, and the overall certainty of evidence and methodological rigor of this meta-analysis were evaluated using the AMSTAR 2 checklist. Thirteen observational studies comprising 1,055,315 participants were included. Compared with GLP-1RA users, SGLT-2i users had lower rates of all-cause dementia (OR 0.85, 95% CI 0.77-0.94; P = 0.001), vascular dementia (OR 0.75, 95% CI 0.71-0.80; P < 0.001), Alzheimer's disease (OR 0.76, 95% CI 0.72-0.79; P < 0.001), and composite depression-related outcomes (OR 0.76, 95% CI 0.67-0.88; P = 0.001), including suicide/self-harm (OR 0.69, 95% CI 0.60-0.80; P < 0.001) and depression/anxiety (OR 0.78, 95% CI 0.65-0.93; P = 0.006). Subgroup analyses revealed more pronounced differences in Asian populations (dementia: OR 0.86, 95% CI 0.75-0.99; I2 = 0%), European cohorts (depression: OR 0.67, 95% CI 0.54-0.84; I2 = 83%), and in studies that enrolled younger adults (minimum age 18 years, without an upper age restriction) (dementia: OR 0.79, 95% CI 0.76-0.81; I2 = 0%; depression: OR 0.67, 95% CI 0.54-0.84; I2 = 83%). In this meta-analysis of observational studies, SGLT-2i use was associated with lower rates of dementia and depression-related outcomes compared with GLP-1RA use in patients with T2DM. Age and geographic region may influence the observed associations. Future randomized controlled trials and studies reporting outcomes stratified by sex, socioeconomic status, and educational level are warranted.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997476/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42984478",
     "title": "Mā te kimi ka kite, Mā te kite ka mōhio, Mā te mōhio ka Mārama Seek and discover, discover and know, know and become enlightened.",
     "authors": [

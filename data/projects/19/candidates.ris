@@ -17,6 +17,95 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42892933/
 ER  - 
 
 TY  - JOUR
+ID  - 42999457
+TI  - Insulin Deintensification After Glucagon-Like Peptide-1 (GLP-1)-Based Therapy in Type 2 Diabetes: Evidence and a Practical Clinical Framework.
+AU  - Elhassan Ahmed
+AU  - Mohamed Abu-Bekr
+AU  - Mahgoub Ahmed
+AU  - Singh Anaida
+AU  - Ali Isra
+JO  - Cureus
+PY  - 2026
+DO  - 10.7759/cureus.117614
+AB  - Glucagon-like peptide-1 (GLP-1)-based therapies have changed the management of insulin-treated type 2 diabetes by creating opportunities not only to improve glycemic control and body weight but also to reduce insulin exposure and simplify previously intensified treatment regimens. However, clinical guidance remains considerably clearer on when to initiate or intensify insulin than on how to safely reduce established insulin therapy after effective GLP-1-based treatment is introduced. This narrative clinical review examines evidence for insulin dose reduction, regimen simplification, prandial insulin withdrawal, and complete insulin withdrawal following initiation or intensification of GLP-1-based therapy in adults with type 2 diabetes. Randomized trials and real-world studies increasingly support simplification of complex insulin regimens, with the strongest direct evidence supporting reduction or withdrawal of prandial insulin in appropriately selected patients. Complete insulin withdrawal is achievable in some individuals but remains less extensively studied. A practical approach should distinguish basal from prandial insulin and integrate overall glycemic control with fasting and postprandial glucose patterns, hypoglycemia risk, current insulin requirements, and clinical features suggesting impaired endogenous insulin reserve. Continuous glucose monitoring or structured glucose monitoring can facilitate sequential adjustment as GLP-1-based therapy is titrated. Patients with marked hyperglycemia, previous ketosis or diabetic ketoacidosis, suspected autoimmune diabetes, or other evidence of clinically important insulin deficiency require greater caution. We propose an evidence-informed phenotype-based framework in which insulin components are progressively reassessed rather than routinely continued or withdrawn according to a fixed formula. The objective is not insulin independence itself, but identification of the least complex insulin regimen necessary to maintain safe, individualized glycemic control.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42999457/
+ER  - 
+
+TY  - JOUR
+ID  - 42997610
+TI  - Medicaid Coverage Withdrawal and Dispensing of Glucagon-Like Peptide-1 Receptor Agonists for Obesity.
+AU  - Nyambod Fabrice T
+AU  - Msemakweli January G
+AU  - Onesphore Murishi
+JO  - Cureus
+PY  - 2026
+DO  - 10.7759/cureus.119224
+AB  - Five state Medicaid programs withdrew coverage of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for obesity in late 2025 and January 2026, and others have narrowed coverage or are reconsidering it. The benefits of these drugs appear to depend on continued use, but whether withdrawal interrupts treatment for current users is unknown. This study examined changes in dispensing of obesity-indicated GLP-1 RAs after state Medicaid programs withdrew or restricted coverage. This quasi-experimental study used quarterly Medicaid State Drug Utilization Data for 50 states and the District of Columbia from 2021 through the first quarter of 2026. Difference-in-differences and event-study models compared dispensing in states that withdrew coverage with dispensing in states that continued it, using each state's dispensing of diabetes-indicated GLP-1 RAs as a within-state comparison. The exposure was withdrawal or restriction of Medicaid coverage of GLP-1 RAs for obesity, identified from state agency documents. The main outcome was reimbursed prescriptions for obesity-indicated GLP-1 RAs per 1,000 enrollees per quarter. Estimates are reported with 95% confidence intervals (CIs). Data were analyzed from September to October 2026. The five withdrawing states accounted for 2,428,709 (65.2%) of 3,725,732 obesity-indicated GLP-1 RA prescriptions reimbursed by Medicaid in 2025. Compared with 12 continuing states, withdrawal was associated with an 84.7% decline in obesity-indicated dispensing (95% CI: 64.5%-93.4%; exact permutation p < 0.001), or 29.1 fewer prescriptions per 1,000 enrollees per quarter (95% CI: 14.3-43.9). No significant change was detected in diabetes-indicated dispensing (-3.2%; 95% CI: -23.4% to 22.2%), and differences between the two groups before the withdrawals were announced were small and not statistically significant. In the first quarter without coverage, obesity-indicated dispensing fell by 61% to 96% in individual withdrawing states. The four states that withdrew on January 1, 2026, reimbursed 661,353 obesity-indicated prescriptions in the preceding quarter and 134,647 in the next, a decline of 526,706 (79.6%). Dispensing of older antiobesity medications increased by at most 2.9 prescriptions per 1,000 enrollees. Narrower criteria in two states were followed by declines of 23%-37%. In this quasi-experimental study, withdrawal of Medicaid coverage was associated with the loss of most reimbursed dispensing of GLP-1 RAs for obesity within one quarter, with little replacement by other agents. Protecting enrollees already receiving these drugs, for example, by honoring existing authorizations, might limit treatment interruption, but this has not been evaluated.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42997610/
+ER  - 
+
+TY  - JOUR
+ID  - 42991137
+TI  - Molecularly guided pharmacotherapy for obesity: emerging targets, clinical efficacy, and personalized therapeutic approaches.
+AU  - Mao Jianchao
+AU  - Hu Rong
+JO  - Frontiers in pharmacology
+PY  - 2026
+DO  - 10.3389/fphar.2026.1988828
+AB  - Obesity is a complex, chronic disease whose aetiology is complex and highly variable, and is linked to a network of neural, endocrine, adipose, genetic, epigenetic and metabolic pathways. This molecular complexity also drives significant differences in the clinical course of disease, drug sensitivity and weight regain, thus making standardized treatment, which is largely based on BMI and clinical empiricism, challenging. This narrative review explores the molecular mechanisms involved in obesity and the potential to apply the knowledge of molecular mechanisms to develop more personalized treatment strategies using advances in pharmacology. It focuses on hypothalamic appetite-satiety pathways, gut-brain hormonal communication, inflammation and metabolic dysfunction in adipose tissue, and known and novel drug targets. The review focuses on the evidence available on GLP-1 receptor agonism, GIP-GLP-1 co-agonism, multi-agonism with glucagon, signaling of amylin, melanocortin pathways, and novel central and peripheral targets. Studies have shown that some dual- and triple-receptor drugs are more effective at causing weight loss, and practitioners should consider tolerability, sustainability, cardiometabolic effects, and response when choosing drugs or drug combinations for patients. Inter-individual variability may be further explained by genetic, epigenetic, metabolic, and tissue-specific factors, which may help identify mechanisms of resistance. In conclusion, Inter-individual variability may be attributed to genetic, epigenetic, metabolic, and tissue-specific factors, and most suggested molecular or biomarker predictors have not yet proven sufficiently valid or useful for routine drug selection. Receptor-targeted drugs, including GLP-1 receptor agonists and GIP-GLP-1 co-agonists, are currently clinically actionable for patients with common obesity and available to specific patients with obesity, genotype-directed molecular therapeutic drugs are clinically actionable only for selected genetically defined types of obesity. However, the use of pharmacogenomic, biomarker, and multi-omics methods to guide the choice of anti-obesity drugs are still in their early stages of clinical investigation.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42991137/
+ER  - 
+
+TY  - JOUR
+ID  - 42991001
+TI  - Case Report: GADA-positive type 1 diabetes with diabetic ketoacidosis in a young adult with obesity temporally associated with unsupervised tirzepatide use for weight reduction.
+AU  - Lei Mengyun
+AU  - Liu Fang
+AU  - Sun Li
+AU  - Li Shuting
+AU  - Liu Juan
+AU  - Wang Yonge
+AU  - Tang Jun
+JO  - Frontiers in endocrinology
+PY  - 2026
+DO  - 10.3389/fendo.2026.1995854
+AB  - Tirzepatide, a dual glucose-dependent insulinotropic polypeptide/glucagon-like peptide-1 (GIP/GLP-1) receptor agonist, is widely used as an anti-obesity medication. Its safety in individuals with unrecognized type 1 diabetes (T1D) remains uncertain. We describe a 28-year-old man with obesity and no previously documented hyperglycemia who self-administered tirzepatide, lost 15 kg over about 3 months, and was later diagnosed with GADA-positive T1D presenting as diabetic ketoacidosis (DKA) in temporal association with drug use and discontinuation. At admission, fasting blood glucose (FBG) was 13.99 mmol/L, glycated hemoglobin (HbA1c) 10.8% (95 mmol/mol), serum β-hydroxybutyrate 4.44 mmol/L, urine ketones (+++), serum bicarbonate 16.9 mmol/L, glutamic acid decarboxylase antibody (GADA) >2000 IU/mL, and fasting C-peptide 0.798 ng/mL. Admission arterial blood gas was not obtained. Insulin therapy was initiated; HbA1c was 6.7% (50 mmol/mol) at 3 months. This single case cannot establish causality between tirzepatide exposure or discontinuation and autoimmune diabetes. It illustrates that adult-onset GADA-positive T1D with DKA may be recognized during or after unsupervised incretin-based weight reduction. Markedly elevated HbA1c indicated that hyperglycemia likely preceded the short symptomatic phase. The main clinical message is that autoimmune diabetes should be considered when unexplained hyperglycemia, ongoing weight loss, or ketoacidosis develops in this setting.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42991001/
+ER  - 
+
+TY  - JOUR
+ID  - 42989960
+TI  - A Nature-Derived Peptide Promotes Satiety Hormone Response and Weight Loss In Vivo.
+AU  - Abramov Marina
+AU  - Goldfarb Eden
+AU  - Haham Dikla
+AU  - Akiva Eyal
+AU  - van Klinken Jan-Willem
+AU  - Barbash Zohar
+JO  - Journal of dietary supplements
+PY  - 2026
+DO  - 10.1080/19390211.2026.2752609
+AB  - The global rise of obesity highlights the critical need for effective weight-management strategies. GLP-1 receptor agonists have transformed obesity care, yet gastrointestinal intolerance, high cost, and weight regain after discontinuation highlight the need for complementary, orally available options. An alternative is to stimulate the body's own GLP-1 release through the nutrient-sensing GPCRs on enteroendocrine L cells that a meal engages. Using an AI-guided screen of common food proteins, we identified nature-derived peptides (NDPs): sequences native to edible proteins that were reproduced synthetically and engage these receptors. Unlike peptide drugs engineered for systemic exposure, NDPs are intended to act locally at the gut epithelium. Our lead, NDP-35 (from Coffea arabica), is a potent, selective GPR40 agonist (EC50 = 32.7 nM); in mice, it raised plasma GLP-1, GIP, and PYY while lowering hunger hormones, reproducing the coordinated satiety hormone response of a meal at minimal caloric cost. Over 28 days of oral dosing in diet-induced obese rats, NDP-35 reduced food intake and lowered body weight by ∼5%, versus a 3% gain in vehicle-treated animals; a subcutaneous semaglutide arm was included as a reference comparator and endpoint values were of similar magnitude to NDP-35. Terminal clinical chemistry and organ-weight markers showed no treatment-related changes over the dosing period. A structurally distinct peptide, NDP-45 (from banana), reproduced these effects. NDP-35 and NDP-45 are promising preclinical food-protein-derived peptide candidates that stimulate enteroendocrine hormone responses and reduce food intake and body weight in rodent models, warranting further evaluation as an oral approach to appetite and body-weight control.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42989960/
+ER  - 
+
+TY  - JOUR
+ID  - 42989430
+TI  - Similar Tolerance of Glucagon-Like PEPTIDE-1 Agonist Therapy in Patients With Delayed and Normal Gastric Emptying.
+AU  - Rolak Stacey C
+AU  - Lunsford Tisha N
+AU  - Frazier Rosita D
+AU  - Harris Lucinda A
+AU  - Yang Ming
+AU  - Hasler William L
+JO  - Neurogastroenterology and motility
+PY  - 2026
+DO  - 10.1111/nmo.70448
+AB  - Gastroparesis is considered a relative contraindication to glucagon-like peptide-1 receptor agonist (GLP-1RA) prescription. We examined outcomes of patients who underwent gastric scintigraphy to determine if emptying delays adversely affected tolerance of subsequent GLP-1RA therapy. Patients with delayed (DGE) and normal (NGE) gastric emptying who were subsequently prescribed GLP-1RAs were identified. GLP-1RA prescribing profiles, gastrointestinal (GI) symptoms and treatments, and GLP-1RA discontinuation were compared between patients with DGE versus NGE. Eighty-one patients were prescribed GLP-1RAs after scintigraphy; 14/81 (17%) with DGE and 67/81 (83%) with NGE. Injectable semaglutide was most often prescribed and was taken at similar doses for DGE (11/14, 79%) and NGE (40/67, 60%) (p = 0.23). GLP-1RAs were initiated a median of 386 days (IQR 190, 474) after scintigraphy with DGE versus 315 days (IQR 157, 613) with NGE (p = 0.86). GI symptoms developed in 5/14 (36%) with DGE versus 35/67 (52%) with NGE (p = 0.38) and antiemetic (p = 0.75) and prokinetic (p = 1.00) use was similar between groups. GLP-1RAs were discontinued in 45/81 (56%) patients including 14/45 (31%) for GI symptoms, which occurred similarly for DGE (3/8, 38%) and NGE (11/37, 30%) (p = 0.70). Treatment durations were similar with DGE (318 days [IQR 223, 464]) versus NGE (193 days [IQR 83, 363]) (p = 0.31). GLP-1RAs are taken at similar doses for similar durations, elicit similar symptoms, and are discontinued for similar reasons in patients with prior delayed versus normal gastric emptying. These observations do not support strictly avoiding GlP-1RAs in gastroparesis and suggest they may be safely prescribed in many cases.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42989430/
+ER  - 
+
+TY  - JOUR
 ID  - 42979856
 TI  - Tirzepatide for the treatment of obstructive sleep apnea: from apnea-hypopnea index reduction to cardiometabolic risk mitigation-a narrative review.
 AU  - Mesfin-Bireda Samrawit
@@ -166,7 +255,7 @@ ER  -
 
 TY  - JOUR
 ID  - 42952336
-TI  - Switching between semaglutide and tirzepatide in obesity Management: an expert-consensus framework for approximate clinical Efficacy-matched switching doses.
+TI  - Switching between semaglutide and tirzepatide in obesity management: an expert-consensus framework for approximate clinical efficacy-matched switching doses.
 AU  - Schwartzberg Eyal
 AU  - Berman Erez
 AU  - Shani Segev
@@ -177,7 +266,7 @@ AU  - Dotan Idit
 JO  - Expert opinion on pharmacotherapy
 PY  - 2026
 DO  - 10.1080/14656566.2026.2756017
-AB  - Currently, there are no available guidelines for switching from semaglutide to tirzepatide, since the mechanisms of action and pharmacokinetics differ, thus posing a challenge for continuous treatment of obesity. A narrative review of PubMed, Embase, and ClinicalTrials.gov (to May 2026) evaluated trials and cohorts comparing semaglutide (0.25-7.2 mg) and tirzepatide (2.5-15 mg). We synthesized indirect treatment comparisons to outline dose-response relationships and develop approximate Efficacy-matched switching doses bands. Estimation of clinical Efficacy-matched switching doses is more practical than mandatory lowest-dose initiation, which naturally risks a 'therapeutic gap' and subsequent weight regain. Until prospective switching trials validate exact conversions, clinicians should utilize the proposed equivalence bands and the 5-step clinical decision algorithm to guide seamless transitions, titrating doses every 4-8 weeks based on individual tolerability and metabolic outcomes.
+AB  - Currently, there are no available guidelines for switching from semaglutide to tirzepatide, since the mechanisms of action and pharmacokinetics differ, thus posing a challenge for continuous treatment of obesity. A narrative review of PubMed, Embase, and ClinicalTrials.gov (to May 2026) evaluated trials and cohorts comparing semaglutide (0.25-7.2 mg) and tirzepatide (2.5-15 mg). We synthesized indirect treatment comparisons to outline dose-response relationships and develop approximate efficacy‑matched switching dose bands. Estimation of clinical efficacy-matched switching doses is more practical than mandatory lowest-dose initiation, which naturally risks a 'therapeutic gap' and subsequent weight regain. Until prospective switching trials validate exact conversions, clinicians should utilize the proposed equivalence bands and the five-step clinical decision algorithm to guide seamless transitions, titrating doses every 4-8 weeks based on individual tolerability and metabolic outcomes.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42952336/
 ER  - 
 
@@ -235,7 +324,7 @@ TI  - The GLP-1 receptor agonist semaglutide reduces alcohol consumption and anx
 AU  - Palmisano Michela
 AU  - Mrizak Hela
 AU  - Gonzalez Angela E
-AU  - Onge Celsey M St
+AU  - St Onge Celsey M
 AU  - Erikson Chloe M
 AU  - Cruz Bryan
 AU  - Flores-Bonilla Annabelle
@@ -249,7 +338,7 @@ AU  - Roberto Marisa
 JO  - Neuropharmacology
 PY  - 2026
 DO  - 10.1016/j.neuropharm.2026.111240
-AB  - Glucagon-like peptide-1 (GLP-1) receptor agonists have emerged as promising pharmacotherapeutics for alcohol use disorder (AUD). Here, we examined the effects of semaglutide, a long-acting GLP-1 receptor agonist, on alcohol intake and anxiety-related behaviors in Marchigian Sardinian alcohol-preferring rats, a model characterized by excessive alcohol intake and pronounced anxious and depressive-like phenotypes. Male and female rats were treated with semaglutide (0.001, 0.01 and 0.1 mg/kg, s.c.) and vehicle. Voluntary alcohol consumption was assessed using the two-bottle choice paradigm. Locomotion, anxiety, and stress responses were evaluated during withdrawal and in naïve rats, following administration of the highest dose of semaglutide (0.1 mg/kg). Furthermore, the acute effects of semaglutide on GABAergic transmission were assessed in the central nucleus of the amygdala and in the infralimbic (IL) medial pre-frontal cortex (mPFC) of naïve rats. Semaglutide reduced voluntary alcohol consumption in a dose-dependent manner, and it produced anxiolytic-like behaviors during withdrawal in the open field test. In naïve animals, semaglutide reduced locomotor activity, lowered blood glucose levels, and decreased fat mass and GABAergic transmission in the IL mPFC. Our findings support the use of the GLP-1 receptor agonist semaglutide as a promising pharmacotherapy for the treatment of AUD and its associated psychiatric symptoms.
+AB  - Glucagon-like peptide-1 (GLP-1) receptor agonists have emerged as promising pharmacotherapeutics for alcohol use disorder (AUD). Here, we examined the effects of semaglutide, a long-acting GLP-1 receptor agonist, on alcohol intake and anxiety-related behaviors in Marchigian Sardinian alcohol-preferring rats, a model characterized by excessive alcohol intake and pronounced anxious and depressive-like phenotypes. Male and female rats were treated with semaglutide (0.001, 0.01 and 0.1 mg/kg, s.c.) and vehicle. Voluntary alcohol consumption was assessed using the two-bottle choice paradigm. Locomotion, anxiety, and stress responses were evaluated during withdrawal and in naïve rats, following administration of the highest dose of semaglutide (0.1 mg/kg). Furthermore, the acute effects of semaglutide on GABAergic transmission were assessed in the central nucleus of the amygdala and in the infralimbic (IL) medial pre-frontal cortex (mPFC) of naïve rats. Semaglutide reduced voluntary alcohol consumption in a dose-dependent manner, and it produced anxiolytic-like behaviors during withdrawal in the open field test. In naïve animals, semaglutide reduced locomotor activity, lowered blood glucose levels, and decreased fat mass and GABAergic transmission in the IL mPFC. Our findings support the use of the GLP-1 receptor agonist semaglutide as a promising pharmacotherapy for the treatment of AUD and its associated psychiatric symptoms.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42946204/
 ER  - 
 
@@ -761,7 +850,7 @@ ER  -
 
 TY  - JOUR
 ID  - 42880590
-TI  - Clinical Feasibility of a Low-Dose Tirzepatide Strategy in Older Adults with Type 2 Diabetes: Persistence, Metabolic Benefit, and Treatment Simplification in a Real-World Cohort.
+TI  - Clinical Feasibility of a Low-Dose Tirzepatide Strategy in Older Adults With Type 2 Diabetes: Persistence, Metabolic Benefit, and Treatment Simplification in a Real-World Cohort.
 AU  - Kanazawa Ken
 AU  - Hayashi Koji
 AU  - Xinyi Cao
@@ -770,7 +859,7 @@ AU  - Kuwabara Koichiro
 JO  - Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists
 PY  - 2026
 DO  - 10.1016/j.eprac.2026.10.004
-AB  - To evaluate the clinical feasibility of a low-dose tirzepatide strategy in older adults with type 2 diabetes mellitus in routine outpatient practice. This single-center retrospective cohort included Japanese adults who initiated tirzepatide between April 2024 and December 2025 and received a maximum observed dose of ≤5 mg/week through week 28. The primary endpoint in adults aged ≥65 years combined treatment persistence, absence of adverse event (AE)-related discontinuation, and either ≥3% weight loss or an HbA1c reduction ≥1.0 percentage point (≥11 mmol/mol). Younger adults were contextual comparators using overlap weighting. Among 122 tirzepatide initiators, 107 were included in the low-dose strategy cohort, including 37 older adults. The primary endpoint was achieved by 23/37 (62.2%); 33/37 (89.2%) remained on treatment, and 2/37 (5.4%) discontinued because of AEs. Median body weight change was -3.07%, median HbA1c change was -1.0 percentage point (-11 mmol/mol), and 19/37 (51.4%) achieved HbA1c <7.0% (<53 mmol/mol). Renal, hydration, and nutritional laboratory markers remained generally stable. Overlap-weighted comparisons showed no clear age-related attenuation. In selected older adults, low-dose tirzepatide provided modest metabolic benefit with high persistence and infrequent AE-related discontinuation.
+AB  - To evaluate the clinical feasibility of a low-dose tirzepatide strategy in older adults with type 2 diabetes mellitus in routine outpatient practice. This single-center retrospective cohort included Japanese adults who initiated tirzepatide between April 2024 and December 2025 and received a maximum observed dose of ≤5 mg/wk through week 28. The primary end point in adults aged ≥65 years combined treatment persistence, absence of adverse event (AE)-related discontinuation, and either ≥3% weight loss or a glycated hemoglobin (A1C) reduction ≥1.0 percentage point (≥11 mmol/mol). Younger adults were contextual comparators using overlap weighting. Among 122 tirzepatide initiators, 107 were included in the low-dose strategy cohort, including 37 older adults. The primary end point was achieved by 23/37 (62.2%); 33/37 (89.2%) remained on treatment, and 2/37 (5.4%) discontinued because of AEs. Median body weight change was -3.07%, median A1C change was -1.0 percentage point (-11 mmol/mol), and 19/37 (51.4%) achieved A1c <7.0% (<53 mmol/mol). Renal, hydration, and nutritional laboratory markers remained generally stable. Overlap-weighted comparisons showed no clear age-related attenuation. In selected older adults, low-dose tirzepatide provided a modest metabolic benefit with high persistence and infrequent AE-related discontinuation.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42880590/
 ER  - 
 

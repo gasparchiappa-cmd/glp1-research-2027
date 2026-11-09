@@ -10,8 +10,149 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42968811/
 ER  - 
 
 TY  - JOUR
+ID  - 43002037
+TI  - Ensemble-Based Segmental Helical Organization in an Aib-Rich Lipidated Peptide: Biomacromolecular Insights from High-Field NMR.
+AU  - Nordin Nurdiana
+AU  - Choi Joonhyeok
+AU  - Lee Jihyeon
+AU  - Kim Eun-Hee
+AU  - Ryu Eun Kyoung
+AU  - Ryu Kyoung-Seok
+AU  - Lee Donghan
+AU  - Hwang Eunha
+AU  - Bang Jeong Kyu
+AU  - Cheong Hae-Kap
+JO  - Biomacromolecules
+PY  - 2026
+DO  - 10.1021/acs.biomac.6c01139
+AB  - Tirzepatide (TZP) is a dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist that has demonstrated remarkable therapeutic efficacy for the treatment of type 2 diabetes and obesity. Despite its clinical importance, residue-specific information on its solution conformation remains limited due to its structural complexity, including noncanonical amino acids and a lipidated side chain. In this study, we performed a solution NMR investigation of tirzepatide to establish residue-specific resonance assignments and characterize its conformational properties in an aqueous solution. Backbone and side-chain resonances were assigned using multidimensional NMR spectroscopy, including 1H-15N HMQC, TOCSY, and NOESY experiments. Reliable sequential NOE connectivities were identified for several peptide segments, while ambiguous and unresolved resonances were conservatively excluded from the structural interpretation. The N-terminal Aib2 residue served as an important assignment anchor but did not define a stable terminal structure. In contrast, the Aib13 region exhibited a locally organized backbone environment with a short helical-like conformational tendency, suggesting Aib13-centered local ordering within the peptide chain. Structure calculations based on the 1.2 GHz NMR and CD experiments revealed that tirzepatide does not adopt a single rigid conformation in solution but instead exists as a conformational ensemble composed of locally ordered and flexible regions. These findings provide a residue-specific view of tirzepatide dynamics in solution and offer structural insights into the conformational landscape of this therapeutically important peptide.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43002037/
+ER  - 
+
+TY  - JOUR
+ID  - 43001755
+TI  - Retatrutide Once Weekly in Adults with Knee Osteoarthritis Pain and Obesity.
+AU  - Schnitzer Thomas J
+AU  - Hunter David J
+AU  - Conaghan Philip G
+AU  - Sharma Arya M
+AU  - Pedersen Sue D
+AU  - Chen Kaiyi
+AU  - Park So Young
+AU  - Makarova Nune
+AU  - Giblin Kathryn
+AU  - Forrester Tammy
+JO  - The New England journal of medicine
+PY  - 2026
+DO  - 10.1056/NEJMoa2610676
+AB  - Retatrutide, an investigational triple agonist of GIP, GLP-1, and glucagon receptors, may be useful for the treatment of painful knee osteoarthritis in persons with obesity. In two phase 3 trials, adults without diabetes who had painful knee osteoarthritis and a body-mass index of at least 27 were randomly assigned to receive once-weekly subcutaneous retatrutide (9 or 12 mg in TRIUMPH-4 and 4, 9, or 12 mg in TRIUMPH-1-OA) or placebo. In TRIUMPH-4, the primary end points were the change in the WOMAC pain score (range, 0 to 10, with higher scores indicating worse pain) and the percent change in body weight at week 68. In TRIUMPH-1-OA, the primary end point was the change in the WOMAC pain score at week 80. For non-pain-related end points, intercurrent events were handled with a treatment-policy strategy. For pain-related end points, a hybrid-treatment estimand was applied, with a hypothetical strategy for intercurrent events that suggested treatment failure and a treatment-policy strategy elsewhere. We also report results for an intention-to-treat (ITT) estimand. A total of 445 participants underwent randomization in TRIUMPH-4 and 574 in TRIUMPH-1-OA. At 68 weeks, the mean changes in the WOMAC pain score (hybrid-treatment estimand) with retatrutide in TRIUMPH-4 were -3.96 (9 mg) and -3.74 (12 mg), versus -2.12 with placebo (difference vs. placebo, -1.83 [95% confidence interval {CI}, -2.37 to -1.30] and -1.61 [95% CI, -2.16 to -1.07], respectively). For the ITT estimand, the corresponding differences from placebo were -1.70 (95% CI, -2.19 to -1.22) and -1.38 (95% CI, -1.91 to -0.85) (P<0.001 for all comparisons). The mean percent changes in body weight with retatrutide were -20.0% (9 mg) and -23.7% (12 mg), versus -4.6% with placebo (difference vs. placebo, -15.4 percentage points [95% CI, -18.7 to -12.1] and -19.2 percentage points [95% CI, -22.4 to -15.9]; P<0.001 for both comparisons). At 80 weeks, the mean changes in the WOMAC pain score (hybrid-treatment estimand) with retatrutide in TRIUMPH-1-OA were -3.22 (4 mg), -3.48 (9 mg), and -3.64 (12 mg), versus -1.87 with placebo (difference vs. placebo, -1.35 [95% CI, -1.92 to -0.78], -1.61 [95% CI, -2.20 to -1.02], and -1.77 [95% CI, -2.34 to -1.20], respectively). For the ITT estimand, the corresponding differences from placebo were -0.96 (95% CI, -1.61 to -0.30), -1.41 (95% CI, -2.07 to -0.75), and -1.64 (95% CI, -2.26 to -1.02) (P≤0.005 for all comparisons). In both trials, serious adverse events were more common with retatrutide than with placebo, and the most common adverse events were gastrointestinal. In participants with painful knee osteoarthritis and obesity, treatment with retatrutide resulted in significantly greater reductions in both the WOMAC pain score and body weight than placebo. (Funded by Eli Lilly; TRIUMPH-4 and -1 ClinicalTrials.gov numbers, NCT05931367 and NCT05929066.).
+UR  - https://pubmed.ncbi.nlm.nih.gov/43001755/
+ER  - 
+
+TY  - JOUR
+ID  - 43000189
+TI  - Longitudinal Taxonomic and Predicted Functional Gut Microbiome Responses to Tirzepatide and Semaglutide: An Exploratory Secondary Analysis of the OMDOT-1 Randomized Controlled Trial.
+AU  - Morioka Tomoaki
+AU  - Miyaoka Daichi
+AU  - Nakatani Susumu
+AU  - Kakutani Yoshinori
+AU  - Miyamoto Shoko
+AU  - Nagakura Yu
+AU  - Uematsu Miho
+AU  - Hirano Takehiro
+AU  - Yae Hidekatsu
+AU  - Yamamoto Mako
+AU  - Sato Noriaki
+AU  - Fujimoto Kosuke
+AU  - Emoto Masanori
+AU  - Imoto Seiya
+AU  - Uematsu Satoshi
+JO  - Diabetes, obesity & metabolism
+PY  - 2026
+DO  - 10.1111/dom.71533
+AB  - Glucagon-like peptide-1-based therapies improve metabolic outcomes, but longitudinal gut microbiome dynamics remain poorly characterized. We compared taxonomic and predicted functional microbiome responses to tirzepatide and semaglutide in Type 2 diabetes. This exploratory secondary analysis included 36 participants from a randomized controlled trial comparing tirzepatide, semaglutide and conventional treatment. Faecal samples were collected at five time points over 16 weeks and analyzed by 16S rRNA gene sequencing. Genus-level features were screened using MaAsLin2, and candidate genera were further evaluated using longitudinal mixed-effects models. Predicted microbial functions were inferred using PICRUSt2 and analyzed using MaAsLin2. Primary analyses were adjusted for baseline body mass index, with exploratory sensitivity analyses additionally adjusted for changes in body weight and haemoglobin A1c. No significant between-group differences in beta diversity were observed. Alpha diversity increased predominantly in the tirzepatide group, with a significant time-by-treatment interaction versus control. Longitudinal trajectories relative to the control group differed for several genera, including Romboutsia_B, Barnesiella and Ruminococcus_E with both treatments and Vescimonas with tirzepatide (q < 0.05). Across 2106 predicted EC features, longitudinal effects were positively correlated between tirzepatide and semaglutide (67.1% concordant direction; Pearson r = 0.450, p < 0.001). Treatment-versus-control analyses identified predicted functional changes involving energy and carbohydrate metabolism. Tirzepatide and semaglutide were associated with partially distinct taxonomic changes, accompanied by broadly similar predicted functional patterns. These longitudinal findings complement, while remaining distinct from, Week-16 shotgun metagenomic endpoint analyses. Japan Registry of Clinical Trials (jRCT), jRCT1051240017.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43000189/
+ER  - 
+
+TY  - JOUR
+ID  - 43000188
+TI  - Lean Body Mass During GLP-1-Based Therapy and the Potential Role of Dietary Protein: Evidence From Energy-Restriction Trials.
+AU  - Vlachogiannakou Polytimi-Anna
+AU  - Tentolouris Anastasios
+AU  - Kokkinos Alexander
+AU  - Liberopoulos Evangelos
+AU  - Stefanou Maria-Ioanna
+AU  - Tentolouris Nikolaos
+JO  - Diabetes, obesity & metabolism
+PY  - 2026
+DO  - 10.1111/dom.71540
+UR  - https://pubmed.ncbi.nlm.nih.gov/43000188/
+ER  - 
+
+TY  - JOUR
+ID  - 43000186
+TI  - Weaker or Just Lighter? Monitoring Strength and Function, Not Just Lean Mass, During GLP-1 Weight Loss.
+AU  - O'Leary Robert T
+JO  - Diabetes, obesity & metabolism
+PY  - 2026
+DO  - 10.1111/dom.71542
+AB  - Body-composition studies of GLP-1-based therapy report how much of the weight lost is lean mass, not whether the patient is getting weaker. This review asks how to monitor strength and function during treatment. Narrative review of October 2026 PubMed searches pairing incretin drugs with strength, performance, walking and measurement-error terms, plus hand-checked reference lists. In older adults, strength declines about three times faster than lean mass and predicts mortality where lean mass does not. On GLP-1-based therapy, randomized trials show longer walks and better reported function, while some cohorts of older adults show falling strength and gait speed; a 2026 review of 35 body-composition trials found none that measured objective physical function. Recent recommendations advise assessing strength and function, but none identified here judges change against measurement error. Functional discordance is a confirmed within-person decline in strength or physical performance beyond measurement error without an adverse lean-mass signal (exploratory default: lean loss beyond the scan's least significant change and above 40% of weight lost). For higher-risk patients (older adults; low strength, frailty or rapid weight loss), the review proposes grip strength, five-times chair-stand time and usual gait speed, with a timed stair climb where feasible, before treatment, at 3, 6 and 12 months and around dose changes, with declines confirmed by repeat testing, assistance recorded and stepwise clinical review. The schedule is pragmatic and not validated. If lean-mass change identifies the patients whose function declines, functional monitoring may add little; if discordance is common, lean mass is an inadequate surrogate.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43000186/
+ER  - 
+
+TY  - JOUR
+ID  - 43000185
+TI  - Effects of GLP-1 Receptor Agonists on Hyperuricemia, Serum Uric Acid and Gout: A Systematic Review and Meta-Analysis.
+AU  - Lee Young Ho
+AU  - Song Gwan Gyu
+JO  - Diabetes, obesity & metabolism
+PY  - 2026
+DO  - 10.1111/dom.71525
+AB  - Hyperuricemia and gout are common but underappreciated comorbidities in Type 2 diabetes (T2D), obesity and chronic kidney disease (CKD). We aimed to quantify the pooled effects of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonists on serum uric acid (SUA), incident gout and hyperuricemia, and to determine whether these effects vary by drug class and are mediated by weight loss. We searched PubMed/MEDLINE, Embase, CENTRAL and ClinicalTrials.gov through July 2026 for RCTs of ≥ 12 weeks' duration reporting SUA change, gout flares or hyperuricemia incidence. Random-effects meta-analysis, subgroup and sensitivity analyses and meta-regression were performed. Registered with PROSPERO (CRD420261468511). Eighteen RCTs (77 942 participants) met inclusion criteria. Incretin-based therapy significantly reduced SUA versus control (weighted mean difference [WMD] -0.44 mg/dL, 95% CI -0.52 to -0.35), reduced incident gout flares (hazard ratio [HR] 0.62, 95% CI 0.53-0.72), and reduced hyperuricemia incidence (odds ratio [OR] 0.61, 95% CI 0.53-0.70). Dual GIP/GLP-1 RA (tirzepatide) produced greater SUA lowering than mono GLP-1 RAs (-0.62 vs. -0.35 mg/dL, p = 0.001). Body-weight loss was a significant moderator of SUA reduction (β = -0.041 mg/dL per kg, p < 0.001), explaining 84.7% of between-trial heterogeneity, with a significant weight-independent intercept (-0.19 mg/dL, p < 0.001). The SUA reduction was robust in all sensitivity analyses, including restriction to placebo-controlled trials. GRADE certainty was high for SUA and moderate for gout flares (owing to small-study effects) and hyperuricemia incidence. Incretin-based therapies were associated with modest reductions in SUA and with a lower incidence of gout flares and hyperuricemia, an effect largely related to weight loss. The clinical relevance of these effects, and the mechanism of any weight-independent component, remains uncertain and warrant confirmation in dedicated trials.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43000185/
+ER  - 
+
+TY  - JOUR
+ID  - 42997610
+TI  - Medicaid Coverage Withdrawal and Dispensing of Glucagon-Like Peptide-1 Receptor Agonists for Obesity.
+AU  - Nyambod Fabrice T
+AU  - Msemakweli January G
+AU  - Onesphore Murishi
+JO  - Cureus
+PY  - 2026
+DO  - 10.7759/cureus.119224
+AB  - Five state Medicaid programs withdrew coverage of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for obesity in late 2025 and January 2026, and others have narrowed coverage or are reconsidering it. The benefits of these drugs appear to depend on continued use, but whether withdrawal interrupts treatment for current users is unknown. This study examined changes in dispensing of obesity-indicated GLP-1 RAs after state Medicaid programs withdrew or restricted coverage. This quasi-experimental study used quarterly Medicaid State Drug Utilization Data for 50 states and the District of Columbia from 2021 through the first quarter of 2026. Difference-in-differences and event-study models compared dispensing in states that withdrew coverage with dispensing in states that continued it, using each state's dispensing of diabetes-indicated GLP-1 RAs as a within-state comparison. The exposure was withdrawal or restriction of Medicaid coverage of GLP-1 RAs for obesity, identified from state agency documents. The main outcome was reimbursed prescriptions for obesity-indicated GLP-1 RAs per 1,000 enrollees per quarter. Estimates are reported with 95% confidence intervals (CIs). Data were analyzed from September to October 2026. The five withdrawing states accounted for 2,428,709 (65.2%) of 3,725,732 obesity-indicated GLP-1 RA prescriptions reimbursed by Medicaid in 2025. Compared with 12 continuing states, withdrawal was associated with an 84.7% decline in obesity-indicated dispensing (95% CI: 64.5%-93.4%; exact permutation p < 0.001), or 29.1 fewer prescriptions per 1,000 enrollees per quarter (95% CI: 14.3-43.9). No significant change was detected in diabetes-indicated dispensing (-3.2%; 95% CI: -23.4% to 22.2%), and differences between the two groups before the withdrawals were announced were small and not statistically significant. In the first quarter without coverage, obesity-indicated dispensing fell by 61% to 96% in individual withdrawing states. The four states that withdrew on January 1, 2026, reimbursed 661,353 obesity-indicated prescriptions in the preceding quarter and 134,647 in the next, a decline of 526,706 (79.6%). Dispensing of older antiobesity medications increased by at most 2.9 prescriptions per 1,000 enrollees. Narrower criteria in two states were followed by declines of 23%-37%. In this quasi-experimental study, withdrawal of Medicaid coverage was associated with the loss of most reimbursed dispensing of GLP-1 RAs for obesity within one quarter, with little replacement by other agents. Protecting enrollees already receiving these drugs, for example, by honoring existing authorizations, might limit treatment interruption, but this has not been evaluated.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42997610/
+ER  - 
+
+TY  - JOUR
+ID  - 42994195
+TI  - Psychiatric symptoms, psychological well-being and quality of life after metabolic and bariatric surgery versus incretin-based therapy in obesity: The role of weight loss.
+AU  - Acar Mehmet Alptekin
+AU  - Saylar Alparslan
+AU  - Yazıcı Serkan
+AU  - Yavuz Dilek Gogas
+JO  - General hospital psychiatry
+PY  - 2026
+DO  - 10.1016/j.genhosppsych.2026.10.008
+AB  - Metabolic and bariatric surgery (MBS) and incretin-based pharmacotherapy (GLP-1 receptor agonists) cause substantial weight loss, but whether the accompanying psychological improvement is associated with the degree of weight loss or with treatment-specific mechanisms is unclear. To compare changes in psychiatric symptoms, psychological well-being and quality of life after MBS and incretin-based therapy, and to examine the role of weight loss. In this prospective, non-randomized cohort study, 207 adults with obesity (MBS, n = 97; incretin-based pharmacotherapy, n = 110 [tirzepatide 87, semaglutide 19, liraglutide 4]) completed 16 psychiatric and quality-of-life scales before treatment and at 6 months. Weight loss was 33.2 ± 9.9 kg with MBS and 16.8 ± 11.5 kg with pharmacotherapy. Both groups improved significantly on all 16 scales (r = 0.28-0.84; all p ≤ 0.02). With pharmacotherapy, improvement correlated with weight loss on all scales (all p ≤ 0.04; |r| = 0.20-0.45); after MBS, no association was observed (all p > 0.5). Crude between-group differences favoring MBS (5/16 scales) disappeared after adjustment for weight loss. Only emotion regulation difficulties showed a significant group × time interaction (coefficient 3.3, 95% CI 0.7-5.9). Both groups showed improved psychological well-being and quality of life. Improvement tracked weight loss with pharmacotherapy but not after MBS, possibly reflecting less variable weight loss after surgery. The crude advantage of MBS was no longer evident after adjusting for weight loss, suggesting an association with greater weight loss rather than a modality-specific effect, with emotion regulation as a possible exception.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42994195/
+ER  - 
+
+TY  - JOUR
+ID  - 42993255
+TI  - Clinical pharmacology of antidiabetic drugs: an update.
+AU  - Wichaiyo Surasak
+JO  - European journal of clinical pharmacology
+PY  - 2026
+DO  - 10.1007/s00228-026-04219-z
+AB  - This review describes the updated pharmacology of antidiabetic drugs and its translation into clinical applications. English language literature published from January 1, 1998 to July 25, 2026 was collected using PubMed, ScienceDirect, and Ovid. Research articles, reviews, and clinical practice guidelines were included for discussion. Currently, ultra-long-acting basal insulins are emerging, allowing less frequent injections. Glucagon-like peptide 1 receptor agonists (GLP-1RAs), tirzepatide, and sodium-glucose cotransporter-2 inhibitors (SGLT2is) have novel pharmacodynamic properties and clinical evidence of cardiorenal and metabolic benefits, supporting their important roles in individuals with type 2 diabetes (T2D) who have high cardiorenal risk. Because of their effects on weight reduction, GLP-1RAs (semaglutide, liraglutide, and orforglipron) and tirzepatide are approved for the treatment of obesity. Furthermore, SGLT2is (empagliflozin, dapagliflozin, and sotagliflozin) provide cardiorenal benefits, with supporting potential mechanisms, in individuals with heart failure and chronic kidney disease. Conventional oral drugs (e.g., metformin, thiazolidinediones, dipeptidyl peptidase-4 inhibitors, sulfonylureas, meglitinides, and α-glucosidase inhibitors) lack sufficient pharmacologic and clinical data on cardiorenal benefits, suggesting their roles as adjunctive therapies. Novel candidates, including triple incretin hormone agonists (acting on GLP-1, glucose-dependent insulinotropic polypeptide [GIP], and glucagon receptors), GLP-1RA-GIP antagonism-based therapies, amylin analogues, and new dual SGLT1/2 inhibitors, show promising results for glycemic control and weight loss. Overall, a comprehensive understanding of the pharmacologic characteristics of antidiabetic drugs promotes appropriate drug use for the management of T2D and cardiometabolic diseases and helps avoid undesirable events. Ongoing investigations of novel approaches may contribute to improved patient care in the future.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42993255/
+ER  - 
+
+TY  - JOUR
 ID  - 42986421
-TI  - Rethinking endpoints for anti-obesity pharmacotherapy in patients with hr+ early breast cancer receiving endocrine therapy: from body weight and BMI to body composition.
+TI  - Rethinking endpoints for anti-obesity pharmacotherapy in patients with HR+ early breast cancer receiving endocrine therapy: from body weight and BMI to body composition.
 AU  - Lampropoulou Dimitra Ioanna
 AU  - Dedes Vasileios
 AU  - Pliakou Evangelia
@@ -102,7 +243,7 @@ ER  -
 
 TY  - JOUR
 ID  - 42977258
-TI  - Discovery, optimization, and Phase 1 evaluation of a novel, orally available GLP-1R/GIPR dual agonist.
+TI  - Discovery, optimization, and phase 1 evaluation of a novel, orally available GLP-1R/GIPR dual agonist.
 AU  - Mowery Stephanie A
 AU  - Knerr Patrick J
 AU  - Hjøllund Karina Rahr
@@ -120,7 +261,7 @@ AU  - de la Cour Charlotta Dornonville
 JO  - Molecular metabolism
 PY  - 2026
 DO  - 10.1016/j.molmet.2026.102470
-AB  - The efficacy and convenience of anti-diabetic and anti-obesity therapeutics have surged in recent years due to the emergence of incretin-based poly-pharmacological approaches as well as advances in the oral delivery of peptide drugs. We sought to combine both strategies in an orally deliverable dual agonist of the GLP-1 and GIP receptors. We designed a panel of unimolecular, fatty-acylated peptide dual agonists, which was screened for receptor potencies in cell-based assay systems. NNC0130 was selected to advance into clinical studies using both oral and subcutaneous administration. NNC0130 exhibited in vitro potency comparable to semaglutide at human GLP-1R and to tirzepatide at human GIPR, with a chemical structure compatible with semi-recombinant production. Its human half-life of 76-89 hours was deemed suitable for once-daily oral administration. In a multiple-ascending dose trial in participants with overweight or obesity and with separate subcutaneous and oral cohorts, daily subcutaneous administration of NNC0130 escalating from 0.3 to 3.0 mg per dose provided a placebo-corrected mean body weight loss of 9% after 12 weeks of treatment and 12% after 15 weeks. Daily oral administration escalating from 5 to 50 mg per dose provided a placebo-corrected mean body weight loss of 4% after 12 weeks, which was not statistically significantly different from zero. The relative oral bioavailability when co-formulated with permeation enhancer salcaprozate sodium was estimated to 1.6-2.2% versus s.c. administration. The modest weight lowering efficacy of orally administered NNC0130 highlights the continued challenges of low oral bioavailability of acylated peptides. However, the substantial efficacy observed with subcutaneous administration motivated advancement into Phase 2 clinical development.
+AB  - The efficacy and convenience of anti-diabetic and anti-obesity therapeutics have surged in recent years due to the emergence of incretin-based poly-pharmacological approaches as well as advances in the oral delivery of peptide drugs. We sought to combine both strategies in an orally deliverable dual agonist of the GLP-1 and GIP receptors. We designed a panel of unimolecular, fatty-acylated peptide dual agonists, which was screened for receptor potencies in cell-based assay systems. NNC0130 was selected to advance into clinical studies using both oral and subcutaneous administration. NNC0130 exhibited in vitro potency comparable to semaglutide at human GLP-1R and to tirzepatide at human GIPR, with a chemical structure compatible with semi-recombinant production. Its human half-life of 76-89 h was deemed suitable for once-daily oral administration. In a multiple-ascending dose trial in participants with overweight or obesity and with separate subcutaneous and oral cohorts, daily subcutaneous administration of NNC0130 escalating from 0.3 to 3.0 mg per dose provided a placebo-corrected mean body weight loss of 9% after 12 weeks of treatment and 12% after 15 weeks. Daily oral administration escalating from 5 to 50 mg per dose provided a placebo-corrected mean body weight loss of 4% after 12 weeks, which was not statistically significantly different from zero. The relative oral bioavailability when co-formulated with permeation enhancer salcaprozate sodium was estimated to 1.6-2.2% versus s. c. administration. The modest weight lowering efficacy of orally administered NNC0130 highlights the continued challenges of low oral bioavailability of acylated peptides. However, the substantial efficacy observed with subcutaneous administration motivated advancement into Phase 2 clinical development.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42977258/
 ER  - 
 
@@ -227,7 +368,7 @@ AU  - Safargar Mohammad
 AU  - Ahmadi Navid
 AU  - Prabahar Kousalya
 AU  - Zandi Reza
-AU  - Varkaneh Hamed Kord
+AU  - Kord-Varkaneh Hamed
 JO  - Bone
 PY  - 2026
 DO  - 10.1016/j.bone.2026.118160
@@ -367,7 +508,7 @@ ER  -
 
 TY  - JOUR
 ID  - 42952336
-TI  - Switching between semaglutide and tirzepatide in obesity Management: an expert-consensus framework for approximate clinical Efficacy-matched switching doses.
+TI  - Switching between semaglutide and tirzepatide in obesity management: an expert-consensus framework for approximate clinical efficacy-matched switching doses.
 AU  - Schwartzberg Eyal
 AU  - Berman Erez
 AU  - Shani Segev
@@ -378,7 +519,7 @@ AU  - Dotan Idit
 JO  - Expert opinion on pharmacotherapy
 PY  - 2026
 DO  - 10.1080/14656566.2026.2756017
-AB  - Currently, there are no available guidelines for switching from semaglutide to tirzepatide, since the mechanisms of action and pharmacokinetics differ, thus posing a challenge for continuous treatment of obesity. A narrative review of PubMed, Embase, and ClinicalTrials.gov (to May 2026) evaluated trials and cohorts comparing semaglutide (0.25-7.2 mg) and tirzepatide (2.5-15 mg). We synthesized indirect treatment comparisons to outline dose-response relationships and develop approximate Efficacy-matched switching doses bands. Estimation of clinical Efficacy-matched switching doses is more practical than mandatory lowest-dose initiation, which naturally risks a 'therapeutic gap' and subsequent weight regain. Until prospective switching trials validate exact conversions, clinicians should utilize the proposed equivalence bands and the 5-step clinical decision algorithm to guide seamless transitions, titrating doses every 4-8 weeks based on individual tolerability and metabolic outcomes.
+AB  - Currently, there are no available guidelines for switching from semaglutide to tirzepatide, since the mechanisms of action and pharmacokinetics differ, thus posing a challenge for continuous treatment of obesity. A narrative review of PubMed, Embase, and ClinicalTrials.gov (to May 2026) evaluated trials and cohorts comparing semaglutide (0.25-7.2 mg) and tirzepatide (2.5-15 mg). We synthesized indirect treatment comparisons to outline dose-response relationships and develop approximate efficacy‑matched switching dose bands. Estimation of clinical efficacy-matched switching doses is more practical than mandatory lowest-dose initiation, which naturally risks a 'therapeutic gap' and subsequent weight regain. Until prospective switching trials validate exact conversions, clinicians should utilize the proposed equivalence bands and the five-step clinical decision algorithm to guide seamless transitions, titrating doses every 4-8 weeks based on individual tolerability and metabolic outcomes.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42952336/
 ER  - 
 
@@ -1558,6 +1699,23 @@ PY  - 2026
 DO  - 10.1507/endocrj.EJ26-0246
 AB  - In an aging society, the establishment of safe and effective treatment strategies for older patients with type 2 diabetes is crucial. We performed a secondary analysis of the Hokkaido-TZP study (UMIN000056962), evaluating the real-world outcomes of tirzepatide in patients aged ≥65 years. Of 213 patients in the safety analysis set, 11 (5.2%) discontinued treatment because of adverse events, primarily gastrointestinal symptoms. In the effectiveness analysis set (n = 199; mean age 71.3 years, glycated hemoglobin [HbA1c] 7.79%), tirzepatide significantly reduced both HbA1c and body mass index over 6 months in the Young-old (65-74 years) and Old-old (≥75 years) groups. Notably, even among the 148 patients (74.4%) using agents associated with a risk of hypoglycemia (insulin, sulfonylureas, or glinides) at baseline, a substantial proportion (66.9%) achieved an HbA1c <7.0%. The physicians proactively adjusted these concomitant medications in 39.2% of users, but despite these preemptive reductions, this subgroup still achieved a reduction in HbA1c comparable to that of the entire cohort, and no severe hypoglycemia was reported. A significant reduction in body weight occurred, and this was more pronounced in glucagon-like peptide-1 receptor agonist-naïve patients and those taking fewer hypoglycemia-inducing agents. Furthermore, the tirzepatide dose tended to be lower in the patients who achieved greater weight loss. These findings suggest that although tirzepatide is highly effective, even in older adults, its safety must be optimized through preemptive reductions in the doses of concomitantly administered secretagogues and careful monitoring, to prevent excessive reductions in HbA1c and weight loss in this vulnerable population.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42457543/
+ER  - 
+
+TY  - JOUR
+ID  - 42379268
+TI  - Tirzepatide Versus Conventional Glucagon-Like Peptide-1 Receptor Agonists for Treatment Simplification in Type 2 Diabetes Mellitus: A Real-World Study.
+AU  - Sawamura Toshitaka
+AU  - Maeno Misato
+AU  - Nishimoto Yuya
+AU  - Ohmori Ai
+AU  - Kometani Mitsuhiro
+AU  - Karashima Shigehiro
+AU  - Yoneda Takashi
+JO  - Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists
+PY  - 2026
+DO  - 10.1016/j.eprac.2026.06.008
+AB  - Polypharmacy and complex insulin regimens increase the treatment burden of type 2 diabetes mellitus, highlighting the need for treatment simplification. Tirzepatide (TZP) is a novel antidiabetic agent that has demonstrated potent glucose-lowering and weight-reducing effects, possibly reducing the use of concomitant antidiabetic medications and insulin dose requirements. However, data regarding its effects on treatment simplification in real-world settings are limited. This retrospective real-world study compared TZP with conventional glucagon-like peptide-1 receptor agonists (GLP-1 RAs) for 12 months. The primary outcome measure was treatment simplification, defined as a reduction in the number of antidiabetic medications, insulin injections, or ≥50% reduction in total daily insulin dose. Propensity score overlap weighting and multiple imputations were performed. A total of 318 patients (TZP, n = 153; GLP-1 RAs, n = 165) were included. TZP was associated with a higher likelihood of treatment simplification than GLP-1 RAs (55% vs 25%; odds ratio: 3.69, 95% confidence interval: 2.21-6.16; P < .001), corresponding to an absolute risk difference of 30%. TZP also achieved greater reductions in hemoglobin A1C and body weight. These findings were consistent across sensitivity analyses. In a real-world clinical setting, TZP was associated with higher rates of treatment simplification while improving metabolic outcomes.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42379268/
 ER  - 
 
 TY  - JOUR

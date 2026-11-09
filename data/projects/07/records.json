@@ -17,6 +17,46 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42997011",
+    "title": "Beyond Weight Loss: Effects of Semaglutide on Knee Pain, Physical Function, and Thigh Skeletal Muscle Volume in Obesity-Associated Knee Osteoarthritis.",
+    "authors": [
+      "Kumar Bodla Arvind",
+      "Sundaresan Nithin",
+      "Syal Anuragdeep",
+      "AlSaifi Mohammed Saleh",
+      "Krishnan B Gokula",
+      "Mohanakrishnan B"
+    ],
+    "journal": "Journal of orthopaedic case reports",
+    "year": "2026",
+    "doi": "10.13107/jocr.2026.v16.i11.8546",
+    "abstract": "Obesity is an important modifiable risk factor for knee osteoarthritis, contributing to pain, functional limitation, and systemic inflammation. Semaglutide may provide benefits beyond weight reduction, but its effects on clinical and functional outcomes in obesity-associated knee osteoarthritis remain insufficiently characterized. Against this background, this study sought to evaluate the effects of 6-month semaglutide treatment on weight, knee pain, physical function, thigh skeletal muscle volume, and inflammatory markers in patients with obesity-associated knee osteoarthritis. This prospective, observational, single-arm study included 75 patients with obesity-associated knee osteoarthritis who received semaglutide and were followed for 6 months. Changes in weight, body mass index (BMI), knee pain assessed by the Visual Analogue Scale (VAS), physical function assessed using the Western Ontario and McMaster Universities Osteoarthritis Index (WOMAC), thigh skeletal muscle volume, C-reactive protein (CRP), and erythrocyte sedimentation rate (ESR) were evaluated. At the 6-month follow-up, body weight decreased from 101.23 ± 15.45 to 91.47 ± 9.67 kg (mean change -9.76 kg), while BMI decreased from 34.49 ± 3.67 to 31.89 ± 5.78 kg/m2 (-2.60 kg/ m2; both P < 0.001). VAS pain scores decreased from 6.90 ± 2.10 to 4.89 ± 0.73 (-2.01; P < 0.001), and WOMAC scores improved from 59.67 ± 6.47 to 44.60 ± 6.12 (-15.07; P < 0.001). Thigh skeletal muscle volume increased from 10.6 ± 2.3 to 11.1 ± 1.8 L (+0.50 L; P < 0.001). CRP decreased from 6.14 ± 0.73 to 3.91 ± 2.08 mg/L, while ESR decreased from 27.51 ± 3.32 to 19.64 ± 4.37 mm/h. 6 months of semaglutide treatment was associated with substantial weight loss and significant improvements in knee pain and physical function, accompanied by reductions in systemic inflammatory markers. These findings suggest potential benefits of semaglutide beyond weight reduction in obesity-associated knee osteoarthritis. Larger controlled studies with longer follow-up are warranted.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997011/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42989942",
+    "title": "Sarcopenic obesity: definition, pathophysiology, and intervention strategies.",
+    "authors": [
+      "Guillet Christelle",
+      "Embry Audrey",
+      "Pinel Alexandre",
+      "Boirie Yves"
+    ],
+    "journal": "Current opinion in clinical nutrition and metabolic care",
+    "year": "2026",
+    "doi": "10.1097/MCO.0000000000001264",
+    "abstract": "Sarcopenic obesity (SO) is increasingly recognized as a clinically relevant condition associated with functional impairment, cardiometabolic complications, disability and mortality. However, its diagnosis remains challenging because of heterogeneous definitions, uncertain thresholds, and limited accessibility of body composition assessment in routine clinical practice. This review summarizes recent advances and remaining challenges in the characterization and management of SO. Recent studies have contributed to a better understanding of the epidemiology, clinical consequences and multifactorial pathophysiology of SO, highlighting the importance of muscle quality and the interplay between adipose tissue, skeletal muscle, immune, endocrine and metabolic pathways. Emerging approaches, including pragmatic functional screening tools, innovative phenotype index and artificial intelligence, may improve disease characterization and risk stratification, although further validation is needed. Multicomponent lifestyle interventions combining exercise and nutritional optimization remain the mainstay of management, while incretin-based therapies raise new questions regarding muscle preservation and weight cycling. SO remains a heterogeneous and incompletely characterized condition. Progress toward clinical implementation will require greater harmonization of diagnostic approaches, validation of emerging tools, and intervention trials assessing muscle-related and patient-centred outcomes.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42989942/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42980901",
     "title": "GLP-1 and GIP receptor agonism does not directly drive skeletal muscle atrophy or impair myogenesis in primary human myotubes.",
     "authors": [

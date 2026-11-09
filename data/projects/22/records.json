@@ -22,6 +22,147 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "43000678",
+    "title": "Intermittent Fasting Remodels Mitochondrial Morphology and Bioenergetic Capacity in Brown Adipose Tissue of Obese Mice.",
+    "authors": [
+      "Carneiro Fernanda Silva",
+      "Dias Larissa Moreira",
+      "de Andrade Junior Scylas José",
+      "Rocha Matheus Biscaro",
+      "Ribeiro Mariana Lima",
+      "Morelli Ana Paula",
+      "Antunes Gabriel Calheiros",
+      "Da Silva Adelino Sanchez Ramos",
+      "Cintra Dennys Esper",
+      "Pauli José Rodrigo",
+      "Ropelle Eduardo Rochete"
+    ],
+    "journal": "Acta physiologica (Oxford, England)",
+    "year": "2026",
+    "doi": "10.1111/apha.70337",
+    "abstract": "Brown adipose tissue (BAT) is a specialized adipose tissue that is associated with thermogenesis, endocrine function, and energy expenditure, characterized by a high mitochondrial density. However, obesity induces profound structural and functional remodeling of mitochondria in BAT, compromising their thermogenic and oxidative capacities. On the other hand, intermittent fasting is a non-pharmacological approach that can enhance mitochondrial function, thereby contributing to weight loss. Despite this, the effects of intermittent fasting on the morphofunctional aspects of BAT mitochondria are not yet well understood. Thus, we investigated the effects of a chronic 16:8 daily intermittent fasting protocol over 8 weeks on the BAT mitochondria of obese mice. Diet-induced obesity reduced energy expenditure, increased body weight gain, and adiposity within the BAT. Obesity altered BAT mitochondrial morphology, resulting in smaller, more rounded organelles with disrupted cristae. Conversely, intermittent fasting increased energy expenditure, reduced body weight gain and adiposity within the BAT, increased the UCP1 protein content, and restored browning in the BAT. Remarkably, intermittent fasting promoted extensive remodeling of mitochondrial dynamics protein markers and structural profile in BAT, increasing mitochondrial elongation, total cristae length, and cristae alignment. In addition, intermittent fasting increased the maximum intrinsic capacity of respiratory mitochondrial complexes and the content of proteins related to oxidative phosphorylation. These findings demonstrate that intermittent fasting is a potential strategy for regulating mitochondrial dysfunction in BAT during metabolic disorders.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000678/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42999846",
+    "title": "Inter-Organ Communication in Adipose Tissue Homeostasis: Roles of Skeletal Muscle, Brain, and Heart-Derived Secretory Factors and Signalling Factors.",
+    "authors": [
+      "Zhang Hanru",
+      "Yang Xidong",
+      "Wu Yulin",
+      "Wang Min",
+      "Yang Yuxuan",
+      "Chen Xixi",
+      "Wang Jingxuan",
+      "Yan Haijing",
+      "Xu Yong",
+      "Jin Qingsong",
+      "Jin Yongjun",
+      "Yang Meizi"
+    ],
+    "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+    "year": "2026",
+    "doi": "10.2147/DMSO.S651843",
+    "abstract": "Adipose tissue functions not only as the primary site for energy storage but also as a critical endocrine organ that orchestrates systemic metabolic homeostasis. In recent years, inter-organ communication has emerged as a fundamental mechanism governing adipose tissue function and homeostasis. The skeletal muscle, brain, and heart-either independently or in concert-serve as key secretory and signaling organs, modulating adipocyte lipid metabolism, lipolysis, and thermogenesis through the release of diverse signaling molecules, including myokines, neuropeptides, cardiotrophins, and extracellular vesicles. This review systematically summarizes the latest research advances on secreted factors from these three major organs in the regulation of adipose tissue homeostasis, focusing on their molecular mechanisms underlying lipid metabolism, white adipose browning, and brown adipose thermogenesis. This article is targeted to provide theoretical insights into the integrated mechanisms of inter-organ communication in adipose tissue regulation and to offer exploratory perspectives on candidate targets for future therapeutic development in obesity and related metabolic disorders.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999846/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42995650",
+    "title": "Supraclavicular thermography does not isolate a brown adipose tissue signal during room temperature β-adrenergic stimulation in adults.",
+    "authors": [
+      "Ewell Taylor R",
+      "Cheng Christina M N",
+      "Bomar Matthew C",
+      "Tripure Allison M",
+      "Brown David M",
+      "Brown Reagan L",
+      "Thomson David P",
+      "Johnson Blair D",
+      "Bell Christopher"
+    ],
+    "journal": "Physiological reports",
+    "year": "2026",
+    "doi": "10.14814/phy2.71202",
+    "abstract": "Brown adipose tissue (BAT) is a potential therapeutic target for cardiometabolic diseases and is activated by β-adrenergic receptor (β-AR) signaling. Two randomized, single-blind, placebo-controlled crossover trials examined responses to non-selective intravenous β-AR stimulation in healthy adults, with co-administration of an oral β3-AR agonist (mirabegron; Study 1) or an intravenous antioxidant (vitamin C; Study 2). Placebo data were pooled (n = 28, 14 M/14F). Thermogenesis was assessed (graded isoproterenol infusion, 6, 12, and 24 ng/kg fat-free mass/min, 30 min each). Energy expenditure and supraclavicular and reference-region skin temperatures were measured using indirect calorimetry and infrared thermography (IRT), respectively. Baseline energy expenditure was 1.06 ± 0.26 kcal/min. Isoproterenol increased energy expenditure at each dose (0.09 [0.05, 0.13], 0.13 [0.09, 0.18], and 0.20 [0.13, 0.26] kcal/min; mean differences [95% CIs]; all p < 0.001). Supraclavicular skin warming was not regionally specific: although it warmed at the highest dose (0.56°C [0.24, 0.88], p < 0.001), the sternum warmed more, exceeding it by 0.70°C [0.28, 1.12] (p < 0.001). Mirabegron increased energy expenditure (0.07 [0.04, 0.10] kcal/min, p < 0.001) without raising supraclavicular skin temperature (p = 0.29); vitamin C did not augment thermogenesis. Isoproterenol increased whole-body thermogenesis, but supraclavicular skin IRT did not isolate a BAT-specific thermal signal. Supraclavicular skin warming alone should be interpreted cautiously as evidence of β-AR-mediated BAT activation under room-temperature conditions.",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42995650/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42992136",
+    "title": "Fine mapping of early adipogenesis identifies committed progenitors with dual white and beige potential.",
+    "authors": [
+      "Hazell Pickering Sarah",
+      "Dufour Damien",
+      "Galigniana Natalia M",
+      "Collas Philippe",
+      "Briand Nolwenn"
+    ],
+    "journal": "iScience",
+    "year": "2026",
+    "doi": "10.1016/j.isci.2026.118086",
+    "abstract": "Thermogenic capacity in adipose tissue varies among individuals and declines with age, obesity, and insulin resistance. To investigate the cellular basis of this variability, we performed parallel white and beige adipogenic differentiation using subcutaneous adipose progenitors from six healthy subjects. Beige adipogenesis elicits subject-specific, UCP1-dependent, and non-canonical thermogenic programs. Single-cell transcriptomics reveals varied proportions of progenitor populations, defined by differential expression of extracellular matrix, cell adhesion, and cytoskeletal genes. Mapping adipogenic commitment uncovers a continuum of transcriptional states largely shared between white and beige differentiation. Within this continuum, we identify ICAM1-positive committed progenitors contributing to both white and beige phenotypes. Beige induction increases the proportion of structural adipose tissue-resident cells with distinct extracellular matrix signatures, suggesting that early microenvironmental remodeling primes plasticity in mature cells. These results support a model in which diverse adipocyte fates arise from plastic progenitors, with individual differences in thermogenic adaptation driven by genetic, environmental, and epigenetic factors.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42992136/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42991030",
+    "title": "Dysfunction and therapeutic potential of brown adipose tissue and batokines in obesity and type 2 diabetes mellitus.",
+    "authors": [
+      "Mirmiranpour Hossein",
+      "Barber Thomas M"
+    ],
+    "journal": "Frontiers in endocrinology",
+    "year": "2026",
+    "doi": "10.3389/fendo.2026.1949288",
+    "abstract": "Obesity and Type 2 Diabetes Mellitus (T2D) remain key drivers of premature mortality, morbidity, and healthcare expenditure globally. Although we have witnessed dramatic recent advances in our therapeutic armamentarium for these conditions (most notably regarding the latest iterations of the Glucagon-like Peptide-1 [GLP-1] class of therapies), there remain important unmet needs in our current management approach. Brown adipose tissue (BAT) and its associated batokines (molecules release from BAT) plays a key role in the regulation of energy expenditure and glucose and lipid metabolism. Multiple lifestyle factors (most notably cold exposure and certain nutrients) can activate BAT via activation of the systemic nervous system (SNS). In the context of obesity and T2D, BAT activity is downregulated through multiple complex processes. This downregulation further promotes insulin resistance and dysregulation of metabolic regulation that contributes towards ongoing pathogenesis of these pernicious conditions, in a vicious circle. In such a scenario, it would be desirable to break this vicious circle through novel therapies that target the BAT-batokine axis. In recent times, there has been a transformation of our insights into this approach, particularly from data derived from rodent models. Beyond facilitating weight loss and improved metabolic efficiency and flexibility, such a novel approach to therapy that targets the BAT-batokine axis would improve glucose and lipid regulation but also have potential for organ-specific therapeutic benefits, including in the heart, lung, kidney, and liver. Furthermore, such an approach holds great promise to improve body composition (to reduce adiposity whilst preserving or even enhancing skeletal muscle mass and function), due to the therapeutic effects being independent of negative energy balance. The BAT-batokine axis has finally come of age.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42991030/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42990175",
+    "title": "Ancestral Tributyltin Exposure Produces Male-Specific Brown Adipose Thermogenic Dysregulation.",
+    "authors": [
+      "Huang Yikai",
+      "Chang Richard C",
+      "Nguyen Katelyn Uyen",
+      "To Kaitlin",
+      "Gibbs Myah",
+      "Honjoh Harunori",
+      "Shioda Toshi",
+      "Blumberg Bruce"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "year": "2026",
+    "doi": "10.1101/2025.11.04.686561",
+    "abstract": "Obesity is a global health challenge increasingly linked to environmental obesogens. Tributyltin (TBT), a model obesogen that activates PPARγ and RXR, promotes transgenerational obesity in mice, but whether developmental and ancestral exposure impairs energy balance remains unclear. Brown adipose tissue (BAT) contributes to energy expenditure and thermoregulation through UCP1-dependent and -independent pathways. We tested whether TBT exposure disrupts BAT function in F1 and F3 descendants of exposed F0 dams. We measured body composition before and after high-fat diet (HFD) challenge and assessed resting core body temperature, BAT gene expression, mitochondrial DNA (mtDNA) content, and mitochondrial electron transport chain (ETC) capacity. TBT-line males accumulated more fat after HFD without changes in lean mass despite similar mass-scaled food intake. Before HFD, core body temperature was lower in F1 and F3 TBT-line males, indicating impaired thermal homeostasis before increased adiposity. Candidate-gene qPCR did not show uniform suppression of thermogenic genes; instead, Ucp1 mRNA increased while Ucp2 mRNA decreased in F1 males, indicating dysregulation. Transcriptomal profiling revealed altered thermogenic signaling and consistent downregulation of mitochondrial electron transport chain genes across F1 and F3 males. Relative mtDNA content was unchanged, whereas complex-specific respirometry revealed reduced complex I- and II-associated respiratory capacity, providing evidence of impaired electron transport. No consistent effects occurred in females. These findings identified an early, male-associated BAT phenotype characterized by thermogenic dysregulation, reduced mitochondrial ETC capacity, and impaired thermal homeostasis. They support a model in which impaired BAT mitochondrial function contributes to later susceptibility to diet-induced adiposity.",
+    "publication_types": [
+      "Journal Article",
+      "Preprint"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42990175/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42986960",
     "title": "When fat adapts: From physiological remodeling to disease.",
     "authors": [
@@ -426,7 +567,7 @@
   },
   {
     "pmid": "42887682",
-    "title": "Metabolic Reprogramming by Time-Restricted Feeding Confers Resistance to PM2.5-Induced Metabolic Disturbances in Adipose Tissue.",
+    "title": "Metabolic reprogramming by time-restricted feeding confers resistance to PM2.5-induced metabolic disturbances in adipose tissue.",
     "authors": [
       "Yuan Xiangyi",
       "Ge Chengyang",
@@ -443,7 +584,7 @@
     "journal": "The Journal of nutritional biochemistry",
     "year": "2026",
     "doi": "10.1016/j.jnutbio.2026.110521",
-    "abstract": "Recent research indicates that exposure to fine particulate matter (PM2.5) not only impairs the respiratory system but also disturbs adipose tissue homeostasis, contributing to rising obesity rates and systemic metabolic disturbances. Time-restricted feeding (TRF), a dietary approach that confines daily food consumption to specific time windows, has demonstrated significant potential in preventing and managing metabolic disorders. However, it remains unclear if TRF can alleviate PM2.5-induced adipose tissue dysfunction, and the mechanisms involved require investigation. We established a PM2.5-exposed male mouse model and randomly assigned the animals to four groups: filtered air (FA), PM2.5 exposure, TRF+FA, and TRF+PM2.5. The PM2.5 and TRF+PM2.5 groups underwent whole-body PM2.5 exposure in inhalation chambers, while the remaining groups were maintained under FA conditions. Mice in the TRF+FA and TRF+PM2.5 groups were subjected to an 8-hour feeding window during the active phase (ZT16-ZT24). Our results indicated that PM2.5 exposure induced systemic energy metabolism dysregulation and obesity, characterized by reduced heat production and metabolic rate, along with adipocyte hypertrophy, lipid droplet expansion, adipokine dysregulation, and inflammatory activation in both inguinal white adipose tissue (iWAT) and brown adipose tissue (BAT). Furthermore, PM2.5 significantly suppressed thermogenesis, impaired oxidative phosphorylation, disrupted mitochondrial quality control networks, and downregulated the AMPK/SIRT1/PGC-1α signaling pathway. Notably, TRF intervention reactivated these signaling pathways, systematically reversed the multi-level pathological alterations, and restored mitochondrial homeostasis and energy metabolic balance. This study suggests for the first time that TRF counteracts adipose tissue dysfunction caused by PM2.5, offering a promising lifestyle intervention strategy against environment-related metabolic diseases.",
+    "abstract": "Recent research indicates that exposure to fine particulate matter (PM2.5) not only impairs the respiratory system but also disturbs adipose tissue homeostasis, contributing to rising obesity rates and systemic metabolic disturbances. Time-restricted feeding (TRF), a dietary approach that confines daily food consumption to specific time windows, has demonstrated significant potential in preventing and managing metabolic disorders. However, it remains unclear if TRF can alleviate PM2.5-induced adipose tissue dysfunction, and the mechanisms involved require investigation. We established a PM2.5-exposed male mouse model and randomly assigned the animals to four groups: filtered air (FA), PM2.5 exposure, TRF+FA, and TRF+PM2.5. The PM2.5 and TRF+PM2.5 groups underwent whole-body PM2.5 exposure in inhalation chambers, while the remaining groups were maintained under FA conditions. Mice in the TRF+FA and TRF+PM2.5 groups were subjected to an 8-h feeding window during the active phase (ZT16-ZT24). Our results indicated that PM2.5 exposure induced systemic energy metabolism dysregulation and obesity, characterized by reduced heat production and metabolic rate, along with adipocyte hypertrophy, lipid droplet expansion, adipokine dysregulation, and inflammatory activation in both inguinal white adipose tissue (iWAT) and brown adipose tissue (BAT). Furthermore, PM2.5 significantly suppressed thermogenesis, impaired oxidative phosphorylation, disrupted mitochondrial quality control networks, and downregulated the AMPK/SIRT1/PGC-1α signaling pathway. Notably, TRF intervention reactivated these signaling pathways, systematically reversed the multi-level pathological alterations, and restored mitochondrial homeostasis and energy metabolic balance. This study suggests for the first time that TRF counteracts adipose tissue dysfunction caused by PM2.5, offering a promising lifestyle intervention strategy against environment-related metabolic diseases.",
     "publication_types": [
       "Journal Article"
     ],
@@ -593,7 +734,7 @@
     "journal": "The Journal of biological chemistry",
     "year": "2026",
     "doi": "10.1016/j.jbc.2026.113640",
-    "abstract": "Obesity, diabetes, and related metabolic disorders have become global epidemics driven mainly by an imbalance between energy intake and energy expenditure. Brown adipose tissue (BAT), the principal site of non-shivering thermogenesis, can be activated to mitigate obesity and its metabolic sequelae. RNA modification is as important regulators of obesity. The N7-methylguanosine (m7G) modification broadly influences RNA stability, enhances translational efficiency, and helps determine cell fate. However, the specific mechanisms by which m7G regulates adipose thermogenesis remain unclear. Using untargeted metabolomics, we found that cold exposure activates thermogenic metabolism in BAT and that 7-Methylguanosine is elevated in thermogenically activated BAT. METTL1-mediated m7G modification correlates positively with adipose thermogenic activation. Loss of METTL1 reduces m7G levels and impairs adipocyte thermogenic capacity. At the same time, METTL1 deficiency alters tRNA cleavage patterns and generates regulatory tRNA-derived fragments that modulate gene expression. Overexpression of tRF-Lys-CTT, which derives from an m7G-modified tRNA, inhibits brown adipocyte differentiation and thermogenic activation; conversely, inhibiting tRF-Lys-CTT produces the opposite effects. Mechanistically, tRF-Lys-CTT associates with AGO2 to form a functional RISC complex that binds the 3'UTR of Uqcr10 mRNA and directly represses Uqcr10 post-transcriptionally. Under basal conditions, elevated tRF-Lys-CTT may constrain mitochondrial function by repressing Uqcr10 expression; upon cold stimulation, downregulation of tRF-Lys-CTT relieves this repression and promotes respiratory chain supercomplex assembly and UCP1-mediated thermogenesis. In summary, our study indicates that tRF-Lys-CTT functions as a post-transcriptional regulator of metabolism that suppresses thermogenesis, and provides new insights into the regulatory relationship among the METTL1/m7G/tRF axis and thermogenic control.",
+    "abstract": "Obesity, diabetes, and related metabolic disorders have become global epidemics driven mainly by an imbalance between energy intake and energy expenditure. Brown adipose tissue (BAT), the principal site of non-shivering thermogenesis, can be activated to mitigate obesity and its metabolic sequelae. RNA modification is an important regulator of obesity. The N7-methylguanosine (m7G) modification broadly influences RNA stability, enhances translational efficiency, and helps determine cell fate. However, the specific mechanisms by which m7G regulates adipose thermogenesis remain unclear. Using untargeted metabolomics, we found that cold exposure activates thermogenic metabolism in BAT and that 7-Methylguanosine is elevated in thermogenically activated BAT. METTL1-mediated m7G modification correlates positively with adipose thermogenic activation. Loss of METTL1 reduces m7G levels and impairs adipocyte thermogenic capacity. At the same time, METTL1 deficiency alters tRNA cleavage patterns and generates regulatory tRNA-derived fragments that modulate gene expression. Overexpression of tRF-Lys-CTT, which derives from an m7G-modified tRNA, inhibits brown adipocyte differentiation and thermogenic activation; conversely, inhibiting tRF-Lys-CTT produces the opposite effects. Mechanistically, tRF-Lys-CTT associates with AGO2 to form a functional RISC complex that binds the 3'UTR of Uqcr10 mRNA and directly represses Uqcr10 post-transcriptionally. Under basal conditions, elevated tRF-Lys-CTT may constrain mitochondrial function by repressing Uqcr10 expression; upon cold stimulation, downregulation of tRF-Lys-CTT relieves this repression and promotes respiratory chain supercomplex assembly and UCP1-mediated thermogenesis. In summary, our study indicates that tRF-Lys-CTT functions as a post-transcriptional regulator of metabolism that suppresses thermogenesis and provides new insights into the regulatory relationship among the METTL1/m7G/tRF axis and thermogenic control.",
     "publication_types": [
       "Journal Article"
     ],

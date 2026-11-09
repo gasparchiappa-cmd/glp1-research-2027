@@ -38,6 +38,50 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "43001258",
+    "title": "The hypertension-NVU-cognition Axis: Mechanisms and interventions.",
+    "authors": [
+      "Tao Zhengde"
+    ],
+    "journal": "Aging brain",
+    "year": "2026",
+    "doi": "10.1016/j.nbas.2026.100174",
+    "abstract": "Midlife hypertension is a major modifiable risk factor for Alzheimer's disease, but the specific molecular pathways through which it contributes to cognitive decline-pathways that are partially independent of, and interact with, amyloid-β pathology-are not fully elucidated. This review synthesizes and elaborates the \"Hypertension-NVU-Cognition\" axis, building on the established cerebrovascular biology, neurovascular unit, cerebral small vessel disease (CSVD), and vascular cognitive impairment (VCID) literature, within which this axis is positioned as an integrative, complementary framework rather than a wholly novel or independent pathway. Sustained hypertension damages the neurovascular unit (NVU) through hemodynamic stress, blood-brain barrier (BBB) disruption (via tight junction and pericyte loss), and neuroinflammation (pro-inflammatory microglial activation and reactive astrogliosis). This NVU dysfunction directly impairs cognition via glutamate excitotoxicity, cholinergic axonal ischemia, and reduced Aβ clearance. Critically, midlife blood pressure trajectories are stronger predictors of late-life cognition than late-life levels. NVU injury frequently coexists with amyloid pathology, yet emerging evidence indicates it also contributes to cognitive decline in individuals with low amyloid burden, highlighting its complementary and potentially synergistic role alongside classical AD mechanisms. This axis highlights candidate molecular targets and biomarkers that merit further investigation for early intervention. Promising biomarkers include plasma sPDGFRβ (pericyte injury) and DCE-MRI Ktrans (BBB leakage). Promising future research directions include standardizing NVU biomarkers and conducting targeted trials that combine intensive blood pressure control with investigational NVU-protective agents (e.g., GLP-1 receptor agonists) in at-risk midlife individuals; these approaches are not yet clinically actionable and require validation in adequately powered randomized controlled trials. Understanding this axis is crucial for developing effective preventive therapies against vascular cognitive impairment.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001258/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43000069",
+    "title": "Disentangling semaglutide's effects on motivation in major depressive disorder: A mediation analysis.",
+    "authors": [
+      "Gill Hartej",
+      "Badulescu Sebastian",
+      "Shah Hiya",
+      "Brudner Ryan M",
+      "Di Vincenzo Joshua D",
+      "Tabassum Aniqa",
+      "Phan Lee",
+      "Teopiz Kayla M",
+      "López Cristian-Daniel Llach",
+      "Rosenblat Joshua D",
+      "McIntyre Roger S",
+      "Mansur Rodrigo B"
+    ],
+    "journal": "Journal of affective disorders",
+    "year": "2026",
+    "doi": "10.1016/j.jad.2026.122714",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) improve effort-based decision-making in major depressive disorder (MDD), but whether this reflects their metabolic effects is unknown. We examined whether this effect is statistically mediated by metabolic change. Exploratory, post-hoc secondary analysis of a 16-week, double-blind, placebo-controlled trial (NCT04466345) of adjunctive oral semaglutide versus placebo in 72 adults with MDD and overweight/obesity. The Effort-Expenditure for Rewards Task yielded an effort-discounting parameter (k) via a subjective-value model. Mediation by change in body mass index, percent body fat, glycated hemoglobin, and insulin resistance (HOMA-IR) was tested using bootstrapped mediation models (n = 46-53) and generalized estimating equations (GEE; n = 33-36), with depressive-symptom and cognition change as competing mediators. No adjustment was made for multiple comparisons. Semaglutide significantly reduced effort discounting (GEE treatment × visit β = -1.78; 95% CI, -3.34 to -0.23; P = .025). Modeling metabolic change did not attenuate this effect; the total indirect effect was opposite in sign to the direct effect (+2.04; direct, -2.93), a suppression pattern that did not survive exclusion of high-influence observations. Depressive-symptom and cognitive change did not account for the effect; reverse models showed no mediation of metabolic improvement by Δk. Semaglutide's effect on effort-based decision-making in MDD was not statistically mediated by the metabolic variables assessed, nor by change in depressive symptoms or cognition. These exploratory findings are consistent with a weight-independent effect but do not establish a central mechanism. Limitations include the post-hoc design, small effective sample, unadjusted comparisons, and functional unblinding.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000069/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42986976",
     "title": "Obesity pharmacotherapies and cognition.",
     "authors": [

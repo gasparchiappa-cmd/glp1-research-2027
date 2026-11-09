@@ -1,5 +1,25 @@
 [
   {
+    "pmid": "42998653",
+    "title": "Neuropeptide Systems in Substance use Disorders: Therapeutic evidence and molecular mechanisms.",
+    "authors": [
+      "Nejhaddadgar Nazila",
+      "Imani Nafiseh Sadat",
+      "Isazadehfar Khatereh",
+      "Jamali Zhaleh"
+    ],
+    "journal": "Neuropeptides",
+    "year": "2026",
+    "doi": "10.1016/j.npep.2026.102666",
+    "abstract": "Substance use disorders remain a major global health challenge, with limited pharmacological options and no approved medications for several addictive substances. Peptide-based therapeutics have emerged as promising candidates because they regulate neural circuits involved in reward, motivation, stress, and energy homeostasis. This narrative review summarizes current evidence for therapeutic peptides in substance use disorders, examines their molecular mechanisms, evaluates advances in peptide engineering and delivery technologies, and discusses future translational and precision-medicine strategies. A structured narrative review was conducted according to the Scale for the Assessment of Narrative Review Articles recommendations. PubMed/MEDLINE, Scopus, Web of Science, Embase, Google Scholar, and ClinicalTrials.gov were searched (January 2000-July 2026) using controlled vocabulary and free-text terms related to therapeutic peptides, receptors, delivery systems, and substance use disorders. Fifteen peptide and neuropeptide systems were identified. Glucagon-like peptide-1 receptor agonists currently show the strongest clinical evidence, particularly for alcohol use disorder, while findings for nicotine, cocaine, and opioid use disorders remain limited. Oxytocin, orexin receptor antagonists, ghrelin, and dynorphin-related therapies demonstrate encouraging early findings. In contrast, corticotropin-releasing factor type-1 and neurokinin-1 receptor antagonists show target engagement without consistent clinical benefit. Several systems, including neuropeptide Y, galanin, pituitary adenylate cyclase-activating polypeptide, cocaine- and amphetamine-regulated transcript, melanocortins, and enkephalins, remain largely preclinical. Advances in peptide engineering, nanotechnology, blood-brain barrier delivery, intranasal administration, and long-acting formulations may overcome pharmacokinetic limitations. Peptide therapeutics represent a rapidly evolving strategy for addiction treatment. Future progress will depend on integrating peptide engineering, targeted delivery platforms, biomarker-guided patient selection, and well-designed clinical trials to expand effective.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998653/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42962407",
     "title": "Incretin-based therapies in psychiatry: A landscape analysis of ongoing randomized trials registered on ClinicalTrials.gov.",
     "authors": [

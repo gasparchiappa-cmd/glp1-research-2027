@@ -1,133 +1,133 @@
 {
-  "last_run_utc": "2026-11-05T23:55:40.549859+00:00",
+  "last_run_utc": "2026-11-09T21:29:12.329440+00:00",
   "source": "PubMed (NCBI E-utilities)",
   "summary": [
     {
       "id": 1,
       "title": "Exercício + GLP-1",
-      "total": 168,
-      "stored": 100,
-      "new": 100,
+      "total": 169,
+      "stored": 101,
+      "new": 1,
       "folder": "data/projects/01/"
     },
     {
       "id": 2,
       "title": "GLP-1 e capacidade cardiorrespiratória",
-      "total": 44,
-      "stored": 44,
-      "new": 44,
+      "total": 45,
+      "stored": 45,
+      "new": 1,
       "folder": "data/projects/02/"
     },
     {
       "id": 3,
       "title": "Exercício e tecido adiposo",
-      "total": 195,
-      "stored": 100,
-      "new": 100,
+      "total": 196,
+      "stored": 101,
+      "new": 1,
       "folder": "data/projects/03/"
     },
     {
       "id": 4,
       "title": "Composição corporal com incretinas",
-      "total": 63,
-      "stored": 63,
-      "new": 63,
+      "total": 65,
+      "stored": 65,
+      "new": 2,
       "folder": "data/projects/04/"
     },
     {
       "id": 5,
       "title": "GLP-1 e sarcopenia",
-      "total": 202,
-      "stored": 99,
-      "new": 99,
+      "total": 203,
+      "stored": 100,
+      "new": 1,
       "folder": "data/projects/05/"
     },
     {
       "id": 6,
       "title": "GLP-1 e função cardiovascular",
-      "total": 163,
-      "stored": 100,
-      "new": 100,
+      "total": 166,
+      "stored": 103,
+      "new": 3,
       "folder": "data/projects/06/"
     },
     {
       "id": 7,
       "title": "Intervenções para preservar massa muscular",
-      "total": 242,
-      "stored": 100,
-      "new": 100,
+      "total": 244,
+      "stored": 102,
+      "new": 2,
       "folder": "data/projects/07/"
     },
     {
       "id": 8,
       "title": "GLP-1 e cognição",
-      "total": 198,
-      "stored": 100,
-      "new": 100,
+      "total": 200,
+      "stored": 102,
+      "new": 2,
       "folder": "data/projects/08/"
     },
     {
       "id": 9,
       "title": "GLP-1 e doença de Alzheimer",
-      "total": 242,
-      "stored": 100,
-      "new": 100,
+      "total": 246,
+      "stored": 104,
+      "new": 4,
       "folder": "data/projects/09/"
     },
     {
       "id": 10,
       "title": "GLP-1 e risco de demência",
-      "total": 172,
-      "stored": 100,
-      "new": 100,
+      "total": 175,
+      "stored": 103,
+      "new": 3,
       "folder": "data/projects/10/"
     },
     {
       "id": 11,
       "title": "GLP-1 e câncer",
-      "total": 556,
-      "stored": 100,
-      "new": 100,
+      "total": 559,
+      "stored": 104,
+      "new": 4,
       "folder": "data/projects/11/"
     },
     {
       "id": 12,
       "title": "GLP-1 e câncer de tireoide",
-      "total": 75,
-      "stored": 75,
-      "new": 75,
+      "total": 76,
+      "stored": 76,
+      "new": 1,
       "folder": "data/projects/12/"
     },
     {
       "id": 13,
       "title": "GLP-1 e álcool",
-      "total": 265,
-      "stored": 100,
-      "new": 100,
+      "total": 266,
+      "stored": 101,
+      "new": 1,
       "folder": "data/projects/13/"
     },
     {
       "id": 14,
       "title": "GLP-1 e tabagismo",
-      "total": 187,
-      "stored": 99,
-      "new": 99,
+      "total": 188,
+      "stored": 100,
+      "new": 1,
       "folder": "data/projects/14/"
     },
     {
       "id": 15,
       "title": "GLP-1 e dependência de opioides/estimulantes",
-      "total": 127,
-      "stored": 100,
-      "new": 100,
+      "total": 128,
+      "stored": 101,
+      "new": 1,
       "folder": "data/projects/15/"
     },
     {
       "id": 16,
       "title": "GLP-1 e sistema nervoso autônomo",
-      "total": 81,
-      "stored": 80,
-      "new": 80,
+      "total": 82,
+      "stored": 81,
+      "new": 1,
       "folder": "data/projects/16/"
     },
     {
@@ -135,31 +135,31 @@
       "title": "GLP-1 e apneia obstrutiva do sono",
       "total": 297,
       "stored": 96,
-      "new": 96,
+      "new": 0,
       "folder": "data/projects/17/"
     },
     {
       "id": 18,
       "title": "Novos agonistas múltiplos",
-      "total": 1795,
-      "stored": 99,
-      "new": 99,
+      "total": 1807,
+      "stored": 109,
+      "new": 10,
       "folder": "data/projects/18/"
     },
     {
       "id": 19,
       "title": "Interrupção de GLP-1",
-      "total": 798,
-      "stored": 100,
-      "new": 100,
+      "total": 805,
+      "stored": 106,
+      "new": 6,
       "folder": "data/projects/19/"
     },
     {
       "id": 20,
       "title": "Resposta heterogênea ao GLP-1",
-      "total": 818,
-      "stored": 100,
-      "new": 100,
+      "total": 825,
+      "stored": 110,
+      "new": 10,
       "folder": "data/projects/20/"
     },
     {
@@ -167,39 +167,39 @@
       "title": "Tecido adiposo e saúde metabólica",
       "total": 178,
       "stored": 100,
-      "new": 100,
+      "new": 0,
       "folder": "data/projects/21/"
     },
     {
       "id": 22,
       "title": "Tecido adiposo termogênico",
-      "total": 973,
-      "stored": 100,
-      "new": 100,
+      "total": 980,
+      "stored": 106,
+      "new": 6,
       "folder": "data/projects/22/"
     },
     {
       "id": 23,
       "title": "GLP-1 e função renal",
-      "total": 1562,
-      "stored": 99,
-      "new": 99,
+      "total": 1573,
+      "stored": 111,
+      "new": 12,
       "folder": "data/projects/23/"
     },
     {
       "id": 24,
       "title": "GLP-1 e doença hepática metabólica",
-      "total": 701,
-      "stored": 100,
-      "new": 100,
+      "total": 703,
+      "stored": 105,
+      "new": 5,
       "folder": "data/projects/24/"
     },
     {
       "id": 25,
       "title": "GLP-1 e desigualdade de acesso",
-      "total": 609,
-      "stored": 100,
-      "new": 100,
+      "total": 614,
+      "stored": 104,
+      "new": 4,
       "folder": "data/projects/25/"
     },
     {
@@ -207,23 +207,23 @@
       "title": "Custo-efetividade dos GLP-1",
       "total": 159,
       "stored": 100,
-      "new": 100,
+      "new": 0,
       "folder": "data/projects/26/"
     },
     {
       "id": 27,
       "title": "GLP-1 e adesão",
-      "total": 988,
-      "stored": 100,
-      "new": 100,
+      "total": 995,
+      "stored": 107,
+      "new": 7,
       "folder": "data/projects/27/"
     },
     {
       "id": 28,
       "title": "GLP-1 e qualidade de vida",
-      "total": 535,
-      "stored": 98,
-      "new": 98,
+      "total": 538,
+      "stored": 102,
+      "new": 4,
       "folder": "data/projects/28/"
     }
   ],

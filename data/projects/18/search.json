@@ -2,10 +2,10 @@
   "project_id": 18,
   "title": "Novos agonistas múltiplos",
   "query": "(tirzepatide[tiab] OR retatrutide[tiab] OR dual agonist[tiab] OR triple agonist[tiab]) AND (obesity[tiab] OR diabetes[tiab]) AND (\"2025/01/01\"[Date - Publication] : \"3000\"[Date - Publication])",
-  "last_run_utc": "2026-11-05T23:55:05.912736+00:00",
-  "pubmed_total_matching": 1795,
+  "last_run_utc": "2026-11-09T21:28:40.830205+00:00",
+  "pubmed_total_matching": 1807,
   "retrieved_in_latest_run": 100,
-  "stored_unique_records": 99,
+  "stored_unique_records": 109,
   "retrieval_limit_per_run": 100,
   "note": "Candidatos automáticos não equivalem a artigos incluídos. Estratégia exploratória, requer validação por revisores."
 }

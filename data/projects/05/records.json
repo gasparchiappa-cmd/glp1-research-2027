@@ -1,5 +1,22 @@
 [
   {
+    "pmid": "43000186",
+    "title": "Weaker or Just Lighter? Monitoring Strength and Function, Not Just Lean Mass, During GLP-1 Weight Loss.",
+    "authors": [
+      "O'Leary Robert T"
+    ],
+    "journal": "Diabetes, obesity & metabolism",
+    "year": "2026",
+    "doi": "10.1111/dom.71542",
+    "abstract": "Body-composition studies of GLP-1-based therapy report how much of the weight lost is lean mass, not whether the patient is getting weaker. This review asks how to monitor strength and function during treatment. Narrative review of October 2026 PubMed searches pairing incretin drugs with strength, performance, walking and measurement-error terms, plus hand-checked reference lists. In older adults, strength declines about three times faster than lean mass and predicts mortality where lean mass does not. On GLP-1-based therapy, randomized trials show longer walks and better reported function, while some cohorts of older adults show falling strength and gait speed; a 2026 review of 35 body-composition trials found none that measured objective physical function. Recent recommendations advise assessing strength and function, but none identified here judges change against measurement error. Functional discordance is a confirmed within-person decline in strength or physical performance beyond measurement error without an adverse lean-mass signal (exploratory default: lean loss beyond the scan's least significant change and above 40% of weight lost). For higher-risk patients (older adults; low strength, frailty or rapid weight loss), the review proposes grip strength, five-times chair-stand time and usual gait speed, with a timed stair climb where feasible, before treatment, at 3, 6 and 12 months and around dose changes, with declines confirmed by repeat testing, assistance recorded and stepwise clinical review. The schedule is pragmatic and not validated. If lean-mass change identifies the patients whose function declines, functional monitoring may add little; if discordance is common, lean mass is an inadequate surrogate.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000186/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42986539",
     "title": "Incretin-Based Therapies and Pulmonary Fibrosis: Preclinical Evidence, Body Composition, and Translational Perspectives: A Narrative Review.",
     "authors": [
@@ -24,7 +41,7 @@
   },
   {
     "pmid": "42986421",
-    "title": "Rethinking endpoints for anti-obesity pharmacotherapy in patients with hr+ early breast cancer receiving endocrine therapy: from body weight and BMI to body composition.",
+    "title": "Rethinking endpoints for anti-obesity pharmacotherapy in patients with HR+ early breast cancer receiving endocrine therapy: from body weight and BMI to body composition.",
     "authors": [
       "Lampropoulou Dimitra Ioanna",
       "Dedes Vasileios",
@@ -184,7 +201,8 @@
     "doi": "10.1097/MOT.0000000000001321",
     "abstract": "The global obesity epidemic has significantly altered the epidemiology of chronic liver disease and liver transplantation, with metabolic dysfunction-associated steatohepatitis emerging as a rapidly increasing indication for liver transplantation worldwide. Obesity in liver transplantation candidates is frequently accompanied by sarcopenia, frailty, cardiovascular disease, and metabolic comorbidities, creating complex perioperative and long-term management challenges. This review summarizes contemporary evidence regarding assessment, pretransplant preparation, perioperative management, and long-term outcomes of obese liver transplant recipients, while highlighting evolving therapeutic strategies and unresolved clinical questions. Recent literature emphasizes that BMI alone inadequately characterizes obesity in cirrhosis, with body composition, sarcopenic obesity, visceral adiposity, and frailty emerging as important prognostic factors. Structured prehabilitation, lifestyle modification, incretin-based pharmacotherapy, and selective metabolic bariatric surgery have shown promising results in carefully selected patients. Although obesity increases perioperative complexity and postoperative complications, carefully selected obese recipients can achieve graft and patient survival comparable to nonobese recipients. Obesity should not be considered a contraindication to liver transplantation. Individualized recipient assessment, coordinated perioperative optimization, and long-term metabolic surveillance are essential to improve outcomes. Future research should refine obesity assessment beyond BMI and clarify the optimal integration of pharmacologic and surgical weight-loss strategies in liver transplantation candidates before and after transplantation.",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42936958/",
     "screening_status": "não avaliado"

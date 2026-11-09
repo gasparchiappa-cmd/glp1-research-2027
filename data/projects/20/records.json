@@ -19,6 +19,173 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "43001258",
+    "title": "The hypertension-NVU-cognition Axis: Mechanisms and interventions.",
+    "authors": [
+      "Tao Zhengde"
+    ],
+    "journal": "Aging brain",
+    "year": "2026",
+    "doi": "10.1016/j.nbas.2026.100174",
+    "abstract": "Midlife hypertension is a major modifiable risk factor for Alzheimer's disease, but the specific molecular pathways through which it contributes to cognitive decline-pathways that are partially independent of, and interact with, amyloid-β pathology-are not fully elucidated. This review synthesizes and elaborates the \"Hypertension-NVU-Cognition\" axis, building on the established cerebrovascular biology, neurovascular unit, cerebral small vessel disease (CSVD), and vascular cognitive impairment (VCID) literature, within which this axis is positioned as an integrative, complementary framework rather than a wholly novel or independent pathway. Sustained hypertension damages the neurovascular unit (NVU) through hemodynamic stress, blood-brain barrier (BBB) disruption (via tight junction and pericyte loss), and neuroinflammation (pro-inflammatory microglial activation and reactive astrogliosis). This NVU dysfunction directly impairs cognition via glutamate excitotoxicity, cholinergic axonal ischemia, and reduced Aβ clearance. Critically, midlife blood pressure trajectories are stronger predictors of late-life cognition than late-life levels. NVU injury frequently coexists with amyloid pathology, yet emerging evidence indicates it also contributes to cognitive decline in individuals with low amyloid burden, highlighting its complementary and potentially synergistic role alongside classical AD mechanisms. This axis highlights candidate molecular targets and biomarkers that merit further investigation for early intervention. Promising biomarkers include plasma sPDGFRβ (pericyte injury) and DCE-MRI Ktrans (BBB leakage). Promising future research directions include standardizing NVU biomarkers and conducting targeted trials that combine intensive blood pressure control with investigational NVU-protective agents (e.g., GLP-1 receptor agonists) in at-risk midlife individuals; these approaches are not yet clinically actionable and require validation in adequately powered randomized controlled trials. Understanding this axis is crucial for developing effective preventive therapies against vascular cognitive impairment.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43001258/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43000185",
+    "title": "Effects of GLP-1 Receptor Agonists on Hyperuricemia, Serum Uric Acid and Gout: A Systematic Review and Meta-Analysis.",
+    "authors": [
+      "Lee Young Ho",
+      "Song Gwan Gyu"
+    ],
+    "journal": "Diabetes, obesity & metabolism",
+    "year": "2026",
+    "doi": "10.1111/dom.71525",
+    "abstract": "Hyperuricemia and gout are common but underappreciated comorbidities in Type 2 diabetes (T2D), obesity and chronic kidney disease (CKD). We aimed to quantify the pooled effects of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonists on serum uric acid (SUA), incident gout and hyperuricemia, and to determine whether these effects vary by drug class and are mediated by weight loss. We searched PubMed/MEDLINE, Embase, CENTRAL and ClinicalTrials.gov through July 2026 for RCTs of ≥ 12 weeks' duration reporting SUA change, gout flares or hyperuricemia incidence. Random-effects meta-analysis, subgroup and sensitivity analyses and meta-regression were performed. Registered with PROSPERO (CRD420261468511). Eighteen RCTs (77 942 participants) met inclusion criteria. Incretin-based therapy significantly reduced SUA versus control (weighted mean difference [WMD] -0.44 mg/dL, 95% CI -0.52 to -0.35), reduced incident gout flares (hazard ratio [HR] 0.62, 95% CI 0.53-0.72), and reduced hyperuricemia incidence (odds ratio [OR] 0.61, 95% CI 0.53-0.70). Dual GIP/GLP-1 RA (tirzepatide) produced greater SUA lowering than mono GLP-1 RAs (-0.62 vs. -0.35 mg/dL, p = 0.001). Body-weight loss was a significant moderator of SUA reduction (β = -0.041 mg/dL per kg, p < 0.001), explaining 84.7% of between-trial heterogeneity, with a significant weight-independent intercept (-0.19 mg/dL, p < 0.001). The SUA reduction was robust in all sensitivity analyses, including restriction to placebo-controlled trials. GRADE certainty was high for SUA and moderate for gout flares (owing to small-study effects) and hyperuricemia incidence. Incretin-based therapies were associated with modest reductions in SUA and with a lower incidence of gout flares and hyperuricemia, an effect largely related to weight loss. The clinical relevance of these effects, and the mechanism of any weight-independent component, remains uncertain and warrant confirmation in dedicated trials.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000185/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42999185",
+    "title": "Role of GLP1-receptor signaling and α-β communication in functional β-cell heterogeneity.",
+    "authors": [
+      "Balasenthilkumaran Nirmala V",
+      "Bombek Lidija Križančić",
+      "Browne Shane",
+      "Ramirez David",
+      "Duh Maja",
+      "Klemen Maša Skelin",
+      "Leitgeb Eva Paradiž",
+      "Kerčmar Jasmina",
+      "Kopecky Jan",
+      "Zhang Yaowen",
+      "Hansen Maria Skjott",
+      "Shao Yidi",
+      "Sethiya Annanya",
+      "Takaoglu Adam",
+      "Prabhu Divya",
+      "Fan Aining",
+      "Vitalapuram Shravani",
+      "Cohrs Christian M",
+      "Speier Stephan",
+      "Dolenšek Jurij",
+      "Shishani Rahaf",
+      "Jackson Anna",
+      "Cummings Bethany P",
+      "Gosak Marko",
+      "Stožer Andraž",
+      "Kravets Vira"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "year": "2026",
+    "doi": "10.1101/2025.04.25.650736",
+    "abstract": "While islet β-cells were first viewed as a singular functional entity, since the 1970s findings reveal that individual β-cells differ in their insulin secretion. More recently distinct functional subpopulations based on differential calcium dynamics have been demonstrated to drive islet function. Here, we investigate how paracrine signaling, specifically glucagon-like peptide receptor (GLP-1R) signaling shapes functional β-cell heterogeneity. To address this, we utilized confocal imaging of calcium responses of in-vitro islets from MIP-CreER-GCaMP6s mice, C57BL/6 mice, and β-cell-specific humanized GLP-1R Cre-inducible KO mice. Responses in isolated islets vs pancreatic slices both before and after GLP-1R antagonist (exendin-9) or agonist (exendin-4) treatment were compared. We employ consecutive glucose stimulations in the same islet, where first stimulation serves as a control for the second stimulation. Function of the β-cells was significantly enhanced in the 2 nd glucose stimulation, reflecting previously reported time-dependent glucose potentiation phenomenon. GLP-1R antagonism delayed response time, decreased peak amplitude, active time and oscillation frequency, and disrupted the temporal consistency of hub-cells and 1 st responder β-cells, relative to the 1 st stimulation. Opposite effects were observed with the GLP-1R agonist. The changes in Ca 2+ frequency were more pronounced in α-neighboring β-cells, suggesting local GLP-1R mediated α-β-cell communication. GLP-1R KO elicited deleterious effects, which, aside from the network connectivity, mirrored those of the ex-9. Together, these findings underscore the importance of GLP-1R-mediated α- and β-cell communication in heterogeneous β-cell function. Role of GLP-1R mediated α-β cell communication in functional β-cell heterogeneity was unclear. Time of response to glucose, 1 st phase amplitude, speed of signal propagation, active time, functional connectivity, and consistency of 1 st responder and hub cell subpopulations are enhanced by GLP-1R signaling. GLP-1R signaling creates local α-cell-associated functional neighborhoods of β-cells and maintains network organization.Islet-local GLP-1R communication in absence of exogenous GLP-1 is sufficient for significant control of β -cell function.",
+    "publication_types": [
+      "Journal Article",
+      "Preprint"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999185/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42997320",
+    "title": "GLP-1 receptor agonists as potential disease-modifying agents in Parkinson's and Alzheimer's disease: mechanisms, clinical trial evidence, and the neuroprotection horizon.",
+    "authors": [
+      "Alsharif Mohamed",
+      "Shrebaty Omran",
+      "Aloudah Mohammad Ammar",
+      "Alqahtani Mayar",
+      "Aloubili Raghad Saud",
+      "Ahmed Marafi Jammaa",
+      "Albani Bana",
+      "El Bana Ahmad"
+    ],
+    "journal": "Frontiers in aging neuroscience",
+    "year": "2026",
+    "doi": "10.3389/fnagi.2026.1969490",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), originally developed as antidiabetic agents, have emerged as candidate disease-modifying therapies for Parkinson's disease (PD) and Alzheimer's disease (AD), reflecting the widespread expression of GLP-1 receptors across neurons, glia, and the cerebral vasculature. This narrative review synthesizes mechanistic, clinical trial, and biomarker evidence for GLP-1 RAs in PD and AD, based on a literature search of PubMed, Embase, Scopus, and Web of Science, with ClinicalTrials.gov searched separately for trial protocols and results, through May 2026. Preclinical data implicate GLP-1 receptor agonism in anti-neuroinflammatory signaling, mitochondrial preservation, autophagy and proteostasis enhancement, anti-apoptotic effects, synaptic plasticity, cerebrovascular protection, and glymphatic clearance. Clinical evidence in PD is mixed and agent- and formulation-dependent: the phase II Exenatide-PD trial reported a motor benefit that persisted after washout (∼3.5-point between-group difference in MDS-UPDRS Part III), and the phase II LIXIPARK trial (lixisenatide) reported a significant 3.08-point between-group difference (95% CI 0.86-5.30; p = 0.007) favoring lixisenatide, whereas the larger, longer phase III Exenatide-PD3 trial, using an extended-release weekly formulation, found no significant effect on the same endpoint (adjusted coefficient 0.92; 95% CI -1.56 to 3.39; p = 0.47); oral semaglutide is under investigation in the ongoing phase II MOST-ABLE trial. In AD, the phase IIb liraglutide (ELAD) trial did not achieve statistical benefit on either its primary imaging endpoint (cerebral glucose metabolic rate; p = 0.14) or on most secondary cognitive measures, and the phase III semaglutide trials EVOKE and EVOKE+ did not meet their primary CDR-SB endpoint (estimated difference -0.08, 95% CI -0.35 to 0.20, p = 0.57 in EVOKE; 0.10, 95% CI -0.17 to 0.38, p = 0.46 in EVOKE+), despite biomarker signals including reductions in cerebrospinal fluid tau species and inflammatory markers. Comparative pharmacology reveals substantial heterogeneity in central nervous system penetration, receptor engagement, and systemic bioavailability across exenatide, liraglutide, semaglutide, and the imbalanced GLP-1/GIP co-agonist tirzepatide, complicating cross-agent extrapolation. Persistent challenges include separating direct neuroprotection from indirect metabolic and cardiovascular benefit, limited characterization of brain drug exposure, trial durations that may be short relative to the expected latency of a disease-modifying effect, and the absence of validated response biomarkers. We conclude that although the mechanistic and epidemiological rationale for GLP-1 RAs in neurodegeneration remains biologically plausible, current trial evidence does not yet support their use outside clinical trials, irrespective of comorbid diabetes status; future studies should prioritize earlier intervention, biomarker-guided patient selection, adequately powered subgroup analyses, and brain-penetrant formulations.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997320/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42997292",
+    "title": "The impact of GLP-1 receptor agonists on chemotherapeutic efficacy: insights from GWAS and experiments.",
+    "authors": [
+      "Huang Sha",
+      "Feng Yongqi",
+      "Liu Yeling",
+      "Mo Xiaochun",
+      "Hu Haichuan",
+      "Chen Haolin",
+      "Han Mengyi",
+      "Huang Wanting",
+      "Zheng Wantong",
+      "Hou Xinting",
+      "Wen Runfeng",
+      "Liu Chenbing",
+      "Wang Jiahui",
+      "Wang Yunzhen"
+    ],
+    "journal": "Frontiers in pharmacology",
+    "year": "2026",
+    "doi": "10.3389/fphar.2026.1957757",
+    "abstract": "Emerging evidence highlights the anti-tumor properties of Glucagon-like peptide-1 receptor agonists (GLP-1RAs). However, their synergistic potential with standard chemotherapy remains largely unexplored. Data from Genome-wide association study (GWAS) were used to select single-nucleotide polymorphisms (SNPs) strongly associated with lipid-lowering drug targets as instrumental variables. Causal effects were assessed primarily using the inverse variance weighted (IVW) method, supported by comprehensive sensitivity analyses to control for pleiotropy and heterogeneity. These Mendelian randomization (MR) findings were further validated through in vitro functional assays (cell viability, apoptosis, and Western blot) and an in vivo tumor-bearing mouse model. Glucagon-like peptide-1 receptor (GLP-1R) activity showed a significantly positive causal relationship with dihydrofolate reductase (DHFR; β = 0.323, P = 6.02 × 10-17) and apoptosis regulator Bcl-2 (β = 0.259, P = 2.1 × 10-11) but a negative relationship with ribonucleoside-diphosphate reductase large subunit (RRM1; β = -0.12, P = 2.32 × 10-3). Functional experiments validated these genetic findings. GLP-1RA significantly enhanced the antitumoral efficacy of gemcitabine both in vitro and in vivo by repressing RRM1. Conversely, GLP-1RA attenuated the anti-tumor effects of methotrexate and paclitaxel by upregulating DHFR and Bcl-2, respectively. Notably, GLP-1RA combination therapy achieved these modulatory effects without exacerbating chemotherapy-associated systemic toxicity. GLP1-RAs can influence the efficacy of chemotherapeutic drugs such as methotrexate, paclitaxel, and gemcitabine.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997292/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42993473",
+    "title": "Metabolic and biochemical predictors of glycemic response after bariatric surgery: a scoping review.",
+    "authors": [
+      "Netto Matheus P S",
+      "Duval-Araujo Ivana",
+      "Tinoco Augusto"
+    ],
+    "journal": "Updates in surgery",
+    "year": "2026",
+    "doi": "10.1007/s13304-026-02930-1",
+    "abstract": "Bariatric and metabolic surgery is one of the most effective treatments for severe obesity and type 2 diabetes mellitus (T2DM), promoting metabolic changes beyond weight loss. However, the biochemical determinants of postoperative glycemic response remain incompletely understood. A scoping review was conducted following PRISMA-ScR guidelines. PubMed/MEDLINE and Scopus were searched for studies published between 2016 and 2025 evaluating metabolic and biochemical variables associated with glycemic outcomes after bariatric surgery. Twenty-two studies were included, comprising eight randomized controlled trials and fourteen cohort studies. Bariatric surgery was consistently associated with reductions in HbA1c and significant rates of T2DM remission. Improvements in insulin resistance (HOMA-IR), beta-cell function, and incretin response-particularly GLP-1-were associated with better outcomes. Reductions in inflammatory markers, including IL-6, IFN-γ, and TNF-α, were also reported. Glycemic improvement after bariatric surgery is associated with complex metabolic interactions involving insulin sensitivity, incretin modulation, and inflammatory changes. These findings support the role of bariatric and metabolic surgery as a metabolic and immunometabolic intervention, although the descriptive design of a scoping review precludes causal inference.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42993473/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42991137",
+    "title": "Molecularly guided pharmacotherapy for obesity: emerging targets, clinical efficacy, and personalized therapeutic approaches.",
+    "authors": [
+      "Mao Jianchao",
+      "Hu Rong"
+    ],
+    "journal": "Frontiers in pharmacology",
+    "year": "2026",
+    "doi": "10.3389/fphar.2026.1988828",
+    "abstract": "Obesity is a complex, chronic disease whose aetiology is complex and highly variable, and is linked to a network of neural, endocrine, adipose, genetic, epigenetic and metabolic pathways. This molecular complexity also drives significant differences in the clinical course of disease, drug sensitivity and weight regain, thus making standardized treatment, which is largely based on BMI and clinical empiricism, challenging. This narrative review explores the molecular mechanisms involved in obesity and the potential to apply the knowledge of molecular mechanisms to develop more personalized treatment strategies using advances in pharmacology. It focuses on hypothalamic appetite-satiety pathways, gut-brain hormonal communication, inflammation and metabolic dysfunction in adipose tissue, and known and novel drug targets. The review focuses on the evidence available on GLP-1 receptor agonism, GIP-GLP-1 co-agonism, multi-agonism with glucagon, signaling of amylin, melanocortin pathways, and novel central and peripheral targets. Studies have shown that some dual- and triple-receptor drugs are more effective at causing weight loss, and practitioners should consider tolerability, sustainability, cardiometabolic effects, and response when choosing drugs or drug combinations for patients. Inter-individual variability may be further explained by genetic, epigenetic, metabolic, and tissue-specific factors, which may help identify mechanisms of resistance. In conclusion, Inter-individual variability may be attributed to genetic, epigenetic, metabolic, and tissue-specific factors, and most suggested molecular or biomarker predictors have not yet proven sufficiently valid or useful for routine drug selection. Receptor-targeted drugs, including GLP-1 receptor agonists and GIP-GLP-1 co-agonists, are currently clinically actionable for patients with common obesity and available to specific patients with obesity, genotype-directed molecular therapeutic drugs are clinically actionable only for selected genetically defined types of obesity. However, the use of pharmacogenomic, biomarker, and multi-omics methods to guide the choice of anti-obesity drugs are still in their early stages of clinical investigation.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42991137/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42986362",
     "title": "Common Genetic Variants Near SLC2A2 and Glycemic Response to Glimepiride in the GRADE Comparative Effectiveness Clinical Trial.",
     "authors": [
@@ -1550,6 +1717,30 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42700818",
+    "title": "Pomegranate Juice Induces Similar Glycemic but Distinct Incretin Responses Compared with Sugar Water: A Randomized Crossover Trial.",
+    "authors": [
+      "Zelicha Hila",
+      "Yang Jieping",
+      "Diacova Tatiana",
+      "Wang Jing",
+      "Pan Yajing",
+      "Wang Sijia",
+      "Heber David",
+      "Li Zhaoping"
+    ],
+    "journal": "The Journal of nutrition",
+    "year": "2026",
+    "doi": "10.1016/j.tjnut.2026.101821",
+    "abstract": "Pomegranate juice (PomJ) is a rich source of polyphenols, particularly ellagitannins and anthocyanins, which have been linked to metabolic benefits. However, evidence regarding its acute metabolic effects remains inconclusive. This study aimed to compare acute glycemic and incretin responses after consumption of isocaloric PomJ and sugar water, and to explore individual variability in glycemic response patterns. In this randomized, controlled, crossover trial, 42 adults completed 3 interventions following a standardized low-polyphenol diet, which was maintained for the entire study. Participants consumed isocaloric PomJ, sugar water, and water, in random order, each separated by a 1-wk washout period. Postprandial glucose, insulin, glucagon, glucagon-like peptide-1 (GLP-1), gastric inhibitory polypeptide (GIP), C-peptide, and triglycerides were measured over 2 h. Glycemic and incretin responses were analyzed using mixed-effects models. Exploratory analyses, including dynamic time warping (DTW) and response stratification, were performed to characterize individual glycemic response patterns. Participants at baseline had a mean age of 33.6 ± 10.4 y, a mean body mass index of 27.1 ± 4.6kg/m2, and mean fasting glucose concentrations of 94.9 ± 9.7 mg/dL. Mean glycemic responses did not differ between PomJ and sugar water across conventional glycemic metrics, including net incremental area under the curve (AUC), glucose peak, time of glucose peak, its duration, and the ending time of the peak (all P > 0.05). However, PomJ elicited significantly lower GIP responses than sugar water (AUC PomJ: 23.2 ± 4066, AUC sugar water: 2102.0 ± 5699, adjusted P = 0.002; Bonferroni correction). A participant-level permutation analysis of DTW distances demonstrated that within-participant glucose trajectories were more similar than expected under random participant pairing (within-participant DTW distance: 91.3, between-participant DTW distance: 111.3; permutation P = 0.0002). Exploratory post hoc stratification identified heterogeneous glycemic response patterns, which were further characterized descriptively. PomJ produced similar glycemic but distinct incretin responses compared with sugar water. Exploratory analyses highlighted heterogeneity in glycemic response patterns under standardized study conditions. Further repeated-measures studies are needed to determine the reproducibility and biological basis of these observations. This study was registered at clinicaltrials.gov as NCT04591782.",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42700818/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42673585",
     "title": "Efficacy and Safety of Glucagon-like Peptide-1 Receptor Agonists and Co-agonists for Weight Loss Among Adults Without Diabetes : An Updated Systematic Review.",
     "authors": [
@@ -1657,6 +1848,28 @@
       "Meta-Analysis"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42608323/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42599088",
+    "title": "Liver Organoids: From Disease Modelling to Regenerative Medicine.",
+    "authors": [
+      "Wang Tiepeng",
+      "Qu Xiaotian",
+      "Si Jinhong",
+      "Meng Junkang",
+      "Zhang Ting",
+      "Niu Shuliang"
+    ],
+    "journal": "Cell proliferation",
+    "year": "2026",
+    "doi": "10.1111/cpr.70268",
+    "abstract": "Liver organoids are three-dimensional miniature liver models that recapitulate the complex architecture and key functions of the human liver in vitro, offering powerful platforms for both fundamental research and translational applications. This review systematically summarises current fabrication strategies, disease-modelling utilities and regenerative potentials of liver organoids, alongside the major challenges and future directions. In recent years, the field has witnessed several breakthroughs. Through endothelial co-culture approaches, vascularised and metabolically zonated liver organoids have been successfully generated, achieving endothelial coverage exceeding 85%. Prime editing enables precise correction of pathogenic mutations in patient-derived organoids, with no off-target effects detected at the genome-wide level. In disease modelling, iPSC-derived liver organoids faithfully recapitulate the pathological progression of metabolic dysfunction-associated steatotic liver disease (MASLD) and verify the lipid-lowering efficacy of semaglutide. Macrophage-integrated organoid models support the full life cycles of HEV, SARS-CoV-2 and dengue virus, providing new tools for antiviral drug screening. Large-scale patient-derived tumour organoid biobanks successfully preserve the heterogeneity and clinical drug-resistance signatures of liver cancers. In regenerative medicine, encapsulated hepatocyte organoids and the UTOpiA bioartificial liver system have effectively rescued acute liver failure in animal models, while gene-edited autologous organoids offer potential curative strategies for genetic disorders such as Wilson disease. Nevertheless, insufficient hepatocyte functional maturity, difficulties in constructing vascular networks, and the lack of standardised culture protocols remain major obstacles to clinical translation. By bridging fundamental liver biology and clinical practice, liver organoid technology lays a solid foundation for precision hepatology and regenerative therapies. Continued interdisciplinary efforts are still required to overcome current limitations and facilitate its clinical adoption.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42599088/",
     "screening_status": "não avaliado"
   },
   {
@@ -2155,6 +2368,31 @@
       "Journal Article"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42250890/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42248359",
+    "title": "Diabetic Status, Advanced Age, and Hispanic Ethnicity Predict Poorer Weight Loss in Patients With Obesity Receiving Semaglutide.",
+    "authors": [
+      "Cornet Nicole C",
+      "Buckholz Adam P",
+      "Yeung Michele",
+      "Kumar Sonal",
+      "Rogers Lindsay",
+      "Magahis Patrick T",
+      "Sharaiha Reem Z",
+      "Krisko Tibor I",
+      "Fortune Brett E",
+      "Newberry Carolyn A"
+    ],
+    "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
+    "year": "2026",
+    "doi": "10.1016/j.eprac.2026.05.029",
+    "abstract": "Define demographic and clinical predictors of weight loss outcomes in patients with obesity prescribed semaglutide in real-world practice. We identified 163 patients with elevated body mass index (>25 kg/m2) taking weekly semaglutide for at least 12 months, seen at a gastroenterology-based, multidisciplinary obesity clinic in New York City. The primary outcome was percent total weight loss (%TWL) after 12 months on weekly injectable semaglutide. Secondary outcomes included % of patients achieving >5% TWL and clinical factors affecting treatment course, including gastrointestinal side effects, dosing achieved, and number of provider visits. In total, 163 of the 294 (55.4%) patients prescribed semaglutide during the study period continued it for at least 12 months. Mean weight loss achieved at this timepoint was 8.1 ± 18.5 kg (8.1% ± 8.3% TWL). Patient-identified Hispanic ethnicity (95% CI, -6.82 to -0.55; P = .02), history of type 2 diabetes (95% CI, 0.74-5.76; P = .01), and age >60 years (95% CI, -14.76 to -2.41; P = .007) were associated with reduced weight loss on univariable analysis. Development of gastrointestinal side effects (95% CI, 1.86-3.36; P = .57) and provider visit number were not associated with weight loss outcomes (95% CI, 0.15-0.28; P = .56). Patient-identified Hispanic ethnicity was independently associated with failure to achieve 5% TWL on multivariable regression (odds ratio, 0.32; 95% CI, 0.14-0.74). This study suggested weight loss with weekly semaglutide was influenced by specific factors, including diabetes status, older age, and Hispanic ethnicity in our real-world clinic, although further research is needed to define prognosticators of weight loss across populations.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42248359/",
     "screening_status": "não avaliado"
   },
   {

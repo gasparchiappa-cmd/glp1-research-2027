@@ -1,5 +1,31 @@
 [
   {
+    "pmid": "42991162",
+    "title": "Sympathovagal Imbalance and Insulin Resistance: The Autonomic Nervous System as a Convergent Therapeutic Target for Breaking a Bidirectional Pathogenic Cycle.",
+    "authors": [
+      "Mohr Jan Alexander",
+      "Jiravsky Otakar",
+      "Rucki Lucjan",
+      "Jiravska Godula Bogna",
+      "Samiec Jan",
+      "Pekarova Anna",
+      "Jakubovicova Eva",
+      "Chovancik Jan",
+      "Novakova Marie",
+      "Pekar Matej"
+    ],
+    "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+    "year": "2026",
+    "doi": "10.2147/DMSO.S604281",
+    "abstract": "The autonomic nervous system (ANS) and insulin resistance (IR) are linked through a bidirectional pathogenic cycle established during the normoglycaemic, hyperinsulinaemic phase of metabolic disease, years before conventional glucose thresholds are crossed. This review identifies the ANS and IR as convergent therapeutic targets for breaking this vicious cycle, synthesising evidence from autonomic physiology, clinical diabetology, and neuroscience into an integrated mechanistic framework. Two mechanistically distinct arms sustain the cycle: a fast, potentially reversible functional arm driven by hyperinsulinaemia - mediated sympathoexcitation via hypothalamic insulin-signalling pathways, and a slow, progressively irreversible structural arm driven by hyperglycaemia-induced autonomic neuropathy. Experimental evidence demonstrates that inducible peripheral sympathetic blockade prevents overnutrition-induced insulin resistance, establishing sympathetic overactivity as a primary causal driver rather than a consequence. Cross-sectional data have identified cardiac autonomic dysfunction in normoglycaemic individuals with elevated 1-hour post-load glucose who meet no pre-diabetes definition, revealing a population undetectable by current screening criteria. Prospective data from a landmark randomised prevention trial confirmed that autonomic improvement independently predicts diabetes prevention beyond weight loss, with hazard ratios of 0.84-0.85 for incident diabetes. Cardiac autonomic neuropathy, detectable via heart rate variability analysis, is present in 9-39% of pre-diabetic populations and confers a pooled relative mortality risk of 2.14 across 15 studies. Therapeutic interventions targeting both autonomic rebalancing and insulin sensitisation - including structured exercise, bariatric surgery, vagal nerve stimulation, renal denervation, and metabolic pharmacotherapy - converge on identifiable nodes of this feedback loop, enabling stage-matched targeting. We propose a risk stratification framework integrating autonomic assessment with glycaemic staging, including a proposed \"Stage 0\" category for normoglycaemic individuals with elevated 1-hour post-load glucose, to guide early, targeted intervention when the cycle remains breakable.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42991162/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42983209",
     "title": "Antidiabetic Therapy and Atrial Fibrillation: Pathophysiological Links, Therapeutic Implications, and Evidence-Based Outcomes.",
     "authors": [
@@ -243,6 +269,7 @@
     "doi": "10.1080/08923973.2026.2731357",
     "abstract": "Vasovagal syncope (VVS) is the most common form of cardiovascular dysautonomia that has multiple etiologies. Post-vaccination dysautonomia, in the form of VVS and postural orthostatic tachycardia syndrome, has been reported in the literature after various vaccines, including COVID-19 mRNA vaccination. Treatment of post-vaccination syndromes has not been explored leaving patients with post-vaccination dysautonomia with limited therapeutic options. We report a 42-year-old woman who developed post-vaccination VVS after COVID-19 mRNA vaccination and improved significantly with semaglutide treatment. The patient's COMPASS-31 score decreased by 44% post-treatment, Orthostatic Hypotension Questionnaire score decreased by 59%, and an average 24-hour heart rate decreased from 97 beats per minute (bpm) to 80 bpm, indicating significant reduction in the autonomic symptom burden. In addition, her post-vaccination neuropathic pain in the legs completely resolved after treatment with semaglutide. This case report suggests that GLP-1 receptor agonists might be beneficial for treatment of recurrent VVS, other forms of dysautonomia and post-vaccination syndromes with neuropathic pain, and may be considered as candidates for randomized placebo-controlled trials in this patient population.",
     "publication_types": [
+      "Case Reports",
       "Journal Article"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42703003/",

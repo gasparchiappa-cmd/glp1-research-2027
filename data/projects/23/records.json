@@ -19,6 +19,204 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "43000185",
+    "title": "Effects of GLP-1 Receptor Agonists on Hyperuricemia, Serum Uric Acid and Gout: A Systematic Review and Meta-Analysis.",
+    "authors": [
+      "Lee Young Ho",
+      "Song Gwan Gyu"
+    ],
+    "journal": "Diabetes, obesity & metabolism",
+    "year": "2026",
+    "doi": "10.1111/dom.71525",
+    "abstract": "Hyperuricemia and gout are common but underappreciated comorbidities in Type 2 diabetes (T2D), obesity and chronic kidney disease (CKD). We aimed to quantify the pooled effects of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonists on serum uric acid (SUA), incident gout and hyperuricemia, and to determine whether these effects vary by drug class and are mediated by weight loss. We searched PubMed/MEDLINE, Embase, CENTRAL and ClinicalTrials.gov through July 2026 for RCTs of ≥ 12 weeks' duration reporting SUA change, gout flares or hyperuricemia incidence. Random-effects meta-analysis, subgroup and sensitivity analyses and meta-regression were performed. Registered with PROSPERO (CRD420261468511). Eighteen RCTs (77 942 participants) met inclusion criteria. Incretin-based therapy significantly reduced SUA versus control (weighted mean difference [WMD] -0.44 mg/dL, 95% CI -0.52 to -0.35), reduced incident gout flares (hazard ratio [HR] 0.62, 95% CI 0.53-0.72), and reduced hyperuricemia incidence (odds ratio [OR] 0.61, 95% CI 0.53-0.70). Dual GIP/GLP-1 RA (tirzepatide) produced greater SUA lowering than mono GLP-1 RAs (-0.62 vs. -0.35 mg/dL, p = 0.001). Body-weight loss was a significant moderator of SUA reduction (β = -0.041 mg/dL per kg, p < 0.001), explaining 84.7% of between-trial heterogeneity, with a significant weight-independent intercept (-0.19 mg/dL, p < 0.001). The SUA reduction was robust in all sensitivity analyses, including restriction to placebo-controlled trials. GRADE certainty was high for SUA and moderate for gout flares (owing to small-study effects) and hyperuricemia incidence. Incretin-based therapies were associated with modest reductions in SUA and with a lower incidence of gout flares and hyperuricemia, an effect largely related to weight loss. The clinical relevance of these effects, and the mechanism of any weight-independent component, remains uncertain and warrant confirmation in dedicated trials.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000185/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43000036",
+    "title": "Weight management in people with HIV.",
+    "authors": [
+      "Manne-Goehler Jen",
+      "Magodoro Itai",
+      "Ramírez Brenda Crabtree",
+      "Venter Willem Daniel Francois"
+    ],
+    "journal": "The lancet. HIV",
+    "year": "2026",
+    "doi": "10.1016/S2352-3018(26)00229-8",
+    "abstract": "Excess weight gain in people with HIV is now recognised as a common risk associated with the use of guideline-recommended antiretroviral therapy, such that nearly 50% of people with HIV are living with comorbid obesity. Weight gain and clinical obesity exacerbate cardiovascular-kidney-metabolic health complications in this population and chronic weight management strategies that reduce these risks are now an urgent priority. Behavioural interventions can be offered to improve diet and increase physical activity, including increasing protein intake and promoting regular physical activity. Additionally, there is a growing body of evidence to support the use of GLP-1 receptor agonist therapies in people with HIV, along with a historical literature showing the efficacy of tesamorelin; however, there are sparse data to direct the use of other approved obesity management medicines specific to this population. Finally, bariatric surgical interventions are suggested to be safe and efficacious for those with chronic HIV infection and comorbid obesity. This Series paper identifies a range of key evidence gaps and research priorities for obesity management in people with HIV, including a lack of trials of GLP-1 therapies in people with HIV powered to key clinical outcomes, such as major adverse cardiovascular events and body composition endpoints, implementation science to define models of care, and research on the heterogeneities in clinical outcomes of obesity treatment by sex.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43000036/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42998725",
+    "title": "Phase 3 clinical development of semaglutide (2015-2026): a comprehensive evidence-based review of trial designs, therapeutic outcomes and global clinical experience.",
+    "authors": [
+      "Patel Sanjeev Kumar",
+      "Dubey Swati",
+      "Tiwari Ankita"
+    ],
+    "journal": "Diabetes research and clinical practice",
+    "year": "2026",
+    "doi": "10.1016/j.diabres.2026.113648",
+    "abstract": "Semaglutide, a long-acting glucagon-like peptide-1 receptor agonist (GLP-1RA), has become an important therapeutic agent for type 2 diabetes mellitus (T2DM), obesity, and associated cardiometabolic complications. Its prolonged pharmacological activity and availability as subcutaneous and oral formulations have supported extensive clinical development across diverse populations. This review critically evaluates Phase 3, Phase 3a, and Phase 3b clinical trials (CTs) assessing the efficacy, safety and therapeutic utility of semaglutide, with an emphasis on the SUSTAIN, PIONEER, STEP, SELECT, FLOW, SOUL and related programmes. Eligible trials were assessed according to study design, registration, treatment duration, population characteristics, interventions, comparators, primary endpoints, adverse events (AEs) and clinical significance. Collectively, the evidence demonstrates clinically meaningful improvements in glycaemic control and body weight, as well as cardiovascular and renal benefits, in selected populations. Evidence from obesity and post-bariatric studies further supports its expanding therapeutic role beyond conventional glucose management. Gastrointestinal events, particularly nausea, vomiting, diarrhoea and constipation, were the predominant adverse effects, while overall tolerability remained consistent with the established GLP-1RA profile. However, differences in populations, treatment duration, comparators and endpoint definitions highlight important evidence gaps. This review synthesises Phase 3 clinical evidence to define the evolving therapeutic position, safety profile and future research priorities for semaglutide.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42998725/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42997179",
+    "title": "Cardiovascular-kidney-metabolic syndrome: novel molecular mechanism and glucagon-like peptide-1-targeting therapy.",
+    "authors": [
+      "Liu Fengzhao",
+      "Xu Zihan",
+      "Wang Wenru",
+      "Gao Junwei",
+      "Fu Changgeng",
+      "Liu Peng"
+    ],
+    "journal": "Frontiers in cell and developmental biology",
+    "year": "2026",
+    "doi": "10.3389/fcell.2026.1996288",
+    "abstract": "Cardiovascular-kidney-metabolic (CKM) syndrome represents a systemic disease continuum arising from the progressive and reciprocal interactions among metabolic dysfunction, kidney injury, and cardiovascular disease. Obesity and type 2 diabetes mellitus (T2DM) are major metabolic drivers of early CKM progression and contribute to cardiac and kidney injury through insulin resistance, glucotoxicity and lipotoxicity, chronic inflammation, oxidative stress, mitochondrial dysfunction, and ectopic lipid deposition, thereby establishing a self-reinforcing vicious cycle across the metabolic, cardiovascular, and renal systems. Glucagon-like peptide-1 (GLP-1) and its receptor (GLP-1R) not only participate in the regulation of glucose homeostasis and energy metabolism but also represent an important regulatory nexus linking metabolic dysfunction to cardiorenal injury. GLP-1 receptor agonists (GLP-1RAs) improve metabolic homeostasis by enhancing glucose-dependent insulin secretion, suppressing glucagon release, reducing appetite and body weight, and decreasing visceral and ectopic fat accumulation. In parallel, they may exert renal and cardiovascular protective effects by improving endothelial function and microcirculation, suppressing inflammation and oxidative stress, maintaining mitochondrial homeostasis, and attenuating fibrosis. In recent years, large-scale clinical studies have further extended the benefits of GLP-1RAs beyond glycaemic control and weight reduction to improved kidney outcomes, reduced major cardiovascular events, and benefits in obesity-related heart failure with preserved ejection fraction. Meanwhile, natural products, characterised by multi-component, multi-target, and multi-pathway actions, may provide a complementary strategy for integrated CKM management by simultaneously improving glucose and lipid metabolic disturbances, insulin resistance, inflammation, and oxidative stress, while attenuating cardiac remodelling, kidney injury, and fibrosis. Emerging studies have shown that some natural products can concurrently improve metabolic, cardiac, and renal phenotypes in CKM-related diseases or composite disease models. This review focuses on the interactions among the metabolic, renal, and cardiovascular systems in CKM, summarises the biological basis and signalling mechanisms of the GLP-1/GLP-1R system, and highlights the mechanistic and clinical evidence supporting GLP-1RA-mediated protection against obesity- and T2DM-related metabolic dysfunction and cardiorenal injury. The potential value of natural products in comprehensive CKM intervention and future research directions are also discussed.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997179/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42997027",
+    "title": "The coverage gap in PREVENT: Why cardiovascular risk prediction needs a lab-free complement.",
+    "authors": [
+      "Harris Rebecca Arden",
+      "Bilker Warren B",
+      "Jacoby Douglas S",
+      "Levin Michael G",
+      "Wender Richard C",
+      "Hennessy Sean"
+    ],
+    "journal": "American journal of preventive cardiology",
+    "year": "2026",
+    "doi": "10.1016/j.ajpc.2026.101782",
+    "abstract": "The American Heart Association's PREVENT equations are now embedded in three major AHA/ACC guidelines governing hypertension, dyslipidemia, and cardiovascular-kidney-metabolic syndrome, including a specific risk threshold that gates initiation of GLP-1-based therapy and SGLT2 inhibitors. This rapid guideline uptake has outpaced a persistent limitation: PREVENT requires laboratory values, chiefly lipids and estimated glomerular filtration rate, that are frequently missing in the populations where risk prediction matters most, including patients seen in community health centers, emergency departments, and substance use treatment programs. Real-world validation studies across multiple health systems show that PREVENT underestimates cardiovascular risk most severely in these same subgroups, with the largest underestimation among Medicaid-insured, uninsured, and Black patients. Imputation, whether simple substitution or multiple imputation, does not resolve this problem because the probability that a laboratory value is missing is itself associated with the underlying risk the model is trying to estimate, a form of informative missingness that standard imputation methods are not designed to address. We argue that the field should invest in developing and validating a standalone cardiovascular risk prediction model that does not require laboratory measures. Such a model would function as a complement to PREVENT, not a replacement, providing risk estimates for patients without laboratory data and helping identify those who warrant expedited evaluation. As PREVENT becomes the gatekeeper for guideline-directed therapy across three clinical domains simultaneously, closing this coverage gap is no longer a methodological refinement but a clinical implementation imperative.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997027/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42993255",
+    "title": "Clinical pharmacology of antidiabetic drugs: an update.",
+    "authors": [
+      "Wichaiyo Surasak"
+    ],
+    "journal": "European journal of clinical pharmacology",
+    "year": "2026",
+    "doi": "10.1007/s00228-026-04219-z",
+    "abstract": "This review describes the updated pharmacology of antidiabetic drugs and its translation into clinical applications. English language literature published from January 1, 1998 to July 25, 2026 was collected using PubMed, ScienceDirect, and Ovid. Research articles, reviews, and clinical practice guidelines were included for discussion. Currently, ultra-long-acting basal insulins are emerging, allowing less frequent injections. Glucagon-like peptide 1 receptor agonists (GLP-1RAs), tirzepatide, and sodium-glucose cotransporter-2 inhibitors (SGLT2is) have novel pharmacodynamic properties and clinical evidence of cardiorenal and metabolic benefits, supporting their important roles in individuals with type 2 diabetes (T2D) who have high cardiorenal risk. Because of their effects on weight reduction, GLP-1RAs (semaglutide, liraglutide, and orforglipron) and tirzepatide are approved for the treatment of obesity. Furthermore, SGLT2is (empagliflozin, dapagliflozin, and sotagliflozin) provide cardiorenal benefits, with supporting potential mechanisms, in individuals with heart failure and chronic kidney disease. Conventional oral drugs (e.g., metformin, thiazolidinediones, dipeptidyl peptidase-4 inhibitors, sulfonylureas, meglitinides, and α-glucosidase inhibitors) lack sufficient pharmacologic and clinical data on cardiorenal benefits, suggesting their roles as adjunctive therapies. Novel candidates, including triple incretin hormone agonists (acting on GLP-1, glucose-dependent insulinotropic polypeptide [GIP], and glucagon receptors), GLP-1RA-GIP antagonism-based therapies, amylin analogues, and new dual SGLT1/2 inhibitors, show promising results for glycemic control and weight loss. Overall, a comprehensive understanding of the pharmacologic characteristics of antidiabetic drugs promotes appropriate drug use for the management of T2D and cardiometabolic diseases and helps avoid undesirable events. Ongoing investigations of novel approaches may contribute to improved patient care in the future.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42993255/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42991162",
+    "title": "Sympathovagal Imbalance and Insulin Resistance: The Autonomic Nervous System as a Convergent Therapeutic Target for Breaking a Bidirectional Pathogenic Cycle.",
+    "authors": [
+      "Mohr Jan Alexander",
+      "Jiravsky Otakar",
+      "Rucki Lucjan",
+      "Jiravska Godula Bogna",
+      "Samiec Jan",
+      "Pekarova Anna",
+      "Jakubovicova Eva",
+      "Chovancik Jan",
+      "Novakova Marie",
+      "Pekar Matej"
+    ],
+    "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+    "year": "2026",
+    "doi": "10.2147/DMSO.S604281",
+    "abstract": "The autonomic nervous system (ANS) and insulin resistance (IR) are linked through a bidirectional pathogenic cycle established during the normoglycaemic, hyperinsulinaemic phase of metabolic disease, years before conventional glucose thresholds are crossed. This review identifies the ANS and IR as convergent therapeutic targets for breaking this vicious cycle, synthesising evidence from autonomic physiology, clinical diabetology, and neuroscience into an integrated mechanistic framework. Two mechanistically distinct arms sustain the cycle: a fast, potentially reversible functional arm driven by hyperinsulinaemia - mediated sympathoexcitation via hypothalamic insulin-signalling pathways, and a slow, progressively irreversible structural arm driven by hyperglycaemia-induced autonomic neuropathy. Experimental evidence demonstrates that inducible peripheral sympathetic blockade prevents overnutrition-induced insulin resistance, establishing sympathetic overactivity as a primary causal driver rather than a consequence. Cross-sectional data have identified cardiac autonomic dysfunction in normoglycaemic individuals with elevated 1-hour post-load glucose who meet no pre-diabetes definition, revealing a population undetectable by current screening criteria. Prospective data from a landmark randomised prevention trial confirmed that autonomic improvement independently predicts diabetes prevention beyond weight loss, with hazard ratios of 0.84-0.85 for incident diabetes. Cardiac autonomic neuropathy, detectable via heart rate variability analysis, is present in 9-39% of pre-diabetic populations and confers a pooled relative mortality risk of 2.14 across 15 studies. Therapeutic interventions targeting both autonomic rebalancing and insulin sensitisation - including structured exercise, bariatric surgery, vagal nerve stimulation, renal denervation, and metabolic pharmacotherapy - converge on identifiable nodes of this feedback loop, enabling stage-matched targeting. We propose a risk stratification framework integrating autonomic assessment with glycaemic staging, including a proposed \"Stage 0\" category for normoglycaemic individuals with elevated 1-hour post-load glucose, to guide early, targeted intervention when the cycle remains breakable.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42991162/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42991154",
+    "title": "Mechanism-based therapeutic strategies in cardiovascular-kidney-metabolic syndrome: integrating biological pathways with evidence from clinical trials.",
+    "authors": [
+      "Nzobokela John",
+      "Choolwe Simweene C",
+      "Masenga Sepiso K"
+    ],
+    "journal": "Frontiers in endocrinology",
+    "year": "2026",
+    "doi": "10.3389/fendo.2026.1987811",
+    "abstract": "Cardiovascular-kidney-metabolic (CKM) syndrome describes the close relationship between metabolic dysfunction, chronic kidney disease, and cardiovascular disease, which share several biological pathways and frequently progress together. This review examines the mechanisms and clinical trial evidence supporting established and emerging therapies relevant to CKM syndrome. Sodium-glucose cotransporter 2 inhibitors, glucagon-like peptide-1 receptor agonists, renin-angiotensin system inhibitors, mineralocorticoid receptor antagonists, and lipid-lowering therapies have shown cardiovascular, kidney, and metabolic benefits across several high-risk populations. However, most evidence comes from trials enrolling patients with individual conditions, such as type 2 diabetes, chronic kidney disease, heart failure, obesity, or atherosclerotic cardiovascular disease, rather than populations defined by CKM stage or phenotype. Evidence for the added clinical benefit of specific treatment combinations also remains limited. Newer therapies targeting aldosterone synthesis, endothelin signaling, inflammation, incretin pathways, and lipid-related pathways may broaden treatment options. In clinical practice, CKM stage and the predominant clinical phenotype may help identify treatment priorities while accounting for coexisting conditions, safety, treatment burden, cost, and access. This approach may provide a practical basis for selecting therapies across the CKM spectrum, although prospective studies are needed to determine whether phenotype-directed treatment improves clinical outcomes.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42991154/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42991030",
+    "title": "Dysfunction and therapeutic potential of brown adipose tissue and batokines in obesity and type 2 diabetes mellitus.",
+    "authors": [
+      "Mirmiranpour Hossein",
+      "Barber Thomas M"
+    ],
+    "journal": "Frontiers in endocrinology",
+    "year": "2026",
+    "doi": "10.3389/fendo.2026.1949288",
+    "abstract": "Obesity and Type 2 Diabetes Mellitus (T2D) remain key drivers of premature mortality, morbidity, and healthcare expenditure globally. Although we have witnessed dramatic recent advances in our therapeutic armamentarium for these conditions (most notably regarding the latest iterations of the Glucagon-like Peptide-1 [GLP-1] class of therapies), there remain important unmet needs in our current management approach. Brown adipose tissue (BAT) and its associated batokines (molecules release from BAT) plays a key role in the regulation of energy expenditure and glucose and lipid metabolism. Multiple lifestyle factors (most notably cold exposure and certain nutrients) can activate BAT via activation of the systemic nervous system (SNS). In the context of obesity and T2D, BAT activity is downregulated through multiple complex processes. This downregulation further promotes insulin resistance and dysregulation of metabolic regulation that contributes towards ongoing pathogenesis of these pernicious conditions, in a vicious circle. In such a scenario, it would be desirable to break this vicious circle through novel therapies that target the BAT-batokine axis. In recent times, there has been a transformation of our insights into this approach, particularly from data derived from rodent models. Beyond facilitating weight loss and improved metabolic efficiency and flexibility, such a novel approach to therapy that targets the BAT-batokine axis would improve glucose and lipid regulation but also have potential for organ-specific therapeutic benefits, including in the heart, lung, kidney, and liver. Furthermore, such an approach holds great promise to improve body composition (to reduce adiposity whilst preserving or even enhancing skeletal muscle mass and function), due to the therapeutic effects being independent of negative energy balance. The BAT-batokine axis has finally come of age.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42991030/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42989631",
+    "title": "A practical framework for using GLP-1 RAs, SGLT2i, and MRAs with contemporary immunosuppression in kidney transplant recipients.",
+    "authors": [
+      "El Essawy Basset",
+      "Muzammil Faatimah Maryam",
+      "El Essawy Ibrahem"
+    ],
+    "journal": "Current opinion in nephrology and hypertension",
+    "year": "2026",
+    "doi": "10.1097/MNH.0000000000001237",
+    "abstract": "Calcineurin inhibitors (CNIs) remain central to kidney-transplant (KTX) immunosuppression (IS) but contribute to nephrotoxicity and cardiometabolic (CM) complications which negatively affect patient and graft survival. This review presents a practical framework for adding glucagon-like peptide-1 receptor agonists (GLP-1 RA), sodium-glucose cotransporter-2 inhibitors (SGLT2i), and mineralocorticoid receptor antagonists (MRAs) to established IS regimens. These agents complement individualized optimization of IS, including CNI-sparing strategies when indicated. Evidence in KTX recipients remains limited, but available studies suggest that these agents may improve glycemic control, weight, blood pressure, proteinuria, and cardiorenal risk without routinely requiring changes to IS choice or dose. Whether these changes improve patient and graft survival remains unproven. GLP-1 RA related gastrointestinal effects may alter oral IS absorption, warranting continued CNI trough monitoring, particularly when significant gastrointestinal symptoms occur after initiation or dose escalation. SGLT2i require assessment of volume status, renal-function, and infection risk. MRAs may compound CNIs associated hyperkalemia and early eGFR decline, requiring close potassium and renal-function monitoring. These therapies may extend cardiorenal benefits observed in nontransplant chronic kidney disease to selected KTX recipients. Their use should be individualized, introduced sequentially, and supported by monitoring of graft function, electrolytes, volume status, blood pressure, and IS exposure. Temporary withholding should follow drug-specific perioperative and sick-day guidance, particularly for SGLT2i.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42989631/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42983242",
     "title": "Diabetes Pharmacotherapy: A Medicinal Chemistry Perspective on Conventional, Emerging, and Plant-derived Antidiabetic Agents.",
     "authors": [
@@ -1207,6 +1405,23 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42851139",
+    "title": "GLP-1 receptor agonists and serious adverse events: Evidence, uncertainty and clinical implications.",
+    "authors": [
+      "Ueda Peter"
+    ],
+    "journal": "Journal of internal medicine",
+    "year": "2026",
+    "doi": "10.1111/joim.70170",
+    "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists provide benefits in weight reduction, glycaemic control in Type 2 diabetes, and cardiovascular and renal outcomes. Their widespread use has given rise to concerns regarding rare but potentially serious adverse events. This narrative review appraises evidence regarding seven serious adverse events linked to GLP-1 receptor agonists: thyroid cancer, non-arteritic anterior ischaemic optic neuropathy (NAION), suicidal behaviours and self-harm, diabetic retinopathy complications, acute pancreatitis, gallbladder and biliary disease and intestinal obstruction. Evidence from mechanistic studies, spontaneous reports, randomized trials and cohort studies is considered. Gallbladder and biliary disease has the most consistent evidence supporting a causal association. Worsening of diabetic retinopathy appears most consistent with early worsening after rapid glycaemic improvement in patients with pre-existing retinopathy. For thyroid cancer, NAION, suicidal behaviour and self-harm, acute pancreatitis and intestinal obstruction, evidence regarding causality remains uncertain. Rare events, incomplete ascertainment in trials and residual confounding in observational studies limit inference. Because these events are rare, even substantial relative risk increases generally correspond to small absolute risk increases in broad populations but may become relevant in patients with high baseline risk. Treatment decisions should consider the strength and uncertainty of safety evidence, individual baseline risk, expected benefits relative to available alternatives and patient preferences.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42851139/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42846192",
     "title": "BBS10-related Bardet-Biedl syndrome with an atypical presentation of diabetes mellitus: A case report.",
     "authors": [
@@ -2020,6 +2235,31 @@
       "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/41860010/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "41839779",
+    "title": "First Experience With Semaglutide for the Treatment of Obesity in Nondiabetic Patient With Progressive Dysfunction of Renal Graft.",
+    "authors": [
+      "Miertová Zuzana",
+      "Blichová Tímea",
+      "Vnučák Matej",
+      "Graňák Karol",
+      "Kleinová Patrícia",
+      "Kollár Andrej",
+      "Bolek Tomáš",
+      "Dedinská Ivana",
+      "Mokáň Marián",
+      "Samoš Matej"
+    ],
+    "journal": "American journal of therapeutics",
+    "year": "2026",
+    "doi": "10.1097/MJT.0000000000002097",
+    "abstract": "",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41839779/",
     "screening_status": "não avaliado"
   },
   {

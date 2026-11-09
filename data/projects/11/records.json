@@ -1,5 +1,86 @@
 [
   {
+    "pmid": "42997292",
+    "title": "The impact of GLP-1 receptor agonists on chemotherapeutic efficacy: insights from GWAS and experiments.",
+    "authors": [
+      "Huang Sha",
+      "Feng Yongqi",
+      "Liu Yeling",
+      "Mo Xiaochun",
+      "Hu Haichuan",
+      "Chen Haolin",
+      "Han Mengyi",
+      "Huang Wanting",
+      "Zheng Wantong",
+      "Hou Xinting",
+      "Wen Runfeng",
+      "Liu Chenbing",
+      "Wang Jiahui",
+      "Wang Yunzhen"
+    ],
+    "journal": "Frontiers in pharmacology",
+    "year": "2026",
+    "doi": "10.3389/fphar.2026.1957757",
+    "abstract": "Emerging evidence highlights the anti-tumor properties of Glucagon-like peptide-1 receptor agonists (GLP-1RAs). However, their synergistic potential with standard chemotherapy remains largely unexplored. Data from Genome-wide association study (GWAS) were used to select single-nucleotide polymorphisms (SNPs) strongly associated with lipid-lowering drug targets as instrumental variables. Causal effects were assessed primarily using the inverse variance weighted (IVW) method, supported by comprehensive sensitivity analyses to control for pleiotropy and heterogeneity. These Mendelian randomization (MR) findings were further validated through in vitro functional assays (cell viability, apoptosis, and Western blot) and an in vivo tumor-bearing mouse model. Glucagon-like peptide-1 receptor (GLP-1R) activity showed a significantly positive causal relationship with dihydrofolate reductase (DHFR; β = 0.323, P = 6.02 × 10-17) and apoptosis regulator Bcl-2 (β = 0.259, P = 2.1 × 10-11) but a negative relationship with ribonucleoside-diphosphate reductase large subunit (RRM1; β = -0.12, P = 2.32 × 10-3). Functional experiments validated these genetic findings. GLP-1RA significantly enhanced the antitumoral efficacy of gemcitabine both in vitro and in vivo by repressing RRM1. Conversely, GLP-1RA attenuated the anti-tumor effects of methotrexate and paclitaxel by upregulating DHFR and Bcl-2, respectively. Notably, GLP-1RA combination therapy achieved these modulatory effects without exacerbating chemotherapy-associated systemic toxicity. GLP1-RAs can influence the efficacy of chemotherapeutic drugs such as methotrexate, paclitaxel, and gemcitabine.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42997292/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42990344",
+    "title": "Evasion of Hepatic ILC1 Immunosurveillance Drives Breast Cancer Liver Metastasis.",
+    "authors": [
+      "Li Peng",
+      "Li Jun",
+      "Cornish Andrew E",
+      "Zhang Jing",
+      "Zhang Xian",
+      "Bahceci Dorukhan",
+      "Xu Zijian",
+      "Ji Liangliang",
+      "Guo Si-Kun",
+      "Brosnan Sophia",
+      "Nixon Briana G",
+      "Yan Juan",
+      "Chi Ping",
+      "Pareja Fresia",
+      "Razavi Pedram",
+      "Fong Christopher",
+      "Price Adam",
+      "Richards Allison",
+      "Li Ming O"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "year": "2026",
+    "doi": "10.64898/2026.10.26.759951",
+    "abstract": "Metastasis, the dissemination of cancer cells to distant organs, is an inefficient process 1 , yet remains the leading cause of cancer-related mortality 2 . The cellular barriers and evasion mechanisms governing organ-specific susceptibility remain incompletely understood 3-5 , hindering the development of effective anti-metastatic therapies 6 . Here, we show that liver-resident type 1 innate lymphoid cells (ILC1s) constitute an essential immunosurveillance barrier against breast cancer liver metastasis that can be bypassed through either cancer cell-intrinsic or host-dependent mechanisms. In a cohort of patients with multi-organ metastatic breast cancer, liver metastasis occurred later and was associated with poorer survival than lung metastasis, with elevated body mass index emerging as a clinical risk factor. This metabolic vulnerability was recapitulated in mice, where a high-fat diet induced hepatosteatosis and selectively enhanced breast cancer colonization of the liver. Mechanistically, liver and lung colonization were restrained by ILC1s and circulating natural killer (NK) cells, respectively. Following cancer cell challenge, NK cells expanded and became activated, clearing cancer cells through the lytic granule pathway and engagement of the death receptor DR5, whereas activated ILC1s selectively required high DR5 expression on cancer cells, supported by AP-2α (TFAP2A)-mediated transcriptional activation, for effective immunosurveillance. Heterozygous copy-number deletion at TNFRSF10B (encoding DR5) in human tumours reduced DR5 expression and predisposed to liver metastasis. Hepatosteatosis further compromised this barrier by reducing IL-15 expression in macrophages, thereby depleting hepatic ILC1s, effects reversible with glucagon-like peptide-1 (GLP-1) receptor agonists. Thus, hepatic ILC1s form a critical organ-specific barrier to breast cancer metastasis, vulnerable to both cancer cell-intrinsic DR5 downregulation and host metabolic dysfunction, the latter of which is pharmacologically correctible.",
+    "publication_types": [
+      "Journal Article",
+      "Preprint"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42990344/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42989433",
+    "title": "Glucagon-like Peptide-1 Receptor Agonists and Thyroid Cancer: Review of Preclinical and Human Data.",
+    "authors": [
+      "Braunstein Elsa W",
+      "Braunstein Glenn D"
+    ],
+    "journal": "Endocrine reviews",
+    "year": "2026",
+    "doi": "10.1210/endrev/bnag044",
+    "abstract": "Preclinical rodent studies showing a dose-dependent increase in thyroid C-cell hyperplasia and neoplasia with Glucagon-like Peptide-1 Receptor Agonists (GLP-1RAs), led the United States Federal Drug Administration to require a boxed warning contraindicating GLP-1RAs for patients with a personal or family history of medullary thyroid carcinoma (MTC) or in patients with Multiple Endocrine Neoplasia syndrome. However, neither primate oncogenicity studies nor patient clinical trials showed C-cell stimulation, calling into question the relevance of rodent models to humans. Indeed, rodents have a high rate of spontaneous thyroid C-cell tumors, a higher number of thyroid C-cells and GLP-1 receptors and use a different pathway from humans in MTC oncogenesis. Although, the majority of meta-analyses of randomized clinical trials and cohort studies using administrative, electronic medical record and/or registry databases report no clear association between GLP-1RA use and thyroid cancer development, pharmacovigilance database studies do demonstrate a positive relationship; however, this association can only be inferred as a possible signal rather than causation and is likely due to notoriety or reporting bias. Additionally, analysis of the overall trends of thyroid cancer incidence in the U.S. since the release of GLP-1RAs for patient use in 2005 show an early increase, probably due to overdiagnosis of papillary carcinoma (PTC); however, the relative proportion of MTC has actually decreased. Because the preponderance of data does not support a causative relationship between GLP-1RA use and MTC (or PTC), we conclude that the need for the boxed warning about the risk of C-cell neoplasia is no longer necessary.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42989433/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42986942",
     "title": "GLP-1 therapies and cancer risk.",
     "authors": [
@@ -18,7 +99,7 @@
   },
   {
     "pmid": "42986421",
-    "title": "Rethinking endpoints for anti-obesity pharmacotherapy in patients with hr+ early breast cancer receiving endocrine therapy: from body weight and BMI to body composition.",
+    "title": "Rethinking endpoints for anti-obesity pharmacotherapy in patients with HR+ early breast cancer receiving endocrine therapy: from body weight and BMI to body composition.",
     "authors": [
       "Lampropoulou Dimitra Ioanna",
       "Dedes Vasileios",
@@ -1899,6 +1980,28 @@
       "Journal Article"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42444315/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42419484",
+    "title": "Weight Gain on Lorlatinib Is Associated With Accumulation of Visceral Adipose Tissue.",
+    "authors": [
+      "Mantz Lea",
+      "Mercaldo Nathaniel D",
+      "Peterson Jennifer",
+      "Abadi Payam",
+      "Krueger Elizabeth A",
+      "Fintelmann Florian J",
+      "Dagogo-Jack Ibiayi"
+    ],
+    "journal": "Journal of thoracic oncology : official publication of the International Association for the Study of Lung Cancer",
+    "year": "2026",
+    "doi": "10.1016/j.jtho.2026.104078",
+    "abstract": "Lorlatinib exposure is associated with metabolic effects, including weight gain. Anatomical distribution (i.e., visceral versus subcutaneous) of the gained adipose tissue remains poorly characterized. Body composition was retrospectively analyzed using computed tomography images at baseline, 3 months, 6 months, and 12 months for patients with anaplastic lymphoma kinase-positive (ALK+) lung cancer treated with later-line lorlatinib in prospective trials at the Massachusetts General Hospital. Longitudinal trends were assessed in the overall cohort and compared across lorlatinib doses. Body composition analysis was also performed for a patient receiving first-line lorlatinib. Between 2014 and 2020, 67 patients received lorlatinib 100 mg (n = 37) or 50 to 75 mg (n = 30). Overall, the skeletal muscle index, visceral adipose tissue index (VATI), and body mass index (BMI) increased from baseline to 3 months and from 3 months to 6 months (e.g., baseline to 3 mo skeletal muscle index: 0.77 cm2/m2 [95% confidence interval or CI: 0.08, 1.45; p value = 0.028]; VATI: 4.23 cm2/m2 [95% CI: 2.37, 6.19; p value < 0.001]; BMI: 0.97 kg/m2 [95% CI: 0.59, 1.35 kg/m2; p value < 0.001]). There was insufficient evidence of change in the subcutaneous adipose tissue index in the study period. When adjusted for dose, the trends persisted but did not reach statistical significance. Analysis of a patient receiving first-line lorlatinib reported a 16-kg weight gain and increased BMI and VATI during the initial 3 years, with a decrease in BMI and VATI after initiating dulaglutide. Weight gain during treatment with lorlatinib is preferentially associated with accumulation of visceral rather than subcutaneous adipose tissue. Future interventions to address lorlatinib-related weight gain should focus on mitigating visceral adiposity.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42419484/",
     "screening_status": "não avaliado"
   },
   {

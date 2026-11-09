@@ -10,6 +10,81 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42545731/
 ER  - 
 
 TY  - JOUR
+ID  - 43001258
+TI  - The hypertension-NVU-cognition Axis: Mechanisms and interventions.
+AU  - Tao Zhengde
+JO  - Aging brain
+PY  - 2026
+DO  - 10.1016/j.nbas.2026.100174
+AB  - Midlife hypertension is a major modifiable risk factor for Alzheimer's disease, but the specific molecular pathways through which it contributes to cognitive decline-pathways that are partially independent of, and interact with, amyloid-β pathology-are not fully elucidated. This review synthesizes and elaborates the "Hypertension-NVU-Cognition" axis, building on the established cerebrovascular biology, neurovascular unit, cerebral small vessel disease (CSVD), and vascular cognitive impairment (VCID) literature, within which this axis is positioned as an integrative, complementary framework rather than a wholly novel or independent pathway. Sustained hypertension damages the neurovascular unit (NVU) through hemodynamic stress, blood-brain barrier (BBB) disruption (via tight junction and pericyte loss), and neuroinflammation (pro-inflammatory microglial activation and reactive astrogliosis). This NVU dysfunction directly impairs cognition via glutamate excitotoxicity, cholinergic axonal ischemia, and reduced Aβ clearance. Critically, midlife blood pressure trajectories are stronger predictors of late-life cognition than late-life levels. NVU injury frequently coexists with amyloid pathology, yet emerging evidence indicates it also contributes to cognitive decline in individuals with low amyloid burden, highlighting its complementary and potentially synergistic role alongside classical AD mechanisms. This axis highlights candidate molecular targets and biomarkers that merit further investigation for early intervention. Promising biomarkers include plasma sPDGFRβ (pericyte injury) and DCE-MRI Ktrans (BBB leakage). Promising future research directions include standardizing NVU biomarkers and conducting targeted trials that combine intensive blood pressure control with investigational NVU-protective agents (e.g., GLP-1 receptor agonists) in at-risk midlife individuals; these approaches are not yet clinically actionable and require validation in adequately powered randomized controlled trials. Understanding this axis is crucial for developing effective preventive therapies against vascular cognitive impairment.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43001258/
+ER  - 
+
+TY  - JOUR
+ID  - 42999341
+TI  - In Vivo Transcriptomics-Based Framework for Systematic Indication Expansion.
+AU  - Palmer Zsolt
+AU  - Koirala Shubham
+AU  - Talukdar Nabasmita
+AU  - Zhang Xiaodan
+AU  - Garver Hannah
+AU  - Mahlmeister McKenzie
+AU  - Huang Li
+AU  - Joseph Dimitri
+AU  - Leshchiner Dmitry
+AU  - Shankar Rama
+AU  - Watts Stephanie W
+AU  - Li Xiaopeng
+AU  - Glicksberg Benjamin S
+AU  - Lauver Adam
+AU  - Chen Bin
+JO  - bioRxiv : the preprint server for biology
+PY  - 2026
+DO  - 10.64898/2026.10.12.758524
+AB  - Capturing the systemic effects of drugs in vivo remains a fundamental challenge for drug repurposing strategies. Here, we present an in vivo transcriptomics-based drug repurposing framework that profiles multi-organ RNA-seq from drug-treated rodents to model systemic drug responses and match tissue-specific drug signatures against a compendium of disease signatures for indication expansion. We applied this framework to semaglutide, a GLP-1 receptor agonist originally developed for diabetes and subsequently expanded for several other indications. By harmonizing more than 900 human disease transcriptomic signatures via agentic AI and using Z-transformed reversal of gene expression scoring to quantify drug-disease relationships, our approach successfully recovered established semaglutide indications while deprioritizing Alzheimer's disease, an indication for which semaglutide was not effective. Top predictions for common diseases were supported by real-world electronic health record data from the Mount Sinai Health System and several predictions for rare indications are proposed for further investigation. This framework provides a scalable strategy for indication expansion across diverse therapeutic agents, especially investigational compounds for which real-world evidence remains sparse. Comparing drug and disease expression profiles from in vivo contexts achieves indication profiles reflective of the interconnected mammalian organism.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42999341/
+ER  - 
+
+TY  - JOUR
+ID  - 42997476
+TI  - SGLT-2 Inhibitors versus GLP-1 Receptor Agonists for Dementia and Depression in Type 2 Diabetes Mellitus: A Meta-Analysis.
+AU  - Pan Runzhou
+AU  - Wang Bo
+AU  - Li Yuzheng
+AU  - Li Huiyun
+AU  - Liang Xue
+AU  - Zhang Yan
+AU  - Liu Xiaonan
+AU  - Huang Xiaowei
+AU  - Wang Rongrong
+AU  - Ji Hong
+AU  - Zhao Yongcai
+JO  - Diabetes, metabolic syndrome and obesity : targets and therapy
+PY  - 2026
+DO  - 10.2147/DMSO.S628886
+AB  - The comparative effects of sodium-glucose cotransporter-2 inhibitors (SGLT-2i) and glucagon-like peptide-1 receptor agonists (GLP-1RA) on dementia and depression risk in patients with type 2 diabetes mellitus (T2DM) remain unclear. We conducted a meta-analysis to directly compare the incidence of dementia and depression-related outcomes between users of these two drug classes. A systematic literature search was conducted across PubMed, Embase, Cochrane Library, and Web of Science from inception to June 1, 2026. Observational studies reporting quantifiable data on dementia or depression-related events in adults with T2DM were included. Detailed information on study design, age, demographic characteristics, eligibility criteria, outcome definitions, and outcome incidence was extracted. Data were pooled using a random-effects model to calculate odds ratios (ORs) with 95% confidence intervals (CIs). Sensitivity analyses involved sequential exclusion of individual studies. Prespecified subgroup analyses examined effect modifiers including geographic region, study design, age, and follow-up duration. Study quality was assessed using the Newcastle-Ottawa Scale, and the overall certainty of evidence and methodological rigor of this meta-analysis were evaluated using the AMSTAR 2 checklist. Thirteen observational studies comprising 1,055,315 participants were included. Compared with GLP-1RA users, SGLT-2i users had lower rates of all-cause dementia (OR 0.85, 95% CI 0.77-0.94; P = 0.001), vascular dementia (OR 0.75, 95% CI 0.71-0.80; P < 0.001), Alzheimer's disease (OR 0.76, 95% CI 0.72-0.79; P < 0.001), and composite depression-related outcomes (OR 0.76, 95% CI 0.67-0.88; P = 0.001), including suicide/self-harm (OR 0.69, 95% CI 0.60-0.80; P < 0.001) and depression/anxiety (OR 0.78, 95% CI 0.65-0.93; P = 0.006). Subgroup analyses revealed more pronounced differences in Asian populations (dementia: OR 0.86, 95% CI 0.75-0.99; I2 = 0%), European cohorts (depression: OR 0.67, 95% CI 0.54-0.84; I2 = 83%), and in studies that enrolled younger adults (minimum age 18 years, without an upper age restriction) (dementia: OR 0.79, 95% CI 0.76-0.81; I2 = 0%; depression: OR 0.67, 95% CI 0.54-0.84; I2 = 83%). In this meta-analysis of observational studies, SGLT-2i use was associated with lower rates of dementia and depression-related outcomes compared with GLP-1RA use in patients with T2DM. Age and geographic region may influence the observed associations. Future randomized controlled trials and studies reporting outcomes stratified by sex, socioeconomic status, and educational level are warranted.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42997476/
+ER  - 
+
+TY  - JOUR
+ID  - 42997320
+TI  - GLP-1 receptor agonists as potential disease-modifying agents in Parkinson's and Alzheimer's disease: mechanisms, clinical trial evidence, and the neuroprotection horizon.
+AU  - Alsharif Mohamed
+AU  - Shrebaty Omran
+AU  - Aloudah Mohammad Ammar
+AU  - Alqahtani Mayar
+AU  - Aloubili Raghad Saud
+AU  - Ahmed Marafi Jammaa
+AU  - Albani Bana
+AU  - El Bana Ahmad
+JO  - Frontiers in aging neuroscience
+PY  - 2026
+DO  - 10.3389/fnagi.2026.1969490
+AB  - Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), originally developed as antidiabetic agents, have emerged as candidate disease-modifying therapies for Parkinson's disease (PD) and Alzheimer's disease (AD), reflecting the widespread expression of GLP-1 receptors across neurons, glia, and the cerebral vasculature. This narrative review synthesizes mechanistic, clinical trial, and biomarker evidence for GLP-1 RAs in PD and AD, based on a literature search of PubMed, Embase, Scopus, and Web of Science, with ClinicalTrials.gov searched separately for trial protocols and results, through May 2026. Preclinical data implicate GLP-1 receptor agonism in anti-neuroinflammatory signaling, mitochondrial preservation, autophagy and proteostasis enhancement, anti-apoptotic effects, synaptic plasticity, cerebrovascular protection, and glymphatic clearance. Clinical evidence in PD is mixed and agent- and formulation-dependent: the phase II Exenatide-PD trial reported a motor benefit that persisted after washout (∼3.5-point between-group difference in MDS-UPDRS Part III), and the phase II LIXIPARK trial (lixisenatide) reported a significant 3.08-point between-group difference (95% CI 0.86-5.30; p = 0.007) favoring lixisenatide, whereas the larger, longer phase III Exenatide-PD3 trial, using an extended-release weekly formulation, found no significant effect on the same endpoint (adjusted coefficient 0.92; 95% CI -1.56 to 3.39; p = 0.47); oral semaglutide is under investigation in the ongoing phase II MOST-ABLE trial. In AD, the phase IIb liraglutide (ELAD) trial did not achieve statistical benefit on either its primary imaging endpoint (cerebral glucose metabolic rate; p = 0.14) or on most secondary cognitive measures, and the phase III semaglutide trials EVOKE and EVOKE+ did not meet their primary CDR-SB endpoint (estimated difference -0.08, 95% CI -0.35 to 0.20, p = 0.57 in EVOKE; 0.10, 95% CI -0.17 to 0.38, p = 0.46 in EVOKE+), despite biomarker signals including reductions in cerebrospinal fluid tau species and inflammatory markers. Comparative pharmacology reveals substantial heterogeneity in central nervous system penetration, receptor engagement, and systemic bioavailability across exenatide, liraglutide, semaglutide, and the imbalanced GLP-1/GIP co-agonist tirzepatide, complicating cross-agent extrapolation. Persistent challenges include separating direct neuroprotection from indirect metabolic and cardiovascular benefit, limited characterization of brain drug exposure, trial durations that may be short relative to the expected latency of a disease-modifying effect, and the absence of validated response biomarkers. We conclude that although the mechanistic and epidemiological rationale for GLP-1 RAs in neurodegeneration remains biologically plausible, current trial evidence does not yet support their use outside clinical trials, irrespective of comorbid diabetes status; future studies should prioritize earlier intervention, biomarker-guided patient selection, adequately powered subgroup analyses, and brain-penetrant formulations.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42997320/
+ER  - 
+
+TY  - JOUR
 ID  - 42986976
 TI  - Obesity pharmacotherapies and cognition.
 AU  - Börchers Stina

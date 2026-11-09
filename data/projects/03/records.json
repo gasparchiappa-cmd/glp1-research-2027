@@ -44,6 +44,25 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42991871",
+    "title": "Prognostic value of postoperative glucose-to-lymphocyte ratio and visceral fat index in non-diabetic gastric cancer patients: a mediation and modeling study.",
+    "authors": [
+      "Lai Min",
+      "Lan Ning",
+      "Zhou Yujie",
+      "Yuan Wenzhen"
+    ],
+    "journal": "Frontiers in nutrition",
+    "year": "2026",
+    "doi": "10.3389/fnut.2026.1838308",
+    "abstract": "Prognostic assessment in gastric cancer (GC) remains challenging, as TNM staging has limited utility for individualized risk stratification. Systemic inflammation, metabolic status, immune function, and body composition are known to influence survival outcomes. This study aimed to evaluate the prognostic value of preoperative visceral adipose tissue index (VATI) and postoperative day 1 (POD1) glucose-to-lymphocyte ratio (GLR) in non-diabetic GC patients, and to develop an integrated prognostic model. This retrospective cohort study analyzed data from 339 GC patients, who were randomly assigned to a training cohort (n = 272) and an internal validation cohort (n = 67) in an 8:2 ratio using a computer-generated random sampling method. Cox regression was performed to identify independent predictors of overall survival (OS). Causal mediation analysis using a linear mediator model and a parametric accelerated failure-time survival model was performed to assess whether POD1 GLR mediated the association between preoperative VATI and OS. A TGV nomogram, integrating TNM stage, neoadjuvant chemotherapy (NAC), GLR, and VATI, was developed and validated using the concordance index (C-index), receiver operating characteristic (ROC) curves, calibration plots, and decision curve analysis (DCA). Multivariable Cox regression analysis showed that NAC, advanced pTNM stage, high POD1 GLR, and low VATI were independently associated with poorer OS (p < 0.05). Mediation analysis showed no significant indirect effect of POD1 GLR on the VATI-OS relationship (ACME, -3.82 days; 95% CI, -189.75 to 105.37; p = 0.899). Similar findings were obtained in the POD1 landmark and surgically adjusted sensitivity analyses. The TGV nomogram achieved 3- and 5-year AUCs of 0.850 and 0.798 in the training cohort and 0.785 and 0.729 in the internal validation cohort, respectively. The corresponding AUCs for TNM staging alone were 0.769 and 0.702 in the training cohort and 0.782 and 0.642 in the internal validation cohort. Training-cohort DCA suggested a higher net benefit for the TGV model than TNM staging across much of the evaluated threshold range at both 3 and 5 years. In this retrospective cohort of non-diabetic GC patients, low preoperative VATI and high POD1 GLR were independently associated with poorer OS. Mediation analysis provided no statistically significant evidence that POD1 GLR mediated the association between VATI and OS. The integrated model combining pTNM stage, NAC, GLR, and VATI showed potential for risk stratification, although its incremental prognostic value over established TNM-based models requires confirmation in independent external cohorts.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42991871/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42987286",
     "title": "Divergent Effects of Caloric Restriction and Endurance Training on Adipose Macrophage-Related Gene Expression in Aged Wistar Rats.",
     "authors": [
