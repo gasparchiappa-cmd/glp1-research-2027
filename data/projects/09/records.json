@@ -17,6 +17,87 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "43030219",
+    "title": "Anatomical and Molecular Foundations of the Gut-Brain Axis in Alzheimer's Disease: From Molecular Mechanisms to Therapeutic Translation.",
+    "authors": [
+      "Potu Bhagath Kumar",
+      "Arulkandan Abirami",
+      "Gopalakrishna Prarthana Kalerammana",
+      "Thanu Amardev Singh",
+      "Omar Noor Azzizah",
+      "Nasr El-Din Wael Amin",
+      "Vishnumukkala Thirupathirao"
+    ],
+    "journal": "Nutrients",
+    "year": "2026",
+    "doi": "10.3390/nu18213591",
+    "abstract": "Alzheimer's disease (AD) is a complex disease that involves systemic, vascular, and metabolic components affecting the brain, in addition to amyloid-beta (Aβ) and tau pathology. The microbiota-gut-brain axis, a bidirectional communication network between the gastrointestinal tract and the central nervous system, involving neural, immune, endocrine, and metabolic pathways, has arisen as a mechanistically plausible and clinically relevant contributor to AD pathogenesis among these systemic contributors. This review integrates information from human observational research, preclinical transgenic and germ-free models, and clinical trials to assess how gut dysbiosis, intestinal barrier dysfunction, and microbial metabolites converge on amyloidogenic and tau-associated pathways. In preclinical models, disruption of intestinal barrier integrity is proposed to allow translocation of lipopolysaccharide and bacterial amyloids into the systemic circulation, activating Toll-like receptor and NLRP3 inflammasome signaling that may prime microglia and astrocytes towards a chronic neuroinflammatory state. Further, dysbiosis-mediated changes in short-chain fatty acid, tryptophan-kynurenine, and bile acid metabolism may influence amyloid precursor protein processing, microglial clearance capability, and tau phosphorylation. Preclinical germ-free and fecal-transfer investigations provide fundamental evidence for these pathways in rodent models, while human case-control and Mendelian randomization data indicate converging yet diverse associations that have not yet established underlying directionality in human disease. Therapeutic modulation of the axis has shown promising early phase and observational signals using probiotics, synbiotics, dietary pattern interventions, fecal microbiota transplantation and pharmacological targeting of the GLP-1 pathway; however, the phase 3 EVOKE and EVOKE+ trials of oral semaglutide did not meet their primary cognitive endpoint, and heterogeneity of trials, short follow-up, and inconsistent reporting of biomarkers currently preclude definitive conclusions. We conclude that the microbiota-gut-brain axis is a biologically plausible and therapeutically tractable component of AD pathophysiology, but translation from mechanistic plausibility to clinical utility will depend upon longitudinal, biomarker-anchored and adequately powered interventional trials in genetically and microbiologically diverse populations. Because diet is among the most readily modifiable determinants of gut microbiome composition and function, this review prioritizes dietary patterns, prebiotic fibers, and probiotic or synbiotic supplementation as practical strategies for investigating the microbiota-gut-brain axis in AD. Their disease-modifying efficacy remains unproven; therefore, mechanistic and pharmacological approaches are discussed as complementary avenues for informing future research.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030219/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43025540",
+    "title": "Neuroprotective actions of GLP-1 receptor agonists in Neurodegeneration: From mechanisms to clinical translation.",
+    "authors": [
+      "Lin Yalin",
+      "He Junqi",
+      "Gong Junwen",
+      "Chen Jiaxin",
+      "Ke Zhiqiang",
+      "Cai Fei"
+    ],
+    "journal": "Neuroscience",
+    "year": "2026",
+    "doi": "10.1016/j.neuroscience.2026.11.016",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have been explored as potential therapeutics for neurodegenerative disorders, yet a comprehensive integration of their neuroprotective mechanisms across Alzheimer's disease (AD), Parkinson's disease (PD), and related conditions remains to be consolidated. This review examines the multimodal effects of GLP-1RAs on neuroinflammation, autophagy, mitochondrial function, and protein aggregation, with a focus on translational relevance and alignment between preclinical findings and clinical evidence. A systematic synthesis of preclinical and clinical studies investigating GLP-1RA administration in neurodegenerative disease models and populations was conducted. Studies reporting neuroprotective outcomes and mechanistic pathways were included, and clinical trial data and real-world evidence for AD, PD, Huntington's disease, stroke, diabetic encephalopathy, and peripheral neuropathy were systematically evaluated. Preclinical evidence revealed that GLP-1RAs modulate key pathogenic processes, including amyloid-β and tau pathology, α-synuclein accumulation, neuroinflammatory cascades, oxidative stress, mitochondrial dynamics, endoplasmic reticulum stress, autophagy, and synaptic plasticity. Clinical data provided variable support, with emerging real-world evidence suggesting potential benefits. Novel strategies-such as dual GIP/GLP-1 receptor agonists, enhanced blood-brain barrier penetration, and sustained-release formulations-were identified as promising approaches to improve efficacy, although significant gaps remain between preclinical promise and clinical outcomes. This review consolidates evidence that GLP-1RAs exert broad neuroprotective effects through multiple mechanisms, but clinical translation is still evolving. The potential of GLP-1-based therapies as disease-modifying interventions for neurodegeneration warrants further investigation, with particular attention to bridging preclinical and clinical findings and optimizing drug delivery strategies.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43025540/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43017408",
+    "title": "AI-enabled drug repurposing in Alzheimer's disease: from computational nomination to pharmacological proof.",
+    "authors": [
+      "Li Xinzhong",
+      "Gozes Illana"
+    ],
+    "journal": "Frontiers in pharmacology",
+    "year": "2026",
+    "doi": "10.3389/fphar.2026.1999276",
+    "abstract": "Artificial intelligence (AI) has expanded the scale and speed of drug repurposing in Alzheimer's disease (AD). Transcriptomic signature matching, network-based systems pharmacology, real-world data pharmacoepidemiology and multi-omics machine learning have generated hundreds of candidate drugs, while repurposed agents account for 35% (56 of 158) of drugs and 42% (15 of 36) of Phase 3 agents in the 2026 AD pipeline. Clinical translation, however, remains unproven. Randomised trials of GLP-1 receptor agonists illustrate the gap between prioritisation and therapeutic proof: semaglutide did not slow clinical progression in evoke and evoke+, while liraglutide did not improve the primary FDG-PET endpoint in ELAD. We examine four complementary evidence domains, defining what each can and cannot establish, and position large language models as a cross-cutting tool for evidence synthesis and knowledge-graph reasoning rather than an independent source of biological evidence. Rather than cataloguing methods and candidates, we appraise leading drugs at the individual-molecule level and propose explicit criteria for progression from computational nomination to clinical testing. The framework defines seven requirements for clinical progression: disease-stage matching, adequate site-of-action exposure, including CNS exposure for central mechanisms, mechanistic validation in human-relevant models, biomarker-stratified trial design, convergence across independent evidence domains, causal inference with explicit boundary conditions, and mechanism-aligned endpoints with predefined stopping rules. AI has improved candidate prioritisation in AD, but clinical value will depend on converting ranked hypotheses into pharmacologically plausible and prospectively testable programmes.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43017408/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43005456",
+    "title": "Editorial: Glucose metabolism in brain and neurodegenerative diseases: multifactorial effects.",
+    "authors": [
+      "de Oliveira Rita Machado",
+      "Nalvarte Ivan",
+      "González Andrea"
+    ],
+    "journal": "Frontiers in aging neuroscience",
+    "year": "2026",
+    "doi": "10.3389/fnagi.2026.1991548",
+    "abstract": "",
+    "publication_types": [
+      "Editorial"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43005456/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "43001258",
     "title": "The hypertension-NVU-cognition Axis: Mechanisms and interventions.",
     "authors": [
@@ -145,7 +226,7 @@
     "journal": "Metabolism: clinical and experimental",
     "year": "2026",
     "doi": "10.1016/j.metabol.2026.156810",
-    "abstract": "The intersection of metabolic disease and neurodegeneration represents one of the most consequential frontiers in translational neuroscience. Converging epidemiological, mechanistic, and pharmacological evidence supports a bidirectional metabolic-brain axis in which systemic insulin resistance, obesity, and chronic metabolic inflammation are associated with and may contribute to alterations in neuronal survival, synaptic plasticity, and neuroimmune homeostasis. GLP-1 receptor agonists, originally developed for glycemic control and weight management, have therefore been investigated as potential disease-modifying therapies across Alzheimer's disease, Parkinson's disease, and related neurodegenerative conditions through mechanisms including neuronal PKA activation, microglial NLRP3 suppression, mitochondrial biogenesis, and restoration of AQP4 perivascular localization that may contribute to glymphatic waste clearance. Direct human evidence for these CNS mechanisms remains limited or absent, with current support derived primarily from preclinical models and indirect human data, as detailed in Table 1, warranting dedicated investigation in the context of GLP-1 receptor agonism. Importantly, the two pivotal phase 3 programs designed to test this hypothesis in humans - EVOKE/EVOKE+ in early Alzheimer's disease and Exenatide-PD3 in Parkinson's disease - have both now reported, and neither demonstrated a statistically significant benefit on its primary clinical endpoint, despite favorable biomarker and epidemiological signals preceding these results. This review synthesizes current knowledge on brain insulin signaling, GLP-1 neurobiology, obesity-driven neuroinflammation, and the translational evidence for metabolic therapeutics in neurodegeneration, and uses the dissociation between mechanistic plausibility, epidemiological association, and null confirmatory trial results to identify critical knowledge gaps and translational barriers related to CNS target engagement, optimal dosing, and disease-modifying efficacy of GLP-1 receptor agonists. The review is organized into four major themes: brain insulin signaling, central GLP-1 biology, obesity-associated neuroinflammation, and the translational evidence supporting metabolic therapies for neurodegenerative disease.",
+    "abstract": "The intersection of metabolic disease and neurodegeneration represents one of the most consequential frontiers in translational neuroscience. Converging epidemiological, mechanistic, and pharmacological evidence supports a bidirectional metabolic-brain axis in which systemic insulin resistance, obesity, and chronic metabolic inflammation are associated with and may contribute to alterations in neuronal survival, synaptic plasticity, and neuroimmune homeostasis. GLP-1 receptor agonists, originally developed for glycemic control and weight management, have therefore been investigated as potential disease-modifying therapies across Alzheimer's disease, Parkinson's disease, and related neurodegenerative conditions through mechanisms including neuronal PKA activation, microglial NLRP3 suppression, mitochondrial biogenesis, and restoration of AQP4 perivascular localization that may contribute to glymphatic waste clearance. Direct human evidence for these CNS mechanisms remains limited or absent, with current support derived primarily from preclinical models and indirect human data, warranting dedicated investigation in the context of GLP-1 receptor agonism. Importantly, the two pivotal phase 3 programs designed to test this hypothesis in humans - EVOKE/EVOKE+ in early Alzheimer's disease and Exenatide-PD3 in Parkinson's disease - have both now reported, and neither demonstrated a statistically significant benefit on its primary clinical endpoint, despite favorable biomarker and epidemiological signals preceding these results. This review synthesizes current knowledge on brain insulin signaling, GLP-1 neurobiology, obesity-driven neuroinflammation, and the translational evidence for metabolic therapeutics in neurodegeneration, and uses the dissociation between mechanistic plausibility, epidemiological association, and null confirmatory trial results to identify critical knowledge gaps and translational barriers related to CNS target engagement, optimal dosing, and disease-modifying efficacy of GLP-1 receptor agonists. The review is organized into four major themes: brain insulin signaling, central GLP-1 biology, obesity-associated neuroinflammation, and the translational evidence supporting metabolic therapies for neurodegenerative disease.",
     "publication_types": [
       "Journal Article",
       "Review"
@@ -955,6 +1036,26 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42631802",
+    "title": "Glucose-Lowering Therapies and Cognitive Decline: From Molecular Mechanisms to Clinical Evidence and Future Perspectives.",
+    "authors": [
+      "Grasso Margherita",
+      "Maggio Viviana",
+      "Caraci Filippo",
+      "Rizzo Manfredi"
+    ],
+    "journal": "Advances in therapy",
+    "year": "2026",
+    "doi": "10.1007/s12325-026-03760-8",
+    "abstract": "Several lines of evidence suggest the relationship between diabetes and cognitive decline. Patients with a diagnosis of type 2 diabetes (T2D) present an increased risk of Alzheimer's disease (AD) development than the general population, and it is known that brain insulin resistance (IR) plays a key role in the conversion from mild cognitive impairment (MCI) into AD. During recent years, emerging therapeutic perspectives have been proposed with the aim of targeting T2D-related cognitive impairment, and glucose-lowering drug classes, especially glucagon-like peptide 1 receptor agonists (GLP-1RAs) and sodium glucose cotransporter inhibitors (SGLT2is), demonstrated neuroprotective effects and a positive effects on cognitive function acting by several molecular mechanisms including anti-inflammatory activity, modulation of insulin signaling, and promoting the neurogenesis process. Different clinical trials showed their ability in preventing neurodegenerative decline, with numerous phase II and III trials underway in populations with AD; however, although preclinical evidence is promising and some clinical data are encouraging, translating these results into established therapeutic strategies requires larger, randomized, and controlled clinical trials with extended follow-up period, standardized cognitive assessments, and inclusion of molecular and imaging biomarkers. Addressing these gaps will be essential to determine whether glucose-lowering drug classes can be introduced into clinical practice to prevent or slow cognitive decline in patients with T2D, exerting neuroprotective activity beyond their effect on glycemic control.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42631802/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42612619",
     "title": "GLP-1 receptor agonists for Alzheimer's disease: Lessons from trials and translational challenges.",
     "authors": [
@@ -1257,7 +1358,8 @@
     "doi": "10.1007/s11739-026-04468-x",
     "abstract": "Type 2 diabetes mellitus (T2DM) is associated with an increased risk of mild cognitive impairment (MCI) and dementia. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) provide cardiovascular and metabolic benefits, and emerging data suggest neurocognitive effects. We conducted a 24-month prospective observational study of 72 adults (≥ 50 years) with T2DM and MCI treated with semaglutide (subcutaneous [SC] or oral) and assessed at baseline (T0) and every 6 months (T1-T4). Outcomes included anthropometrics, fasting glucose, HbA1c, LDL-c, and neuropsychological tests (Montreal Cognitive Assessment [MoCA], Digit Symbol Substitution Test [DSST], Beck Depression Inventory [BDI]). A control cohort of 60 patients with T2DM and MCI not receiving semaglutide was evaluated with the same protocol. Semaglutide was associated with significant reductions in body weight, BMI, waist circumference, fasting glucose, and HbA1c (all p < 0.05). Cognitive performance improved, as shown by MoCA scores (median Δ≈ + 4 points, p < 0.001) at T4 compared with T0; at T4, semaglutide recipients also had higher MoCA scores than controls (+ 4.0 vs - 1.5, p < 0.001). DSST and BDI scores also improved (p = 0.001 and p = 0.044, respectively). MoCA improved similarly with both formulations, whereas DSST improvement reached significance only with SC semaglutide. In multivariable regression, semaglutide independently predicted MoCA improvement (+ 4.76 points, p < 0.001). No semaglutide-treated patient progressed to dementia versus 14 in controls (p = 0.002). In adults with T2DM and MCI, semaglutide was associated with improved cognition and a lower risk of progression to dementia. Differences between formulations may reflect distinct central nervous system engagement. Randomized trials are warranted.",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Observational Study"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42493728/",
     "screening_status": "não avaliado"

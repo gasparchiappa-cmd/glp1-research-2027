@@ -19,6 +19,242 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "43030438",
+    "title": "Practical Challenges of Switching and Cross-Titration Between Incretin-Based Therapies in Type 2 Diabetes and Obesity: A Narrative Review.",
+    "authors": [
+      "Makuc Jana",
+      "Janić Miodrag"
+    ],
+    "journal": "Journal of clinical medicine",
+    "year": "2026",
+    "doi": "10.3390/jcm15218295",
+    "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists and the dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonist tirzepatide have transformed the treatment of type 2 diabetes mellitus (T2DM) and obesity. Although these agents share an incretin-based mode of action, they differ in structure, receptor pharmacology, pharmacokinetics, formulation, and titration schedule, and the individual treatment response is highly heterogeneous. Switching between agents occurs in roughly one in four to one in three patients in real-world practice, yet no standardized protocol exists: recommendations rest largely on expert consensus, and no official dose-equivalence chart has been issued. This narrative review critically evaluates evidence for switching and cross-titration between incretin-based therapies; summarizes, insofar as they inform switching decisions, the pharmacological diversity and response heterogeneity that motivate switching; and translates the evaluated evidence into a stepwise practical switching algorithm, developed by the authors as an evidence-informed expert synthesis that has not been formally validated. Special populations, persistence, discontinuation, weight regain, and the emerging pipeline of multi-agonists and oral small molecules are addressed where they modify switching decisions. Until the evidence matures, individualized reason-specific transitions that preserve the continuity of incretin-based therapy offer the most defensible framework for practice.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030438/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43030219",
+    "title": "Anatomical and Molecular Foundations of the Gut-Brain Axis in Alzheimer's Disease: From Molecular Mechanisms to Therapeutic Translation.",
+    "authors": [
+      "Potu Bhagath Kumar",
+      "Arulkandan Abirami",
+      "Gopalakrishna Prarthana Kalerammana",
+      "Thanu Amardev Singh",
+      "Omar Noor Azzizah",
+      "Nasr El-Din Wael Amin",
+      "Vishnumukkala Thirupathirao"
+    ],
+    "journal": "Nutrients",
+    "year": "2026",
+    "doi": "10.3390/nu18213591",
+    "abstract": "Alzheimer's disease (AD) is a complex disease that involves systemic, vascular, and metabolic components affecting the brain, in addition to amyloid-beta (Aβ) and tau pathology. The microbiota-gut-brain axis, a bidirectional communication network between the gastrointestinal tract and the central nervous system, involving neural, immune, endocrine, and metabolic pathways, has arisen as a mechanistically plausible and clinically relevant contributor to AD pathogenesis among these systemic contributors. This review integrates information from human observational research, preclinical transgenic and germ-free models, and clinical trials to assess how gut dysbiosis, intestinal barrier dysfunction, and microbial metabolites converge on amyloidogenic and tau-associated pathways. In preclinical models, disruption of intestinal barrier integrity is proposed to allow translocation of lipopolysaccharide and bacterial amyloids into the systemic circulation, activating Toll-like receptor and NLRP3 inflammasome signaling that may prime microglia and astrocytes towards a chronic neuroinflammatory state. Further, dysbiosis-mediated changes in short-chain fatty acid, tryptophan-kynurenine, and bile acid metabolism may influence amyloid precursor protein processing, microglial clearance capability, and tau phosphorylation. Preclinical germ-free and fecal-transfer investigations provide fundamental evidence for these pathways in rodent models, while human case-control and Mendelian randomization data indicate converging yet diverse associations that have not yet established underlying directionality in human disease. Therapeutic modulation of the axis has shown promising early phase and observational signals using probiotics, synbiotics, dietary pattern interventions, fecal microbiota transplantation and pharmacological targeting of the GLP-1 pathway; however, the phase 3 EVOKE and EVOKE+ trials of oral semaglutide did not meet their primary cognitive endpoint, and heterogeneity of trials, short follow-up, and inconsistent reporting of biomarkers currently preclude definitive conclusions. We conclude that the microbiota-gut-brain axis is a biologically plausible and therapeutically tractable component of AD pathophysiology, but translation from mechanistic plausibility to clinical utility will depend upon longitudinal, biomarker-anchored and adequately powered interventional trials in genetically and microbiologically diverse populations. Because diet is among the most readily modifiable determinants of gut microbiome composition and function, this review prioritizes dietary patterns, prebiotic fibers, and probiotic or synbiotic supplementation as practical strategies for investigating the microbiota-gut-brain axis in AD. Their disease-modifying efficacy remains unproven; therefore, mechanistic and pharmacological approaches are discussed as complementary avenues for informing future research.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030219/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43027901",
+    "title": "From Oxyntomodulin to Retatrutide: A Translational Review of Metabolic Polyagonism.",
+    "authors": [
+      "Saldívar-Cerón Héctor Iván",
+      "Maldonado-Trejo Daniela",
+      "Chavez-Castañeda Quetzal",
+      "Mercado-Guzmán Ana Lorena",
+      "León-Barrita Angela de Jesús",
+      "López-García Isela Alejandra",
+      "Hernández-Solís Alejandra",
+      "Ramírez-Mendoza Andrés Moranchel",
+      "Terrazas-Delgado Daniela Alejandra",
+      "Castañeda-Ramírez Ari Evelyn",
+      "Quiñones-Lara Efrén",
+      "Jay-Jímenez Brenda Ofelia",
+      "Pozo-Molina Glustein",
+      "León-Cabrera Sonia"
+    ],
+    "journal": "International journal of molecular sciences",
+    "year": "2026",
+    "doi": "10.3390/ijms27219654",
+    "abstract": "Oxyntomodulin (OXM), an endogenous proglucagon-derived peptide with dual glucagon-like peptide-1 receptor (GLP-1R) and glucagon receptor (GCGR) agonism, provides a physiological precedent for contemporary multi-receptor pharmacology. Recognition that GCGR signaling regulates not only hepatic glucose production but also amino acid turnover, lipid metabolism, substrate oxidation, and energy expenditure prompted the development of engineered GLP-1R/GCGR co-agonists, including cotadutide, mazdutide, survodutide, and pemvidutide. Retatrutide extends this strategy by integrating GIPR, GLP-1R, and GCGR agonism within a single long-acting peptide and has produced substantial improvements in body weight, glycemic control, and cardiometabolic parameters in phase 2 and phase 3 trials. This review examines the evolutionary and structural relationships of the proglucagon-Class B1 GPCR system, OXM biosynthesis and receptor pharmacology, the mechanistic rationale for therapeutic GCGR agonism, and the molecular and clinical development of dual and triple agonists. We further address receptor balance, the GIPR agonism-antagonism paradox, receptor-specific causal attribution, and the unresolved limitations of translating molecular pharmacology into durable clinical benefit. Finally, we propose an Activity-Exposure-Context framework for interpreting polyagonist pharmacology and discuss prospective enteroinsular phenotyping using standardized mixed-meal testing as a testable strategy to investigate interindividual variability in therapeutic response.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43027901/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43024260",
+    "title": "GLP-1-based therapies for reduction of heart failure and cardiovascular outcomes: A systematic review and meta-analysis of randomized controlled trials.",
+    "authors": [
+      "Sajid Emad Uddin",
+      "Ali Tooba",
+      "Azeem Bazil",
+      "Hassan Danish",
+      "Waqar Mabel",
+      "Rayyan Ahmed Syed",
+      "Ahmed Meenai Eilaf",
+      "A Abu Elainein Mohamed",
+      "Soomro Inamullah",
+      "Hasnain Azeem Muhammad",
+      "Ramalingam Archana",
+      "Bawa Danish",
+      "Baig Muhammad",
+      "Fakih Nour",
+      "J Saldanha Ian"
+    ],
+    "journal": "Medicine",
+    "year": "2026",
+    "doi": "10.1097/MD.0000000000051501",
+    "abstract": "Glucagon-like peptide-1 (GLP-1) based therapies have demonstrated cardiovascular benefits beyond glycemic control in patients with type 2 diabetes mellitus (T2DM). However, the magnitude and consistency of their effects across individual cardiovascular and heart failure outcomes remain incompletely defined. This systematic review and meta-analysis evaluated the effects of GLP-1-based therapies on cardiovascular mortality, hospitalization for heart failure, hospitalization for unstable angina, nonfatal myocardial infarction (MI), and nonfatal stroke. We searched MEDLINE (via PubMed) and the Cochrane Central Register of Controlled Trials (CENTRAL) for randomized controlled trials evaluating GLP-1-based therapies in adults with or without T2DM. Two reviewers independently screened studies, extracted data, and assessed risk of bias using the Cochrane Risk of Bias 2 tool. Random-effects meta-analyses were performed to calculate pooled risk ratios (RRs) and 95% confidence intervals (CIs) for each prespecified outcome. Eleven randomized controlled trials comprising 81,948 participants were included, and all studies were judged to be at low risk of bias. GLP-1-based therapy significantly reduced cardiovascular mortality (RR: 0.85, 95% CI: 0.79-0.91), hospitalization for heart failure (RR: 0.90, 95% CI: 0.83-0.97), nonfatal MI (RR: 0.87, 95% CI: 0.79-0.96), and nonfatal stroke (RR: 0.88, 95% CI: 0.81-0.97). GLP-1-based therapy was not associated with a statistically significant reduction in unstable angina compared with placebo. However, substantial between-study heterogeneity was observed, indicating variability in the reported treatment effects. Heterogeneity was low for most outcomes, although moderate heterogeneity was observed for nonfatal MI (I² = 56%) and substantial heterogeneity for hospitalization for unstable angina (I² = 83%). For nonfatal MI, formal analyses showed no evidence of small-study effects. GLP-1-based therapies were associated with significant reductions in cardiovascular mortality, nonfatal MI, nonfatal stroke, and hospitalization for heart failure. These findings support the cardiovascular benefits of GLP-1-based therapies in patients with T2DM and elevated cardiovascular risk, while no significant benefit was observed for hospitalization because of unstable angina.",
+    "publication_types": [
+      "Journal Article",
+      "Systematic Review",
+      "Meta-Analysis"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43024260/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43024141",
+    "title": "Weight, Fat Mass, and Lean Mass Changes After Bariatric Surgery and GLP-1-Based Therapy: A Systematic Review and Meta-Analysis.",
+    "authors": [
+      "Urbina Jorge",
+      "Scott John",
+      "Prieto Aldape Manuel Rodrigo",
+      "Clapp Benjamin"
+    ],
+    "journal": "Obesity surgery",
+    "year": "2026",
+    "doi": "10.1007/s11695-026-09024-2",
+    "abstract": "Metabolic and bariatric surgery (MBS) and GLP-1-based therapies both reduce weight, but their effects on body composition are not directly comparable across measurement methods. We systematically reviewed 31 studies; 30 studies comprising 5,616 participants were included in random-effects meta-analyses stratified by dual-energy X-ray absorptiometry or bioelectrical impedance analysis, with 12 months as the primary timepoint. In both modalities, MBS was associated with greater total weight and absolute fat-mass loss than GLP-1-based therapy. Greater absolute lean-mass loss accompanied the larger weight reduction, without establishing poorer proportional lean-mass preservation. Relative fat-mass change differed by modality, and heterogeneity was substantial. These indirect subgroup comparisons should not be interpreted as head-to-head treatment effects. Standardized comparative studies incorporating muscle strength and physical function are needed.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43024141/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43020464",
+    "title": "Real-world effectiveness of tirzepatide in individuals with obesity: weight response, treatment-related factors and diabetes status.",
+    "authors": [
+      "Parrotta Maria Eugenia",
+      "Milani Ilaria",
+      "Chinucci Marianna",
+      "Occhipinti Francesco",
+      "Gintoli Elena",
+      "Franco Francesco",
+      "Sanci Giulia",
+      "Sbraccia Paolo",
+      "Capoccia Danila",
+      "Guglielmi Valeria"
+    ],
+    "journal": "Diabetes & metabolism",
+    "year": "2026",
+    "doi": "10.1016/j.diabet.2026.101807",
+    "abstract": "Tirzepatide reduces body weight and improves glycemic control, but real-world comparisons between individuals with obesity with and without type 2 diabetes (T2D) remain limited, as well as the potential influence on weight-loss response of baseline characteristics (especially sex and previous treatment exposure). We aimed to compare anthropometric and metabolic outcomes in these populations, as well as treatment persistence, discontinuation, and the influence of prior GLP-1 receptor agonist (GLP-1 RA) exposure. This retrospective multicenter study included adults with overweight/obesity without T2D (Ob) or with T2D (ObT2D) treated with tirzepatide. Data were collected at baseline and after 2-4 (T1), 5-8 (T2), and 9-15 (T3) months. Longitudinal changes were assessed using linear mixed-effects models, and multivariable analyses identified predictors of weight loss. Ob participants (n=210, 74.8% female) were younger, had higher BMI, better glycemic control, and less previous GLP-1RA exposure than ObT2D participants (n=378, 49.7% female) (45.7% vs 79.3%; p<0.001). Weight loss was greater in Ob than ObT2D at all follow-ups (-5.0% vs -2.8%, -10.1% vs -3.3%, and -14.2% vs -4.7%; all p≤0.011), with mixed-effects models confirming different trajectories. This difference was attenuated and no longer statistically significant when analyses were restricted to treatment-naïve participants. Prior GLP-1RA exposure was independently associated with lower weight loss, while an interaction between prior GLP-1RA exposure and T2D status emerged at longer follow-up. No effect modification by sex or age was clearly detectable in this cohort. Discontinuation was more frequent in Ob, with adverse events, and financial barriers among the main reported reasons. Adverse events occurred in 16.9%, were mainly mild, transient gastrointestinal events, more frequent in Ob than ObT2D (26.9% vs 11.1%; p<0.001). Tirzepatide was effective and well tolerated in routine practice. Greater weight loss occurred in obesity without T2D, while prior GLP-1RA exposure was independently associated with a reduced weight response. Previous GLP1-RA exposure may partly account for the different weight-loss trajectories observed between obesity with and without T2D. Residual differences at longer follow-up may reflect additional unmeasured clinical, metabolic, and treatment-related factors.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43020464/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43014742",
+    "title": "GLP-1-based Therapies in MASH: From Metabolic Benefits to an Improvement in Liver Fibrosis.",
+    "authors": [
+      "Takami Taro"
+    ],
+    "journal": "Internal medicine (Tokyo, Japan)",
+    "year": "2026",
+    "doi": "10.2169/internalmedicine.8562-26",
+    "abstract": "The fibrosis stage is the strongest predictor of liver-related outcomes in metabolic dysfunction-associated steatotic liver disease (MASLD), supporting pharmacotherapy for metabolic dysfunction-associated steatohepatitis (MASH) with F2-F3 fibrosis. Glucagon-like peptide-1 (GLP-1) receptor agonists improve MASLD through weight loss and favorable metabolic and anti-inflammatory effects; preclinical studies suggest weight loss-independent signaling mediated by liver sinusoidal endothelial cells. Early trials showed steatohepatitis resolution, but an inconsistent fibrosis improvement. In phase III ESSENCE, weekly semaglutide 2.4 mg significantly increased the proportions of patients achieving \"resolution of steatohepatitis with no worsening of liver fibrosis\" and a \"reduction in liver fibrosis with no worsening of steatohepatitis\" at week 72, leading to accelerated approval in the United States and approval in Japan for noncirrhotic MASH with moderate or advanced fibrosis. Non-invasive assessment may support patient selection and monitoring when a biopsy is inappropriate, although response thresholds require validation. This review summarizes the evidence, mechanisms, patient selection, safety, monitoring, and challenges.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43014742/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43011801",
+    "title": "Predicting response to GLP-1-based therapy in MASLD/MASH: an evidence-tiered, endpoint-specific framework built on host genotype and gut microbial features.",
+    "authors": [
+      "Zhu Guojian",
+      "Huang Yucao",
+      "Huang Yun",
+      "Yang Wenlong"
+    ],
+    "journal": "Frontiers in endocrinology",
+    "year": "2026",
+    "doi": "10.3389/fendo.2026.1962068",
+    "abstract": "Incretin-based therapy is now central to treating metabolic dysfunction-associated steatohepatitis (MASH), but the benefit is uneven. In the ESSENCE trial, semaglutide resolved steatohepatitis without worsening fibrosis in 62.9% of patients; placebo did so in 34.3%. No one can yet tell in advance which patient will respond. Weight loss explains most of the difference between trials, but it cannot be prescribed. This review asks whether biology measured before the first dose can predict who will benefit. Hepatocytes carry almost no GLP-1 receptor, so the liver benefit arrives indirectly, through weight loss and through gut-liver signaling. Both routes can be influenced from outside the liver, which points to two measurable domains: host genotype, fixed and assayable at baseline, and gut microbial features. For a dietary prebiotic, baseline microbial features have already forecast response, with an externally validated area under the curve of 0.74 (95% CI 0.66-0.81). Nothing equivalent has been tested for a GLP-1 receptor agonist. The genotype evidence comes from dietary weight loss rather than from a drug. Both pillars therefore rest on interventions other than incretin therapy, and the framework grades them accordingly. We assemble this evidence into a framework with two rules. Findings are graded by how mature the evidence behind them is. Liver and cardiovascular benefits are predicted separately, because the two do not track together. The output is a probability rather than a label. One conclusion is already usable: a predicted poor liver response is not, on its own, a reason to withhold or stop a GLP-1 receptor agonist.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011801/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43010686",
+    "title": "Association Between Orforglipron and Blood Pressure in Adults With Obesity With or Without Type 2 Diabetes: Post Hoc Analyses From ATTAIN-1 and ATTAIN-2 Trials.",
+    "authors": [
+      "Plat Arian",
+      "Dennehy Ellen B",
+      "Jouravskaya Irina",
+      "Stefanski Adam",
+      "Kis Sanja Giljanovic",
+      "Li Runjia",
+      "Schlaich Markus P",
+      "Hall Michael E",
+      "Laffin Luke J",
+      "Linetzky Bruno"
+    ],
+    "journal": "Diabetes, obesity & metabolism",
+    "year": "2026",
+    "doi": "10.1111/dom.71543",
+    "abstract": "This post hoc analysis assessed the association between orforglipron and blood pressure in adults with obesity or overweight without (ATTAIN-1) and with Type 2 diabetes (T2D; ATTAIN-2). This study included ATTAIN-1 and ATTAIN-2 participants randomized to receive orforglipron (pooled doses) or placebo. A mixed model of repeated measures was used to assess changes in blood pressure across baseline subgroups at Week 72. The association between weight change and systolic blood pressure (SBP) was evaluated by exploratory mediation analysis. Blood-pressure-related adverse events were also reported. Exploratory subgroup analyses reflected reductions in SBP across all baseline subgroups with no clear evidence of heterogeneity in ATTAIN-1 and ATTAIN-2 (all interaction p > 0.10). Reductions in diastolic blood pressure (DBP) were observed across most of the baseline subgroups in ATTAIN-1, while a greater reduction in DBP was observed among participants with baseline DBP ≥ 80 mmHg compared with those who had baseline DBP < 80 mmHg in ATTAIN-2 (interaction p = 0.002). At Week 72, numerically greater proportions of orforglipron-treated participants achieved study-visit-office normal blood pressure than placebo in ATTAIN-1 and -2. Mediation analysis suggests that 58.3% and 80.8% of the reduction in SBP was estimated to be mediated by orforglipron-induced weight reduction in ATTAIN-1 and -2, respectively (p < 0.001). Low blood pressure-related adverse events were uncommon but more frequent with orforglipron treatment than with placebo, and were mostly mild to moderate in severity. In these post hoc analyses of ATTAIN-1 and -2, reductions in SBP were broadly consistent across baseline subgroups, with no clear evidence of heterogeneity. The changes were estimated to be largely mediated by weight loss, and potential weight-independent effects on blood pressure require further evaluation.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43010686/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43003672",
+    "title": "Glucagon-like peptide-1 receptor agonists in schizophrenia spectrum disorders: A systematic review and meta-analysis of efficacy, safety and mental health outcomes.",
+    "authors": [
+      "de Aguiar Débora Regina",
+      "Pereira Samuel Izaias Dos Santos",
+      "Castro Pedro Batista",
+      "Carneiro Carlos Ricardo Oliveira",
+      "de Araujo Julia Costa",
+      "de Souza Rebeca Ferreira",
+      "da Silva Otavio André Farias Sousa",
+      "Ferreira Matheus Hissa Lourenço",
+      "Bolsoni Bruna Loureiro Fontana",
+      "Carvas Junior Nelson",
+      "Louzã Mario Rodrigues"
+    ],
+    "journal": "British journal of clinical pharmacology",
+    "year": "2026",
+    "doi": "10.1002/bcp.70892",
+    "abstract": "The purpose of this study is to evaluate efficacy, safety and mental-health outcomes of glucagon-like peptide-1 (GLP-1) receptor agonists in adults with overweight or obesity and antipsychotic-treated schizophrenia-spectrum disorders. PubMed/MEDLINE, Embase, PsycINFO, CENTRAL, Virtual Health Library (VHL) (Biblioteca Virtual em Saúde, BVS), Scopus, Web of Science and trial registries were searched on 28 August 2026. Random-effects models pooled mean difference (MD) or standardized mean difference (SMD) with 95% Wald intervals; Hartung-Knapp-Sidik-Jonkman (HKSJ) intervals were computed in parallel. Missing change-score SDs were imputed at r = 0.50 (sensitivity r = 0.25 and 0.75). Binary safety outcomes used Mantel-Haenszel risk ratios with a 0.5 continuity correction for zero cells. Six trials (n = 446) were pooled; three (n = 102) informed the primary outcome. The primary outcome of total symptom severity was imprecise (SMD - 0.21, 95% CI -0.60 to 0.19; HKSJ -1.02 to 0.61). Functioning, Alcohol Use Disorders Identification Test (AUDIT), Schizophrenia Quality of Life Scale (SQLS) and Brief Assessment of Cognition in Schizophrenia (BACS) were likewise imprecise; all intervals included the null. Secondary mental-health analyses were exploratory and unadjusted for multiplicity. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) reduced body weight (MD - 7.42 kg, -11.52 to -3.33; I2 = 94%), body mass index (BMI, -2.77 kg m-2), waist circumference (-5.53 cm) and HbA1c (-0.36%). Gastrointestinal events were more frequent; serious adverse events were not. Weight heterogeneity tracked agent, dose, duration and antipsychotic background. GLP-1 RAs were associated with improvements in cardiometabolic measures over 12-36 weeks, although certainty for body weight was limited by heterogeneity and risk of bias. Mental-health estimates were imprecise and did not allow a clear conclusion regarding benefit or harm. Cardiovascular events were not assessed, and no conclusions can be drawn regarding cardiovascular outcomes in this population.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43003672/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "43001258",
     "title": "The hypertension-NVU-cognition Axis: Mechanisms and interventions.",
     "authors": [
@@ -1266,7 +1502,8 @@
     "doi": "10.1016/j.explore.2026.103540",
     "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have transformed the treatment of obesity and type 2 diabetes, yet individual responses vary substantially. Some patients achieve marked improvements in glycemia, weight, and cardiometabolic risk, whereas others have limited benefit, gastrointestinal intolerance, excessive weight loss, or clinically concerning loss of lean tissue. Genetics may explain part of this heterogeneity, but Ayurveda suggests an additional question: are we applying the same metabolic intervention to patients with meaningfully different digestive, nutritional, and metabolic phenotypes? Ayurveda has long described prameha as heterogeneous and evaluates agni (digestive and metabolic capacity), ama (incompletely processed or accumulated material), srotas (pathways of transport), and suitability for langhana (reducing or lightening therapy) before selecting treatment. These concepts should not be equated literally with modern biomarkers. Rather, they provide a framework for a testable contemporary hypothesis: identifying and, where possible, modifying gastrointestinal, nutritional, and metabolic phenotypes before and during GLP-1 therapy may improve tolerability and the quality of response.",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42837836/",
     "screening_status": "não avaliado"
@@ -1604,6 +1841,36 @@
       "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42762879/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42747817",
+    "title": "Efficacy and Safety of Semaglutide According to Frailty Status: A Post Hoc Analysis of the SELECT Randomized Clinical Trial.",
+    "authors": [
+      "Ostrominski John W",
+      "Plutzky Jorge",
+      "Scirica Benjamin M",
+      "Hovingh G Kees",
+      "Jeppesen Ole Kleist",
+      "Lincoff A Michael",
+      "Lingvay Ildiko",
+      "Hoffmann Morville Thomas",
+      "Quiroga María",
+      "Sofer Yael",
+      "Urina-Triana Miguel",
+      "Aroda Vanita R"
+    ],
+    "journal": "JAMA cardiology",
+    "year": "2026",
+    "doi": "10.1001/jamacardio.2026.3566",
+    "abstract": "Whether frailty influences the benefit-risk balance of glucagon-like peptide-1 receptor agonists (GLP-1 RA) is uncertain. To evaluate whether frailty modifies the efficacy and safety of the GLP-1 RA semaglutide in adults with cardiovascular disease and overweight/obesity. In this secondary analysis of a randomized clinical trial, participants were adults with a body mass index of 27 or higher and established cardiovascular disease without diabetes. A 31-item frailty index (FI) was constructed using the Rockwood cumulative deficit approach; participants were categorized as not frail (FI ≤0.210), more frail (FI 0.211-0.310), and most frail (FI ≥0.311). Semaglutide, 2.4 mg, once weekly or placebo. The primary composite outcome was cardiovascular death, nonfatal myocardial infarction, and nonfatal stroke. Key secondary clinical outcomes, health-related quality-of-life (assessed by EuroQol 5-Dimension 5-Level [EQ-5D-5L] score), and safety events were additionally examined. Of 17 604 participants, the mean (SD) age was 61.6 (8.9) years; 12 732 patients (72.3%) were male and 4872 were female (27.7%). A total of 5432 patients (31%) had an FI up to 0.210, 8349 (47%) had an FI of 0.211 to 0.310, and 3823 (22%) had an FI 0.311 or higher. The incidence of the primary outcome increased with higher baseline FI. Benefits of semaglutide vs placebo on the primary outcome appeared consistent across the FI categories (hazard ratio [HR], 0.84; 95% CI, 0.65-1.07, if the FI was ≤0.210; HR, 0.70; 95% CI, 0.59-0.82, if the FI was 0.211-0.310; HR, 0.92; 95% CI, 0.76-1.10, if the FI was ≥0.311; P = .09 for interaction). Similar findings were observed when the FI was examined continuously (P = .30 for interaction). Semaglutide additionally reduced the composite heart failure outcome (P = .82 for interaction), all-cause hospitalization (P = .71 for interaction), and all-cause mortality (P = .28 for interaction) regardless of FI category. Benefits of semaglutide on EQ-5D-5L scores appeared larger with higher FI (P = .02 for interaction). Between baseline and week 104, FI category was more likely to improve (odds ratio [OR], 2.46; 95% CI, 1.80-3.37), and less likely to worsen (OR, 0.47; 95% CI, 0.34-0.65) with semaglutide vs placebo. The HRs for adverse events leading to permanent discontinuation of semaglutide vs placebo appeared lower among participants with higher baseline FI (P < .001 for interaction). This study found that semaglutide demonstrated beneficial effects on a broad range of clinical outcomes in SELECT, without detectable heterogeneity by baseline FI. Benefits of semaglutide on health-related quality of life appeared greater with higher FI. ClinicalTrials.gov Identifier: NCT03574597.",
+    "publication_types": [
+      "Clinical Trial, Phase III",
+      "Journal Article",
+      "Multicenter Study",
+      "Randomized Controlled Trial"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42747817/",
     "screening_status": "não avaliado"
   },
   {
@@ -2175,6 +2442,30 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42440093",
+    "title": "Sustained metabolic control in latent autoimmune diabetes in adults (LADA) with semaglutide therapy in a patient with multiple autoimmune comorbidities: a case report and literature review.",
+    "authors": [
+      "D'Andrea Settimio",
+      "Berardicurti Antonella",
+      "Di Stasi Vincenza",
+      "Tortora Anna",
+      "Santarelli Livia",
+      "Baroni Marco Giorgio",
+      "Berardicurti Onorina"
+    ],
+    "journal": "Acta diabetologica",
+    "year": "2026",
+    "doi": "10.1007/s00592-026-02739-9",
+    "abstract": "Latent Autoimmune Diabetes in Adults (LADA) is a complex form of autoimmune diabetes characterised by the presence of pancreatic autoantibodies and a progressive β-cell decline, often leading to eventual insulin dependence. Evidence supporting glucagon-like peptide-1 receptor agonists (GLP-1RAs)-notably semaglutide-in LADA remains limited. Here, we present the case of a 55-year-old woman, initially diagnosed with type 2 diabetes mellitus, who exhibited class II obesity and multiple autoimmune disorders, including vitiligo, celiac disease, autoimmune thyroiditis, and undifferentiated arthritis. Laboratory evaluation revealed positive anti-glutamic acid decarboxylase antibodies and preserved fasting C-peptide, prompting a revised diagnosis of LADA. Given her obesity and residual β-cell function, metformin was discontinued and semaglutide initiated. Over five years of follow-up, the patient maintained durable glycemic control, significant weight loss, and stable β-cell function without requiring insulin. A temporary transition from injectable to oral semaglutide due to supply constraints did not compromise metabolic stability. To contextualize these findings, we conducted a systematic review of literature regarding semaglutide in LADA, identifying only two eligible case reports-underscoring the paucity of data. This case highlights the potential value of early LADA recognition in adults with preserved β-cell function, enabling a personalised approach with semaglutide to achieve metabolic control and possibly delay insulin requirement. Larger, prospective studies are warranted to elucidate the role of GLP-1 receptor agonists in LADA management and to define predictors of therapeutic response.",
+    "publication_types": [
+      "Journal Article",
+      "Case Reports",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42440093/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42410325",
     "title": "Efficacy and Safety of the Dual Glucagon-Like Peptide-1 and Glucagon Receptor Agonist Mazdutide in Predominantly Chinese Adults With Obesity and/or Type 2 Diabetes: A Systematic Review and Meta-Analysis.",
     "authors": [
@@ -2390,7 +2681,8 @@
     "doi": "10.1016/j.eprac.2026.05.029",
     "abstract": "Define demographic and clinical predictors of weight loss outcomes in patients with obesity prescribed semaglutide in real-world practice. We identified 163 patients with elevated body mass index (>25 kg/m2) taking weekly semaglutide for at least 12 months, seen at a gastroenterology-based, multidisciplinary obesity clinic in New York City. The primary outcome was percent total weight loss (%TWL) after 12 months on weekly injectable semaglutide. Secondary outcomes included % of patients achieving >5% TWL and clinical factors affecting treatment course, including gastrointestinal side effects, dosing achieved, and number of provider visits. In total, 163 of the 294 (55.4%) patients prescribed semaglutide during the study period continued it for at least 12 months. Mean weight loss achieved at this timepoint was 8.1 ± 18.5 kg (8.1% ± 8.3% TWL). Patient-identified Hispanic ethnicity (95% CI, -6.82 to -0.55; P = .02), history of type 2 diabetes (95% CI, 0.74-5.76; P = .01), and age >60 years (95% CI, -14.76 to -2.41; P = .007) were associated with reduced weight loss on univariable analysis. Development of gastrointestinal side effects (95% CI, 1.86-3.36; P = .57) and provider visit number were not associated with weight loss outcomes (95% CI, 0.15-0.28; P = .56). Patient-identified Hispanic ethnicity was independently associated with failure to achieve 5% TWL on multivariable regression (odds ratio, 0.32; 95% CI, 0.14-0.74). This study suggested weight loss with weekly semaglutide was influenced by specific factors, including diabetes status, older age, and Hispanic ethnicity in our real-world clinic, although further research is needed to define prognosticators of weight loss across populations.",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Observational Study"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42248359/",
     "screening_status": "não avaliado"

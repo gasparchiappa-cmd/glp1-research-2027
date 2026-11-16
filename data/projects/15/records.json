@@ -1,5 +1,101 @@
 [
   {
+    "pmid": "43023294",
+    "title": "The Expanding Role of Autoinjector Technologies: Redefining Drug Delivery for the 21st Century.",
+    "authors": [
+      "Kuca Kamil"
+    ],
+    "journal": "Current medicinal chemistry",
+    "year": "2026",
+    "doi": "10.2174/0109298673511517261029112959",
+    "abstract": "Autoinjectors (AuI) have changed considerably over the past few decades. This review describes their development, from the early spring-loaded antidote injectors built for military use to the connected, software-enabled platforms now entering clinical practice. It compares AuI with conventional syringes, with attention to dose consistency, needle concealment, and the ability of untrained users to inject correctly outside clinical settings. Devices are classified along three dimensions: actuation mechanism (springloaded versus electronic), reusability (single-use versus cartridge-based), and connectivity (mechanical versus smart). The drug classes that shape device design are reviewed, including monoclonal antibodies, GLP-1 receptor agonists, insulin analogues, and emergency antidotes, together with the formulation problems each of them creates. Emergency medicine receives equal weight throughout. Atropine and pralidoxime for nerve agent poisoning, naloxone for opioid overdose and epinephrine for anaphylaxis impose engineering requirements that differ from those of chronic therapy devices. Regulatory frameworks in the European Union (MDR 2017/745; EMA) and the United States (FDA combination product pathway; human factors guidance) are summarised, as is the global market, estimated at USD 10.2 billion in 2025. The review closes with emerging directions: high-volume subcutaneous delivery, reusable and sustainable formats, personalised dosing, 3D-printed designs and automatic multi-injector systems for mass casualty events. Unlike existing reviews, which cover either chronic biologic delivery or single- device subtypes, this article treats chronic self-administration and emergency or CBRN use within one framework. It also introduces the automatic multi-injector concept as an unresolved engineering problem.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43023294/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43022359",
+    "title": "Utilization of a Lifestyle Medicine Program for Presurgical Health Optimization: Impact on Early Postoperative Outcomes of Hip and Knee Arthroplasty.",
+    "authors": [
+      "Prather Heidi",
+      "Leupold Olivia",
+      "Carli Alberto",
+      "Gonzalez Della Valle Alejandro",
+      "Cushner Fred",
+      "Cheng Jennifer"
+    ],
+    "journal": "Arthroplasty today",
+    "year": "2026",
+    "doi": "10.1016/j.artd.2026.102202",
+    "abstract": "Chronic systemic inflammation is associated with osteoarthritis and chronic diseases that increase surgical risk before total hip arthroplasty (THA) and total knee arthroplasty (TKA). This study compares early postoperative outcomes between patients who did and did not complete an intensive lifestyle medicine (LSM) program to reduce chronic systemic inflammation. Anthropometric variables, lifestyle measures, patient-reported outcome measures, and postoperative 90-day outcomes (ie, length of stay, infection, persistent pain, opioids) were obtained from an LSM repository. Comparisons were made between patients who completed the intensive LSM track (multiple visits, interprofessional providers) and those who declined behavior change preoperatively (selective track: single provider visit). A subanalysis evaluated glucagon-like peptide-1 (GLP-1) receptor agonist (GLP-1RA) medication users. Among 292 patients (72% women; 62 ± 9 years; 76% White), 154 completed the intensive track and 138 participated in the selective track. Most (91%) had ≥2 chronic diseases. Baseline characteristics were similar between tracks, except for higher anxiety/depression scores in the intensive track (3.3 ± 3.0 vs 1.8 ± 2.4[P < .001]). Postoperatively, the selective track reported significantly higher persistent pain rates (26% vs 10%[P < .001]) than the intensive track. GLP-1RA users were more likely to refill outpatient opioids than nonusers (57% vs 36%[P = .001]), with no differences in other outcomes. Postoperative persistent pain rates were significantly lower in patients who completed an intensive LSM program before THA or TKA, compared to patients who did not engage in health improvement. GLP-1RA users showed no health benefits and required more opioid refills.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022359/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43020169",
+    "title": "GLP-1 Receptor Agonist Use and Risk of Pain-Related Medical Encounters Among Patients with Comorbid Type 2 Diabetes and Opioid Use Disorder: A Target Trial Emulation Study.",
+    "authors": [
+      "Gain Easter Protiva",
+      "Shrestha Nistha",
+      "Eze Jude Uche",
+      "Wei Yu-Jung Jenny"
+    ],
+    "journal": "The journal of pain",
+    "year": "2026",
+    "doi": "10.1016/j.jpain.2026.106489",
+    "abstract": "While GLP-1 receptor agonists (RAs) are postulated to alleviate pain, limited data exist to support the drugs' benefits in reducing pain-related medical encounters, particularly in patients with opioid use disorder (OUD), who have a high prevalence of pain. This study aims to examine the associations of GLP-1 RAs use with risk of emergency department (ED) visits or hospitalizations for pain among patients with comorbid type 2 diabetes (T2D) and OUD. We conducted a retrospective cohort study design in a target trial emulation framework using Merative MarketScan claims data between 2016 and 2023. Participants included adults between 18 and 64 years of age with a diagnosis of T2D and OUD who initiated GLP-1 RA or other second-line antidiabetic medication. Key outcomes included counts of incident pain-related ED visits, hospitalizations, or a composite outcome of either medical encounter, with a primary or secondary diagnosis coded for pain. Of 5842 eligible patients, those with use of GLP-1 RAs (vs. second-line antidiabetic medications) had a lower adjusted incident rate of pain-related ED visits (adjusted incidence rate ratio [aIRR]: 0.81; 95% CI: 0.69, 0.96, P=.01), pain-related hospitalizations (aIRR: 0.92; 95% CI: 0.68, 1.24, P=.56), although non-significant, and composite outcome of pain-related ED visit or hospitalization (aIRR: 0.83; 95% CI: 0.72, 0.97, P=.02). Initiation of GLP-1 RA therapy compared with second-line antidiabetic medication was associated with reduced risk of the composite outcome of pain-related ED visits or hospitalizations, indicating potential benefit of GLP-1 RA use for reducing pain-related medical encounters. Perspective In this cohort study, use of GLP1-1 RAs vs second-line drugs for T2D was associated with a lower risk of pain-related ED visits or hospitalizations among adults with comorbid T2D and OUD. GLP-1 RAs may be repurposed as a non-opioid pharmacological treatment for pain in patients with OUD.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43020169/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43011373",
+    "title": "Fifty years at the addiction bench and bedside: from withdrawal syndromes to adaptive brain states.",
+    "authors": [
+      "Gold Mark S"
+    ],
+    "journal": "Frontiers in public health",
+    "year": "2026",
+    "doi": "10.3389/fpubh.2026.1969403",
+    "abstract": "Over the past half-century, addiction medicine has moved from moral and symptom-based explanations toward a neuroscience of adaptation, learning, motivation, and recovery. This Perspective uses several linked translational programs-opioid withdrawal and the locus coeruleus, cocaine dependence and dopamine, environmental drug exposure, physician health, and food reward-to illustrate how observations at the bedside can generate mechanistic studies and how laboratory findings can, in turn, change treatment and public health. LC stimulation produced signs and symptoms that looked to me like opioid withdrawal. So, we thought that noradrenergic hyperactivity in opioid withdrawal caused symptoms, and while methadone or morphine could treat these, we could also treat them with a non-opioid, clonidine. Earlier noradrenergic interventions had been attempted with limited clinical success. Our work provided the first hypothesis-driven, double-blind, placebo-controlled demonstration that a non-opioid medication could suppress the acute human opioid withdrawal syndrome. This mechanism-based treatment was greeted with considerable interest because some clinicians had assumed that any medication capable of reversing opioid withdrawal distress must itself be an opioid. Clonidine and later lofexidine did just that and facilitated transition to naltrexone. Recognition that cocaine could produce compulsive use without a dramatic physical withdrawal syndrome helped shift the field toward reward circuitry, craving, pathological attraction, anhedonia, and relapse. Studies of tobacco, cannabis, and opioid smoke broadened prevention by showing that involuntary second- and third-hand exposure can be biologically detected and, most clearly for tobacco, can produce biologically meaningful effects. Third-hand exposure refers to residual drug-related contaminants that persist on indoor surfaces, dust, clothing, or other materials after active smoking has ended. Contemporary work on neuromodulation, exercise, psychedelics, and GLP-1 metabolic-reward pathways extends the same translational logic. Addiction is best understood as an acquired adaptive brain state supported by anti-survival or bad learning, development, and environment; recovery is active neurobehavioral relearning, not simply detoxification or drug clearance. Public health should therefore join brain sciences, work to delay initiation, identify emerging risk before a severe substance use disorder develops, prevent involuntary exposure, and provide rapid access to mechanism-based treatment, recovery-supportive environments, and outcomes measured over 5 years or longer.",
+    "publication_types": [
+      "Journal Article",
+      "Historical Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011373/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43004510",
+    "title": "The Effectiveness of Semaglutide Treatment in Youths with Autism Spectrum Disorder and Obesity: A Real-World Experience.",
+    "authors": [
+      "Ellis-Miller Sierra",
+      "Mahabee-Gittens E Melinda",
+      "Kharofa Roohi",
+      "Stackpole Kristin",
+      "Donohue Janet",
+      "Alzubi Anaam",
+      "Siegel Robert"
+    ],
+    "journal": "Childhood obesity (Print)",
+    "year": "2026",
+    "doi": "10.1177/21532176261504581",
+    "abstract": "Youth with autism spectrum disorder (ASD) are at increased risk for obesity, yet data on anti-obesity medications in this population are limited. To evaluate anthropometric and cardiometabolic outcomes associated with semaglutide treatment in youth with ASD and obesity. We performed a retrospective cohort subanalysis of youth aged ≥12 years with ASD and obesity receiving multidisciplinary obesity care. Semaglutide exposure was defined as documentation of weekly dosing of at least 0.5 mg. Outcomes included changes in percentage of the 95th percentile for BMI (%BMIp95), weight, BMI z-score, percent body fat, and cardiometabolic laboratory values. Multivariable linear regression adjusted for baseline outcome value, age, sex, race, insurance, stimulant use, atypical antipsychotic use, other anti-obesity medications, and follow-up duration. Among 120 youth, 20 (16.7%) received semaglutide, and 100 did not. Semaglutide was associated with greater reductions in %BMIp95 (B = -8.11, p = 0.006) and body weight (B = -7.61 kg, p = 0.003). Semaglutide was also associated with a trend toward lower ALT (p = 0.053). Semaglutide was associated with clinically meaningful weight reduction in youth with ASD and obesity.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43004510/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42998653",
     "title": "Neuropeptide Systems in Substance use Disorders: Therapeutic evidence and molecular mechanisms.",
     "authors": [

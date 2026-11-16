@@ -2,10 +2,10 @@
   "project_id": 26,
   "title": "Custo-efetividade dos GLP-1",
   "query": "(\"Glucagon-Like Peptide-1 Receptor Agonists\"[Mesh] OR semaglutide[tiab] OR liraglutide[tiab] OR tirzepatide[tiab] OR dulaglutide[tiab] OR exenatide[tiab] OR retatrutide[tiab] OR \"GLP-1\"[tiab] OR incretin*[tiab]) AND (cost effectiveness[tiab] OR cost-effectiveness[tiab] OR economic evaluation[tiab]) AND (\"2025/01/01\"[Date - Publication] : \"3000\"[Date - Publication])",
-  "last_run_utc": "2026-11-09T21:29:05.850129+00:00",
-  "pubmed_total_matching": 159,
+  "last_run_utc": "2026-11-16T21:05:37.333612+00:00",
+  "pubmed_total_matching": 162,
   "retrieved_in_latest_run": 100,
-  "stored_unique_records": 100,
+  "stored_unique_records": 103,
   "retrieval_limit_per_run": 100,
   "note": "Candidatos automáticos não equivalem a artigos incluídos. Estratégia exploratória, requer validação por revisores."
 }

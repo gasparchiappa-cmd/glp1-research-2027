@@ -1,5 +1,29 @@
 [
   {
+    "pmid": "43036293",
+    "title": "GLP-1(9-37) Improves Left Ventricular Function in a Murine Model of Cardiac Pressure Overload by Promoting Mitochondrial Biogenesis.",
+    "authors": [
+      "Moellmann Julia",
+      "Stöhr Robert",
+      "Maas Sanne L",
+      "Winz Oliver",
+      "Mottaghy Felix M",
+      "van der Vorst Emiel P C",
+      "Lebherz Corinna",
+      "Lehrke Michael",
+      "Marx Nikolaus"
+    ],
+    "journal": "Diabetes, obesity & metabolism",
+    "year": "2026",
+    "doi": "10.1111/dom.71541",
+    "abstract": "Glucagon-like peptide-1 (GLP-1) is an incretin hormone that is released in response to nutrient intake and inflammation. Its active form, GLP-1(7-37), binds to the GLP-1 receptor (GLP-1R), but GLP-1 is rapidly degraded by dipeptidyl peptidase-4 (DPP-4) into GLP-1(9-37), which does not bind to the classical GLP-1R. Both peptides exhibit cardioprotective effects, although the underlying mechanisms are unclear and the role of GLP-1(9-37) remains poorly understood. In this study, we investigated cardiac and metabolic effects of GLP-1(9-37) in a mouse model of cardiac pressure overload. LacZ and GLP-1(9-37) were overexpressed using an AAV vector system. While GLP-1(9-37) does not affect glucose metabolism, it mechanistically activates key metabolic regulators, as evidenced by increased AMPK and PGC1α signalling. This shift suggests an improvement in cellular energy balance and mitochondrial function under hypertrophic stress conditions. GLP-1(9-37) was also found to mitigate adverse cardiac remodelling. Treatment is associated with reduced septal thickness and decreased cardiac fibrosis, indicating attenuation of structural hypertrophy. In summary, our data suggest a protective role of GLP-1(9-37) in pressure-overload-induced cardiac remodelling, which is associated with AMPK/PGC1α-signalling.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43036293/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "43001258",
     "title": "The hypertension-NVU-cognition Axis: Mechanisms and interventions.",
     "authors": [

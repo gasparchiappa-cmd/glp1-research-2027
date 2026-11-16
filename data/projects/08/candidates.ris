@@ -25,6 +25,60 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42545731/
 ER  - 
 
 TY  - JOUR
+ID  - 43011533
+TI  - Effect of dulaglutide on functional and structural MRI changes during cigarette smoking cessation.
+AU  - Sailer Clara O
+AU  - Lengsfeld Sophia
+AU  - Coynel David
+AU  - Zanchi Davide
+AU  - Jeanloz Nica
+AU  - Baur Fabienne
+AU  - Bathelt Cemile
+AU  - Bologna Katja
+AU  - Vukajlovic Tanja
+AU  - Urwyler Sandrine A
+AU  - Christ-Crain Mirjam
+AU  - Winzeler Bettina
+JO  - Brain communications
+PY  - 2026
+DO  - 10.1093/braincomms/fcag410
+AB  - Glucagon-like peptide-1 (GLP-1) receptor agonists are investigated for treating addiction. However, it remains unclear whether these agents modulate addiction-related neural circuitry. To address this question, we conducted a predefined neuroimaging subtrial of a larger randomized placebo-controlled trial. While the parent trial enrolled 255 participants with at least moderate nicotine dependence, this mechanistic study included a subset of 71 participants. Participants were randomized to receive either 1.5 mg dulaglutide (N = 35) or placebo (N = 36) for 12 weeks, both administered alongside a standard-of-care regimen of varenicline and behavioural counselling. Structural and functional MRI assessments were performed at baseline and after 12 weeks. Main outcome measures included abstinence rates, changes in craving for cigarette smoking, working memory performance, whole-brain functional activation when exposed to smoking and neutral videos, resting state functional connectivity, and grey matter volume changes from baseline to 12 weeks. We found that 12 weeks of intervention (59 participants completed the 12-week visit (N = 57 usable functional, N = 58 usable structural data)), abstinence rates were comparable between the dulaglutide (54%) and placebo (68%) groups (P = 0.27). Across the entire cohort, craving for cigarette smoking significantly decreased (P < 0.001) and was consistently higher during smoking-cue versus neutral-cue videos (P < 0.001). Working memory improved significantly among participants who achieved smoking abstinence (P = 0.02). While we observed small-to-medium reductions in addiction- and reward-related brain activation from baseline to week 12 across the entire cohort, no significant differences were found between dulaglutide and placebo for any clinical, functional, or structural outcomes. Our findings demonstrate that dulaglutide conferred no incremental benefit over a potent standard-of-care regimen of varenicline and behavioural counselling. These findings are critical for the field, as they suggest a potential ceiling effect of current first-line therapies and define the boundaries of GLP-1 receptor agonists in addiction. While dulaglutide did not modulate cue-induced neural activation in this adjunctive context, this study establishes the feasibility of using longitudinal mechanistic neuroimaging to guide the development of future incretin-based interventions.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43011533/
+ER  - 
+
+TY  - JOUR
+ID  - 43010989
+TI  - Immunosenescence in Cardiovascular-Kidney-Metabolic Syndrome: A Unifying Mechanistic Framework.
+AU  - Sano Motoaki
+JO  - International journal of heart failure
+PY  - 2026
+DO  - 10.36628/ijhf.2026.0060
+AB  - Cardiovascular-kidney-metabolic (CKM) syndrome is driven by a vicious cycle of metabolic dysregulation and chronic low-grade inflammation. Obesity catalyzes this process, causing apoptosis-resistant senescence-associated T (SA-T) cells to massively accumulate in visceral adipose tissue (VAT). These "rogue commanders" acquire a senescence-associated secretory phenotype (SASP), continuously producing osteopontin along with other proinflammatory cytokines and altering adipokine balance. Even after substantial weight loss, they survive, forming an immunological "risk memory" that sustains systemic inflammation and fibrotic tissue remodeling. Recent megatrials of incretin-based therapies (e.g., SELECT, STEP-HFpEF, FLOW, STRIDE, SOUL, and SURPASS-CVOT) demonstrate profound cardiorenal protection emerging independently of absolute weight reduction. Here, we propose a unifying mechanistic framework wherein these agents act as disease-modifying therapies by inducing an "immune and metabolic reset." By improving systemic insulin sensitivity, they eliminate the excessive growth stimulus on immune cells, thereby "quieting" the overdriven phosphatidylinositol 3-kinase/Akt/mammalian target of rapamycin pathway. Furthermore, glucagon-like peptide-1 receptor activation exerts direct negative costimulatory effects on T cells, suppressing their activation. This metabolic quiescence reactivates autophagy, detoxifies SA-T cells, and halts SASP production, disrupting the vicious cycle of systemic inflammation. Reconceptualizing incretin therapies not merely as weight-loss drugs but as agents that erase immunological risk memory through optimized nutrient signaling provides a crucial paradigm shift in managing CKM syndrome.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43010989/
+ER  - 
+
+TY  - JOUR
+ID  - 43003672
+TI  - Glucagon-like peptide-1 receptor agonists in schizophrenia spectrum disorders: A systematic review and meta-analysis of efficacy, safety and mental health outcomes.
+AU  - de Aguiar Débora Regina
+AU  - Pereira Samuel Izaias Dos Santos
+AU  - Castro Pedro Batista
+AU  - Carneiro Carlos Ricardo Oliveira
+AU  - de Araujo Julia Costa
+AU  - de Souza Rebeca Ferreira
+AU  - da Silva Otavio André Farias Sousa
+AU  - Ferreira Matheus Hissa Lourenço
+AU  - Bolsoni Bruna Loureiro Fontana
+AU  - Carvas Junior Nelson
+AU  - Louzã Mario Rodrigues
+JO  - British journal of clinical pharmacology
+PY  - 2026
+DO  - 10.1002/bcp.70892
+AB  - The purpose of this study is to evaluate efficacy, safety and mental-health outcomes of glucagon-like peptide-1 (GLP-1) receptor agonists in adults with overweight or obesity and antipsychotic-treated schizophrenia-spectrum disorders. PubMed/MEDLINE, Embase, PsycINFO, CENTRAL, Virtual Health Library (VHL) (Biblioteca Virtual em Saúde, BVS), Scopus, Web of Science and trial registries were searched on 28 August 2026. Random-effects models pooled mean difference (MD) or standardized mean difference (SMD) with 95% Wald intervals; Hartung-Knapp-Sidik-Jonkman (HKSJ) intervals were computed in parallel. Missing change-score SDs were imputed at r = 0.50 (sensitivity r = 0.25 and 0.75). Binary safety outcomes used Mantel-Haenszel risk ratios with a 0.5 continuity correction for zero cells. Six trials (n = 446) were pooled; three (n = 102) informed the primary outcome. The primary outcome of total symptom severity was imprecise (SMD - 0.21, 95% CI -0.60 to 0.19; HKSJ -1.02 to 0.61). Functioning, Alcohol Use Disorders Identification Test (AUDIT), Schizophrenia Quality of Life Scale (SQLS) and Brief Assessment of Cognition in Schizophrenia (BACS) were likewise imprecise; all intervals included the null. Secondary mental-health analyses were exploratory and unadjusted for multiplicity. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) reduced body weight (MD - 7.42 kg, -11.52 to -3.33; I2 = 94%), body mass index (BMI, -2.77 kg m-2), waist circumference (-5.53 cm) and HbA1c (-0.36%). Gastrointestinal events were more frequent; serious adverse events were not. Weight heterogeneity tracked agent, dose, duration and antipsychotic background. GLP-1 RAs were associated with improvements in cardiometabolic measures over 12-36 weeks, although certainty for body weight was limited by heterogeneity and risk of bias. Mental-health estimates were imprecise and did not allow a clear conclusion regarding benefit or harm. Cardiovascular events were not assessed, and no conclusions can be drawn regarding cardiovascular outcomes in this population.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43003672/
+ER  - 
+
+TY  - JOUR
 ID  - 43001258
 TI  - The hypertension-NVU-cognition Axis: Mechanisms and interventions.
 AU  - Tao Zhengde
@@ -383,6 +437,20 @@ PY  - 2026
 DO  - 10.1016/j.neubiorev.2026.106922
 AB  - Type 2 diabetes mellitus (T2DM) increases vulnerability to cognitive decline through interacting disturbances in insulin signaling, mitochondrial energetics, redox and lipid homeostasis, neuroimmune regulation, neurovascular coupling, and experience-dependent plasticity. This review integrates molecular, cellular, preclinical, and clinical evidence linking these processes to altered gene expression, glial dysfunction, synaptic instability, and impaired cognition. We distinguish well-supported mechanisms from unresolved questions concerning causality, cell-type specificity, human hippocampal remodeling, context-dependent pharmacological effects, and the translational limitations of experimental models. On this basis, we propose an integrative framework in which metabolic flexibility acts as a permissive gatekeeper for neural adaptation. AMPK-centered signaling supports mitochondrial quality control, autophagy, antioxidant defenses, and restraint of NF-kB/NLRP3-associated inflammation, but is considered necessary rather than sufficient for cognitive recovery. Durable plasticity additionally requires activity-dependent CREB-BDNF signaling and adequate neurovascular support to match energy delivery with circuit demand. Exercise, cognitive training, environmental enrichment, metformin, and incretin-based therapies engage complementary components of this network, although their efficacy is likely to vary with age, metabolic state, inflammatory burden, vascular reserve, treatment timing, and adherence. The framework predicts that metabolic activation without circuit engagement will provide limited cognitive benefit, whereas plasticity-promoting interventions will be constrained by persistent metabolic or vascular dysfunction. We therefore argue for multimodal, biomarker-informed strategies that integrate metabolic stabilization, vascular support, and structured physical and cognitive stimulation. Long-term randomized studies combining neuroimaging with molecular and metabolic profiling are required to test these predictions and define precision approaches for preserving cognitive resilience in T2DM.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42648513/
+ER  - 
+
+TY  - JOUR
+ID  - 42631802
+TI  - Glucose-Lowering Therapies and Cognitive Decline: From Molecular Mechanisms to Clinical Evidence and Future Perspectives.
+AU  - Grasso Margherita
+AU  - Maggio Viviana
+AU  - Caraci Filippo
+AU  - Rizzo Manfredi
+JO  - Advances in therapy
+PY  - 2026
+DO  - 10.1007/s12325-026-03760-8
+AB  - Several lines of evidence suggest the relationship between diabetes and cognitive decline. Patients with a diagnosis of type 2 diabetes (T2D) present an increased risk of Alzheimer's disease (AD) development than the general population, and it is known that brain insulin resistance (IR) plays a key role in the conversion from mild cognitive impairment (MCI) into AD. During recent years, emerging therapeutic perspectives have been proposed with the aim of targeting T2D-related cognitive impairment, and glucose-lowering drug classes, especially glucagon-like peptide 1 receptor agonists (GLP-1RAs) and sodium glucose cotransporter inhibitors (SGLT2is), demonstrated neuroprotective effects and a positive effects on cognitive function acting by several molecular mechanisms including anti-inflammatory activity, modulation of insulin signaling, and promoting the neurogenesis process. Different clinical trials showed their ability in preventing neurodegenerative decline, with numerous phase II and III trials underway in populations with AD; however, although preclinical evidence is promising and some clinical data are encouraging, translating these results into established therapeutic strategies requires larger, randomized, and controlled clinical trials with extended follow-up period, standardized cognitive assessments, and inclusion of molecular and imaging biomarkers. Addressing these gaps will be essential to determine whether glucose-lowering drug classes can be introduced into clinical practice to prevent or slow cognitive decline in patients with T2D, exerting neuroprotective activity beyond their effect on glycemic control.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42631802/
 ER  - 
 
 TY  - JOUR

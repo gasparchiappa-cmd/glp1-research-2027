@@ -22,6 +22,242 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "43035546",
+    "title": "Brown adipose tissue ankyrin-B cell-autonomously modulates lipid content and its deletion protects male mice against diet-induced obesity.",
+    "authors": [
+      "Aguillard Ashley M",
+      "Ferrer Ismael",
+      "Chen Jiamin",
+      "Manja Kyla",
+      "Tzeng Joyce",
+      "Naughton Noelle H",
+      "Soderblom Erik J",
+      "Bartman Caroline R",
+      "Lorenzo Damaris N"
+    ],
+    "journal": "Nature communications",
+    "year": "2026",
+    "doi": "10.1038/s41467-026-78907-w",
+    "abstract": "Fatty acid (FA) availability for brown adipose tissue (BAT) thermogenesis depends in part on lipolysis of lipid droplet (LD) triglycerides. Here, we identify the membrane adaptor ankyrin-B (AnkB), encoded by the cardiometabolic disease-associated ANK2 gene, as a regulator of brown adipocyte lipid homeostasis and metabolic adaptation. BAT-specific AnkB deficiency caused excess lipid accumulation, enlarged LDs, and BAT whitening without altering mitochondrial oxidative capacity or thermogenesis in the fed state in male mice. Mechanistically, AnkB promoted basal lipolysis by recruiting hormone-sensitive lipase to LDs. However, AnkB loss compromised thermoregulation during cold exposure with fasting, linking AnkB-dependent FA release to thermogenesis under energetic stress. Unexpectedly, BAT AnkB deficiency protected male mice from high-fat diet-induced obesity (DIO), hepatic steatosis, glucose intolerance, and insulin resistance. This protection was associated with enhanced BAT mitochondrial oxidative capacity, oxidative remodeling of white adipose tissue, and increased circulating FGF21. Together, these findings establish AnkB as a previously unrecognized regulator of BAT lipid mobilization that coordinates thermogenic fuel availability with mitochondrial oxidative adaptation during metabolic stress.",
+    "publication_types": [
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43035546/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43035388",
+    "title": "Human Milk EVs-Based Iron Delivery Promotes Adipose Thermogenic Capacity in Early Life.",
+    "authors": [
+      "Cui Yan",
+      "Li Lu",
+      "Pan Yihui",
+      "Zhao Wei",
+      "Wang Yi",
+      "Fang Jiali",
+      "Wu Zhenggang",
+      "Ji Chenbo",
+      "Cui Xianwei"
+    ],
+    "journal": "Journal of extracellular vesicles",
+    "year": "2026",
+    "doi": "10.1002/jev2.70398",
+    "abstract": "The proper development and maturation of thermogenic adipose tissue in early life can have lasting effects on obesity susceptibility. Although breastfeeding is known to support the postnatal programming of adipose thermogenesis, the molecular mechanisms driving this effect remain poorly defined. Here, we show that human milk extracellular vesicles (HM‑EVs) enhance the thermogenic capacity of adipose tissue in a formula-fed context during lactation. These early changes lead to durable metabolic remodeling that persists into adulthood and protects offspring from high-fat diet-induced obesity. Mechanistically, HM‑EVs promote thermogenic function by delivering iron to adipocytes, thus fulfilling the acute postnatal iron requirement for thermogenic adipose development. We further demonstrate that this vesicle-mediated iron transport induces an iron-replete cellular state, resulting in proteasomal degradation of iron regulatory protein 2 (IRP2). Degradation of IRP2 subsequently increases mRNA levels of hypoxia‑inducible factor 1α (HIF1α), a thermogenic regulator. Importantly, we identify lactoferrin (LF) as a key factor that facilitates iron delivery to infant adipocytes via its encapsulation within HM-EVs. This EV-mediated pathway may represent a complementary route for iron delivery during this critical developmental window, alongside the classical transferrin-dependent system. Collectively, our findings reveal that HM-EVs drive sustained thermogenic improvements, conferring long-term metabolic protection.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43035388/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43030406",
+    "title": "Durability of GLP-1-Based Therapies in Obesity: Receptor Adaptation, Tachyphylaxis, and the Therapeutic Ceiling.",
+    "authors": [
+      "Roslin Kylie",
+      "Andrews Robert",
+      "Baella-Olivieri Brigitte",
+      "Roslin Mitchell"
+    ],
+    "journal": "Journal of clinical medicine",
+    "year": "2026",
+    "doi": "10.3390/jcm15218265",
+    "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists and related incretin-based therapies have transformed the treatment of type 2 diabetes and obesity. Their dependence on sustained receptor agonism, however, creates an unavoidable longitudinal question: what happens after 5-10 years when a patient has reached a stable plateau at the highest approved or tolerated dose? The answer cannot be inferred from short-term weight loss alone. At the therapeutic ceiling, stable benefit, partial attenuation of appetite or reward effects, progression of the underlying disease, increasing treatment burden, and renewed response to an additional mechanism are all plausible trajectories. This conceptual review argues that tachyphylaxis should be treated as a biologically plausible, testable component of long-term incretin pharmacology. Rapid tachyphylaxis to the gastric-emptying effect of GLP-1 has already been demonstrated. Because chronic weight regulation also depends on sustained signaling through neural and peripheral receptor pathways, partial attenuation of selected effects cannot be assumed absent simply because mean weight loss remains below baseline. Existing trials establish persistent activity for several years, but they were not designed to exclude effect-specific receptor adaptation during long-term stable-dose exposure. Weight-loss physiology also creates powerful competing explanations, including lower energy requirements, adaptive thermogenesis, neuroendocrine defense of body weight, behavioral accommodation, and dose constraints. Withdrawal studies establish treatment dependence, not the absence of on-treatment attenuation. Long-term durability should therefore be assessed across appetite and reward responses, weight maintenance, glycemic and cardiovascular benefit, beta-cell function, gastrointestinal burden, body composition, physical function, and residual disease. This framework is intended to help clinicians recognize a therapeutic ceiling, distinguish its possible mechanisms, and decide when to maintain, combine, switch, or add procedural therapy.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030406/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43030257",
+    "title": "Selected Dietary and Supplemental Phytochemicals in Adiposity-Based Chronic Disease: Molecular Mechanisms, Human Evidence, and Translational Gaps.",
+    "authors": [
+      "Urraza-Robledo Arguiñe Ivonne",
+      "Díaz García Edmar de Jesús",
+      "Salvador Ibarra Ibzan Jahzeel",
+      "Mora Guzmán Zoila",
+      "Borrás Enríquez Anahí Jobeth",
+      "Pérez-Campos Eduardo",
+      "Pérez-Campos Mayoral Laura",
+      "Gómez Hernández Daniel",
+      "Pina-Canseco María Del Socorro",
+      "Cabrera-Fuentes Hector Alejandro",
+      "Hernández-Huerta María Teresa"
+    ],
+    "journal": "Nutrients",
+    "year": "2026",
+    "doi": "10.3390/nu18213630",
+    "abstract": "Adiposity-based chronic disease (ABCD) encompasses the health consequences of excess or dysfunctional adipose tissue. Selected phytochemicals have been investigated as potential adjuncts, but experimental pathway activity does not establish clinical benefit. This narrative review examines quercetin, chlorogenic acids, epigallocatechin-3-gallate (EGCG), and berberine, with other interventions providing context. The evidence was supplemented by targeted PubMed searches through 27 October 2026 and appraised according to experimental model, formulation, exposure, clinical relevance, and safety. Published pooled body-weight differences were -0.35 kg (95% confidence interval, -2.03 to 1.33) for quercetin, -1.30 kg (-2.07 to -0.52) for selected green-coffee/chlorogenic-acid interventions, -0.74 kg (-0.97 to -0.51) for green-tea preparations, and -0.88 kg (-1.36 to -0.39) for berberine. These source-specific estimates are not head-to-head comparisons. A small crossover trial of quercetin reported reduced hepatic fat, whereas a six-month berberine trial found no significant benefit for visceral or hepatic fat. Coffee and green-tea findings do not isolate the effects of chlorogenic acid or EGCG. Most mechanistic evidence remains preclinical, and differences in chemical composition, circulating metabolites, administration, and outcome selection limit translation. The human-evidence-based selection also underrepresents less-studied phytochemicals; for the evaluated interventions, sustained adiposity reduction and patient-relevant benefit remain insufficiently established. Their potential role in comprehensive ABCD care requires product-specific assessment of efficacy, exposure, adverse effects, and interactions.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030257/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43022772",
+    "title": "Beyond brown adipose tissue: Avian thermogenesis without UCP1 - mechanisms, evidence gaps and implications for metabolic health and sustainable poultry production.",
+    "authors": [
+      "Salahi Ahmad"
+    ],
+    "journal": "Metabolism open",
+    "year": "2026",
+    "doi": "10.1016/j.metop.2026.100520",
+    "abstract": "Unlike mammals, birds lack canonical brown adipose tissue and the UCP1 gene, yet exhibit UCP1-independent non-shivering thermogenesis (NST). In vitro, embryonic chicken mesenchymal cells differentiate into avian brown adipocyte-like cells (ABALCs) with multilocular lipid droplets, elevated mitochondrial density, and upregulated PGC-1α and PPARγ, activating a transfected mouse UCP1 promoter despite endogenous UCP1 loss. In vivo, gradual cold acclimatization or triiodothyronine (T3) induces beige-like adipocytes enriched in mitochondria within the subcutaneous neck depot (\"neck warmer\"), with increased avian uncoupling protein (avUCP), CIDEA, TBX1, and mitochondrial markers, while abdominal fat remains largely unresponsive. Skeletal muscle is the main site of NST, where SERCA/RyR-mediated calcium cycling and avUCP/ANT-associated mitochondrial uncoupling are candidate mechanisms; because avUCP is multifunctional (heat, redox and fuel handling), its expression is not by itself a read-out of heat output. Nutritional and microbial interventions-including polyunsaturated fatty acids, capsaicin, succinate, bile acids, and probiotics-have been associated with altered lipid metabolism and reduced visceral adiposity, although direct links to quantifiable heat production remain unestablished and non-thermogenic mechanisms (lipid digestion, hepatic lipogenesis, feed intake, inflammation) have not been excluded. Collectively, the evidence is consistent with, but does not yet prove, a conserved, multi-organ thermogenic metabolic network (TMN) in birds in which skeletal muscle predominates. Exploiting this latent capacity offers a conceptual framework for nutritional and management strategies to mitigate excessive fat deposition and enhance thermal resilience in commercial broilers, although the energetic trade-offs with growth and feed efficiency remain to be resolved. A structured roadmap integrating nutritional, microbial, environmental, and genetic approaches is proposed to test, and if validated to harness, the TMN for sustainable production.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022772/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43014674",
+    "title": "Large tumor suppressor kinases regulate brown adipocyte thermogenic function and systemic energy homeostasis.",
+    "authors": [
+      "Jancovicova Alzbeta",
+      "Petriskova Livia Ban",
+      "Kovanicova Zuzana",
+      "Zarnovicanova Silvia",
+      "Urminsky Roman",
+      "Ghosh Adhideb",
+      "Noe Falko",
+      "Kellenberger Alexandra",
+      "Wang Tongtong",
+      "Palesova Natalia",
+      "Stefanicka Patrik",
+      "Varga Lukas",
+      "Tedla Miroslav",
+      "Nechojdomova Daniela",
+      "Babinec Matej",
+      "Makovicka Maria",
+      "Makovicky Peter",
+      "Sun Wenfei",
+      "Valachovic Martin",
+      "Horvath Carla",
+      "Sharma Anand Kumar",
+      "Balazova Lucia",
+      "Wolfrum Christian",
+      "Balaz Miroslav"
+    ],
+    "journal": "Molecular metabolism",
+    "year": "2026",
+    "doi": "10.1016/j.molmet.2026.102471",
+    "abstract": "Brown and beige adipocytes promote metabolic health by increasing energy expenditure via adaptive non-shivering thermogenesis, yet the molecular mechanisms governing their thermogenic function remain incompletely understood. Here, we identify the Large Tumor Suppressor (LATS) kinases, core components of the Hippo signaling pathway, as important regulators of brown adipocyte thermogenic activity and systemic energy homeostasis. We demonstrate that LATS kinases, particularly LATS2, control thermogenic gene expression, Uncoupling protein 1 (UCP1) levels, and mitochondrial respiration in cultured human and murine brown adipocytes. Mechanistically, loss of LATS kinase activity stabilizes and promotes the nuclear accumulation of the transcriptional co-regulators Yes-associated protein 1 (YAP1) and WW domain-containing transcription regulator 1 (TAZ). We further show that TAZ interacts with Peroxisome proliferator-activated receptor gamma (PPARγ) in murine brown adipocytes. In addition, Lats2 and combined Lats1&2 depletion reduce PPARγ protein abundance and PPARγ binding to a PPAR response element, providing a potential mechanism by which loss of LATS signaling might impair the thermogenic program. Consistent with these findings, brown- and beige-adipocyte-specific deletion of Lats1 and Lats2 in mice reduces UCP1 protein levels in brown adipose tissue and decreases whole-body energy expenditure during cold exposure and β3-adrenergic stimulation with CL-316,243. Despite impaired thermogenic responses, Lats1&2 deficiency in Ucp1-expressing cells protects against diet-induced obesity. The mechanism underlying this protection remains unresolved. Together, these findings identify LATS signaling as an important regulator of thermogenic adipocyte function and implicate the established LATS-YAP1/TAZ-PPARγ regulatory axis in the control of brown adipocyte thermogenesis, while revealing an unexpected association between LATS signaling in thermogenic adipose tissue and systemic energy balance.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43014674/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43014468",
+    "title": "MicroRNA-mediated regulation of brown adipose tissue whitening: molecular mechanisms, pathophysiological implications, and therapeutic opportunities.",
+    "authors": [
+      "Li Lang",
+      "Zhang Xuejun"
+    ],
+    "journal": "Cellular signalling",
+    "year": "2026",
+    "doi": "10.1016/j.cellsig.2026.113002",
+    "abstract": "Brown adipose tissue (BAT) is a specialized form of adipose tissue characterized by high mitochondrial density and elevated expression of uncoupling protein 1 (UCP1), which regulates energy homeostasis through non-shivering thermogenesis. Recent studies demonstrate that under pathological conditions such as obesity, aging, chronic inflammation, and metabolic syndrome, BAT gradually loses its thermogenic capacity and exhibits features including enlarged lipid droplets, reduced mitochondrial content, and downregulated thermogenic gene expression-a process termed BAT \"whitening.\" This process is considered a critical pathological basis for obesity-related metabolic disorders. MicroRNAs (miRNAs)-non-coding RNAs approximately 18-24 nucleotides in length-regulate target gene expression at the post-transcriptional level and play pivotal roles in adipocyte differentiation, mitochondrial function, inflammatory responses, and energy metabolism. Accumulating evidence indicates that various miRNAs participate in BAT whitening, influencing brown adipocyte fate and thermogenic capacity by modulating signaling pathways involving PRDM16, PGC-1α, UCP1, AMPK, SIRT1, and TGF-β. This article systematically reviews recent research progress on miRNA-mediated regulation of BAT whitening, focusing on underlying mechanisms related to brown adipogenesis, mitochondrial homeostasis, the inflammatory microenvironment, and exosomal miRNA mediates intercellular communication. Furthermore, it explores the potential of miRNAs as diagnostic biomarkers and therapeutic targets, aiming to provide a theoretical basis for precision interventions in obesity and related metabolic disorders.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43014468/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43007835",
+    "title": "Rhodotorula mucilaginosa DM2025 ameliorates obesity through cholesterol binding and the gut mycobiome-BAT PPARγ/UCP1 axis.",
+    "authors": [
+      "Jing Yikang",
+      "Xiang Yinghan",
+      "Zafir Oumarou Chaibou",
+      "Sun Qiqi",
+      "Chen Bingwang",
+      "Cao Xinran",
+      "Hou Jie",
+      "Li Huajun"
+    ],
+    "journal": "Gut microbes",
+    "year": "2026",
+    "doi": "10.1080/19490976.2026.2760059",
+    "abstract": "Obesity is a major global health challenge, necessitating safe and effective therapies. Although probiotics are promising for obesity management, research has focused on bacteria, leaving non-Saccharomyces yeasts underexplored. Here, we investigated the anti‑obesity mechanisms of Rhodotorula mucilaginosa DM2025, isolated from the healthy murine gut. To test whether benefits depend on viable cells, high‑fat diet‑fed mice received either live yeast or its cell‑free supernatant, followed by integrated physiological, genomic, and metabolomic analyzes. Live yeast, but not supernatant, significantly reduced body weight gain, improved serum lipids, and was associated with activation of brown adipose tissue thermogenesis (upregulated PPARγ, PGC1α, UCP1). Though the supernatant lowered total cholesterol, it failed to affect weight or thermogenic genes, indicating cholesterol‑lowering and weight reduction are distinct processes. Live cells were enriched in propionate, indole, and carotenoid‑related metabolites, with genomic support for their biosynthesis. Live yeast reshaped the gut mycobiome, promoting Basidiomycota/Rhodotorula dominance; this fungal restructuring was absent in HFD controls. These findings suggest that R. mucilaginosa DM2025 anti‑obesity efficacy relies on the continuous metabolic activity of live cells, producing thermogenesis‑associated metabolites that may contribute to BAT activation. Additionally, physical cholesterol binding to the yeast cell surface provides a complementary cholesterol‑reduction mechanism. Thus, R. mucilaginosa DM2025 represents a promising live probiotic candidate for obesity intervention.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43007835/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43007522",
+    "title": "Progress in multimodal imaging assessment of the correlation between perivascular adipose tissue and atherosclerosis.",
+    "authors": [
+      "Wu Tianyu",
+      "Wu Lingheng",
+      "Hu Panpan",
+      "Chen Anni",
+      "Ye Lin",
+      "Shi Jianwei",
+      "Jin Lin",
+      "Li Zhaojun",
+      "Luo Xianghong"
+    ],
+    "journal": "The international journal of cardiovascular imaging",
+    "year": "2026",
+    "doi": "10.1007/s10554-026-03862-y",
+    "abstract": "Cardiovascular disease remains a leading cause of death and disability worldwide. Adipose tissue dysfunction is a key driver, and perivascular adipose tissue (PVAT) exerts location‑specific effects on the cardiovascular system. This review focuses on PVAT in atherosclerosis, with particular attention to pericoronary PVAT, epicardial adipose tissue (EAT), carotid PVAT, and peri-aortic adipose tissue (PAAT). PVAT homeostasis relies on UCP1‑mediated thermogenesis for metabolic modulation and on paracrine signaling via adiponectin and apelin. Under aging, obesity, or diabetes, PVAT switches from an anti‑inflammatory to a pro‑inflammatory phenotype, accelerating plaque formation through bidirectional inflammatory crosstalk. For clinical assessment, this review highlights progress in multimodal imaging technologies, including CT fat attenuation index, MRI water‑lipid separation, PET/CT, and echocardiography, for noninvasive quantification of PVAT density, composition, and metabolic activity, and compares their advantages and limitations. This review further discusses artificial intelligence (AI)-driven radiomic and radiotranscriptomic approaches that extend PVAT assessment beyond conventional single-parameter metrics. We systematically review the research progress of these techniques in evaluating dynamic PVAT changes and their correlation with atherosclerosis, aiming to clarify the intrinsic correlation between imaging‑derived PVAT functional status and AS development.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43007522/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43005001",
+    "title": "Mitochondrial Regulation of Brown Adipose Tissue During Hypoxia in Rodents.",
+    "authors": [
+      "Pamenter Matthew E",
+      "Cheng Hang"
+    ],
+    "journal": "The Yale journal of biology and medicine",
+    "year": "2026",
+    "doi": "10.59249/ECCQ1130",
+    "abstract": "Brown adipose tissue (BAT) is a mitochondria-rich thermogenic organ that supports nonshivering thermogenesis through uncoupling protein 1-mediated proton leak. Because this process requires exceptionally high rates of oxidative metabolism, BAT function is critically dependent on oxygen availability. Environmental hypoxia therefore imposes a major energetic challenge, forcing organisms to balance thermogenic heat production against preservation of oxygen and adenosine triphosphate for essential cellular functions. This mini-review examines how BAT mitochondria respond to hypoxia in hypoxia-intolerant laboratory rodents vs hypoxia-tolerant social African mole rats, with a particular focus on mitochondrial regulation, reversibility of suppression, and implications for metabolic disease. In laboratory rodents, BAT suppression is largely constraint driven and associated with hypoxia-inducible factor-dependent transcriptional reprogramming, impaired β-adrenergic signaling, reduced uncoupling protein 1 expression, altered lipid metabolism, mitochondrial fragmentation, diminished oxidative phosphorylation, and increased reactive oxygen species production. These changes are often maladaptive and accompanied by persistent mitochondrial dysfunction. In contrast, social African mole rats exhibit coordinated and reversible metabolic suppression in which BAT thermogenesis is actively downregulated to match reduced oxygen availability. This adaptive response preserves mitochondrial integrity through controlled reductions in oxidative phosphorylation, reversible suppression of uncoupling protein 1, regulated mitochondrial fission, and avoidance of excessive mitophagy or oxidative damage. These divergent strategies provide a valuable comparative framework for understanding mitochondrial control of energy expenditure in hypoxia. Importantly, many mechanisms observed in hypoxia-intolerant BAT parallel mitochondrial dysfunction in obesity and type 2 diabetes, highlighting BAT mitochondria as potential therapeutic targets for metabolic disease and hypoxic injury.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43005001/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "43000678",
     "title": "Intermittent Fasting Remodels Mitochondrial Morphology and Bioenergetic Capacity in Brown Adipose Tissue of Obese Mice.",
     "authors": [
@@ -1188,7 +1424,8 @@
     "doi": "10.2739/kurumemedj.MS7312010",
     "abstract": "Body size emerges from the interplay of genetic programs and early-life environments, but the immediate executors of growth are metabolic factors. This review reframes stature as a readout of fuel allocation and cellular bioenergetics. We synthesize how endocrine drivers-Growth hormone (GH)/Insulin-like growth factor (IGF)-1, thyroid hormone, and glucocorticoids-interface with energy-sensing pathways and hepatokines to couple nutrient availability with chondrocyte matrix production, muscle protein synthesis, and bone accrual. GH promotes lipolysis and protein sparing, while IGF-1 enhances insulin sensitivity and suppresses hepatic gluconeogenesis; thyroid hormones set basal metabolic rate and thermogenesis; glucocorticoids re-partition substrates toward catabolism, prioritizing survival over linear growth. Within the developmental origins of health and disease (DOHaD) framework, fetal undernutrition and low birth weight reprogram these axes, predisposing to catch-up growth with impaired fat oxidation. We highlight actionable readouts-respiratory quotient, IGF-1/IGF-binding protein-3, leptin, and bone-formation markers-to monitor whether calories are directed to lean accretion versus adiposity. Nutritional quality, especially indispensable amino acids, functions as a metabolic signal: leucine activates mechanistic target of rapamycin complex 1 (mTORC1), arginine augments GH secretion and perfusion, and glutamine supports proliferative and redox demands. Evidence from low-birth-weight rat models suggests that balanced proteins, including soy protein isolate, can normalize IGF-1 and temper stress-axis dysregulation, improving the efficiency of growth. Positioning metabolism at the center links genetics, hormones, and environment into a coherent framework for \"precision growth medicine.\" We propose practical algorithms that pair auxology with metabolic and endocrine metrics to tailor diet composition and timing, aiming to optimize stature while reducing long-term cardiometabolic risk.",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42778413/",
     "screening_status": "não avaliado"
@@ -2255,6 +2492,28 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42457559",
+    "title": "Transcriptome Inference and Systematic Approaches to Investigate TCM Compounds With Beneficial Metabolic Effects.",
+    "authors": [
+      "Li Jing",
+      "Lin Yang-Chi-Dung",
+      "Huang Hsi-Yuan",
+      "Chen Jihang",
+      "Zuo Huali",
+      "Tang Yun",
+      "Huang Hsien-Da"
+    ],
+    "journal": "Phytotherapy research : PTR",
+    "year": "2026",
+    "doi": "10.1002/ptr.70407",
+    "abstract": "Obesity is a major risk factor for type 2 diabetes. Some traditional Chinese medicine (TCM) compounds can improve obesity by increasing energy consumption. This study aimed to identify and verify TCM compounds that promote adipose thermogenesis to alleviate obesity via transcriptomic analysis, molecular docking, network pharmacology, and Connectivity Map (CMap) analysis. Thirty-six TCMs related to adipose tissue thermogenesis were first collected to generate transcriptomic data. Then a ranking method based on integrated transcriptomic data was used to select emodin from the TCM Da Huang for network pharmacology to explore its potential mechanisms and further experimental validation. CMap analysis of thermogenesis signature genes from ProFAT and GEO datasets identified triptolide as another compound for improving obesity through enhanced thermogenesis. In vitro experiments with 3T3-L1 cells and in vivo experiments with zebrafish were conducted. The results showed that both emodin and triptolide could upregulate the NAD+/NADH ratio, increase AMPK and SIRT1 expression, suppress lipid accumulation, and promote lipolysis, as verified by both in vitro and in vivo experiments. They also upregulated thermogenesis-related genes (e.g., UCP1, PGC1α, and PRDM16), lipolysis-related genes (e.g., PKA, ATGL, and HSL), mitochondrial biogenesis-related genes (e.g., NRF1, NRF2, and TFAM), and β-oxidation-related genes (e.g., CPT1α and CPT1β). Meanwhile, they downregulated lipogenesis-related genes such as FASN, SREBP1, and ACC. These results provide a basis for understanding the effects of emodin and triptolide on obesity. The findings highlight the effectiveness of combined screening approaches in exploring compounds with beneficial metabolic effects.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42457559/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42447865",
     "title": "Brown fat protects against hepatic oxidative stress by remodeling the circulating metabolome.",
     "authors": [
@@ -2537,6 +2796,57 @@
       "Journal Article"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42248307/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42144264",
+    "title": "Innovations in Obesity Treatment: Beyond Adipose Tissue Dysfunction.",
+    "authors": [
+      "Martínez-Godfrey Jesica",
+      "Pomares-Bri Irene",
+      "de Juan-Maciá Paula",
+      "Olivares-Vicente Mariló",
+      "Barrajón-Catalán Enrique",
+      "Micol Vicente",
+      "Roche Enrique",
+      "Herranz-López María"
+    ],
+    "journal": "Obesity reviews : an official journal of the International Association for the Study of Obesity",
+    "year": "2026",
+    "doi": "10.1111/obr.70164",
+    "abstract": "Obesity, a chronic disease characterized by excessive adipose tissue accumulation, represents a critical global health challenge with profound metabolic, inflammatory, and oncogenic implications. To provide a multidisciplinary perspective, this narrative review integrates current literature examining metabolic, immunological, and oncological evidence to outline obesity as a multisystem disorder. Chronic inflammation is examined as a central mediator linking excessive adiposity to insulin resistance, type 2 diabetes, and cancer development, specifically detailing how adipose tissue dysfunction, altered adipokine profiles, and immune cell infiltration drive systemic pathogenesis. Emerging insights into the molecular mechanisms of tumor progression in a metabolically altered environment are highlighted, emphasizing the roles of hyperinsulinemia and dysregulated adipokines like leptin and adiponectin. In addition, the review explores innovative therapeutic strategies for obesity-related cancer, including the use of metformin and therapies targeting insulin-like growth factor 1 receptor and colony-stimulating factor 1 receptor pathways. It also discusses the therapeutic promise of white adipose tissue browning through inductors such as menthol and capsinoids to enhance metabolic homeostasis. Furthermore, hormonal and neural dysregulation of appetite control are addressed. Novel pharmacological treatments targeting appetite, such as glucagon-like peptide 1 and glucose-dependent insulinotropic polypeptide receptor agonists, as well as neuromodulation techniques are discussed as promising avenues for personalized and effective interventions. This comprehensive understanding of obesity's complex nature is crucial for developing novel, integrated approaches to complement traditional diet and exercise strategies.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42144264/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42136381",
+    "title": "Persistent Adipose Inflammation Despite Metabolic Recovery Reveals Tissue-Specific Immunomodulation by Tirzepatide.",
+    "authors": [
+      "Seo Mihye",
+      "Averia Maria",
+      "Julietta Vivi",
+      "Soedono Shindy",
+      "Joo Esther Jin",
+      "Budiono Ellen",
+      "Lee Minjoon",
+      "Kim Min-Kyu",
+      "Hwang Yongsung",
+      "Park Hyeong Kyu",
+      "Suh Kyoil",
+      "Cho Kae Won"
+    ],
+    "journal": "Endocrinology and metabolism (Seoul, Korea)",
+    "year": "2026",
+    "doi": "10.3803/EnM.2025.2766",
+    "abstract": "Obesity is characterized by chronic inflammation and fibrosis of adipose tissue; however, the extent to which these pathological features persist during pharmacologically induced weight loss remains poorly understood. This study investigated the effects of tirzepatide, a dual agonist of the glucagon-like peptide-1 and glucose-dependent insulinotropic polypeptide receptors, on adipose tissue inflammation and fibrosis in obese mice. Diet-induced obesity was treated with tirzepatide or vehicle for 25 days. Metabolic parameters, tissue inflammation, fibrosis, and macrophage activation were assessed using histology, flow cytometry, gene expression analyses, and immunoblotting. In vitro experiments were conducted to compare the effects of tirzepatide on classically activated and metabolically activated macrophages. Tirzepatide significantly reduced body weight and adiposity, increased energy expenditure, and upregulated thermogenic and mitochondrial proteins in brown adipose tissue. Hyperglycemia and glucose intolerance were normalized. However, adipose tissue inflammation and fibrosis persisted despite weight loss, as evidenced by sustained immune cell infiltration, collagen deposition, and activation of Yes-associated protein (YAP)/transcriptional coactivator with PDZ-binding motif (TAZ) signaling. In contrast, hepatic inflammation and fibrosis were substantially improved. Mechanistically, tirzepatide suppressed inflammatory gene expression in classically activated macrophages but not in metabolically activated macrophages, suggesting that the local metabolic context determines tissue responsiveness to its anti-inflammatory actions. Tirzepatide exerts distinct tissue-specific effects on inflammation and fibrosis during weight loss, ameliorating hepatic pathology while sparing adipose tissue inflammation. These findings identify metabolically activated macrophages as potential determinants of tissue-specific inflammatory persistence and underscore the need for therapeutic strategies that target macrophage activation and fibrotic remodeling to achieve durable metabolic benefits during pharmacological weight loss.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42136381/",
     "screening_status": "não avaliado"
   },
   {

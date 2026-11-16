@@ -1,5 +1,50 @@
 [
   {
+    "pmid": "42869735",
+    "title": "Thyroid Disease in the Era of Obesity and Glucagon-Like-Peptide-1 Agonists.",
+    "authors": [
+      "Coblens Orly",
+      "Dunmire Amber",
+      "Maldonado-Chapa Felix"
+    ],
+    "journal": "Otolaryngologic clinics of North America",
+    "year": "2027",
+    "doi": "10.1016/j.otc.2026.06.002",
+    "abstract": "The thyroid gland plays a critical role in regulating metabolism. Dysfunctions in the thyroid gland are closely associated with alterations in body mass index. The relationship between thyroid disease and obesity is complex and bidirectional with hypothyroidism and hyperthyroidism influencing body weight. In the last decade, there has been an increase in the incidence of thyroid cancer as well as the prevalence of obesity. Emerging weight loss therapies and their potential association with thyroid malignancy remains an active area of investigation. Additionally, important perioperative and surgical considerations must be addressed in patients undergoing thyroidectomy.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42869735/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43009382",
+    "title": "Temporal dynamics and prognostic value of serum calcitonin during tirzepatide therapy in adults with obesity.",
+    "authors": [
+      "Angelopoulos Nikolaos",
+      "Simeakis George",
+      "Androulakis Ioannis",
+      "Rizoulis Andreas",
+      "Boniakos Anastasios",
+      "Mentzelopoulou Paraskevi",
+      "Korakovouni Areti",
+      "Zianni Dimitra",
+      "Petkova Valentina",
+      "Livadas Sarantis",
+      "Paparodis Rodis"
+    ],
+    "journal": "Obesity research & clinical practice",
+    "year": "2026",
+    "doi": "10.1016/j.orcp.2026.11.001",
+    "abstract": "To characterize serum calcitonin dynamics during six months of tirzepatide therapy for obesity and explore whether early changes are associated with subsequent biochemical behavior. This prospective observational study enrolled 77 adults with obesity initiating tirzepatide. One participant diagnosed with medullary thyroid carcinoma at baseline was excluded, leaving 76 participants for longitudinal analysis. Serum calcitonin was assessed at baseline, 3 months, and 6 months. Longitudinal changes were evaluated using non-parametric tests and mixed-effects models; prognostic analyses were exploratory. Median calcitonin increased modestly from 2.05 pg/mL at baseline to 2.12 pg/mL at 3 months and 2.25 pg/mL at 6 months, with a significant overall time effect (p < 0.001) but no further significant change between 3 and 6 months (p = 0.43). Two participants with baseline calcitonin < 12 pg/mL developed new-onset elevations ≥ 12 pg/mL during early follow-up; no additional cases occurred at 6 months. Early calcitonin change was strongly associated with six-month change (Spearman ρ=0.73, p < 0.001), although prognostic analyses were limited by only two threshold events. Median weight loss was 8.3% and 15.0% at 3 and 6 months, respectively. Tirzepatide was associated with a small early increase in serum calcitonin followed by stabilization through six months. Early calcitonin changes were associated with subsequent biochemical behavior, but the limited follow-up and small number of threshold events preclude conclusions regarding prognostic cutoffs or monitoring strategies.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43009382/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42989433",
     "title": "Glucagon-like Peptide-1 Receptor Agonists and Thyroid Cancer: Review of Preclinical and Human Data.",
     "authors": [
@@ -111,25 +156,6 @@
       "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42906947/",
-    "screening_status": "não avaliado"
-  },
-  {
-    "pmid": "42869735",
-    "title": "Thyroid Disease in the Era of Obesity and Glucagon-Like-Peptide-1 Agonists.",
-    "authors": [
-      "Coblens Orly",
-      "Dunmire Amber",
-      "Maldonado-Chapa Felix"
-    ],
-    "journal": "Otolaryngologic clinics of North America",
-    "year": "2026",
-    "doi": "10.1016/j.otc.2026.06.002",
-    "abstract": "The thyroid gland plays a critical role in regulating metabolism. Dysfunctions in the thyroid gland are closely associated with alterations in body mass index. The relationship between thyroid disease and obesity is complex and bidirectional with hypothyroidism and hyperthyroidism influencing body weight. In the last decade, there has been an increase in the incidence of thyroid cancer as well as the prevalence of obesity. Emerging weight loss therapies and their potential association with thyroid malignancy remains an active area of investigation. Additionally, important perioperative and surgical considerations must be addressed in patients undergoing thyroidectomy.",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42869735/",
     "screening_status": "não avaliado"
   },
   {

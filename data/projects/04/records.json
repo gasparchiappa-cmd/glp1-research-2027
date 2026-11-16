@@ -1,5 +1,80 @@
 [
   {
+    "pmid": "43030521",
+    "title": "Early Body-Composition Trajectory During Tirzepatide Treatment for Obesity: A Real-World Bioimpedance Cohort Study.",
+    "authors": [
+      "Zafer Enes",
+      "Çekiç Deniz",
+      "Genç Ahmed Bilal",
+      "Yaylacı Selçuk"
+    ],
+    "journal": "Journal of clinical medicine",
+    "year": "2026",
+    "doi": "10.3390/jcm15218377",
+    "abstract": "Background/Objectives: Whether the loss of fat-free mass (FFM) during tirzepatide treatment exceeds the proportion expected in negative energy balance is debated, and the earliest weeks of treatment are the least characterized. We described the body-composition trajectory over the first 12 weeks of treatment in routine care. Methods: In this retrospective cohort of adults with obesity starting tirzepatide monotherapy, body weight, fat mass, FFM, total body water (TBW), and waist circumference were measured by single-frequency, foot-to-foot bioelectrical impedance analysis (BIA) at baseline and at approximately 4, 8, and 12 weeks, and were analyzed with linear mixed-effects models; follow-up values are available-data, on-treatment estimates. Results: Of 476 patients (mean age 40 years, 66% female, mean body-mass index 38.7 kg/m2), 268 had follow-up data and 111 were measured at 12 weeks. Estimated marginal body weight fell by 11.22 kg (10.4%), fat mass by 7.90 kg (16.8%), and BIA-derived FFM by 3.35 kg (5.4%) at 12 weeks (all p < 0.001); assuming 5-kg-less loss in patients without a 12-week measurement, the mean loss remained 7.4 kg. Of patients measured at 12 weeks, 89.2% had lost at least 5% and 57.7% at least 10% of body weight. In patients with complete data at baseline and 12 weeks (n = 85), fat mass accounted for 68.3% (95% CI 56.1 to 80.8) of the weight lost. Conclusions: Early weight loss during tirzepatide treatment was predominantly fat mass, with a BIA-derived FFM fraction numerically close to the commonly cited one-fourth. Because device-FFM equaled TBW divided by a fixed coefficient of 0.731 at every visit, it cannot separate water from lean tissue and is best read as an upper bound on lean tissue loss rather than a measure of muscle.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030521/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43030406",
+    "title": "Durability of GLP-1-Based Therapies in Obesity: Receptor Adaptation, Tachyphylaxis, and the Therapeutic Ceiling.",
+    "authors": [
+      "Roslin Kylie",
+      "Andrews Robert",
+      "Baella-Olivieri Brigitte",
+      "Roslin Mitchell"
+    ],
+    "journal": "Journal of clinical medicine",
+    "year": "2026",
+    "doi": "10.3390/jcm15218265",
+    "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists and related incretin-based therapies have transformed the treatment of type 2 diabetes and obesity. Their dependence on sustained receptor agonism, however, creates an unavoidable longitudinal question: what happens after 5-10 years when a patient has reached a stable plateau at the highest approved or tolerated dose? The answer cannot be inferred from short-term weight loss alone. At the therapeutic ceiling, stable benefit, partial attenuation of appetite or reward effects, progression of the underlying disease, increasing treatment burden, and renewed response to an additional mechanism are all plausible trajectories. This conceptual review argues that tachyphylaxis should be treated as a biologically plausible, testable component of long-term incretin pharmacology. Rapid tachyphylaxis to the gastric-emptying effect of GLP-1 has already been demonstrated. Because chronic weight regulation also depends on sustained signaling through neural and peripheral receptor pathways, partial attenuation of selected effects cannot be assumed absent simply because mean weight loss remains below baseline. Existing trials establish persistent activity for several years, but they were not designed to exclude effect-specific receptor adaptation during long-term stable-dose exposure. Weight-loss physiology also creates powerful competing explanations, including lower energy requirements, adaptive thermogenesis, neuroendocrine defense of body weight, behavioral accommodation, and dose constraints. Withdrawal studies establish treatment dependence, not the absence of on-treatment attenuation. Long-term durability should therefore be assessed across appetite and reward responses, weight maintenance, glycemic and cardiovascular benefit, beta-cell function, gastrointestinal burden, body composition, physical function, and residual disease. This framework is intended to help clinicians recognize a therapeutic ceiling, distinguish its possible mechanisms, and decide when to maintain, combine, switch, or add procedural therapy.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030406/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43022657",
+    "title": "Clinical Outcomes of Tirzepatide After Metabolic Bariatric Surgery: A Systematic Review.",
+    "authors": [
+      "Alfuhaydi Ghadeer L",
+      "Alahmed Abdullah A",
+      "Alfayez Osamah M"
+    ],
+    "journal": "Diabetes, metabolic syndrome and obesity : targets and therapy",
+    "year": "2026",
+    "doi": "10.2147/DMSO.S656297",
+    "abstract": "Suboptimal weight outcomes, including recurrent weight gain (RWG) and insufficient weight loss (IWL), remain important clinical challenges after metabolic bariatric surgery (MBS). Although tirzepatide has demonstrated substantial weight loss in nonsurgical populations, its role after MBS remains uncertain. This systematic review evaluated the clinical outcomes of tirzepatide initiated after MBS in adults. We conducted a systematic review following PRISMA 2020 guidance. PubMed (MEDLINE), Embase, Web of Science Core Collection, and the Cochrane Central Register of Controlled Trials (CENTRAL) were searched from database inception through June 2026. Eligible studies included adults with prior MBS who received tirzepatide and reported weight, metabolic, or safety outcomes. Two reviewers independently screened studies and extracted data. Risk of bias was assessed using the Newcastle-Ottawa Scale (NOS). Five observational studies met the inclusion criteria. Across studies, tirzepatide was associated with clinically meaningful weight loss after MBS. Mean percent total body weight loss (%TBWL) ranged from 12.0% to 18.1% at the last available follow-up (6-12 months), and a high proportion of patients achieved ≥5%, ≥10%, and ≥15% TBWL where reported. Absolute reductions in body weight and body mass index were observed in studies reporting these outcomes. One study reported reductions in both fat mass and fat-free mass following tirzepatide treatment. Limited data suggested modest changes in glycemic and lipid parameters. Available safety data suggested that tirzepatide appeared to be generally well tolerated, although safety data were limited and follow-up was short. Mild gastrointestinal adverse events were the most reported, and no serious treatment-related adverse events were reported. Risk of bias was rated as low in two studies and moderate in three, and the certainty of evidence for comparative weight-loss outcomes was rated as very low. Current observational evidence suggests that tirzepatide may provide clinically meaningful additional weight loss after MBS; however, the available evidence remains limited and heterogeneous. Larger prospective comparative studies with longer follow-up are needed to confirm its efficacy, durability, safety, and comparative effectiveness in this population.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022657/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43002621",
+    "title": "GLP-1-Based Therapies Across the Menopausal Transition: Dermatologic Considerations and Practical Management.",
+    "authors": [
+      "Sanchez-Melendez Stephanie",
+      "Linkner Rita"
+    ],
+    "journal": "Dermatologic surgery : official publication for American Society for Dermatologic Surgery [et al.]",
+    "year": "2026",
+    "doi": "10.1097/DSS.0000000000005459",
+    "abstract": "Glucagon-like peptide-1-based therapies have transformed obesity management. Their growing use among perimenopausal and menopausal women introduces new dermatologic considerations, particularly when weight loss occurs alongside menopause-associated changes in skin, adipose tissue, muscle, bone, and hair. To provide a practical framework for dermatologic management of perimenopausal and menopausal women receiving glucagon-like peptide-1-based therapies. PubMed was searched from inception through September 2026 for literature on Glucagon-like peptide-1-based therapies, menopause, skin aging, lean mass, alopecia, and aesthetic procedures. Reference lists of relevant reviews and consensus statements were also hand-searched. The senior author, a dermatologist and obesity medicine specialist, provides a practice-based perspective. Key considerations include weight-loss trajectory, lean mass and bone preservation, nutrition, hair changes, procedural timing, and multidisciplinary comanagement. A staged aesthetic approach prioritizes skin quality during active weight loss, with structural correction as weight stabilizes. Dermatologic care should anticipate the overlapping effects of menopause and substantial weight loss. A longitudinal, tissue-preservation approach may shift care from reactive correction toward proactive management.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002621/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "43001810",
     "title": "Effectiveness and Safety of Once-Weekly Semaglutide 2.4 mg in Korean Adults With Obesity or Overweight: A Multicenter Retrospective Real-World Study (RE-SEMA-K Study).",
     "authors": [
@@ -947,7 +1022,9 @@
       "Clinical Trial, Phase II",
       "Journal Article",
       "Multicenter Study",
-      "Randomized Controlled Trial"
+      "Randomized Controlled Trial",
+      "Research Support, N.I.H., Intramural",
+      "Research Support, N.I.H., Extramural"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42156721/",
     "screening_status": "não avaliado"
@@ -1279,7 +1356,8 @@
     "abstract": "Glycemic control in type 1 diabetes (T1D) remains a challenge, with 20-30% of adults achieving an A1c target of <7%. Glucagon-like peptide 1 receptor agonist (GLP-1 RA) and dual glucose-dependent insulinotropic polypeptide (GIP) and GLP-1 RA (GIP/GLP-1 RA) have emerged as a promising therapy in T1D. Previous studies have shown that patients with T1D can significantly improve glycemic control while experiencing a reduction in insulin dose and body weight when long-acting GLP-1RAs or GIP/GLP-1RAs are added to insulin therapy. However, randomized controlled trials (RCT) are still insufficient. This is a prospective, randomized, parallel-group, open-label, superiority-controlled design that evaluates the safety and efficacy of adding tirzepatide to insulin therapy in participants with T1D under automated insulin delivery (AID) control. We will enroll 42 participants aged 18-65 years with confirmed T1D diagnosis ≥12 months, currently on AID insulin therapy for at least three months, with A1C ≥ 6.5% and ≤ 10%, and BMI ≥ 23 kg/m2. Participants will be randomized in a 1:1 ratio to either tirzepatide with a target dosage of 5.0 mg (after titration) or standard of care (SoC) for 16 weeks. The primary endpoint is continuous glucose monitoring (CGM)-measured percent time spent between 3.9 and 10.0 mmol/L (TIR) from baseline to follow-up after 16 weeks of treatment. Secondary endpoints include: the CGM-measured change in 24/7 percent time >10.0 mmol/L, > 13.9 mmol/L, < 3.9 mmol/L, < 3.0 mmol/L. The exploratory endpoints include: the change in body mass index (BMI), liver steatosis (MASLD), and body composition. Safety outcomes include severe hypoglycemia, diabetic ketoacidosis (DKA), and refractory gastrointestinal side effects. This is the first prospective study to investigate the safety and efficacy of tirzepatide (GIP/GLP1-RAs) as an adjuvant therapy to AID in T1D. This study may contribute unique data to significantly improving glucose and cardio-metabolic outcomes, re-directing attention to further treatment in T1D beyond insulin therapies.",
     "publication_types": [
       "Journal Article",
-      "Clinical Trial Protocol"
+      "Clinical Trial Protocol",
+      "Research Support, Non-U.S. Gov't"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/41124171/",
     "screening_status": "não avaliado"

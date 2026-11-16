@@ -1196,7 +1196,9 @@
     "doi": "10.1038/s41467-026-73660-6",
     "abstract": "The mechanisms connecting the human fat depots, subcutaneous adipose tissue (SAT) and visceral adipose tissue (VAT), to metabolic dysfunction-associated steatotic liver disease (MASLD) remain elusive. We hypothesize that in individuals with obesity, a decreased degree of adipocyte differentiation may contribute to ectopic fat accumulation in the liver, seen in MASLD. Here we show, using single nucleus RNA-sequencing from adipose tissue biopsies, that the predicted degree of VAT adipocyte differentiation is decreased in individuals with MASLD, with an attenuated impact observed in SAT adipocytes. Next, we discover that regional variants of the VAT adipocyte differentiation gene set explain a substantial proportion (17%) of MASLD heritability. These genes largely overlap (>50%) with adipocyte genes differentially expressed by MASLD, regulated by variants in cis. Finally, we show that these genes are linked to smaller adipocyte size. Together, our findings reveal that a decreased predicted degree of VAT adipocyte differentiation contributes to MASLD.",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Research Support, N.I.H., Extramural",
+      "Research Support, Non-U.S. Gov't"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42230596/",
     "screening_status": "não avaliado"

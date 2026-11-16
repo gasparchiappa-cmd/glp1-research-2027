@@ -1,5 +1,59 @@
 [
   {
+    "pmid": "42810933",
+    "title": "Bariatric Surgery, Medical Weight Loss, and the Upper Aerodigestive Tract.",
+    "authors": [
+      "Samreen Sarah",
+      "Hutter Matthew M"
+    ],
+    "journal": "Otolaryngologic clinics of North America",
+    "year": "2027",
+    "doi": "10.1016/j.otc.2026.08.001",
+    "abstract": "Obesity and intentional weight loss increasingly influence otolaryngologic disease through mechanical, metabolic, inflammatory, gastrointestinal, and regional soft-tissue effects. This review examines how bariatric surgery and contemporary medical weight-loss therapies affect the upper aerodigestive tract. Evidence is strongest for obstructive sleep apnea, in which substantial weight reduction improves disease severity but does not ensure remission. Emerging data suggest potential benefits for chronic rhinosinusitis and selected voice outcomes, alongside risks such as procedure-specific reflux, chronic cough, delayed gastric emptying, nutritional complications, and patulous Eustachian tube dysfunction. Otolaryngologists should incorporate the weight-loss method, magnitude, rate, and durability into evaluation, counseling, and perioperative planning.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42810933/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42629209",
+    "title": "Obesity and Upper Aerodigestive Dysfunction: Voice, Swallowing, Reflux, and Airway Considerations in Laryngology.",
+    "authors": [
+      "Ali Shahrukh",
+      "Jamal Nausheen",
+      "Bracken David"
+    ],
+    "journal": "Otolaryngologic clinics of North America",
+    "year": "2027",
+    "doi": "10.1016/j.otc.2026.07.002",
+    "abstract": "Obesity alters upper aerodigestive physiology through changes in respiratory mechanics, upper airway stability, reflux burden, esophageal clearance, gastric emptying, and systemic inflammation. These changes may contribute to a myriad of voice, swallowing, and airway pathologies. This article examines the relationship between obesity and upper aerodigestive tract disorders, focusing on voice, swallowing, reflux, airway mechanics, perioperative/postoperative risks, and management relevant to laryngologists and comprehensive otolaryngologists alike.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42629209/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43033301",
+    "title": "Tirzepatide and inflammation: a critical reappraisal of the immunometabolic case for incretin-based therapy.",
+    "authors": [
+      "Jabbar Ahmed D"
+    ],
+    "journal": "Reviews in endocrine & metabolic disorders",
+    "year": "2026",
+    "doi": "10.1007/s11154-026-10101-1",
+    "abstract": "Tirzepatide, a dual glucose-dependent insulinotropic polypeptide (GIP) and glucagon-like peptide-1 (GLP-1) receptor agonist, lowers high-sensitivity C-reactive protein (hsCRP) by 29-55% across randomised trials in obesity, heart failure with preserved ejection fraction and obstructive sleep apnoea, and interleukin-6 by 25-30% at 72 weeks. Much of this is not weight-mediated: in SURPASS-4 the fall in hsCRP correlated with that in body mass index at r = 0.07, and mediation analysis of trials of semaglutide, a selective GLP-1 receptor agonist, attributes only 21-62% of its hsCRP effect to change in glycated haemoglobin and/or weight. The mechanism, however, is not the one usually given: the account reproduced in most reviews, that incretin receptors on macrophages and T lymphocytes signal through cyclic AMP to restrain nuclear factor-κB, is not supported by the best-controlled data. The principal antibody used to detect the T-cell GLP-1 receptor gives signal in receptor-null cells; Glp1r is undetectable by quantitative PCR in peritoneal and adipose macrophages; and haematopoietic receptor deletion does not abolish semaglutide's anti-atherosclerotic effect. I therefore propose a three-route model, graded by evidence: limited direct signalling in a few validated lymphocyte populations, a central neuro-immune relay, and a large indirect metabolic contribution. That adipose macrophages are refractory to tirzepatide while Kupffer cells respond, and that C-reactive protein is hepatocyte-derived, suggest a substantially hepatic rather than adipose effect. Because the mechanistic evidence concerns GLP-1 receptor agonism almost entirely, the appraisal applies to incretin-based therapy as a class, tirzepatide being the worked example. Five falsifiable propositions are advanced with the experiments that would refute them.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033301/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42981573",
     "title": "A Triple Incretin Agonist for Obesity, Osteoarthritis, and Sleep Apnea.",
     "authors": [
@@ -439,24 +493,6 @@
       "Multicenter Study"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42814954/",
-    "screening_status": "não avaliado"
-  },
-  {
-    "pmid": "42810933",
-    "title": "Bariatric Surgery, Medical Weight Loss, and the Upper Aerodigestive Tract.",
-    "authors": [
-      "Samreen Sarah",
-      "Hutter Mattew M"
-    ],
-    "journal": "Otolaryngologic clinics of North America",
-    "year": "2026",
-    "doi": "10.1016/j.otc.2026.08.001",
-    "abstract": "Obesity and intentional weight loss increasingly influence otolaryngologic disease through mechanical, metabolic, inflammatory, gastrointestinal, and regional soft-tissue effects. This review examines how bariatric surgery and contemporary medical weight-loss therapies affect the upper aerodigestive tract. Evidence is strongest for obstructive sleep apnea, in which substantial weight reduction improves disease severity but does not ensure remission. Emerging data suggest potential benefits for chronic rhinosinusitis and selected voice outcomes, alongside risks such as procedure-specific reflux, chronic cough, delayed gastric emptying, nutritional complications, and patulous Eustachian tube dysfunction. Otolaryngologists should incorporate the weight-loss method, magnitude, rate, and durability into evaluation, counseling, and perioperative planning.",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42810933/",
     "screening_status": "não avaliado"
   },
   {
@@ -975,25 +1011,6 @@
       "Multicenter Study"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42639925/",
-    "screening_status": "não avaliado"
-  },
-  {
-    "pmid": "42629209",
-    "title": "Obesity and Upper Aerodigestive Dysfunction: Voice, Swallowing, Reflux, and Airway Considerations in Laryngology.",
-    "authors": [
-      "Ali Shahrukh",
-      "Jamal Nausheen",
-      "Bracken David"
-    ],
-    "journal": "Otolaryngologic clinics of North America",
-    "year": "2026",
-    "doi": "10.1016/j.otc.2026.07.002",
-    "abstract": "Obesity alters upper aerodigestive physiology through changes in respiratory mechanics, upper airway stability, reflux burden, esophageal clearance, gastric emptying, and systemic inflammation. These changes may contribute to a myriad of voice, swallowing, and airway pathologies. This article examines the relationship between obesity and upper aerodigestive tract disorders, focusing on voice, swallowing, reflux, airway mechanics, perioperative/postoperative risks, and management relevant to laryngologists and comprehensive otolaryngologists alike.",
-    "publication_types": [
-      "Journal Article",
-      "Review"
-    ],
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42629209/",
     "screening_status": "não avaliado"
   },
   {
@@ -1806,6 +1823,31 @@
       "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42208956/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42126975",
+    "title": "Timing and duration of glucagon-like peptide-1 receptor agonist use and risk of nonarteritic anterior ischaemic optic neuropathy.",
+    "authors": [
+      "Niazi Siar",
+      "Gnesin Filip",
+      "Jawad Baker Nawfal",
+      "Niazi Zia",
+      "Yazdanfard Puriya Daniel Wuertz",
+      "Toft-Petersen Anne P",
+      "Sørensen Kathrine Kold",
+      "Meaidi Amani",
+      "Subhi Yousif",
+      "Torp-Pedersen Christian"
+    ],
+    "journal": "Acta ophthalmologica",
+    "year": "2026",
+    "doi": "10.1111/aos.70168",
+    "abstract": "To investigate the association between glucagon-like peptide-1 receptor agonist (GLP-1RA) use and nonarteritic anterior ischaemic optic neuropathy (NAION) in type 2 diabetes, examining treatment recency and cumulative duration. This nationwide registry-based nested case-control study utilizedz Danish health registries (1996-2023). Among 201 776 metformin-treated adults initiating second-line antihyperglycaemic therapy, 123 incident NAION cases were matched to 4920 controls by birth year and sex (incidence-density sampling). Conditional logistic regression estimated adjusted hazard rate ratios (HRs) for GLP-1RA exposure by recency (current 0-90 days; recent 91-365 days) and cumulative duration, adjusting for socio-economic factors, hypertension, hypercholesterolaemia, sleep apnoea, and diabetes duration. GLP-1RA use occurred in 63/123 cases (51.2%) and 1688/4920 controls (34.3%). Ever use was associated with a higher NAION rate than other second-line therapies (HR 2.13, 95% CI: 1.43-3.18). Current use was associated with elevated rates (HR 2.28, 95% CI: 1.49-3.48), whereas the estimate for recent use was imprecise (HR 1.69, 95% CI: 0.88-3.25). By cumulative duration, no clear evidence of an increase was seen within 0-½ years (HR 0.80, 95% CI: 0.32-2.05), and rates were highest at ½-1 year (HR 3.63, 95% CI: 2.06-6.40) and 1-1½ years (HR 3.52, 95% CI: 1.73-7.17). Findings were consistent after HbA1c adjustment and in a new-user analysis. GLP-1RA use is associated with a higher NAION rate in type 2 diabetes. This association appears time-dependent, being most pronounced during current treatment and peaking after 6-18 months of cumulative exposure.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42126975/",
     "screening_status": "não avaliado"
   },
   {

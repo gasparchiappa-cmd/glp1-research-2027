@@ -106,6 +106,188 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "43037586",
+    "title": "Two drugs, one liver: A real-world test of GLP-1 RA and SGLT-2i combination therapy in MASLD.",
+    "authors": [
+      "Fakhoury Butros",
+      "Arab Juan Pablo"
+    ],
+    "journal": "Hepatology (Baltimore, Md.)",
+    "year": "2026",
+    "doi": "10.1097/HEP.0000000000001849",
+    "abstract": "",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43037586/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43030450",
+    "title": "Nutritional Impairment and Muscle Health in MASLD: The Potential Role of Eating Behaviors.",
+    "authors": [
+      "Armașu Ioana",
+      "Ungureanu Maria-Christina",
+      "Gheorghe Liliana",
+      "Botnariu Gina Eosefina",
+      "Florescu Alexandru Florin",
+      "Matei Anca",
+      "Jari Irina",
+      "Rusu Roxana Elena",
+      "Cojocaru Elena",
+      "Vasiliu Ioana",
+      "Cojocaru Cristian",
+      "Leuștean Letiția"
+    ],
+    "journal": "Journal of clinical medicine",
+    "year": "2026",
+    "doi": "10.3390/jcm15218306",
+    "abstract": "Obesity can conceal nutritional impairment and compromised muscle health in metabolic dysfunction-associated steatotic liver disease (MASLD). This critical narrative review examines the potential role of eating behaviors in nutritional impairment and muscle health in MASLD, focusing on adults with overweight or obesity while considering the limited findings in lean MASLD and, separately, pediatric evidence. Altered eating behaviors are associated with prevalent MASLD, but their contribution to malnutrition, myosteatosis, and sarcopenic obesity remains unproven. Nutritionally adverse dietary patterns and appetite loss may increase vulnerability, although evidence linking these factors to muscle outcomes derives predominantly from aging and general obesity populations. Total daily protein intake is better supported than specific meal-level distribution targets, while resistance exercise offers more consistent functional benefits than protein supplementation alone in the limited direct MASLD evidence. Restricting eating windows has not demonstrated additional hepatic benefit over usual care. Incretin-associated lean-mass loss does not by itself establish sarcopenia or disproportionate muscle harm and requires interpretation alongside muscle strength and function. Physical inactivity, socioeconomic circumstances, multimorbidity, and reverse causation complicate attribution to eating behavior. These findings support assessment beyond body mass index, integrating eating behaviors, nutritional risk, and muscle health. We propose an adult assessment framework; however, prospective studies are needed to validate it and clarify the independent contribution of eating behaviors to nutritional and muscle deterioration in MASLD.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030450/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43021939",
+    "title": "Early postmarketing reporting patterns of resmetirom in FAERS: disproportionality analyses with indication-restricted and active comparators.",
+    "authors": [
+      "Zhao Xin",
+      "Pan Bi",
+      "Chen Tianhao",
+      "Zhang Jingyi",
+      "Zhou Rongxing"
+    ],
+    "journal": "Frontiers in pharmacology",
+    "year": "2026",
+    "doi": "10.3389/fphar.2026.1934274",
+    "abstract": "Resmetirom is the first approved liver-directed thyroid hormone receptor-beta agonist for noncirrhotic metabolic dysfunction-associated steatohepatitis (MASH) with fibrosis. Early liver-event reporting may be distorted by indication leakage (the treated disease or its manifestations recorded as adverse events), disease progression, and surveillance bias. We analyzed FDA Adverse Event Reporting System (FAERS) data from 2024Q1 through 2026Q1. Deduplicated primary- or secondary-suspect reports were assessed at preferred-term, system-organ-class, and nine predefined clinical-cluster levels using frequentist and Bayesian disproportionality metrics. References included all FAERS, US MASH-indication reports, and an exploratory 144-report active comparator. Sensitivity analyses examined cirrhosis indications, serious outcomes, onset-data selection, and co-medications. Among 3,155,054 deduplicated cases, 1,429 resmetirom reports were analyzed. Versus all non-resmetirom reports, RORs (95% CIs) were 12.13 (10.61-13.88) for hepatocellular injury and 11.46 (9.24-14.21) for cholestasis/biliary events. Gastrointestinal, thyroid/metabolic, and rash/hypersensitivity reporting was also enriched. Hepatic estimates remained elevated after excluding 35 cirrhosis-indication reports and in restricted comparisons, although sparse cells produced wide confidence intervals. The active comparator comprised 142 GLP-1/GIP and two pioglitazone reports. Against this reference, RORs were 1.36 (0.93-1.99) for gastrointestinal intolerance, 0.93 (0.59-1.47) for nausea, 1.42 (0.18-11.18) for cholelithiasis, and 1.95 (1.12-3.41) for diarrhoea. The first three attenuated, whereas diarrhoea remained elevated. Only 206 reports (14.4%) had valid exact onset dates, with systematic differences from reports lacking dates. Sex was missing in 94.6%. Gemfibrozil and clopidogrel were co-reported in three and 25 cases, respectively. Early FAERS reporting patterns recapitulated recognized gastrointestinal, hepatic, biliary, cutaneous, and thyroid/metabolic domains. Comparator-dependent attenuation suggests that crude all-FAERS estimates partly reflect treatment-context reporting. However, the small GLP-1/GIP-dominant comparator, missing data, target-organ confounding, and spontaneous-report limitations preclude incidence, comparative-risk, or causal inference. These hypothesis-generating patterns support clinical monitoring and denominator-based confirmation.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43021939/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43014742",
+    "title": "GLP-1-based Therapies in MASH: From Metabolic Benefits to an Improvement in Liver Fibrosis.",
+    "authors": [
+      "Takami Taro"
+    ],
+    "journal": "Internal medicine (Tokyo, Japan)",
+    "year": "2026",
+    "doi": "10.2169/internalmedicine.8562-26",
+    "abstract": "The fibrosis stage is the strongest predictor of liver-related outcomes in metabolic dysfunction-associated steatotic liver disease (MASLD), supporting pharmacotherapy for metabolic dysfunction-associated steatohepatitis (MASH) with F2-F3 fibrosis. Glucagon-like peptide-1 (GLP-1) receptor agonists improve MASLD through weight loss and favorable metabolic and anti-inflammatory effects; preclinical studies suggest weight loss-independent signaling mediated by liver sinusoidal endothelial cells. Early trials showed steatohepatitis resolution, but an inconsistent fibrosis improvement. In phase III ESSENCE, weekly semaglutide 2.4 mg significantly increased the proportions of patients achieving \"resolution of steatohepatitis with no worsening of liver fibrosis\" and a \"reduction in liver fibrosis with no worsening of steatohepatitis\" at week 72, leading to accelerated approval in the United States and approval in Japan for noncirrhotic MASH with moderate or advanced fibrosis. Non-invasive assessment may support patient selection and monitoring when a biopsy is inappropriate, although response thresholds require validation. This review summarizes the evidence, mechanisms, patient selection, safety, monitoring, and challenges.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43014742/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43014327",
+    "title": "Safety and efficacy of weekly pemvidutide versus placebo for metabolic dysfunction-associated steatohepatitis (IMPACT): 48-week results from a multicentre, randomised, double-blind, phase 2b study.",
+    "authors": [
+      "Noureddin Mazen",
+      "Alkhouri Naim",
+      "Loomba Rohit",
+      "Chalasani Naga",
+      "Sheikh Muhammad Y",
+      "Tomah Shaheen",
+      "Gutierrez Julio A",
+      "Urbina Silvia",
+      "Suschak John J",
+      "Yang Jay",
+      "Garner Rachel",
+      "Roberts M Scot",
+      "Browne Sarah K",
+      "Arbet-Engels Christophe",
+      "Harris M Scott"
+    ],
+    "journal": "The lancet. Gastroenterology & hepatology",
+    "year": "2026",
+    "doi": "10.1016/S2468-1253(26)00263-3",
+    "abstract": "Glucagon-GLP-1 dual receptor agonists have shown promise in treating metabolic dysfunction-associated steatohepatitis (MASH). The aim of the IMPACT trial was to assess the effects of one such agent, pemvidutide, in patients with MASH and stage F2 or F3 fibrosis. We previously reported the 24-week primary endpoints of MASH resolution and fibrosis improvement. Here we report the secondary endpoints following 48 weeks of treatment. IMPACT was a 48-week, randomised, placebo-controlled, double-blind, phase 2b trial in patients with biopsy-confirmed MASH and fibrosis stage F2 or F3. Patients from 83 sites, including academic and community hospitals and private clinical research clinics, in the USA and Australia were randomly assigned (1:2:2) using an interactive web response system to receive once-weekly subcutaneous pemvidutide (1·2 mg or 1·8 mg), administered without dose titration, or placebo. Patients, investigators, the funder, and all other staff, were masked to treatment assignments throughout the study. The dual primary endpoints of MASH resolution without worsening of fibrosis or at least one stage liver fibrosis improvement without worsening of MASH were assessed at week 24. Liver biopsies were not collected at week 48, and only secondary endpoints were assessed at this timepoint. All analyses were conducted in the intention-to-treat population consisting of all randomly assigned patients. The trial was registered with ClinicalTrials.gov (NCT05989711) and is complete. From July 27, 2023, to Nov 21, 2025, 1557 patients were screened and 212 patients were randomly assigned to pemvidutide 1·2 mg (n=41), pemvidutide 1·8 mg (n=85), or placebo (n=86). Mean age was 53·4 years (SD 12·4), mean BMI was 38·7 kg/m2 (7·8), 123 (58%) patients were female, 89 (42%) were male, and 90 (42%) had type 2 diabetes. At week 48, least-squares mean relative changes in liver fat content were -45·2% (95% CI -56·0 to -34·5; difference from placebo -37·1 percentage points [95% CI -50·6 to -23·5]; p<0·0001) in the pemvidutide 1·2 mg group, -54·7% (-62·3 to -47·1; difference from placebo -46·5 percentage points [-57·7 to -35·3]; p<0·0001) in the pemvidutide 1·8 mg group, and -8·2% (-16·5 to 0·2) in the placebo group. The least-squares mean absolute change in corrected T1 relaxation time was -124·2 ms (95% CI -157·1 to -91·4; difference from placebo -103·8 [95% CI -143·9 to -63·6]; p<0·0001) in the pemvidutide 1·2 mg group, -139·5 ms (-161·7 to -117·3; difference from placebo -119·0 [-151·2 to -86·9]; p<0·0001) in the pemvidutide 1·8 mg group, and -20·5 ms (-44·5 to 3·6) in the placebo group. Least-squares mean changes in alanine aminotransferase were -37·8 IU/L (95% CI -44·5 to -31·1; difference from placebo -27·5 [95% CI -35·8 to -19·2]; p<0·0001) in the pemvidutide 1·2 mg group and -37·4 IU/L (-42·1 to -32·7; difference from placebo -27·1 [-33·9 to -20·3]; p<0·0001) in the pemvidutide 1·8 mg group versus -10·3 IU/L (-15·2 to -5·4) for the placebo group. Least-squares mean changes in enhanced liver fibrosis score were -0·49 (95% CI -0·71 to -0·28; difference from placebo -0·65 [95 % CI -0·92 to -0·38]; p<0·0001) in the pemvidutide 1·2 mg group, -0·58 (-0·74 to -0·43; difference from placebo -0·74 [-0·97 to -0·52]; p<0·0001) in the pemvidutide 1·8 mg group, and 0·16 (-0·01 to 0·32) for the placebo group. The most frequent pemvidutide-related adverse events were nausea (occurring in nine [22%] of 41 patients in the pemvidutide 1·2 mg group, 35 [41%] of 85 patients in the pemvidutide 1·8 mg group, and 15 [17%] of 86 patients in the placebo group), diarrhoea (five [12%] in the pemvidutide 1·2 mg group, 19 [22%] in the pemvidutide 1·8 mg group, and seven [8%] in the placebo group), and constipation (five [12%] in the pemvidutide 1·2 mg group, 15 [18%] in the pemvidutide 1·8 mg group, and ten [12%] in the placebo group). No severe or serious adverse events were defined as study medication related. Discontinuations due to adverse events occurred in no patients in the pemvidutide 1·2 mg group, one (1%) in the pemvidutide 1·8 mg group, and three (3%) in the placebo group. In patients with MASH, 48 weeks of pemvidutide treatment led to significant reductions in non-invasive tests of MASH inflammation and fibrosis, suggesting continued improvement in liver health. These data warrant the continued investigation of pemvidutide in a phase 3 trial. Altimmune.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43014327/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43011801",
+    "title": "Predicting response to GLP-1-based therapy in MASLD/MASH: an evidence-tiered, endpoint-specific framework built on host genotype and gut microbial features.",
+    "authors": [
+      "Zhu Guojian",
+      "Huang Yucao",
+      "Huang Yun",
+      "Yang Wenlong"
+    ],
+    "journal": "Frontiers in endocrinology",
+    "year": "2026",
+    "doi": "10.3389/fendo.2026.1962068",
+    "abstract": "Incretin-based therapy is now central to treating metabolic dysfunction-associated steatohepatitis (MASH), but the benefit is uneven. In the ESSENCE trial, semaglutide resolved steatohepatitis without worsening fibrosis in 62.9% of patients; placebo did so in 34.3%. No one can yet tell in advance which patient will respond. Weight loss explains most of the difference between trials, but it cannot be prescribed. This review asks whether biology measured before the first dose can predict who will benefit. Hepatocytes carry almost no GLP-1 receptor, so the liver benefit arrives indirectly, through weight loss and through gut-liver signaling. Both routes can be influenced from outside the liver, which points to two measurable domains: host genotype, fixed and assayable at baseline, and gut microbial features. For a dietary prebiotic, baseline microbial features have already forecast response, with an externally validated area under the curve of 0.74 (95% CI 0.66-0.81). Nothing equivalent has been tested for a GLP-1 receptor agonist. The genotype evidence comes from dietary weight loss rather than from a drug. Both pillars therefore rest on interventions other than incretin therapy, and the framework grades them accordingly. We assemble this evidence into a framework with two rules. Findings are graded by how mature the evidence behind them is. Liver and cardiovascular benefits are predicted separately, because the two do not track together. The output is a probability rather than a label. One conclusion is already usable: a predicted poor liver response is not, on its own, a reason to withhold or stop a GLP-1 receptor agonist.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011801/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43003105",
+    "title": "Efficacy and safety of efinopegdutide in adults with metabolic dysfunction-associated steatohepatitis and stage 2-3 fibrosis: a phase 2b, randomised, placebo-controlled study.",
+    "authors": [
+      "Lawitz Eric",
+      "Wong Vincent Wai-Sun",
+      "Shankar R Ravi",
+      "Francque Sven",
+      "Patel Keyur",
+      "Miele Luca",
+      "Abdelmalek Manal F",
+      "Krishnan Radha",
+      "Zhang Zhuoran",
+      "Lam Raymond L H",
+      "Golm Gregory",
+      "Marquard Jan",
+      "Da Ben L",
+      "Engel Samuel S",
+      "Schattenberg JÖrn M"
+    ],
+    "journal": "Lancet (London, England)",
+    "year": "2026",
+    "doi": "10.1016/S0140-6736(26)02043-X",
+    "abstract": "Efinopegdutide is a pharmacologically distinct once-weekly GLP-1-glucagon receptor co-agonist with a relative receptor potency balance of approximately 2:1 under development for metabolic dysfunction-associated steatohepatitis (MASH). We aimed to investigate the efficacy and safety of efinopegdutide in adults with non-cirrhotic MASH. We did a phase 2b, randomised, placebo-controlled, double-blind study conducted at 176 academic and community centres in 26 countries. We included adults (aged ≥18 years) with biopsy-confirmed MASH and stage 2 or stage 3 fibrosis. Eligible participants were randomly assigned (1:1:1:1:1) to receive either efinopegdutide (4 mg, 7 mg, or 10 mg), placebo, or open-label semaglutide 2·4 mg, all administered subcutaneously once weekly. Randomisation was performed centrally. The primary endpoint was MASH resolution without worsening of fibrosis at week 52. The key secondary histological endpoint was fibrosis improvement of at least one stage without worsening of steatohepatitis. Missing end-of-treatment biopsies were considered as failure for the primary analysis. This study is registered with EU CT, 2022-502647-35-00, and ClinicalTrials.gov, NCT05877547, and is complete. Between June 23, 2023, and Dec 29, 2025, we screened 1704 participants. We randomly assigned 386 (23%) participants, of whom 381 (99%; 194 [51%] women and 187 [49%] men) received at least one dose of study intervention and were included in the analysis. Baseline characteristics were similar across groups; 239 (63%) of 381 participants had F2 fibrosis and 142 (37%) had F3 fibrosis; the mean age of participants was 53 years (SD 13). At week 52, MASH resolution without worsening of fibrosis occurred in 31 (56%) of 55 participants in the 4 mg efinopegdutide group, 31 (63%) of 49 participants in the 7 mg efinopegdutide group, and 35 (61%) of 57 participants in the 10 mg efinopegdutide group versus seven (13%) of 53 participants in the placebo group (difference vs placebo 43·0 percentage points [95% CI 25·7 to 57·8; p<0·0001] for 4 mg, 49·5 percentage points [31·4 to 64·2; p<0·0001] for 7 mg, and 47·8 percentage points [30·7 to 62·0; p<0·0001] for 10 mg); 26 (53%) of 49 participants receiving semaglutide met this endpoint. For the key secondary endpoint, fibrosis improvement of at least one stage without worsening of steatohepatitis occurred in 32 (43%) of 75 participants in the efinopegdutide 4 mg group, 39 (52%) of 75 participants in the 7 mg efinopegdutide group, and 26 (34%) of 77 participants in the efinopegdutide 10 mg group versus 16 (21%) of 77 participants receiving placebo (difference vs placebo 21·7 percentage points [7·1 to 35·7; p=0·0038] in the efinopegdutide 4 mg group, 30·4 percentage points [15·4 to 44·3; p<0·0001] in the efinopegdutide 7 mg group, and 13·0 percentage points [-1·2 to 26·8; p=0·072] in the efinopegdutide 10 mg group); 16 (25%) of 65 participants receiving semaglutide met this endpoint. The most frequently reported adverse events with efinopegdutide were gastrointestinal, with the highest rates among participants receiving efinopegdutide 10 mg. Adverse events leading to discontinuation of study intervention occurred more frequently among participants receiving efinopegdutide 10 mg (nine [11%] of 79 participants) compared with the other doses of efinopegdutide (range 3-4%) or placebo (one [1%]). Treatment with efinopegdutide resulted in a significantly greater proportion of participants with MASH resolution without worsening of fibrosis compared with placebo. The 7 mg dose showed the most favourable benefit-risk profile, improving fibrosis by at least one stage without worsening steatohepatitis in approximately half of participants after 1 year of treatment. These findings support the potential utility of efinopegdutide as a once-weekly GLP-1-glucagon receptor co-agonist in MASH. Merck Sharp & Dohme, a subsidiary of Merck & Co.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43003105/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43002386",
+    "title": "GLP-1/Glucagon Receptor Dual Agonists for Metabolic Dysfunction-Associated Steatohepatitis and Steatotic Liver Disease (MASH/MASLD): A Systematic Review and Meta-Analysis.",
+    "authors": [
+      "Polepalli Krishna Vamsy",
+      "Roshni Prarath",
+      "Moka Sushma",
+      "Reddi Rinita",
+      "Manish Mahesh",
+      "Potluri Vineeth"
+    ],
+    "journal": "Digestive diseases (Basel, Switzerland)",
+    "year": "2026",
+    "doi": "10.1159/ddi/acnag020",
+    "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is a progressive liver disease with high unmet therapeutic need. GLP-1/glucagon dual receptor agonists are an emerging drug class, but no meta-analysis has evaluated it exclusively. In this registered systematic review and meta-analysis (PROSPERO CRD420261325731), we searched PubMed, Embase, Cochrane, and Google Scholar through January 2026 for placebo-controlled randomized trials of GLP-1/glucagon dual agonists in adults with MASH or MASLD. Four trials (survodutide, pemvidutide, cotadutide; n=673) were pooled with DerSimonian-Laird random-effects models; Hartung-Knapp-Sidik-Jonkman adjustment was a sensitivity analysis. Dual agonists increased MASH resolution without worsening of fibrosis (RR 2.98, 95% CI 2.09-4.24; k=2). A borderline, exploratory signal for fibrosis improvement was observed (RR 1.38, 95% CI 1.01-1.88; p=0.044; k=2); neither trial was individually significant. Relative liver fat fell by 46.24% (95% CI -55.24 to -37.24), and ≥30% liver fat reduction was more frequent (RR 4.39, 95% CI 2.97-6.49). ALT (MD -20.38 IU/L, 95% CI -33.00 to -7.75), AST (MD -18.80 IU/L), body weight (MD -4.36%) and systolic blood pressure (MD -5.22 mmHg) decreased; the ELF reduction was not retained in sensitivity analyses. Nausea (RR 2.90), vomiting (RR 9.58) and diarrhea (RR 1.90) were more frequent; serious adverse events were not (RR 1.06). Split-placebo analyses were consistent. Dual agonists were associated with a higher likelihood of MASH resolution, a borderline exploratory fibrosis signal, and reductions in liver fat, liver enzymes, weight and systolic blood pressure, with more gastrointestinal adverse events. These early-phase findings support continued Phase 3 evaluation.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43002386/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42996399",
     "title": "Will GLP-1-based therapies reshape the epidemiology of MASLD? An emerging public health perspective.",
     "authors": [
@@ -995,7 +1177,7 @@
   },
   {
     "pmid": "42837671",
-    "title": "US Healthcare Professionals' Management of MASH and Knowledge of GLP-1, GIP, and Glucagon Receptor Agonists.",
+    "title": "US Healthcare Professionals' Management of MASH and Self-Reported Knowledge of GLP-1, GIP, and Glucagon Receptor Agonists.",
     "authors": [
       "Bays Harold E",
       "Pak Jonathan",
@@ -1004,7 +1186,7 @@
     "journal": "Clinical and translational gastroenterology",
     "year": "2026",
     "doi": "10.14309/ctg.0000000000001116",
-    "abstract": "Various combinations of agonists of the glucagon-like peptide-1 receptor (GLP-1R), glucose-dependent insulinotropic polypeptide receptor (GIPR), and glucagon receptor (GCGR) are in clinical trials for the treatment of metabolic dysfunction-associated steatotic liver disease (MASLD) and metabolic dysfunction-associated steatohepatitis (MASH). We explored how US healthcare professionals (HCPs) treating people with MASLD/MASH perceive these investigational agents. Respondents to this online survey (November 2024 to January 2025) were specialists in hepatology/gastroenterology (HEP/GASTROs), endocrinology (ENDOs), and primary care (PCCs). The survey assessed awareness of GLP-1R, GIPR, and GCGR pathways, as well as pharmacotherapeutics targeting them. Of 760 respondents, 256 were HEP/GASTROs, 252 were ENDOs, and 252 were PCCs. Ultrasound was the most common imaging technique used to diagnose and assess MASH overall (69.8%); however, HEP/GASTROs most commonly used vibration-controlled transient elastography (71.9%). Only 53.9% and 30.1% of HCPs were \"very\" or \"extremely familiar\" with GIPR and GCGR, respectively, but most (76.8%) HCPs were \"very\" or \"extremely familiar\" with GLP-1R. ENDOs were more likely than either HEP/GASTROs or PCCs to state that activation of GCGR was associated with increased glycogenolysis and gluconeogenesis (59.7% vs 50.0% [P < 0.05] vs 50.2% [P < 0.05]). A total of 90.3%, 75.9%, and 87.0% of respondents expected GLP-1R, GIPR, and GCGR agonists, respectively, to benefit people with MASH. HCPs were generally more familiar with GLP-1R, and the effects of its activation, than with GIPR and GCGR. HCPs anticipate that agonists of these receptors will have meaningful clinical benefits for MASLD/MASH and other cardiometabolic conditions.",
+    "abstract": "Various combinations of agonists of the glucagon-like peptide-1 receptor (GLP-1R), glucose-dependent insulinotropic polypeptide receptor (GIPR), and glucagon receptor (GCGR) are in clinical trials for the treatment of metabolic dysfunction-associated steatotic liver disease (MASLD) and metabolic dysfunction-associated steatohepatitis (MASH). We explored how US healthcare professionals (HCPs) treating people with MASLD/MASH perceive these investigational agents. Respondents to this online survey (November 2024 to January 2025) were specialists in hepatology/gastroenterology (HEP/GASTROs), endocrinology (ENDOs), and primary care (PCCs). The survey assessed awareness of GLP-1R, GIPR, and GCGR pathways, as well as pharmacotherapeutics targeting them. Of 760 respondents, 256 were HEP/GASTROs, 252 were ENDOs, and 252 were PCCs. Ultrasound was the most common imaging technique used to diagnose and assess MASH overall (69.8%); however, HEP/GASTROs most commonly used vibration-controlled transient elastography (71.9%). Only 53.9% and 30.1% of HCPs were very or extremely familiar with GIPR and GCGR, respectively, but most (76.8%) HCPs were very or extremely familiar with GLP-1R. ENDOs were more likely than either HEP/GASTROs or PCCs to state that activation of GCGR was associated with increased glycogenolysis and gluconeogenesis (59.7% vs 50.0% [ P < 0.05] vs 50.2% [ P < 0.05]). A total of 90.3%, 75.9%, and 87.0% of respondents expected GLP-1R, GIPR, and GCGR agonists, respectively, to benefit people with MASH. HCPs were generally more familiar with GLP-1R, and the effects of its activation, than with GIPR and GCGR. HCPs anticipate that agonists of these receptors will have meaningful clinical benefits for MASLD/MASH and other cardiometabolic conditions.",
     "publication_types": [
       "Journal Article"
     ],
@@ -1458,6 +1640,25 @@
       "Journal Article"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42736030/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42716188",
+    "title": "Cell death-induced chronic inflammation as a therapeutic target for metabolic dysfunction-associated steatohepatitis.",
+    "authors": [
+      "Suganami Takayoshi",
+      "Tanaka Miyako",
+      "Itoh Michiko"
+    ],
+    "journal": "Pharmacology & therapeutics",
+    "year": "2026",
+    "doi": "10.1016/j.pharmthera.2026.109123",
+    "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is a progressive liver disease characterized by hepatic steatosis, inflammation, and fibrosis, which can ultimately lead to cirrhosis and hepatocellular carcinoma. Although recent Food and Drug Administration approvals of resmetirom and semaglutide mark a milestone in MASH therapy, no approved agents directly target hepatic inflammation or fibrosis, underscoring the urgent need for novel therapeutic strategies. Hepatocyte death is a histological hallmark that distinguishes MASH from simple steatosis, yet the mechanisms by which it drives chronic inflammation and fibrosis remain incompletely understood. We identified hepatic crown-like structures (CLSs), aggregates of macrophages surrounding dead hepatocytes, as the histological hub of this process. In steatotic livers, impaired dead cell clearance allows sustained macrophage-dead cell interactions within CLSs, where tissue-resident macrophages acquire profibrotic properties. Cholesterol accumulation in hepatocytes promotes cholesterol crystallization, triggering hepatocyte death and subsequent lysosomal cholesterol overload in CLS-constituting macrophages, thereby accelerating inflammation and fibrosis. Targeting this pathway using a liver-tropic supramolecular β-cyclodextrin polyrotaxane (βCD-PRX), which selectively delivers βCD to lysosomes via endocytosis, ameliorated macrophage lysosomal stress and hepatic fibrosis in murine MASH models without affecting body weight or steatosis. Beyond the liver, CLS-driven chronic inflammation contributes to adipose tissue dysfunction in obesity and the transition from acute kidney injury to chronic kidney disease, suggesting broad therapeutic relevance. Continued investigation of CLSs as a shared pathological microenvironment across metabolic diseases may pave the way for novel diagnostic and therapeutic modalities for MASH and related conditions.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42716188/",
     "screening_status": "não avaliado"
   },
   {
@@ -2234,6 +2435,27 @@
       "Journal Article"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42090713/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42029657",
+    "title": "GLP-1 receptor agonist-SGLT-2 inhibitor combination and risk of major adverse liver and cardiovascular outcomes in adults with MASLD and type 2 diabetes.",
+    "authors": [
+      "Mao Xianhua",
+      "Fan Hong",
+      "Yuen Man-Fung",
+      "Cheung Ramsey",
+      "Seto Wai-Kay",
+      "Nguyen Mindie H"
+    ],
+    "journal": "Hepatology (Baltimore, Md.)",
+    "year": "2026",
+    "doi": "10.1097/HEP.0000000000001771",
+    "abstract": "Glucagon-like peptide-1 (GLP-1) receptor agonists and sodium-glucose cotransporter-2 (SGLT-2) inhibitors individually benefit patients with metabolic dysfunction-associated steatotic liver disease (MASLD). We aimed to evaluate the effect of GLP-1 receptor agonist-SGLT-2 inhibitor combination on the risk of major adverse liver and cardiovascular outcomes compared with either agent alone among patients with MASLD and type 2 diabetes (T2D). This is a target trial emulation study using data from U.S. MarketScan databases. Propensity score-matched cohorts were built to compare (1) 4606 patients who received GLP-1 receptor agonist-SGLT-2 inhibitor combination with 18,424 who received only GLP-1 receptor agonist, and (2) 5368 patients who received this combination with 21,472 who received only SGLT-2 inhibitors. Cox regression models were conducted in on-treatment designs. Compared with GLP-1 receptor agonists, the GLP-1 receptor agonist-SGLT-2 inhibitor combination was associated with a 39% lower risk of major adverse liver outcomes [HR 0.61 (95% CI 0.49-0.77)] and a 35% lower risk of major adverse cardiovascular events [HR 0.65 (0.60-0.70)] during a median follow-up of 6.3 months. Compared with SGLT-2 inhibitors, the combination was associated with a 43% lower risk of major adverse liver outcomes [HR 0.57 (0.46-0.69)] and a 20% lower risk of major adverse cardiovascular events [HR 0.80 (0.75-0.86)] during a median follow-up of 6.0 months. In this study, the GLP-1 receptor agonist-SGLT-2 inhibitor combination was associated with a lower risk of major adverse liver and cardiovascular outcomes compared with either agent alone among patients with MASLD and T2D.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42029657/",
     "screening_status": "não avaliado"
   },
   {

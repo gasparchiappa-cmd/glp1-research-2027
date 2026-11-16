@@ -1,5 +1,46 @@
 [
   {
+    "pmid": "43011228",
+    "title": "GLP-1 based therapy of obesity and type 2 diabetes.",
+    "authors": [
+      "Holst Jens Juul"
+    ],
+    "journal": "Diabetology international",
+    "year": "2027",
+    "doi": "10.1007/s13340-026-00946-x",
+    "abstract": "GLP-1 is 30-amino acid peptide that is secreted from the intestine in response to food intake. The release mechanism involves luminal exposure to as well as absorption and metabolism of the major nutrients. It functions mainly as a part of the ileal brake mechanism whereby nutrient entry in distal segments of the small intestine inhibit gastrointestinal secretion and motility as well as appetite and food intake, signalling nutritional abundance. It also functions as a second line incretin hormone. It acts on the brain via sensory vagal afferents, but also interacts with exposed neurons expressing the GLP-1 receptor in the circumventricular organs, in turn activating brain nuclei involved in appetite regulation and reward. High doses of GLP-1 cause nausea and vomiting, but slow dosing titration mitigates this. GLP-1 Receptor Agonists owe their actions to these physiological mechanisms and therefore represent powerful antidiabetic agents (A1c levels below 5.7%) and cause major weight loss (up to 20%), but also appear to reduce the systemic low-grade inflammation of obesity and type 2 diabetes and to exert beneficial action on the blood vessels, providing the GLP-1RAs with preventive effects on cardiovascular, hepatic, renal and central nervous system complications. Orally active GLP-1rAs have also been developed. It is emphasized that GLP-1RA therapy should be accompanied by lifestyle changes for efficacy and to prevent side effects of the weight loss. In addition, any prescription of a GLP-1RA should include a plan to mitigate adverse effects of treatment termination. Nevertheless, GLP-1RAs represent a major breakthrough in the therapy of metabolic disease and are now included among the essential medicines of the WHO.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011228/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42892471",
+    "title": "GLP-1 receptor agonist therapy and incident atrial fibrillation in non-diabetic adults with obesity and chronic kidney disease: a propensity matched cohort study.",
+    "authors": [
+      "Hassan Abdulraheem",
+      "Okorigba Efeturi",
+      "Grace Chilaka",
+      "Otabor Emmanuel",
+      "Osineye Busayo",
+      "Olayiwola Olalekan",
+      "Oyeleye Tutuola",
+      "Amin Parthiv"
+    ],
+    "journal": "International journal of cardiology",
+    "year": "2027",
+    "doi": "10.1016/j.ijcard.2026.135000",
+    "abstract": "Obesity and chronic kidney disease (CKD) are potent risk factors for atrial fibrillation (AF), yet whether GLP-1 receptor agonists (GLP-1RAs) prevent incident AF in non-diabetic adults with obesity and CKD is unexamined. We assessed whether GLP-1RA therapy reduces 1-year AF incidence in this cardiorenal phenotype. Using the TriNetX US Collaborative Network (66 healthcare organizations), we conducted a retrospective target trial emulation of non-diabetic adults aged 18 or older with obesity and CKD stages 3-5 diagnosed 2021-2024. Patients receiving semaglutide, liraglutide, or tirzepatide (n = 10,985) were compared with unexposed patients (n = 94,527). After propensity score matching, 7326 patients remained per cohort. The primary outcome was incident AF at 1 year; secondary outcomes included AF subtypes, ventricular tachyarrhythmias, and all-cause hospitalization. Cox models generated hazard ratios (HRs); sensitivity analyses extended follow-up to 2-3 years with landmark analyses. At 1 year, GLP-1RA use was associated with significantly lower incident AF (1.63% vs. 2.62%; HR 0.655, 95% CI 0.508-0.844; p = 0.001), a 34.5% relative risk reduction. Reductions were consistent for paroxysmal (HR 0.586), persistent (HR 0.482), and longstanding persistent AF (HR 0.527; all p < 0.05); permanent AF was non-significant at 1 year. Ventricular tachyarrhythmias (HR 0.556; p = 0.002) and hospitalization (HR 0.668; p < 0.001) were also significantly reduced. Benefits persisted across 2- and 3-year follow-up and remained consistent in landmark analyses. In non-diabetic adults with obesity and CKD, GLP-1RA therapy was associated with significant, durable reductions in incident AF, ventricular arrhythmias, and hospitalization. These findings are consistent with a possible cardiorenal benefit and support prioritizing this phenotype for dedicated randomized trials.",
+    "publication_types": [
+      "Journal Article",
+      "Multicenter Study"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42892471/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42759644",
     "title": "Immunometabolic regulation of macrophage function in cardio-hepatic-renal comorbidities: Mechanisms and therapeutic opportunities.",
     "authors": [
@@ -16,6 +57,308 @@
       "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42759644/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43036961",
+    "title": "[English Title : Advances in tirzepatide : an update on new studies and pre-specified analyses].",
+    "authors": [
+      "Scheen André"
+    ],
+    "journal": "Revue medicale de Liege",
+    "year": "2026",
+    "doi": "",
+    "abstract": "Tirzepatide is a unimolecular dual agonist of the glucagon-like peptide-1 (GLP-1) and glucose-dependent insulinotropic polypeptide (GIP) receptors. In Belgium, it is marketed and reimbursed under specific conditions for the treatment of type 2 diabetes (T2D), whereas it is not reimbursed for the treatment of obesity. The main findings from the SURPASS programme in T2D and the SURMOUNT programme in obesity have previously been reported in this journal, including the SURPASS-CVOT landmark trial, which compared tirzepatide with dulaglutide in patients with T2D at high cardiovascular risk. This article presents several prespecified secondary analyses of SURPASS-CVOT published in 2026. These include an analysis comparing tirzepatide with a virtual placebo, an assessment of the effect of tirzepatide on expanded cardiovascular endpoints (MACE-4-6P), and an evaluation of its renal benefits using clinically relevant kidney-related outcomes. In addition, in the field of obesity, the article reports the results of the SURMOUNT-MAINTAIN study, a trial designed to limit weight regain following discontinuation of tirzepatide treatment. Taken together, these new data further confirm the efficacy of tirzepatide across clinically meaningful endpoints, while supporting its safety profile and favourable tolerability, consistent with previously reported findings.",
+    "publication_types": [
+      "Journal Article",
+      "Review",
+      "English Abstract"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43036961/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43036571",
+    "title": "Visceral and Ectopic Fat Remodeling with Incretin-Based Therapies in Type 2 Diabetes: Human Imaging Evidence.",
+    "authors": [
+      "Zhang Qiangjian",
+      "Liu Yufei",
+      "Zhang Tingting"
+    ],
+    "journal": "Journal of multidisciplinary healthcare",
+    "year": "2026",
+    "doi": "10.2147/JMDH.S644860",
+    "abstract": "Incretin-based therapies change the distribution of adipose tissue and ectopic lipid during weight loss. This narrative review examines human imaging evidence across abdominal, hepatic, pancreatic, cardiac and skeletal-muscle fat during treatment with selective glucagon-like peptide-1 (GLP-1) receptor agonists and dual- and triple-receptor agonists. Adults with type 2 diabetes are the primary population; findings from mixed diabetes populations and obesity-related disorders are identified separately. The central question is how depot responses relate to overall weight loss and organ outcomes. Hepatic fat has the most mature evidence, and visceral-fat reduction is supported across multiple studies. Tirzepatide provides the most extensive linked multi-depot imaging dataset, while recent survodutide findings extend GLP-1/glucagon imaging evidence to abdominal fat in obesity without diabetes. Cardiac and skeletal-muscle studies extend assessment to tissue composition and ventricular remodeling; pancreatic, renal sinus and other perivascular responses remain exploratory. Imaging modality, anatomical coverage, segmentation and endpoint definition vary across studies, and receptor comparisons are uneven in their populations, comparators and depots assessed. Remodeling is predominantly weight-associated, with selected studies identifying disproportionate hepatic or visceral responses. Imaging can connect these responses to the organ phenotype of interest: hepatic disease activity, cardiac structure or muscle composition. The next step is to test whether repeated depot measurements improve prediction of functional and clinical outcomes beyond routine weight and metabolic assessment.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43036571/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43030732",
+    "title": "Association of GLP-1 Receptor Agonist Exposure with Platelet Function in Patients with Diabetes and Peripheral Artery Disease After Lower-Extremity Revascularization.",
+    "authors": [
+      "Bansal Radha",
+      "Fouzdar Shezan",
+      "Bhatt Swechha",
+      "Patel Shiv",
+      "Sauer Vanessa",
+      "Sheshdeh Aseman Bagheri",
+      "Lokhande Prajakta",
+      "Deghan Shaidah",
+      "Dua Anahita"
+    ],
+    "journal": "Journal of clinical medicine",
+    "year": "2026",
+    "doi": "10.3390/jcm15218591",
+    "abstract": "Background/Objectives: Glucagon-like peptide-1 receptor agonists (GLP-1RAs) improve cardiovascular outcomes in patients with type 2 diabetes and have emerging relevance in peripheral artery disease (PAD), but their association with platelet function after lower-extremity revascularization is uncertain. We evaluated whether active GLP-1RA exposure was associated with thromboelastography with platelet mapping (TEG-PM) and global hemostatic parameters in patients with diabetes and PAD. Methods: We retrospectively analyzed prospectively collected serial TEG data from adults with diabetes and PAD undergoing lower-extremity revascularization between December 2022 and December 2025. GLP-1RA exposure was defined as active use at each blood draw and treated as time-varying. Platelet outcomes were analyzed using linear mixed-effects models adjusted for nonlinear elapsed time, insulin, aspirin, clopidogrel, ticagrelor, age, sex, body mass index, renal function, coronary artery disease, and hypertension. False discovery rate (FDR) correction was applied within prespecified ADP and arachidonic acid (AA) outcome families. Results: The cohort included 178 patients contributing 462 scheduled measurements; 20 patients contributed 47 GLP-1RA-exposed measurements. At baseline, 13 of 169 patients were receiving a GLP-1RA. Adjusted GLP-1RA-associated differences were -1.98 percentage points for ADP aggregation (95% CI, -10.9 to 6.89; FDR-adjusted p = 0.815), -0.64 mm for ADP maximum amplitude (MA) (95% CI, -6.06 to 4.77; FDR-adjusted p = 0.815), -0.45 percentage points for AA aggregation (95% CI, -13.5 to 12.6; FDR-adjusted p = 0.947), and -1.63 mm for AA-MA (95% CI, -8.28 to 5.03; FDR-adjusted p = 0.947). Global TEG outcomes and GLP-1RA-by-insulin interactions were not significant. The strongest time interaction was observed for ADP-MA (omnibus p = 0.072; FDR-adjusted p = 0.145). Conclusions: No statistically significant associations were detected between active GLP-1RA exposure and pathway-specific platelet reactivity or global hemostatic parameters in this longitudinal PAD cohort. Estimates remained imprecise, and effects of potentially clinically relevant magnitude could not be excluded. The descriptive ADP-mediated temporal pattern warrants prospective evaluation in larger cohorts.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030732/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43028516",
+    "title": "From Glomerular Endothelial Remodeling to Kidney Protection: Emerging Molecular Mechanisms and Biomarker Signatures of GLP-1 Receptor Agonists.",
+    "authors": [
+      "Blontrock Eber",
+      "Oyaert Matthijs",
+      "Ikawaty Risma",
+      "Cahyono Agus",
+      "Delrue Charlotte",
+      "Speeckaert Marijn M"
+    ],
+    "journal": "Diagnostics (Basel, Switzerland)",
+    "year": "2026",
+    "doi": "10.3390/diagnostics16213645",
+    "abstract": "Kidney-protective therapies for diabetes mellitus have evolved rapidly in recent years, with glucagon-like peptide-1 receptor agonists (GLP-1RAs) offering renal protection. While some recent clinical trials have shown kidney benefits of these agents that extend well beyond improvements in blood glucose levels and reductions in albuminuria, much is still unknown about the precise molecular mechanisms. In this narrative review, we critically summarize the clinical and mechanistic evidence for GLP-1RA kidney protection, focusing on renal receptor localization, changes in glomerular endothelial cells, inflammatory signaling, mitochondrial dysfunction, and extracellular matrix turnover. We highlight recent results from the FLOW trial, which showed clinically significant kidney benefits with semaglutide, and from the REMODEL trial, which combines renal imaging with single-nucleus RNA sequencing and spatial transcriptomics. Although REMODEL did not demonstrate significant improvements in its coprimary imaging endpoints, exploratory molecular analyses identified treatment-associated changes in glomerular endothelial transcriptional programs and predicted endothelial-immune cell interactions. These findings suggest that microvascular remodeling may contribute to renal protection, although direct glomerular endothelial cell GLP1 receptor expression remains to be confirmed. In experimental systems, the pathways identified also involve control of oxidative stress, inflammasome activation, regulation of mitochondrial function, podocyte health, and fibrosis-related signaling, but their causal role in human kidney disease is yet to be proven. Novel proteomic and extracellular matrix biomarkers, such as tumor necrosis factor receptors, kidney injury molecule-1, and markers of collagen turnover, may help phenotype biological treatment responses beyond classical kidney function and albuminuria measures. Finally, tissue-based molecular phenotyping, combined with circulating and urinary markers, may resolve robust molecular signatures, and separating direct receptor effects from secondary systemic effects will be critical to translating GLP-1RA-mediated kidney benefit into biomarker-based nephrology.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43028516/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43025465",
+    "title": "Kidney effects of tirzepatide across albuminuria, filtration markers, and clinical outcomes: a parent-trial-level systematic review and meta-analysis.",
+    "authors": [
+      "Li Shuangwen",
+      "Li Shilong",
+      "Xu Pengcheng",
+      "Jia Junya"
+    ],
+    "journal": "Diabetes research and clinical practice",
+    "year": "2026",
+    "doi": "10.1016/j.diabres.2026.113668",
+    "abstract": "Whether tirzepatide's kidney effects extend from albuminuria lowering to filtration preservation and clinical outcomes remains uncertain. We searched PubMed, Embase, and the Cochrane Library through August 2026 and mapped randomized reports to independent parent trials. Ten parent trials provided kidney data; eight informed each principal synthesis. Versus insulin, tirzepatide reduced urinary albumin-to-creatinine ratio by 27.0% (95% CI, 16.0%-36.6%; I2 = 37.8%; moderate certainty), whereas placebo-controlled evidence was uncertain (-18.1%; 95% CI, -43.2% to 18.3%; very low certainty). Fixed-time creatinine-based estimated glomerular filtration rate showed no clear benefit (0.36 mL/min/1.73 m2; 95% CI, -0.34 to 1.07; low certainty). In SURPASS-CVOT, approximate post hoc aggregate contrasts suggested larger high-risk effects for filtration and a hard-only composite, but were multiplicity-unadjusted and not formal individual-participant interaction tests. In that high-risk stratum, the hard-only hazard ratio versus dulaglutide was 0.70 (0.57-0.86), while end-stage kidney disease was not clearly reduced (1.04; 0.70-1.55). Albuminuria lowering versus insulin was reproducible; hard-outcome benefit was population- and endpoint-dependent, and dedicated kidney-outcome trials remain needed.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43025465/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43022439",
+    "title": "Endoplasmic reticulum stress and organelle crosstalk: Core mechanisms and therapeutic targets in diabetic kidney disease.",
+    "authors": [
+      "Gao Yanhong",
+      "Wu Huijun",
+      "Wu Henglan",
+      "Guo Yinfeng",
+      "Gao Huanqing"
+    ],
+    "journal": "Metabolism open",
+    "year": "2026",
+    "doi": "10.1016/j.metop.2026.100510",
+    "abstract": "Diabetic kidney disease (DKD) remains the leading global cause of end-stage renal disease, with persistent residual renal damage even after standard clinical interventions including SGLT2 inhibitors and GLP-1 receptor agonists. Accumulating preclinical evidence indicates that sustained endoplasmic reticulum (ER) dysfunction may act as an important integrating mechanism contributing to renal cellular injury in DKD, beyond its canonical function in protein folding, although direct clinical evidence in human DKD remains limited. This review examines how interacting diabetic metabolic and inflammatory stressors, including glucotoxicity, lipotoxicity, advanced glycation end products, and chronic inflammation, disrupt ER homeostasis and promote persistent ER stress. Long-term ER perturbation induces a pathogenic shift of the unfolded protein response (UPR) from adaptive homeostasis maintenance toward pro-apoptotic and pro-inflammatory signaling, alongside disordered lipid biosynthesis and Ca2+ dyshomeostasis. These three core pathological alterations jointly facilitate podocyte and tubular epithelial cell apoptosis, sterile renal inflammation and progressive interstitial fibrosis, while altered mitochondria-associated ER membrane (MAM) dynamics may amplify organelle injury and exacerbate disease progression. We further discuss multiple therapeutic strategies targeting ER homeostasis restoration, such as chemical molecular chaperones, selective UPR pathway modulators, SREBP lipogenic inhibitors, SERCA calcium pump activators and MAM stabilizers. We also discuss the potential contribution of ER homeostasis to the renoprotective effects of SGLT2 inhibitors and GLP-1RAs. Overall, ER dysfunction may contribute to DKD pathogenesis and represents a potential therapeutic target, although its mechanistic significance in human DKD requires further investigation.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022439/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43014803",
+    "title": "Impact of Clinical Pharmacist Integration on Weight Management and Transplant Eligibility Among Patients With End-Stage Kidney Disease With Obesity.",
+    "authors": [
+      "Yang Anita",
+      "Tecza Dominic",
+      "Medwin Carly",
+      "Chandran Mary"
+    ],
+    "journal": "Journal of the American College of Clinical Pharmacy : JACCP",
+    "year": "2026",
+    "doi": "10.1002/jac5.70336",
+    "abstract": "Obesity is a barrier to kidney transplantation in patients with end-stage kidney disease (ESKD). Injectable incretin peptides (IIP) have transformed weight management; however, real-world data in ESKD are limited. This study evaluated the impact of integrating a clinical pharmacist practitioner (CPP) into an interprofessional high body mass index (BMI) kidney transplant clinic on weight loss and transplant eligibility outcomes. This single-center, retrospective study included adults with ESKD and obesity-prescribed IIP for transplant eligibility between June, 2022 and December, 2024. Cohort 1 included patients treated before CPP implementation; Cohort 2 included patients following implementation. The primary outcome was the percent change in body mass index (BMI) at 3, 6, and 12 months following IIP initiation. Secondary outcomes included changes in transplant eligibility status, IIP dose intensity, and predefined adverse events (AEs) at 12 months. Eighty-four patients were included (Cohort 1: n = 28; Cohort 2: n = 56). Cohort 2 achieved greater BMI reductions at 3 (-2.0% vs. +1.45%), 6 (-3.3% vs. +1.16%), and 12 months (-8.0% vs. +2.8%; p < 0.01 for all). Among patients initially ineligible for kidney transplantation, 45% of patients in Cohort 2 became active on the transplant waitlist by 12 months compared with 11.5% in Cohort 1 (p = 0.006). More patients in Cohort 2 reached high IIP dose intensity (48.2% vs. 3.6%, p < 0.001), without differences in AE. IIP therapy appears safe and effective in ESKD. CPP integration was associated with greater weight loss, increased achievement of active transplant eligibility, and improved treatment optimization, highlighting its potential role in addressing obesity-related barriers to transplantation.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43014803/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43013292",
+    "title": "First and Subsequent Major Cardiovascular Events With Oral Semaglutide in High-Risk Type 2 Diabetes: A Secondary Analysis of the SOUL Randomized Clinical Trial.",
+    "authors": [
+      "Marx Nikolaus",
+      "Deanfield John E",
+      "Mulvagh Sharon L",
+      "Videmark Alex",
+      "van Bemmel Thomas",
+      "Buse John B",
+      "Davicevic-Elez Zaklina",
+      "Engelmann Mads D M",
+      "Haluzik Martin",
+      "Hovingh G Kees",
+      "Inzucchi Silvio E",
+      "Mann Johannes F E",
+      "Mathieu Chantal",
+      "Musinga Derrick",
+      "Pop-Busui Rodica",
+      "Poulter Neil R",
+      "Rea Rosangela R",
+      "Roman Gabriela",
+      "Saraiva José F Kerr",
+      "Watada Hirotaka",
+      "McGuire Darren K"
+    ],
+    "journal": "JAMA cardiology",
+    "year": "2026",
+    "doi": "10.1001/jamacardio.2026.4944",
+    "abstract": "In the Semaglutide Cardiovascular Outcomes Trial (SOUL), oral semaglutide reduced the risk of a first 3-point major adverse cardiovascular event (3-P MACE; including nonfatal myocardial infarction, nonfatal stroke, and cardiovascular [CV] death). Total event analyses, assessing both first and subsequent events, can contribute to a better understanding of the impact of interventions on the total burden of disease; however, the effects of oral semaglutide on subsequent events are unknown. To evaluate the effect of oral semaglutide vs placebo on total 3-P MACE. This was a prespecified secondary analysis of the double-blind, placebo-controlled, event-driven, phase 3b SOUL randomized clinical trial, conducted from June 2019 to September 2024 with a median (IQR) follow-up of 49.5 (44.0-54.9) months at 444 centers in 33 countries. Participants had type 2 diabetes and atherosclerotic CV disease and/or chronic kidney disease. Data were analyzed from December 2024 to August 2025. Once-daily oral semaglutide (maximal dose 14 mg) or placebo, in addition standard of care. Occurrence of total (first and subsequent) 3-P MACE. Overall, 9650 participants (median [IQR] age, 66.0 [61.0-72.0] years; 6860 [71.1%] male) were randomized 1:1. In the oral semaglutide group, fewer first and subsequent 3-P MACE occurred (683 total; 579 first and 104 subsequent events) compared with placebo (791 total; 668 first and 123 subsequent events) (mean ratio, 0.86; 95% CI, 0.76-0.97; P = .01). For the end point of 3-P MACE plus non-CV death, there were 138 fewer total events with oral semaglutide (910 events) compared with placebo (1048 events) (mean ratio, 0.87; 95% CI, 0.79-0.95; P = .004). As previously reported, adverse events led to treatment discontinuation in 749 (15.5%) and 559 (11.6%) participants receiving oral semaglutide and placebo, respectively. Oral semaglutide reduced the risk of first plus subsequent 3-P MACE vs placebo, highlighting the benefit of oral semaglutide in reducing the total burden of clinical morbidity and mortality in this high-risk population. ClinicalTrials.gov Identifier: NCT03914326.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43013292/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43010906",
+    "title": "Distinct temporal neuropsychiatric outcomes associated with GLP-1 receptor agonists versus SGLT2 inhibitors after acute kidney disease in type 2 diabetes.",
+    "authors": [
+      "Cheng Yu-Chen",
+      "Huang Yuahn-Sieh",
+      "Chen Jui-Yi",
+      "Wu Vin-Cent",
+      "Chen Ruei-Ming",
+      "Lu Kuo-Cheng",
+      "Kuo Ko-Lin",
+      "Lu Chien-Lin",
+      "Zheng Cai-Mei",
+      "Hou Yi-Chou"
+    ],
+    "journal": "Frontiers in endocrinology",
+    "year": "2026",
+    "doi": "10.3389/fendo.2026.1963944",
+    "abstract": "Neurological and neuropsychiatric complications may persist after acute kidney disease (AKD), particularly among patients with type 2 diabetes mellitus (T2DM). Although glucagon-like peptide-1 receptor agonists (GLP-1RAs) and sodium-glucose cotransporter-2 inhibitors (SGLT2is) provide established cardiorenal benefits, their associations with neurological outcomes after AKD remain uncertain. We conducted a retrospective cohort study using the TriNetX Global Collaborative Network. Adults with T2DM and dialysis-requiring AKD receiving GLP-1RAs or SGLT2is were identified and balanced using 1:1 propensity score matching, yielding 3,398 patients in each group. Incident delirium and other neuropsychiatric outcomes were evaluated. The 90-365-day period was the primary analysis, with 90-180- and 90-720-day windows used to assess temporal patterns. Kaplan-Meier and multivariable Cox regression analyses were performed. During 90-365 days, GLP-1RA use was associated with better delirium-free survival than SGLT2i use (118/3,032 vs. 155/2,982 events; log-rank P = 0.009). This association remained significant after multivariable adjustment (adjusted hazard ratio [HR], 0.668; 95% CI, 0.488-0.914; P = 0.012). Statin use was independently associated with lower delirium risk (adjusted HR, 0.674; 95% CI, 0.492-0.924; P = 0.014), while exploratory analyses suggested a distinct association between LDL cholesterol of 100-129.9 mg/dL and delirium risk. In contrast, SGLT2i use showed a favorable association with depression during early follow-up, which attenuated over time. The GLP-1RA-delirium association was also attenuated by 90-720 days. Exploratory sensitivity analyses using non-overlapping follow-up intervals showed outcome-specific associations: adjusted differences in delirium were not significant, whereas depression and overall neurological complications were more frequent with GLP-1RA than with SGLT2i. Among patients with dialysis-requiring AKD and T2DM, GLP-1RA and SGLT2i use showed outcome-specific associations with subsequent neuropsychiatric events. Although the primary analysis suggested a lower delirium risk with GLP-1RA, this association was not consistently observed in adjusted time-stratified analyses. These findings should be considered exploratory and require prospective validation.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43010906/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43008789",
+    "title": "Excessive Intrapancreatic Fat Deposition and the Potential Therapeutic Role of Glucagon-Like Peptide-1 Receptor Agonists: A Systematic Review.",
+    "authors": [
+      "Bilal Azam Mohamed",
+      "Al Rashid Sulthan",
+      "Balasubramanian Rajkapoor",
+      "Pakkir Maideen Naina Mohamed",
+      "Amirthalingam Palanisamy",
+      "Chidambaram Kumarappan"
+    ],
+    "journal": "Experimental and clinical endocrinology & diabetes : official journal, German Society of Endocrinology [and] German Diabetes Association",
+    "year": "2026",
+    "doi": "10.1055/a-2988-3090",
+    "abstract": "Excessive intrapancreatic fat deposition, also called non-alcoholic fatty pancreas disease, is marked by abnormal fat accumulation in pancreatic tissue and inked to metabolic syndrome, obesity, insulin resistance, and type 2 diabetes mellitus. Despite its clinical importance, intrapancreatic fat deposition lacks standardized diagnostic criteria and is often underdiagnosed. This systematic review explores the pathogenesis, diagnostic challenges, and clinical relevance of intrapancreatic fat deposition, with particular attention to the therapeutic potential of glucagon-like peptide-1 receptor agonists. A literature search of PubMed, Scopus, and Google Scholar, supplemented by a post-review verification search, identified six studies (two preclinical and four clinical studies) meeting pre-specified eligibility criteria for original data on a glucagon-like peptide-1 receptor agonist intervention with a pancreatic fat outcome, following Preferred Reporting Items for Systematic reviews and Meta-Analyses 2020 guidance; several sources considered during full-text review are reclassified as secondary literature or as not evaluating a glucagon-like peptide-1 receptor agonist and are cited instead as background. Preclinical evidence indicates that liraglutide and semaglutide can attenuate pancreatic endoplasmic reticulum stress, islet-cell apoptosis, and lipid dysregulation in diet-induced obesity models. Clinical evidence is mixed: a retrospective study reported a significant reduction in pancreatic fat with liraglutide in patients with intrapancreatic fat deposition, whereas randomised trials of liraglutide, exenatide, and dulaglutide have not consistently shown a significant between-group reduction, and direct pancreatic fat outcome data for semaglutide in humans are lacking. A 2026 systematic review and meta-analysis of randomised controlled trials across glucose-lowering drug classes reported a significant pooled reduction in intrapancreatic fat deposition with glucagon-like peptide-1 receptor agonists, providing independent, quantitative support for a class effect. Glucagon-like peptide-1 receptor agonists are already established to confer benefits beyond glycaemic control and pancreatic fat, including cardiovascular, renal, and broader weight-related metabolic benefits; their potential role in intrapancreatic fat deposition is one facet of this wider profile rather than a distinct \"dual-purpose\" mechanism. Given small samples, heterogeneous imaging, and inability to separate pancreas-specific effects from hepatic and visceral fat reductions, evidence suggests an unconfirmed role for glucagon-like peptide-1 receptor agonists in intrapancreatic fat deposition. Prospective powered trials with standardised imaging and hepatic/visceral fat measurements are needed before clinical practice.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43008789/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43007383",
+    "title": "GLP-1 receptor agonists for people with type 2 diabetes and peripheral artery disease: reducing uncertainty in clinical practice.",
+    "authors": [
+      "Giugliano Dario",
+      "Caruso Paola",
+      "Longo Miriam",
+      "Scappaticcio Lorenzo",
+      "Bellastella Giuseppe",
+      "Maiorino Maria Ida",
+      "Esposito Katherine"
+    ],
+    "journal": "Endocrine",
+    "year": "2026",
+    "doi": "10.1007/s12020-026-04847-6",
+    "abstract": "Peripheral artery disease (PAD) may be the most frequent first manifestation of cardiovascular disease (CVD) in type 2 diabetes (T2D). Management of PAD in T2D aims to improve symptoms and lower the high risk of major adverse cardiovascular (MACE) and limb (MALE) events. Drugs commonly used are lipid-lowering and antihypertensive medicines, antithrombotic and antihyperglycemic agents. The ADA recommends both GLP-1 receptor agonists (GLP-1RAs) and sodium-glucose cotransporter-2 inhibitors (SGLT-2i) as the first-line therapy to reduce the cardio-renal risk in people with T2D, including those with PAD. Meta-analyses of randomized controlled trials (RCTs) show that semaglutide is better than placebo in reducing by 30% PAD events in people with T2D (with or without PAD at baseline), although no RCT was designed to investigate PAD-related hard outcomes as a primary endpoint; however, both liraglutide and semaglutide may increase walking distance by approximately 25-30 m at six months in people with T2D and PAD. Cohort studies also confirm that GLP-1RA use is better than non-use in reducing by 28% the risk of MALE in individuals with T2D and PAD, although their retrospective design might introduce residual confounding and under-ascertainment of outcomes. Dedicated RCTs will obtain more direct evidence for the promising lower limb benefits of GLP-1RAs, but the scientific outlook of specific RCTs on hard limb events is empty. In the meantime, clinicians should choose a GLP-1RA of proven efficacy in subjects with T2D and PAD to improve their cardio-nephro-metabolic outlook, as well as their walking capacity, limited at present to liraglutide and semaglutide.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43007383/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43003106",
+    "title": "Cardiovascular outcomes with survodutide in adults with obesity at increased cardiovascular risk (SYNCHRONIZE-CVOT): a double-blind, randomised, placebo-controlled, phase 3 trial.",
+    "authors": [
+      "Bozkurt Biykem",
+      "le Roux Carel W",
+      "Wharton Sean",
+      "Butt Jawad H",
+      "Startseva Elena",
+      "Sumin Mikhail",
+      "Marshall S Renée",
+      "Hussain Samina Ajaz",
+      "Schnaidt Sven",
+      "Petrie Mark C",
+      "Pocock Stuart J",
+      "Gregson John",
+      "Ard Jamy D",
+      "Bogdanski Pawel",
+      "Cercato Cintia",
+      "Farias Javier M",
+      "Goudev Assen",
+      "Hjelmesæth Jøran",
+      "Kaul Upendra",
+      "Kokkinos Alexander D",
+      "Lin Wen-Yuan",
+      "Matoulek Martin",
+      "Merkely Béla",
+      "Silva-Nunes José",
+      "Ogawa Wataru",
+      "Pedersen Sue D",
+      "Pietiläinen Kirsi H",
+      "Sattar Naveed",
+      "Reyna Leobardo Sauque",
+      "Schou Morten",
+      "Seufert Jochen",
+      "Sharman Almaz",
+      "Sourij Harald",
+      "Tinahones Francisco J",
+      "van Beek André P",
+      "Vangoitsenhoven Roman",
+      "Yazici Dilek",
+      "Younes Ramy",
+      "Kaplan Lee M"
+    ],
+    "journal": "Lancet (London, England)",
+    "year": "2026",
+    "doi": "10.1016/S0140-6736(26)02140-9",
+    "abstract": "Survodutide, a glucagon receptor and GLP-1 receptor dual agonist, improved markers of cardiometabolic health in people with obesity, but cardiovascular safety for this new class remains to be established. SYNCHRONIZE-CVOT was a global, phase 3, randomised, double-blind, parallel-group, placebo-controlled, multicentre, event-driven, cardiovascular safety trial conducted at 524 clinical sites in 34 countries. We included participants aged 18 years or older with a BMI of 27 kg/m2 or greater and established cardiovascular disease or at least two obesity complications or risk factors for cardiovascular disease; participants with chronic kidney disease were eligible if they also had a BMI of 30 kg/m2 or greater. Participants were randomly assigned by interactive response technology (1:1:1) to once-weekly subcutaneous survodutide (up-titrated to 3·6 mg or 6·0 mg) or placebo. The primary endpoint was a composite of death from cardiovascular causes, non-fatal stroke, non-fatal myocardial infarction, ischaemia-related coronary revascularisation, or heart failure event (targeting 189 primary endpoint events). We assessed the non-inferiority of pooled survodutide compared with placebo with a margin of 1·65 for the upper limit of the two-sided 95% CI of the hazard ratio (HR). Efficacy and safety analyses included all randomly assigned participants who received at least one dose of survodutide or placebo. The primary analysis was performed according to the treatment-regimen estimand, which assessed treatment effects regardless of any early discontinuation of survodutide or placebo, temporary stop, the use of protocol-prohibited obesity medications, or a prolonged dose-escalation period. This completed trial is registered with ClinicalTrials.gov, NCT06077864. From Nov 20, 2023, to Nov 8, 2024, we screened 7753 participants, of whom 5530 (71·3%) participants were recruited and randomly assigned to treatment. 23 (0·4%) participants were not treated; 1836 (33·3%) of 5507 participants received survodutide 3·6 mg, 1835 (33·3%) received 6·0 mg, and 1836 (33·3%) received placebo; 2194 (39·8%) were female, 3313 (60·2%) were male, and 4332 (78·7%) were White. Median time in study was 22·0 months (IQR 20·1-23·7). 1029 (56·0%) in the survodutide 3·6 mg group, 1039 (56·6%) in the survodutide 6·0 mg group, and 1083 (59·0%) in the placebo group remained on treatment until study closeout. The primary endpoint occurred in 136 (3·7%) of 3671 participants in the survodutide group and in 76 (4·1%) 1836 participants in the placebo group (HR 0·89 [95% CI 0·67-1·18; p<0·0001 for non-inferiority). Adverse events occurred in 1708 (93·0%) of 1836 participants with survodutide 3·6 mg, 1708 (93·1%) of 1835 with survodutide 6·0 mg, and 1571 (85·6%) of 1836 with placebo. Gastrointestinal adverse events were more frequent with survodutide than in the placebo group (nausea occurred in 882 [48·0%] of 1836 participants in the 3·6 mg group and 900 [49·0%] of 1835 in the 6·0 mg group vs 223 [12·1%] of 1836 in the placebo group, and vomiting occurred in 582 [31·7%] participants in the 3·6 mg group and 623 [34·0%] in the 6·0 mg group vs 89 [4·8%] in the placebo group). Gastrointestinal adverse events leading to treatment discontinuations occurred in 354 (19·3%) participants in the survodutide 3·6 mg group, 381 (20·8%) in the survodutide 6·0 mg, and 34 (1·9%) in the placebo group. Serious adverse events occurred at similar rates across treatment groups (413 [22·5%] in the survodutide 3·6 mg group, 381 [20·8%] in the survodutide 6·0 mg, and 439 [23·9%] in the placebo group). Fatal adverse events were similar across treatment groups (16 [0·9%] in the survodutide 3·6 mg group, 16 [0·9%] in the survodutide 6·0 mg, and 11 [0·6%] in the placebo group) and were primarily due to cardiac disorders (six [0·3%] in the survodutide 3·6 mg group, seven [0·4%] in the survodutide 6·0 mg, and six [0·3%] in the placebo group). In participants with obesity with established cardiovascular disease or chronic kidney disease or at increased risk of cardiovascular disease, survodutide was not associated with increased risk for the primary composite endpoint of death from cardiovascular causes, non-fatal stroke, non-fatal myocardial infarction, ischaemia-related coronary revascularisation, or heart failure event compared with placebo. This cardiovascular safety trial provides clinicians with reassuring data that treatment with survodutide, a novel glucagon receptor-GLP-1 receptor dual agonist, is not associated with increased cardiovascular risk. Boehringer Ingelheim.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43003106/",
     "screening_status": "não avaliado"
   },
   {
@@ -683,7 +1026,7 @@
   },
   {
     "pmid": "42951023",
-    "title": "From receptor architecture to outcome maturity: a clinical framework for multiorgan incretin therapy.",
+    "title": "From Receptor Architecture to Outcome Maturity: A Clinical Framework for Multiorgan Incretin Therapy.",
     "authors": [
       "Sztanek Ferenc",
       "Lőrincz Hajnalka",
@@ -693,7 +1036,7 @@
     "journal": "Endocrine practice : official journal of the American College of Endocrinology and the American Association of Clinical Endocrinologists",
     "year": "2026",
     "doi": "10.1016/j.eprac.2026.10.013",
-    "abstract": "To propose a clinically usable framework that separates receptor architecture and metabolic potency from the maturity of patient-relevant outcome evidence for incretin-based therapies. This Commentary draws on recent cardiovascular, kidney, heart failure, peripheral artery disease, liver, and emerging polyagonist evidence to define outcome maturity across five domains: endpoint directness and clinical relevance; study design and evidentiary confidence; comparator and population context; follow-up duration, durability, and safety; and molecule-, dose-, and indication-specific applicability. Four qualitative states of outcome evidence are proposed: preliminary, emerging, established, and mature. These categories apply to a specific molecule, dose, indication, phenotype, and outcome question and are intentionally nonnumeric. Outcome maturity does not measure treatment-effect magnitude or comparative drug efficacy. A six-step clinical workflow links the dominant organ-risk phenotype, clinically meaningful outcome, evidence maturity, applicability, treatment sustainability, and proportionate clinical positioning. Receptor architecture defines biological potential, whereas outcome maturity characterizes the directness, robustness, durability, and applicability of clinical evidence. Clinical positioning should remain proportional to phenotype-specific evidence and should not convert differences between nonaligned trials into cross-trial efficacy rankings.",
+    "abstract": "To propose a clinically usable framework that separates receptor architecture and metabolic potency from the maturity of patient-relevant outcome evidence for incretin-based therapies. This Commentary draws on recent cardiovascular, kidney, heart failure, peripheral artery disease, liver, and emerging polyagonist evidence to define outcome maturity across 5 domains: endpoint directness and clinical relevance; study design and evidentiary confidence; comparator and population context; follow-up duration, durability, and safety; and molecule-, dose-, and indication-specific applicability. Four qualitative states of outcome evidence are proposed: preliminary, emerging, established, and mature. These categories apply to a specific molecule, dose, indication, phenotype, and outcome question and are intentionally nonnumeric. Outcome maturity does not measure treatment-effect magnitude or comparative drug efficacy. A six-step clinical workflow links the dominant organ-risk phenotype, clinically meaningful outcome, evidence maturity, applicability, treatment sustainability, and proportionate clinical positioning. Receptor architecture defines biological potential, whereas outcome maturity characterizes the directness, robustness, durability, and applicability of clinical evidence. Clinical positioning should remain proportional to phenotype-specific evidence and should not convert differences between nonaligned trials into cross-trial efficacy rankings.",
     "publication_types": [
       "Journal Article"
     ],
@@ -1243,29 +1586,6 @@
     "screening_status": "não avaliado"
   },
   {
-    "pmid": "42892471",
-    "title": "GLP-1 receptor agonist therapy and incident atrial fibrillation in non-diabetic adults with obesity and chronic kidney disease: a propensity matched cohort study.",
-    "authors": [
-      "Hassan Abdulraheem",
-      "Okorigba Efeturi",
-      "Grace Chilaka",
-      "Otabor Emmanuel",
-      "Osineye Busayo",
-      "Olayiwola Olalekan",
-      "Oyeleye Tutuola",
-      "Amin Parthiv"
-    ],
-    "journal": "International journal of cardiology",
-    "year": "2026",
-    "doi": "10.1016/j.ijcard.2026.135000",
-    "abstract": "Obesity and chronic kidney disease (CKD) are potent risk factors for atrial fibrillation (AF), yet whether GLP-1 receptor agonists (GLP-1RAs) prevent incident AF in non-diabetic adults with obesity and CKD is unexamined. We assessed whether GLP-1RA therapy reduces 1-year AF incidence in this cardiorenal phenotype. Using the TriNetX US Collaborative Network (66 healthcare organizations), we conducted a retrospective target trial emulation of non-diabetic adults aged 18 or older with obesity and CKD stages 3-5 diagnosed 2021-2024. Patients receiving semaglutide, liraglutide, or tirzepatide (n = 10,985) were compared with unexposed patients (n = 94,527). After propensity score matching, 7326 patients remained per cohort. The primary outcome was incident AF at 1 year; secondary outcomes included AF subtypes, ventricular tachyarrhythmias, and all-cause hospitalization. Cox models generated hazard ratios (HRs); sensitivity analyses extended follow-up to 2-3 years with landmark analyses. At 1 year, GLP-1RA use was associated with significantly lower incident AF (1.63% vs. 2.62%; HR 0.655, 95% CI 0.508-0.844; p = 0.001), a 34.5% relative risk reduction. Reductions were consistent for paroxysmal (HR 0.586), persistent (HR 0.482), and longstanding persistent AF (HR 0.527; all p < 0.05); permanent AF was non-significant at 1 year. Ventricular tachyarrhythmias (HR 0.556; p = 0.002) and hospitalization (HR 0.668; p < 0.001) were also significantly reduced. Benefits persisted across 2- and 3-year follow-up and remained consistent in landmark analyses. In non-diabetic adults with obesity and CKD, GLP-1RA therapy was associated with significant, durable reductions in incident AF, ventricular arrhythmias, and hospitalization. These findings are consistent with a possible cardiorenal benefit and support prioritizing this phenotype for dedicated randomized trials.",
-    "publication_types": [
-      "Journal Article"
-    ],
-    "url": "https://pubmed.ncbi.nlm.nih.gov/42892471/",
-    "screening_status": "não avaliado"
-  },
-  {
     "pmid": "42890508",
     "title": "Four Pillars in Type 2 Diabetes and Chronic Kidney Disease G4-G5: Mission Impossible-or Not Too Late to Start?",
     "authors": [
@@ -1486,6 +1806,37 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42823485",
+    "title": "Effects of semaglutide on kidney disease in type 2 diabetes: a randomized placebo-controlled trial.",
+    "authors": [
+      "Tuttle Katherine R",
+      "Bjornstad Petter",
+      "Smith Cathy",
+      "Pruijm Menno",
+      "McCown Phillip J",
+      "Hodgin Jeffrey B",
+      "Cherney David Z I",
+      "Belmar Nicolas",
+      "Chacko Milenta Mariam",
+      "Das Vivek",
+      "Gunnarsson Thomas P",
+      "Idorn Thomas",
+      "Schytz Philip A",
+      "Zaratiegui Amaya",
+      "Kretzler Matthias"
+    ],
+    "journal": "Nature medicine",
+    "year": "2026",
+    "doi": "10.1038/s41591-026-04674-2",
+    "abstract": "The GLP-1 receptor agonist semaglutide preserves kidney function in people with type 2 diabetes and chronic kidney disease, but the underlying mechanisms are unclear. Here we report a 52-week randomized trial of subcutaneous semaglutide 1 mg once weekly versus placebo (n = 106 (n = 25 women, n = 81 men)) in participants with type 2 diabetes and chronic kidney disease. To identify kidney-specific mechanisms of action for semaglutide, we performed integrated multiparametric magnetic resonance imaging of the kidney and biopsy for histology (n = 33), alongside single-nucleus (n = 22) and spatial transcriptomics (n = 13) on paired samples with before- and after-treatment measurements. Coprimary magnetic resonance imaging outcomes (oxygenation by R2*, global perfusion and tissue inflammation by T1 mapping) were not significantly altered by semaglutide versus placebo treatment. Secondary outcomes revealed that semaglutide treatment, as compared to placebo, was associated with a significantly reduced renal artery resistive index and stabilization of the apparent diffusion coefficient, indicating prevention of fibrosis progression. Moreover, secondary transcriptomic outcomes revealed pronounced effects of semaglutide on glomerular endothelial cells, consistent with the results of spatial analyses indicating reduced numbers of immune cells in the proximity of these endothelial cells. The results from this trial indicate that mechanisms of kidney protection by semaglutide may include reduced vascular resistance, prevention of fibrosis and improved underlying molecular programs promoting endothelial cell health. ClinicalTrials.gov identifier: NCT04865770 .",
+    "publication_types": [
+      "Journal Article",
+      "Randomized Controlled Trial"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42823485/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42823075",
     "title": "Nephroprotective Effects of the Dual GCGR/GLP-1R Agonist Survodutide in Hypertension-Accelerated Diabetic Kidney Disease.",
     "authors": [
@@ -1610,6 +1961,52 @@
       "Journal Article"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42802242/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42800900",
+    "title": "Feasibility of the Comprehensive Overweight/Obesity Management Pre-Kidney Transplant Program: A Group-Based Lifestyle Intervention and GLP-1 Receptor Agonist Therapy for End-Stage Kidney Disease Candidates Ineligible Due to Obesity.",
+    "authors": [
+      "Sisson Evan M",
+      "Burns Dana",
+      "Wheeler Sarah E",
+      "Akkisetty Keerthana",
+      "Christensen Johanna L",
+      "Gupta Gaurav"
+    ],
+    "journal": "The science of diabetes self-management and care",
+    "year": "2026",
+    "doi": "10.1177/26350106261483738",
+    "abstract": "The purpose of this study was to evaluate the feasibility of applying a structured interprofessional weight-loss intervention to improve transplant eligibility among candidates with body mass index (BMI) >35 kg/m². The Comprehensive Overweight/Obesity Management Pre-Kidney Transplant (COMPKT) program was a single-arm feasibility study at an academic center. Participants attended 15 weekly virtual group education sessions using the National Diabetes Prevention Program PreventT2 curriculum delivered by trained lifestyle coaches, with remote monitoring and interprofessional pharmacotherapy management including glucagon-like peptide-1 (GLP-1) receptor agonist or GLP-1/glucose-dependent insulinotropic polypeptide co-agonist therapy when clinically appropriate. Feasibility outcomes were enrollment, attendance, and GLP-1 uptake; clinical outcomes were BMI and percentage weight change. Twenty-nine participants from the first 3 cohorts (median baseline BMI 41.1 kg/m²; interquartile range 40.4-44.8) were analyzed. Attendance varied: 44.8% attended < 50% of sessions, 20.7% attended 50% to 75%, and 34.5% attended > 75%. GLP-1 therapy use rose from 62.1% at baseline to 72.4% at session 15, with 52.4% reaching high-dose therapy. Median weight change was -3.44% (range -10.89% to +1.91%). Participants attending ≥ 50% of sessions had greater median weight loss than those with lower attendance, independent of GLP-1 use. Two participants received kidney transplants during the evaluation period. COMPKT was feasible and produced modest but clinically meaningful weight loss in a high-risk population. Session engagement, rather than GLP-1 pharmacotherapy alone, appeared to drive outcomes, informing future program design and implementation.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42800900/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42777788",
+    "title": "GLP-1 receptor agonists and podocyte senescence in diabetic kidney disease: structural pharmacology, mechanistic evidence, and multi-receptor agonism.",
+    "authors": [
+      "Yue Hongyu",
+      "Wang Yu",
+      "Guo Xingyu",
+      "Sun Yaozong",
+      "Cheng Yao",
+      "Yan Pan",
+      "Tan Zhicheng",
+      "Han Chongyang",
+      "Wang Baodong"
+    ],
+    "journal": "Biochemical pharmacology",
+    "year": "2026",
+    "doi": "10.1016/j.bcp.2026.118495",
+    "abstract": "Diabetic kidney disease (DKD) is a major cause of chronic kidney disease and kidney failure worldwide. Podocyte senescence is increasingly recognized as a contributor to diabetic glomerular injury, but its importance in human DKD and its modulation by glucagon-like peptide-1 receptor agonists (GLP-1RAs) remain incompletely defined. GLP-1RAs provide clinically meaningful kidney protection beyond glucose lowering, yet the responsible cellular mechanisms remain unresolved. This review integrates inactive- and agonist-bound GLP-1R structures with pharmacological, podocyte, renal, and clinical evidence to distinguish established findings from mechanistic hypotheses. Structural studies define principles of ligand recognition, receptor activation, G-protein coupling, signaling bias, and trafficking but do not establish podocyte-specific signaling. Experimental studies suggest that GLP-1RA exposure may modulate inflammatory, oxidative, mitochondrial, autophagic, and cell-death pathways that intersect with senescence-associated processes; however, evidence ranges from direct podocyte observations to extrapolation from whole-kidney, other renal-cell, or non-renal systems, and GLP-1R dependence within podocytes remains unresolved. Multi-receptor agonists targeting GLP-1R, the glucose-dependent insulinotropic polypeptide receptor (GIPR), and the glucagon receptor (GCGR) show favorable kidney signals, but renal receptor-level synergy and direct anti-senescence effects remain unproven. FLOW established kidney protection with semaglutide in type 2 diabetes and chronic kidney disease, reducing the primary composite of major kidney disease events or cardiovascular death by 24%. Candidate urinary and circulating biomarkers remain exploratory rather than validated measures of podocyte senescence or GLP-1R target engagement. We propose testable genetic and translational strategies to determine whether podocyte-intrinsic GLP-1R signaling contributes to GLP-1RA-associated kidney protection.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42777788/",
     "screening_status": "não avaliado"
   },
   {
@@ -1755,6 +2152,25 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42716188",
+    "title": "Cell death-induced chronic inflammation as a therapeutic target for metabolic dysfunction-associated steatohepatitis.",
+    "authors": [
+      "Suganami Takayoshi",
+      "Tanaka Miyako",
+      "Itoh Michiko"
+    ],
+    "journal": "Pharmacology & therapeutics",
+    "year": "2026",
+    "doi": "10.1016/j.pharmthera.2026.109123",
+    "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH) is a progressive liver disease characterized by hepatic steatosis, inflammation, and fibrosis, which can ultimately lead to cirrhosis and hepatocellular carcinoma. Although recent Food and Drug Administration approvals of resmetirom and semaglutide mark a milestone in MASH therapy, no approved agents directly target hepatic inflammation or fibrosis, underscoring the urgent need for novel therapeutic strategies. Hepatocyte death is a histological hallmark that distinguishes MASH from simple steatosis, yet the mechanisms by which it drives chronic inflammation and fibrosis remain incompletely understood. We identified hepatic crown-like structures (CLSs), aggregates of macrophages surrounding dead hepatocytes, as the histological hub of this process. In steatotic livers, impaired dead cell clearance allows sustained macrophage-dead cell interactions within CLSs, where tissue-resident macrophages acquire profibrotic properties. Cholesterol accumulation in hepatocytes promotes cholesterol crystallization, triggering hepatocyte death and subsequent lysosomal cholesterol overload in CLS-constituting macrophages, thereby accelerating inflammation and fibrosis. Targeting this pathway using a liver-tropic supramolecular β-cyclodextrin polyrotaxane (βCD-PRX), which selectively delivers βCD to lysosomes via endocytosis, ameliorated macrophage lysosomal stress and hepatic fibrosis in murine MASH models without affecting body weight or steatosis. Beyond the liver, CLS-driven chronic inflammation contributes to adipose tissue dysfunction in obesity and the transition from acute kidney injury to chronic kidney disease, suggesting broad therapeutic relevance. Continued investigation of CLSs as a shared pathological microenvironment across metabolic diseases may pave the way for novel diagnostic and therapeutic modalities for MASH and related conditions.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42716188/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42712110",
     "title": "Association of GLP-1 Receptor Agonists Versus Other Antidiabetic Medications With Cardiovascular, Renal, and Liver Outcomes in Patients With Type 2 Diabetes.",
     "authors": [
@@ -1820,6 +2236,23 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42682157",
+    "title": "Incretin-based therapies in diabetic kidney disease: toward integrated cardio-kidney-metabolic disease modification.",
+    "authors": [
+      "Kim Yaeni",
+      "Lee Eun Young"
+    ],
+    "journal": "Kidney research and clinical practice",
+    "year": "2026",
+    "doi": "10.23876/j.krcp.26.272",
+    "abstract": "Obesity and type 2 diabetes (T2D) are dominant drivers of chronic kidney disease (CKD) within the cardio-kidney-metabolic (CKM) syndrome. Despite advances with renin-angiotensin system inhibitors and sodium-glucose cotransporter 2 (SGLT2) inhibitors, substantial residual cardiovascular and renal risk persists, highlighting the need for therapies targeting upstream metabolic dysfunction. Glucagon-like peptide-1 (GLP-1) receptor agonists (RAs) have emerged as key modulators of CKM disease through integrated metabolic, vascular, and anti-inflammatory mechanisms. Cardiovascular outcome trials first established their cardioprotective effects, while the FLOW trial definitively demonstrated kidney protection, showing a 24% reduction in major kidney outcomes in patients with T2D and CKD. Mechanistic insights from translational studies further suggest that GLP-1 receptor activation promotes metabolic decongestion, improves intrarenal hemodynamics, and attenuates inflammatory and fibrotic pathways. Beyond selective GLP-1 receptor agonism, dual (glucose-dependent insulinotropic polypeptide [GIP]/GLP-1) and triple (GIP/GLP-1/glucagon) incretin agonists, including tirzepatide and retatrutide, extend this paradigm by delivering greater weight reduction and systemic metabolic reprogramming, with emerging signals for cardiovascular and renal benefit. Contemporary CKD management is shifting toward a phenotype-driven, layered therapeutic strategy in which SGLT2 inhibitors provide foundational kidney protection and incretin-based therapies are integrated to address residual metabolic and cardiovascular risk. In this evolving CKM framework, incretin-based therapies represent a central component of multi-mechanistic disease modification, extending beyond glycemic control to coordinated protection across the heart, kidney, and metabolic systems.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42682157/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42681751",
     "title": "Incretin-Based Therapies as Cardiometabolic Interventions: Outcome Hierarchy, Receptor-Network Pharmacology and Phenotype-Based Clinical Positioning.",
     "authors": [
@@ -1862,6 +2295,24 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42658385",
+    "title": "Reconsidering the Association Between GLP-1 Receptor Agonists and Atrial Fibrillation Risk in Chronic Kidney Disease.",
+    "authors": [
+      "Chen Wei",
+      "Wang Xiqin",
+      "Xiao Yue"
+    ],
+    "journal": "Cardiovascular drugs and therapy",
+    "year": "2026",
+    "doi": "10.1007/s10557-026-07939-7",
+    "abstract": "",
+    "publication_types": [
+      "Letter"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42658385/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42647148",
     "title": "PharmaPlain: SOUL trial looking at the effect of oral semaglutide on cardiovascular outcomes in people with type 2 diabetes and atherosclerotic cardiovascular disease and/or chronic kidney disease.",
     "authors": [
@@ -1895,6 +2346,28 @@
       "Journal Article"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42647034/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42640716",
+    "title": "Glucagon-Like Peptide-1 Receptor Agonist Use and Risks of Hospitalization and Mortality in Patients with ESKD.",
+    "authors": [
+      "Karpinski Steph",
+      "Qazi Rizwan",
+      "Bjordahl Terrence",
+      "Sibbel Scott",
+      "Weinhandl Eric",
+      "Tentori Francesca",
+      "Brunelli Steven M"
+    ],
+    "journal": "Clinical journal of the American Society of Nephrology : CJASN",
+    "year": "2026",
+    "doi": "10.2215/CJN.0000001208",
+    "abstract": "Glucagon-like peptide-1 receptor agonist have shown clinical benefits in patients with chronic kidney disease, but there are no randomized trials to support their efficacy in ESKD. This matched retrospective cohort study used electronic health record from a dialysis provider and was conducted in diabetic, incident in-center hemodialysis patients. Results indicated that continued use of glucagon-like peptide-1 receptor agonist is associated with a 9% lower hospitalization and a 17% lower mortality rate. The recent clinical trial FLOW showed that semaglutide, a glucagon-like peptide-1 receptor agonist (GLP-1 RA), reduced the risk of clinical outcomes and death from cardiovascular causes in patients with CKD and type 2 diabetes. Given the substantial benefit to patients with CKD, the question remains whether these drugs benefit patients with ESKD. We sought to evaluate the impact of GLP-1 RA use in patients with incident ESKD on clinical outcomes. Patients included in this matched retrospective cohort study were adult patients with ESKD who initiated thrice-weekly in-center hemodialysis at a kidney care organization between January 2018 and April 2024. Using internal electronic health record data, eligible patients who initiated dialysis on a GLP-1 RA (with evidence of a GLP-1 RA prescription in the first 30 days after dialysis initiation; n =2492) were matched 1:1 to those not on a prescription. Patients were followed from index date until death or the end of the study (July 31, 2024). Incident rate ratios were estimated using a negative binomial distribution with a random intercept to account for the matched nature of the data. Patients with a GLP-1 RA prescription in the first month of dialysis had a mean±SD age of 63±12 years and were predominately male (59%). Compared with other eligible dialysis patients, nearly all patients on a GLP-1 RA had a known diagnosis of diabetes (98% versus 73%), a majority had evidence of predialysis nephrology care (76% versus 67%), were of White race (46% versus 39%), and had a mean±SD body mass index of 33±8 kg/m 2 (versus 30±8). After matching and adjustment, GLP-1 RAs were independently associated with lower hospitalization (incidence rate ratios, 0.91 [0.87 to 0.96]) and mortality (Incidence rate ratios, 0.83 [0.73 to 0.95]) rates. Among incident in-center hemodialysis patients, GLP-1 RA use was independently associated with a 9% lower hospitalization rate and a 17% lower mortality rate.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42640716/",
     "screening_status": "não avaliado"
   },
   {
@@ -2124,6 +2597,29 @@
       "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42444567/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "42397479",
+    "title": "GLP-1 Agonists and Risk of Atrial Fibrillation in Non-Dialysis Chronic Kidney Disease.",
+    "authors": [
+      "Dhamelia Parth",
+      "Khandekar Ninad",
+      "Vallurupalli Srikanth",
+      "Saucedo Jorge",
+      "Arthur John",
+      "Jadvani Dharmik",
+      "Beemidi Vikram",
+      "Jain Nishank"
+    ],
+    "journal": "Cardiovascular drugs and therapy",
+    "year": "2026",
+    "doi": "10.1007/s10557-026-07897-0",
+    "abstract": "GLP1 receptor agonists (GLP-1 RAs) improve cardiorenal outcomes in chronic kidney disease (CKD) patients with obesity or type 2 diabetes. Whether GLP-1 RAs reduce risk of atrial fibrillation (AF) in CKD patients, especially in absence of diabetes or obesity, is unclear. Investigate association between GLP-1 RA use and AF in patients with CKD. Using the TriNetX US Collaborative Network, we identified patients with CKD without prior AF or kidney failure. First use of GLP-1 RA (exposure) served as index event. For non-users, an outpatient visit after chronic kidney disease diagnosis served as pseudo-index event. After 1:1 propensity score matching of users to non-users for baseline risk factors, the cohort was followed up from index/pseudo-index event up to 3 years, death, or end of study period. Primary outcome was incident AF; secondary outcomes were AF-related interventions (a composite of ablation therapy, left atrial appendage occlusion, cardioversion, or pacemaker implantation), heart failure exacerbation, use of antiarrhythmic therapy, major adverse cardiovascular events, kidney failure, major adverse kidney events, and death. Survival analyses were performed. After propensity score matching, each cohort-GLP-1 RA and non-GLP-1 RA-had 37,768 patients with CKD without prior AF or kidney failure. Mean age was 67 ± 11 years; 55% female; 21% Black; 63% diabetic; mean body mass index, 34 ± 7 kg/m2; and mean eGFR, 49 ± 20 mL/min/1.73 m². GLP-1 RA cohort developed fewer atrial fibrillation (6.9%) than non-GLP-1 RA cohort (12.4%) with HR 0.59, 95% CI 0.56-0.62. Associations remained consistent in non-obese (HR 0.63, 95% CI 0.57-0.70), non-diabetic (HR 0.42, 95% CI 0.36-0.49), and non-diabetic + non-obese (HR 0.59, 95% CI 0.46-0.77) subgroups. Use of GLP-1 RA was also associated with lower risk of composite AF-related interventions (HR 0.58, 95% CI 0.55-0.61), heart failure exacerbation (HR 0.48, 95% CI 0.46-0.49), antiarrhythmic therapy (HR 0.6, 95% CI 0.56-0.65), major adverse cardiovascular events (HR 0.58, 95% CI 0.56-0.59), progression to kidney failure (HR 0.70, 95% CI 0.66-0.74), major adverse kidney events (HR 0.55, 95% CI 0.53-0.56), and death (HR 0.52; 95% CI, 0.49-0.55). In this retrospective cohort, use of GLP-1 RAs was associated with lower risk of AF in non-dialysis CKD patients, even those without diabetes or obesity.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42397479/",
     "screening_status": "não avaliado"
   },
   {

@@ -17,6 +17,62 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "43025540",
+    "title": "Neuroprotective actions of GLP-1 receptor agonists in Neurodegeneration: From mechanisms to clinical translation.",
+    "authors": [
+      "Lin Yalin",
+      "He Junqi",
+      "Gong Junwen",
+      "Chen Jiaxin",
+      "Ke Zhiqiang",
+      "Cai Fei"
+    ],
+    "journal": "Neuroscience",
+    "year": "2026",
+    "doi": "10.1016/j.neuroscience.2026.11.016",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have been explored as potential therapeutics for neurodegenerative disorders, yet a comprehensive integration of their neuroprotective mechanisms across Alzheimer's disease (AD), Parkinson's disease (PD), and related conditions remains to be consolidated. This review examines the multimodal effects of GLP-1RAs on neuroinflammation, autophagy, mitochondrial function, and protein aggregation, with a focus on translational relevance and alignment between preclinical findings and clinical evidence. A systematic synthesis of preclinical and clinical studies investigating GLP-1RA administration in neurodegenerative disease models and populations was conducted. Studies reporting neuroprotective outcomes and mechanistic pathways were included, and clinical trial data and real-world evidence for AD, PD, Huntington's disease, stroke, diabetic encephalopathy, and peripheral neuropathy were systematically evaluated. Preclinical evidence revealed that GLP-1RAs modulate key pathogenic processes, including amyloid-β and tau pathology, α-synuclein accumulation, neuroinflammatory cascades, oxidative stress, mitochondrial dynamics, endoplasmic reticulum stress, autophagy, and synaptic plasticity. Clinical data provided variable support, with emerging real-world evidence suggesting potential benefits. Novel strategies-such as dual GIP/GLP-1 receptor agonists, enhanced blood-brain barrier penetration, and sustained-release formulations-were identified as promising approaches to improve efficacy, although significant gaps remain between preclinical promise and clinical outcomes. This review consolidates evidence that GLP-1RAs exert broad neuroprotective effects through multiple mechanisms, but clinical translation is still evolving. The potential of GLP-1-based therapies as disease-modifying interventions for neurodegeneration warrants further investigation, with particular attention to bridging preclinical and clinical findings and optimizing drug delivery strategies.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43025540/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43007554",
+    "title": "Association of GLP-1 receptor agonist use with mortality and healthcare utilization in patients with vascular dementia.",
+    "authors": [
+      "Mandel Daniel",
+      "Rai Pranjal",
+      "Chen Huanwen",
+      "Kakadiya Jay",
+      "Bathla Girish",
+      "Mcintyre Matthew K",
+      "Latifi Shahrzad",
+      "Connolly Brian",
+      "Salim Hamza A",
+      "Azzam Ahmed Y",
+      "Essibayi Muhammed Amir",
+      "Yedavalli Vivek S",
+      "Khan Majid",
+      "Dmytriw Adam A",
+      "Altschul David J",
+      "Colasurdo Marco",
+      "Malhotra Ajay",
+      "Gandhi Dheeraj",
+      "Lakhani Dhairya A"
+    ],
+    "journal": "Acta neurologica Belgica",
+    "year": "2026",
+    "doi": "10.1007/s13760-026-03229-z",
+    "abstract": "Patients with vascular dementia (VD) have high mortality and frequent acute care use, and no treatment has been shown to improve these outcomes. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are associated with a lower incidence of dementia and with cardiovascular benefit in type 2 diabetes, but their association with clinical outcomes in patients with established VD is unknown. This retrospective cohort study using a national database identified patients with VD from 2016 to 2025. Patients receiving GLP-1RAs within one month of diagnosis were propensity-score matched with non-users (n = 613 per group). Primary outcome was mortality at 1, 3, and 5 years; secondary outcomes included hospitalizations and emergency visits. GLP-1RA use was associated with lower risk of mortality at 1 year (8.7% vs. 15.9%; HR 0.49, 95% CI 0.34-0.71), 3 years (23.3% vs. 33.8%; HR 0.58, 95% CI 0.44-0.76), and 5 years (34.4% vs. 54.3%; HR 0.53, 95% CI 0.41-0.69) (all p < 0.001). In addition, GLP-1RA use was associated with lower risk of inpatient admissions and emergency visits. GLP-1RA use in patients with VD was associated with lower risk of mortality and healthcare utilization. These beneficial associations warrant prospective randomized trials.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43007554/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "43001258",
     "title": "The hypertension-NVU-cognition Axis: Mechanisms and interventions.",
     "authors": [
@@ -127,7 +183,7 @@
     "journal": "Metabolism: clinical and experimental",
     "year": "2026",
     "doi": "10.1016/j.metabol.2026.156810",
-    "abstract": "The intersection of metabolic disease and neurodegeneration represents one of the most consequential frontiers in translational neuroscience. Converging epidemiological, mechanistic, and pharmacological evidence supports a bidirectional metabolic-brain axis in which systemic insulin resistance, obesity, and chronic metabolic inflammation are associated with and may contribute to alterations in neuronal survival, synaptic plasticity, and neuroimmune homeostasis. GLP-1 receptor agonists, originally developed for glycemic control and weight management, have therefore been investigated as potential disease-modifying therapies across Alzheimer's disease, Parkinson's disease, and related neurodegenerative conditions through mechanisms including neuronal PKA activation, microglial NLRP3 suppression, mitochondrial biogenesis, and restoration of AQP4 perivascular localization that may contribute to glymphatic waste clearance. Direct human evidence for these CNS mechanisms remains limited or absent, with current support derived primarily from preclinical models and indirect human data, as detailed in Table 1, warranting dedicated investigation in the context of GLP-1 receptor agonism. Importantly, the two pivotal phase 3 programs designed to test this hypothesis in humans - EVOKE/EVOKE+ in early Alzheimer's disease and Exenatide-PD3 in Parkinson's disease - have both now reported, and neither demonstrated a statistically significant benefit on its primary clinical endpoint, despite favorable biomarker and epidemiological signals preceding these results. This review synthesizes current knowledge on brain insulin signaling, GLP-1 neurobiology, obesity-driven neuroinflammation, and the translational evidence for metabolic therapeutics in neurodegeneration, and uses the dissociation between mechanistic plausibility, epidemiological association, and null confirmatory trial results to identify critical knowledge gaps and translational barriers related to CNS target engagement, optimal dosing, and disease-modifying efficacy of GLP-1 receptor agonists. The review is organized into four major themes: brain insulin signaling, central GLP-1 biology, obesity-associated neuroinflammation, and the translational evidence supporting metabolic therapies for neurodegenerative disease.",
+    "abstract": "The intersection of metabolic disease and neurodegeneration represents one of the most consequential frontiers in translational neuroscience. Converging epidemiological, mechanistic, and pharmacological evidence supports a bidirectional metabolic-brain axis in which systemic insulin resistance, obesity, and chronic metabolic inflammation are associated with and may contribute to alterations in neuronal survival, synaptic plasticity, and neuroimmune homeostasis. GLP-1 receptor agonists, originally developed for glycemic control and weight management, have therefore been investigated as potential disease-modifying therapies across Alzheimer's disease, Parkinson's disease, and related neurodegenerative conditions through mechanisms including neuronal PKA activation, microglial NLRP3 suppression, mitochondrial biogenesis, and restoration of AQP4 perivascular localization that may contribute to glymphatic waste clearance. Direct human evidence for these CNS mechanisms remains limited or absent, with current support derived primarily from preclinical models and indirect human data, warranting dedicated investigation in the context of GLP-1 receptor agonism. Importantly, the two pivotal phase 3 programs designed to test this hypothesis in humans - EVOKE/EVOKE+ in early Alzheimer's disease and Exenatide-PD3 in Parkinson's disease - have both now reported, and neither demonstrated a statistically significant benefit on its primary clinical endpoint, despite favorable biomarker and epidemiological signals preceding these results. This review synthesizes current knowledge on brain insulin signaling, GLP-1 neurobiology, obesity-driven neuroinflammation, and the translational evidence for metabolic therapeutics in neurodegeneration, and uses the dissociation between mechanistic plausibility, epidemiological association, and null confirmatory trial results to identify critical knowledge gaps and translational barriers related to CNS target engagement, optimal dosing, and disease-modifying efficacy of GLP-1 receptor agonists. The review is organized into four major themes: brain insulin signaling, central GLP-1 biology, obesity-associated neuroinflammation, and the translational evidence supporting metabolic therapies for neurodegenerative disease.",
     "publication_types": [
       "Journal Article",
       "Review"
@@ -861,7 +917,8 @@
     "doi": "10.1007/s11739-026-04468-x",
     "abstract": "Type 2 diabetes mellitus (T2DM) is associated with an increased risk of mild cognitive impairment (MCI) and dementia. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) provide cardiovascular and metabolic benefits, and emerging data suggest neurocognitive effects. We conducted a 24-month prospective observational study of 72 adults (≥ 50 years) with T2DM and MCI treated with semaglutide (subcutaneous [SC] or oral) and assessed at baseline (T0) and every 6 months (T1-T4). Outcomes included anthropometrics, fasting glucose, HbA1c, LDL-c, and neuropsychological tests (Montreal Cognitive Assessment [MoCA], Digit Symbol Substitution Test [DSST], Beck Depression Inventory [BDI]). A control cohort of 60 patients with T2DM and MCI not receiving semaglutide was evaluated with the same protocol. Semaglutide was associated with significant reductions in body weight, BMI, waist circumference, fasting glucose, and HbA1c (all p < 0.05). Cognitive performance improved, as shown by MoCA scores (median Δ≈ + 4 points, p < 0.001) at T4 compared with T0; at T4, semaglutide recipients also had higher MoCA scores than controls (+ 4.0 vs - 1.5, p < 0.001). DSST and BDI scores also improved (p = 0.001 and p = 0.044, respectively). MoCA improved similarly with both formulations, whereas DSST improvement reached significance only with SC semaglutide. In multivariable regression, semaglutide independently predicted MoCA improvement (+ 4.76 points, p < 0.001). No semaglutide-treated patient progressed to dementia versus 14 in controls (p = 0.002). In adults with T2DM and MCI, semaglutide was associated with improved cognition and a lower risk of progression to dementia. Differences between formulations may reflect distinct central nervous system engagement. Randomized trials are warranted.",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Observational Study"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42493728/",
     "screening_status": "não avaliado"

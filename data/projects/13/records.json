@@ -1,5 +1,237 @@
 [
   {
+    "pmid": "43034104",
+    "title": "Glucagon-like peptide-1 receptor agonists in adults with overweight/obesity and alcohol use disorder: A retrospective cohort study.",
+    "authors": [
+      "Maurer Gretchen E",
+      "Tuan Wen-Jan",
+      "Evans Alexandra",
+      "Chu Katherine S",
+      "Devaraj Tara",
+      "Zhang Alice",
+      "Leggio Lorenzo",
+      "Parthasarathy Sujaya",
+      "Zgierska Aleksandra E"
+    ],
+    "journal": "European journal of internal medicine",
+    "year": "2026",
+    "doi": "10.1016/j.ejim.2026.107270",
+    "abstract": "Emerging evidence suggests glucagon-like peptide-1 receptor agonists (GLP-1RAs) may improve outcomes in alcohol use disorder (AUD), which is associated with cardiovascular risk and mortality. Evaluate the association between initiation of GLP-1RAs and clinical outcomes among adults with AUD and overweight or obesity. A retrospective cohort study using electronic health records from TriNetX research network, with participants enrolled between January 1, 2015 and December 31, 2024 and followed through December 31, 2025. Inverse probability of treatment weighting, based on propensity scores, balanced baseline characteristics. Weighted logistic regression models estimated the adjusted odds ratios (aORs) with 95% confidence intervals (CIs) at 1-year follow-up. Adults ≥18 years old with overweight or obesity and AUD, without prior GLP-1RAs, or cancer or non-nicotine substance use disorder diagnoses. At least one GLP-1RA prescription issued after enrollment (Treatment cohort); none for Controls. Presence (Yes/No) of all-cause and alcohol-related hospitalizations, mortality, and major cardiovascular events (MCVE) since the GLP-1RA initiation (Treatment cohort) or post-enrollment (Control cohort). Among 163,681 participants (mean age 53.7 ± 14.4 years; 35.6% female), 10,445 (6.4%) initiated GLP-1RAs. At 1-year follow-up, Treatment cohort had lower likelihood of all-cause (aOR=0.28, 95%CI: 0.28,0.29) and alcohol-related (aOR=0.20; 95%CI: 0.20,0.21) hospitalizations, death (aOR=0.20, 95%CI: 0.19,0.21), and MCVE (aOR=0.72, 95%CI: 0.71,0.74). Exploratory analyses showed that these associations remained consistent at 3 and 5 years. GLP-1RA initiation was associated with reduced risk of MCVE, hospitalization, and mortality among adults with AUD and overweight/obesity, supporting potential role of GLP-RAs in AUD. Prospective studies are warranted.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034104/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43028166",
+    "title": "Dual Targeting of Alcohol Use Disorder and Alcohol-Associated Liver Disease: Emerging Molecular Targets Along the Gut-Liver-Brain Axis.",
+    "authors": [
+      "Ryu Tom",
+      "Chung Beom Sun",
+      "Yang Keungmo"
+    ],
+    "journal": "International journal of molecular sciences",
+    "year": "2026",
+    "doi": "10.3390/ijms27219921",
+    "abstract": "Alcohol-associated liver disease (ALD) is the hepatic end of alcohol use disorder (AUD), yet only abstinence and transplantation modify it, and recent liver-only programmes in alcohol-associated hepatitis have not delivered. This review asks whether the receptors, ligands and transporters setting drinking behaviour and alcohol-related liver injury are largely one set along the gut-liver-brain axis, so one molecule could lower both. Where resolved, it is cell-specific: hepatic glucagon-like peptide-1 receptor sits, in non-alcohol models, on sinusoidal endothelial and CD8+ T cells, not hepatocytes, and ethanol induces hepatocyte fibroblast growth factor 21, whose analogue acts on β-Klotho+ amygdala neurons. Organised by target, not organ, each candidate is appraised separately on both sides, negatives, terminations and non-replications counting alike. Of sixteen targets spanning incretin, hepatokine, glutamatergic and microbial or neuroimmune families, three are supported on both sides in the desired direction but only in separate experiments, three point in opposite directions, and ten have had no manipulation read out on both; for none were both organs read out in one experiment. Dual targeting changes what trials must measure: only one of 64 registered trials makes both endpoints primary, so objectively measured intake and a liver endpoint must be co-primary.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43028166/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43020682",
+    "title": "Erratum to characterizing ghrelin's role in dysregulating GLP-1-mediated function and promoting the development of alcohol-associated liver disease'[Journal Title: Biomed. Pharmacother. 195(2026) 118924].",
+    "authors": [
+      "Mahalingam Sundararajan",
+      "Bellamkonda Ramesh",
+      "Kharbanda Kusum K",
+      "Ethiraj Ojeshvi",
+      "Nagarajan Nagasundaram",
+      "Guda Chittibabu",
+      "Sharma Kanika",
+      "Schott Micah B",
+      "Casey Carol A",
+      "Leggio Lorenzo",
+      "Rasineni Karuna"
+    ],
+    "journal": "Biomedicine & pharmacotherapy = Biomedecine & pharmacotherapie",
+    "year": "2026",
+    "doi": "10.1016/j.biopha.2026.120037",
+    "abstract": "",
+    "publication_types": [
+      "Published Erratum"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43020682/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43020264",
+    "title": "Activation of GLP-1 receptors in the middle part of the paraventricular nucleus of thalamus suppresses alcohol-related responses.",
+    "authors": [
+      "Aranäs Cajsa",
+      "Witley Sarah",
+      "Zhang Qian",
+      "Edvardsson Christian E",
+      "Jerlhag Elisabet"
+    ],
+    "journal": "Neuropharmacology",
+    "year": "2026",
+    "doi": "10.1016/j.neuropharm.2026.111259",
+    "abstract": "Alcohol use disorder (AUD) remains a major public health challenge, and identifying the brain circuits through which pharmacological interventions act is central to developing more effective treatments. Glucagon-like peptide-1 receptor (GLP-1R) agonists suppress alcohol-related behaviors in rodents and reduce alcohol consumption in clinical populations with AUD, yet the neuroanatomical substrates mediating these effects remain only partly mapped. One candidate region implicated in addiction is the paraventricular nucleus of the thalamus (PVT), particularly its middle part (mid-PVT), which modulates mesolimbic dopamine signaling, has been implicated in addiction-related processes including alcohol use, and expresses GLP-1R. Whether activation of GLP-1R in the mid-PVT influences alcohol-related responses had not been examined, and that was the aim of the present study. Here, we found that local GLP-1R antagonism in the mid-PVT with exendin-3(9-39) (Ex9) attenuated the suppressive effect of systemically administered GLP-1R agonist exendin-4 (Ex4) on alcohol-induced locomotor stimulation, implicating this region in the central actions of GLP-1R agonists. Intra-mid-PVT Ex4 also attenuated alcohol-induced locomotor stimulation and accumbal dopamine release in male mice, without altering the expression of alcohol-induced conditioned place preference. We further showed that Ex4 into the mid-PVT reduced alcohol intake in male and female rats, although a higher dose was required in females. In a separate cohort of alcohol-consuming, treatment-naive rats, Glp1r mRNA in the PVT did not differ between the sexes. Together, these findings indicate that GLP-1R in the mid-PVT contributes to alcohol-related responses, extending the neuroanatomical map of circuits through which GLP-1R agonists may suppress alcohol intake.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43020264/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43018099",
+    "title": "GLP-1 dose escalation and disputed ignition interlock alcohol results: Case report.",
+    "authors": [
+      "Olson Aaron"
+    ],
+    "journal": "The Medico-legal journal",
+    "year": "2026",
+    "doi": "10.1177/00258172261476035",
+    "abstract": "Ignition interlock breath alcohol devices use electrochemical fuel-cell technology to detect alcohol in breath. Although these devices are intended to detect ethanol, fuel-cell sensors also detect other alcohols, including isopropanol. Prior reports have described false-positive breath alcohol results in individuals with increased ketone body production, including a case involving a very-low-calorie ketogenic diet and another involving diabetic ketoacidosis. This report involves a 45-year-old woman prescribed Wegovy, a GLP-1 receptor agonist, who had two positive ignition interlock results within days of a dose increase from 1.0 mg to 1.7 mg. The individual denied alcohol consumption, testified regarding several years of sobriety, and otherwise maintained employment and compliance with ignition interlock requirements. One plausible explanation for the positive results is that reduced caloric intake following the GLP-1 dose escalation increased reliance on fat metabolism. This may have triggered an increased endogenous acetone production and subsequent reduction of acetone to isopropanol. Isopropanol undergoes electrochemical oxidation on fuel-cell-based breath alcohol sensors and can produce an apparent alcohol-positive result despite not drinking alcohol. This mechanism should be considered when evaluating disputed ignition interlock violations in individuals using GLP-1 receptor agonists.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43018099/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43011941",
+    "title": "Semaglutide and alcohol use disorder: An evidence gap India must fill.",
+    "authors": [
+      "Dixit Tanya",
+      "Panda Udit K"
+    ],
+    "journal": "Indian journal of psychiatry",
+    "year": "2026",
+    "doi": "10.4103/indianjpsychiatry_814_26",
+    "abstract": "",
+    "publication_types": [
+      "Letter"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43011941/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43008461",
+    "title": "Alcohol consumption, lifestyle behaviors, and emotional well-being during GLP-1 receptor agonist therapy: a post hoc analysis of the several study.",
+    "authors": [
+      "Seijas-Amigo José",
+      "Salgado-Barreira Ángel",
+      "Castelo-Dominguez Rosana",
+      "Pérez-Álvarez María Teresa",
+      "Ponce-Piñón Belén",
+      "Fernández-Silva Marlén",
+      "Rodríguez-Barreiro Marta",
+      "Pereira-Pía Mercedes",
+      "Iglesias-Moreno Jose Manuel",
+      "Gago-García Mar",
+      "Montáns-García Raquel",
+      "Fernandez-Perez Agustina",
+      "Fraga-Gayoso Dolores",
+      "Fernandez-Montenegro Montse",
+      "Riveiro-Barciela Beatriz",
+      "Rilla-Villar Natalia",
+      "Cardeso-Paredes Begoña",
+      "Ribeiro-Ferreiro Marta",
+      "Rodriguez-Penas Diego",
+      "Cordero Alberto",
+      "Rodríguez-Mañero Moisés",
+      "González-Juanatey José R"
+    ],
+    "journal": "Addictive behaviors",
+    "year": "2026",
+    "doi": "10.1016/j.addbeh.2026.108905",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have been associated with alcohol-related and other behavioral outcomes, although much of the observational evidence derives from retrospective studies. We prospectively evaluated longitudinal changes in self-reported alcohol-consumption categories, lifestyle behaviors, and emotional well-being during GLP-1 RA therapy in routine clinical practice. This post hoc analysis of the prospective multicenter SEVERAL study included adults with obesity and type 2 diabetes receiving GLP-1 RAs over 44 weeks. Alcohol consumption categories, dietary adherence, and physical activity were assessed at baseline and weeks 4, 12, and 44. Emotional well-being was evaluated using the EuroQol 5-Dimension questionnaire (EQ-5D) and the 12-Item Short Form Health Survey (SF-12). Paired comparisons were performed using Wilcoxon signed-rank and McNemar tests. A total of 135 participants were included. At baseline, 87.7% of participants with available alcohol data (114/130) were already in the lowest alcohol-consumption category (0-1 standard drink units/day; 1 unit = 10 g of pure alcohol). This proportion increased to 96.2% at week 44, while the proportion reporting more than 2 units/day decreased from 5.4% to 0%, indicating a statistically significant shift toward lower categories (p = 0.003). Dietary adherence increased from 47.7% to 63.2% (p = 0.001). No significant long-term change was observed in physical activity (p = 0.392). Neither the SF-12 Mental Component Summary (MCS) score (p = 0.114) nor the EQ-5D anxiety/depression dimension (p = 0.055) changed significantly. Exploratory item-level analyses showed an increase in the proportion reporting feeling calm and peaceful all or most of the time (51.9% to 69.2%; p = 0.002).. During 44 weeks of GLP-1 RA therapy, a shift toward lower self-reported alcohol-consumption categories and improved dietary adherence were observed. Changes in selected emotional well-being items were exploratory and were not accompanied by significant improvements in global mental health measures. These observational findings warrant confirmation in studies designed to assess alcohol-related behaviors and their potential underlying mechanisms.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43008461/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43005920",
+    "title": "Dietary interventions in metabolic dysfunction-associated steatotic liver disease: current evidence, research priorities, and clinical translation.",
+    "authors": [
+      "Choręziak Anna",
+      "Rzymski Piotr",
+      "Poniedziałek Barbara",
+      "Dobrowolska Krystyna",
+      "Brzdęk Michał",
+      "Jaroszewicz Jerzy",
+      "Zarębska-Michaluk Dorota"
+    ],
+    "journal": "Clinical and experimental hepatology",
+    "year": "2026",
+    "doi": "10.5114/ceh.2026.164368",
+    "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is closely linked to excess adiposity, insulin resistance, and adverse dietary patterns. Dietary management is a potentially disease-modifying component of care, but no single standardized \"MASLD diet\" applies to all patients. This narrative review evaluates energy restriction, Mediterranean-style eating, low-carbohydrate, ketogenic, dietary approaches to stop hypertension (DASH), intermittent fasting, vegetarian, and plant-based approaches, together with practical food-based recommendations. The strongest evidence supports improved dietary quality and, in patients with excess body weight, a sustainable energy deficit that produces clinically meaningful weight loss. Mediterranean-style eating remains the best-supported named pattern, although evidence is stronger for liver fat and cardiometabolic outcomes than for histological or clinical liver outcomes. Management should prioritize minimally processed, predominantly plant-based, fiber-rich foods and unsaturated fats while limiting sugar-sweetened beverages, refined carbohydrates, ultra-processed foods, red and processed meat, and alcohol. Normal-weight MASLD, cirrhosis, and incretin-associated weight loss require individualized goals emphasizing metabolic control, nutritional adequacy, and muscle preservation.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43005920/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43005319",
+    "title": "Repurposing incretin-based therapies for alcohol use disorder: a systematic review of efficacy and safety relative to standard pharmacotherapies in a recent comparative context.",
+    "authors": [
+      "Alevizopoulos Aristomenis G",
+      "Vasilakos Vasileios",
+      "Kritikos Iakovos",
+      "Alevizopoulou Maria",
+      "Korompoki Eleni",
+      "Psaltopoulou Theodora",
+      "Paschou Stavroula A"
+    ],
+    "journal": "Therapeutic advances in psychopharmacology",
+    "year": "2026",
+    "doi": "10.1177/20451253261457548",
+    "abstract": "Alcohol use disorder (AUD) affects millions worldwide, but current treatments, such as disulfiram, naltrexone, acamprosate, and topiramate, have limitations in efficacy and tolerability. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), commonly used for diabetes and obesity, may offer a new approach by targeting brain pathways involved in alcohol cravings. This review aims to systematically evaluate the preliminary efficacy and safety of GLP-1 RAs and other incretin-based therapies in treating AUD within a recent comparative context, alongside standard pharmacotherapies. Systematic review. A comprehensive literature review was conducted by searching the PubMed/Medline, Web of Science, and Scopus databases from February through June 2025. The studies included were either randomized controlled trials (RCTs) or observational studies, written in English. Studies were selected based on their evaluation of GLP-1 RAs or comparator drugs in reducing alcohol consumption or related outcomes in patients with AUD. The selected 12 studies correspond to a population of 95,004 participants, but only 663 were from RCTs, while the majority were from a single registry cohort. Emerging data suggest GLP-1 RAs may reduce heavy drinking days, particularly in individuals with a higher BMI. Furthermore, observational analyses indicate a potential association between GLP-1 RA use and reduced alcohol-related hospitalizations, while metabolic data suggest biologically plausible, albeit unconfirmed, hepatoprotective effects. While the large, aggregated sample size highlights the therapeutic promise of GLP-1 RAs for AUD, particularly for patients with metabolic comorbidities, the heavy reliance on observational data precludes claims of clinical equivalence with established pharmacotherapies. Appropriately powered, dedicated RCTs are required to confirm direct efficacy and long-term safety. Not registered.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43005319/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43003672",
+    "title": "Glucagon-like peptide-1 receptor agonists in schizophrenia spectrum disorders: A systematic review and meta-analysis of efficacy, safety and mental health outcomes.",
+    "authors": [
+      "de Aguiar Débora Regina",
+      "Pereira Samuel Izaias Dos Santos",
+      "Castro Pedro Batista",
+      "Carneiro Carlos Ricardo Oliveira",
+      "de Araujo Julia Costa",
+      "de Souza Rebeca Ferreira",
+      "da Silva Otavio André Farias Sousa",
+      "Ferreira Matheus Hissa Lourenço",
+      "Bolsoni Bruna Loureiro Fontana",
+      "Carvas Junior Nelson",
+      "Louzã Mario Rodrigues"
+    ],
+    "journal": "British journal of clinical pharmacology",
+    "year": "2026",
+    "doi": "10.1002/bcp.70892",
+    "abstract": "The purpose of this study is to evaluate efficacy, safety and mental-health outcomes of glucagon-like peptide-1 (GLP-1) receptor agonists in adults with overweight or obesity and antipsychotic-treated schizophrenia-spectrum disorders. PubMed/MEDLINE, Embase, PsycINFO, CENTRAL, Virtual Health Library (VHL) (Biblioteca Virtual em Saúde, BVS), Scopus, Web of Science and trial registries were searched on 28 August 2026. Random-effects models pooled mean difference (MD) or standardized mean difference (SMD) with 95% Wald intervals; Hartung-Knapp-Sidik-Jonkman (HKSJ) intervals were computed in parallel. Missing change-score SDs were imputed at r = 0.50 (sensitivity r = 0.25 and 0.75). Binary safety outcomes used Mantel-Haenszel risk ratios with a 0.5 continuity correction for zero cells. Six trials (n = 446) were pooled; three (n = 102) informed the primary outcome. The primary outcome of total symptom severity was imprecise (SMD - 0.21, 95% CI -0.60 to 0.19; HKSJ -1.02 to 0.61). Functioning, Alcohol Use Disorders Identification Test (AUDIT), Schizophrenia Quality of Life Scale (SQLS) and Brief Assessment of Cognition in Schizophrenia (BACS) were likewise imprecise; all intervals included the null. Secondary mental-health analyses were exploratory and unadjusted for multiplicity. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) reduced body weight (MD - 7.42 kg, -11.52 to -3.33; I2 = 94%), body mass index (BMI, -2.77 kg m-2), waist circumference (-5.53 cm) and HbA1c (-0.36%). Gastrointestinal events were more frequent; serious adverse events were not. Weight heterogeneity tracked agent, dose, duration and antipsychotic background. GLP-1 RAs were associated with improvements in cardiometabolic measures over 12-36 weeks, although certainty for body weight was limited by heterogeneity and risk of bias. Mental-health estimates were imprecise and did not allow a clear conclusion regarding benefit or harm. Cardiovascular events were not assessed, and no conclusions can be drawn regarding cardiovascular outcomes in this population.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43003672/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42998653",
     "title": "Neuropeptide Systems in Substance use Disorders: Therapeutic evidence and molecular mechanisms.",
     "authors": [

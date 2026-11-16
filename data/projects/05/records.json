@@ -1,5 +1,99 @@
 [
   {
+    "pmid": "43030450",
+    "title": "Nutritional Impairment and Muscle Health in MASLD: The Potential Role of Eating Behaviors.",
+    "authors": [
+      "Armașu Ioana",
+      "Ungureanu Maria-Christina",
+      "Gheorghe Liliana",
+      "Botnariu Gina Eosefina",
+      "Florescu Alexandru Florin",
+      "Matei Anca",
+      "Jari Irina",
+      "Rusu Roxana Elena",
+      "Cojocaru Elena",
+      "Vasiliu Ioana",
+      "Cojocaru Cristian",
+      "Leuștean Letiția"
+    ],
+    "journal": "Journal of clinical medicine",
+    "year": "2026",
+    "doi": "10.3390/jcm15218306",
+    "abstract": "Obesity can conceal nutritional impairment and compromised muscle health in metabolic dysfunction-associated steatotic liver disease (MASLD). This critical narrative review examines the potential role of eating behaviors in nutritional impairment and muscle health in MASLD, focusing on adults with overweight or obesity while considering the limited findings in lean MASLD and, separately, pediatric evidence. Altered eating behaviors are associated with prevalent MASLD, but their contribution to malnutrition, myosteatosis, and sarcopenic obesity remains unproven. Nutritionally adverse dietary patterns and appetite loss may increase vulnerability, although evidence linking these factors to muscle outcomes derives predominantly from aging and general obesity populations. Total daily protein intake is better supported than specific meal-level distribution targets, while resistance exercise offers more consistent functional benefits than protein supplementation alone in the limited direct MASLD evidence. Restricting eating windows has not demonstrated additional hepatic benefit over usual care. Incretin-associated lean-mass loss does not by itself establish sarcopenia or disproportionate muscle harm and requires interpretation alongside muscle strength and function. Physical inactivity, socioeconomic circumstances, multimorbidity, and reverse causation complicate attribution to eating behavior. These findings support assessment beyond body mass index, integrating eating behaviors, nutritional risk, and muscle health. We propose an adult assessment framework; however, prospective studies are needed to validate it and clarify the independent contribution of eating behaviors to nutritional and muscle deterioration in MASLD.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43030450/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43018238",
+    "title": "Will sarcopenia preventative pharmacology ensure the long-term success of GLP-1-derived therapies?",
+    "authors": [
+      "Mota Cauã Teixeira",
+      "Aguiar Alef Mendes",
+      "da Fonseca Guilherme Wesley Peixoto"
+    ],
+    "journal": "Expert opinion on pharmacotherapy",
+    "year": "2026",
+    "doi": "10.1080/14656566.2026.2764003",
+    "abstract": "",
+    "publication_types": [
+      "Editorial"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43018238/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43005990",
+    "title": "Effects of Incretin-Based Pharmacotherapies on Lean Body Mass in Adults With Overweight, Obesity, or Type 2 Diabetes: A Systematic Review With Prespecified Network Meta-Analysis Feasibility Assessment.",
+    "authors": [
+      "Alhamad Zahi M",
+      "AlShalhoub Naif",
+      "Al-Mana Abdulrahman",
+      "Almutairi Faisal E",
+      "Alshalhoub Hamad M"
+    ],
+    "journal": "Cureus",
+    "year": "2026",
+    "doi": "10.7759/cureus.117738",
+    "abstract": "Incretin-based pharmacotherapies produce substantial weight loss, but their comparative effects on lean tissue remain incompletely characterized. We systematically reviewed randomized controlled trials in adults with overweight, obesity, and/or type 2 diabetes. The prospectively registered primary outcome was the between-group difference in relative percentage change from baseline in total lean body mass measured by dual-energy X-ray absorptiometry (DXA) at 48 to <80 weeks; absolute DXA change in kilograms was the key secondary outcome. The auditable record-level dataset comprised 6,526 imported records from PubMed and ClinicalTrials.gov; after the removal of 250 within-PubMed duplicates, 6,276 records were screened, and 52 trial families met review-level eligibility. Three direct contrasts had defensible precision for the registered primary outcome: pooled tirzepatide versus placebo, -8.3 percentage points (95% confidence interval {CI}: -10.6 to -6.1); semaglutide 1.0 mg versus placebo, -3.81 (-6.57 to -1.06); and semaglutide 2.4 mg versus placebo, -6.06 (-8.79 to -3.33). Because the two BELIEVE semaglutide contrasts shared a placebo group and their joint covariance was unavailable, they were not treated as independent edges in a single dose-specific network meta-analysis (NMA). Separate placebo-anchored sensitivity comparisons of pooled tirzepatide versus semaglutide were -4.49 percentage points (95% CI: -8.05 to -0.93) for semaglutide 1.0 mg and -2.24 (-5.78 to 1.30) for semaglutide 2.4 mg; both were graded very low confidence. For the key secondary absolute DXA outcome, mean differences versus placebo were -3.43 kg (95% CI: -4.74 to -2.13) for semaglutide 2.4 mg, -4.40 kg (-5.60 to -3.20) for pooled tirzepatide, and -5.90 kg (-7.28 to -4.52) for mazdutide 9 mg. DXA-derived lean mass is not synonymous with skeletal-muscle mass or function, and these reductions should not by themselves be interpreted as evidence of sarcopenia or clinically harmful muscle loss. Randomized evidence therefore supports measurable lean-mass loss during incretin-associated weight reduction, but sparse network geometry, heterogeneous estimands, selected body-composition substudies, and incomplete reporting preclude a reliable comparative treatment ranking.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43005990/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43003902",
+    "title": "Resistance exercise to attenuate lean mass loss during tirzepatide therapy for obesity: a randomized controlled trial.",
+    "authors": [
+      "Green Daniel J",
+      "Haynes Andrew",
+      "Underwood Destiny R",
+      "Winterton Evangeline R",
+      "Green Abbey A",
+      "Daly Robin M",
+      "George Elena S",
+      "Lester Leanne",
+      "Naylor Louise H",
+      "Hillis Graham S",
+      "Fegan P Gerry",
+      "Yeap Bu B"
+    ],
+    "journal": "Nature medicine",
+    "year": "2026",
+    "doi": "10.1038/s41591-026-04752-5",
+    "abstract": "Incretin mimetics as obesity therapy induce substantial weight and fat loss but also decrease lean soft tissue mass, possibly impairing skeletal muscle function. Here, in this two-arm randomized controlled trial of adding resistance exercise (REx) to tirzepatide (T), 120 adults with overweight or obesity were treated with tirzepatide and randomized to thrice-weekly resistance exercise training or usual activities for 40 weeks. Tirzepatide was safe, and most participants tolerated up-titration to 15 mg weekly. Adherence to resistance exercise was 91%. Weight loss achieved was similar (T = -22.61 kg, T+REx = -22.28 kg, P = 0.694). For primary outcomes, loss of total fat mass was similar (T = -17.19 kg, T+REx = -17.98 kg, P = 0.700; between-group difference = -0.77 kg, 95% confidence interval (CI): -2.14 kg to 0.60 kg), but resistance exercise reduced loss of total lean soft tissue mass (T = -4.67 kg, T+REx = -3.57 kg, P < 0.001; between-group difference = 1.09 kg, 95% CI: 0.43-1.75 kg). For related endpoints, resistance exercise reduced loss of appendicular lean soft tissue mass (T = -3.55 kg, T+REx = -2.92 kg, P < 0.001). Upper and lower body muscle strength decreased with tirzepatide (bench press -4.09 kg, lat pulldown -4.42 kg, knee extension -4.42 kg) but increased with T+REx (+4.68 kg, +8.58 kg, +5.88 kg, respectively, all P < 0.001 versus tirzepatide). In conclusion, resistance exercise training attenuated loss of total lean soft tissue mass, representing an effective adjunct to tirzepatide anti-obesity therapy. Australian New Zealand Clinical Trials Registry identifier: ACTRN12623001236684 .",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43003902/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "43000186",
     "title": "Weaker or Just Lighter? Monitoring Strength and Function, Not Just Lean Mass, During GLP-1 Weight Loss.",
     "authors": [
@@ -1913,7 +2007,7 @@
     "journal": "Nutricion hospitalaria",
     "year": "2026",
     "doi": "10.20960/nh.06592",
-    "abstract": "obesity is a chronic and relapsing disease. Tirzepatide, a dual GLP-1 and GIP receptor agonist, has demonstrated weight loss exceeding 20 % at higher doses. However, real-world data remain limited, particularly regarding body composition and muscle function. fifty-two patients with obesity (71.2 % women; mean age 47 ± 12.4 years) treated with tirzepatide and followed for at least 4 months were analyzed. Body composition was assessed by bioimpedance analysis and muscle function was assessed using a digital dynamometer (JamarrPlus® Digital Hand Dynamometer, Patterson Medical, USA at baseline and at the end of the study. the mean tirzepatide dose was 5.1 ± 1.4 mg/week. Weight loss (9.94 ± 4.8 kg) and percentage weight loss (9.7 ± 4.8 %) were similar to those reported in SURMOUNT-1.Significant reductions were observed in body weight (104.6 ± 19.6 vs. 94.6 ± 20.8 kg; p < 0.0001), BMI (36.7 ± 5.3 vs. 34.9 ± 6.8 kg/m²; p = 0.02), and waist circumference (112.2 ± 11.5 vs. 105.4 ± 16.1 cm; p = 0.008).A significant decrease was also found in absolute fat mass (44.4 ± 11.1 vs. 37.1 ± 10.2 kg; p < 0.0001),body fat percentage (43.2 ± 6.2 vs. 39.0 ± 6.5 %; p < 0.0001), and visceral fat index (17.4 ± 5.1 vs. 14.4 ± 4.9; p < 0.0001).Lean mass was preserved (42.8 ± 16.8 vs. 41.8 ± 15.8 kg; p = 0.052), as was muscle function(31.6 ± 11.9 vs. 31.4 ± 11.6 kg; p = 0.5) after 4 months of treatment. in real-world clinical practice, tirzepatide demonstrated significant reductions in body weight and fat mass, even at low doses, while preserving lean mass and muscle function. These findings reinforce its potential as an effective and safe therapeutic option for the management of obesity.",
+    "abstract": "Introduction: obesity is a chronic and relapsing disease. Tirzepatide, a dual GLP-1 and GIP receptor agonist, has demonstrated weight loss exceeding 20 % at higher doses. However, real-world data remain limited, particularly regarding body composition and muscle function. Methods: fifty-two patients with obesity (71.2 % women; mean age 47 ± 12.4 years) treated with tirzepatide and followed for at least 4 months were analyzed. Body composition was assessed by bioimpedance analysis and muscle function was assessed using a digital dynamometer (JamarrPlus® Digital Hand Dynamometer, Patterson Medical, USA at baseline and at the end of the study. Results: the mean tirzepatide dose was 5.1 ± 1.4 mg/week. Weight loss (9.94 ± 4.8 kg) and percentage weight loss (9.7 ± 4.8 %) were similar to those reported in SURMOUNT-1.Significant reductions were observed in body weight (104.6 ± 19.6 vs. 94.6 ± 20.8 kg; p < 0.0001), BMI (36.7 ± 5.3 vs. 34.9 ± 6.8 kg/m²; p = 0.02), and waist circumference (112.2 ± 11.5 vs. 105.4 ± 16.1 cm; p = 0.008).A significant decrease was also found in absolute fat mass (44.4 ± 11.1 vs. 37.1 ± 10.2 kg; p < 0.0001),body fat percentage (43.2 ± 6.2 vs. 39.0 ± 6.5 %; p < 0.0001), and visceral fat index (17.4 ± 5.1 vs. 14.4 ± 4.9; p < 0.0001).Lean mass was preserved (42.8 ± 16.8 vs. 41.8 ± 15.8 kg; p = 0.052), as was muscle function(31.6 ± 11.9 vs. 31.4 ± 11.6 kg; p = 0.5) after 4 months of treatment. Conclusions: in real-world clinical practice, tirzepatide demonstrated significant reductions in body weight and fat mass, even at low doses, while preserving lean mass and muscle function. These findings reinforce its potential as an effective and safe therapeutic option for the management of obesity.",
     "publication_types": [
       "English Abstract",
       "Journal Article"

@@ -1,4 +1,60 @@
 TY  - JOUR
+ID  - 43035758
+TI  - Analysis of drug development risks for metabolic dysfunction-associated steatotic liver disease from a sustainable accounting perspective.
+AU  - Liu Xiyan
+AU  - Mirza Mohammed
+JO  - Cost effectiveness and resource allocation : C/E
+PY  - 2026
+DO  - 10.1186/s12962-026-00804-2
+AB  - Metabolic dysfunction-associated steatotic liver disease (MASLD) is among the most common chronic liver diseases worldwide [1], and its targeted therapy and new drug development have drawn extensive global attention. Prior relevant studies mainly focus on the clinical efficacy and economic returns of MASLD drugs, rarely covering social and environmental impacts across the drug R&D lifecycle. This study aims to fill this research gap by evaluating MASLD drug development risks from a sustainable accounting perspective with triple bottom line indicators. Based on the sustainable accounting framework covering economic, social and environmental dimensions, this paper analyzes the global MASLD drug R&D landscape. It adopts annual report data and core product information of four typical listed pharmaceutical companies: Madrigal, Huadong Pharmaceutical, Novo Nordisk and Inventiva. This study systematically compares five representative MASLD therapeutic agents and candidates, including resmetirom, semaglutide, DR10624, lanifibranor and HTD1801, in terms of pharmacological mechanisms, clinical performance, R&D costs and commercial prospects, including thyroid hormone receptor agonists, GLP-1 receptor agonists, multi-target agonists, pan-PPAR agonist and entero-hepatic system modulators. Based on the Delphi consensus, In the main text, the name chosen to replace MASH, MAFLD, NASH and NAFLD is metabolic dysfunction-associated steatotic liver disease (MASLD). Three key sustainable risks exist in current MASLD drug development. Economically, high R&D costs lead to expensive marketed drugs and uncertain cost-effectiveness. At the economic level, resmetirom has a reported ICER of US$140,134/QALY, while semaglutide shows lower ICERs of US$42,200/QALY and US$44,138/QALY, respectively. Socially, uneven drug accessibility across regions and income groups, low grassroots diagnosis rates and unpopular interdisciplinary treatments cause missed early intervention opportunities for patients. Environmentally, green R&D technologies are poorly promoted, small and medium-sized drug enterprises face resource constraints, and quantitative life-cycle assessment data remain limited for the MASLD drugs reviewed, making it difficult to clarify long-term ecological risks of drug residues. The three bottom lines of economy, society, and environment are interconnected and are the core criteria for measuring sustainable research and development of MASLD drugs. The industry still needs to address issues such as economic returns, medical fairness, and ecological protection. By optimizing R&D layout, improving medical insurance policies, and perfecting the drug lifecycle environmental evaluation system, the industry can ultimately achieve sustainable development of MASLD pharmaceuticals.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43035758/
+ER  - 
+
+TY  - JOUR
+ID  - 43035608
+TI  - A Cost-Effectiveness Analysis of FreeStyle Libre Real-Time Continuous Glucose Monitoring System Compared With Self-Monitoring of Blood Glucose in Adults With Type 2 Diabetes on Basal Insulin Plus SGLT2 Inhibitor and/or GLP-1 Agonists in the United Kingdom.
+AU  - Amritlal Sneha T
+AU  - Paterson Luke
+AU  - Hoang Men Thi
+AU  - Choudhary Pratik
+AU  - Moore Patrick
+AU  - Sathyapalan Thozhukat
+AU  - Lim Jonathan Z M
+AU  - Neupane Sankalpa
+AU  - Iqbal Ahmed
+AU  - Evans Mark L
+AU  - Rayman Gerry
+AU  - Ajjan Ramzi A
+AU  - Wilmot Emma G
+AU  - Leelarathna Lalantha
+AU  - Elliott Rachel A
+JO  - Diabetes, obesity & metabolism
+PY  - 2026
+DO  - 10.1111/dom.71476
+AB  - We previously showed that FreeStyle Libre (FSL) real-time continuous glucose monitoring system (rtCGM) reduces glycated haemoglobin (HbA1c) at 16 and 32 weeks compared with capillary self-monitoring of blood glucose (SMBG) in adults with Type 2 diabetes and above target glucose levels, managed with basal insulin and SGLT-2 inhibitor and/or GLP-1 agonist therapy. We assess the cost-effectiveness of rtCGM compared with SMBG. Participant-level baseline and follow-up health status (Euroqol-5-dimensions-5-levels) and within-trial healthcare resource-use data were collected. We estimated quality-adjusted life-years (QALYs) and participant-level costs at 16 and 32 weeks. Long-term cost-effectiveness from the United Kingdom National Health Service perspective was evaluated using the IQVIA CORE Diabetes Model with a 3.5% discount rate. Sensitivity analyses assessed structural and parameter uncertainty. Within-trial analyses found no significant difference at 32 weeks between rtCGM and SMBG in QALYs or healthcare costs. At 32 weeks, adjusted incremental QALYs were -0.015 (95% CI: -0.031 to 0.003) and incremental costs were £254 (95% CI: -£587 to £1070). The lifetime projected incremental QALYs were 0.730 (95% CI: 0.688-0.773) and incremental costs were £4341 (95% CI: 3558-5125), generating an incremental cost-effectiveness ratio (ICER) of £5943 per QALY. At least 4 years of maintained glycaemic benefits are required for rtCGM to be cost-effective. Sensitivity analyses were robust to the base-case results. Benefits of FSL rtCGM in lowering HbA1c in people with Type 2 diabetes on basal insulin plus SGLT-2 inhibitor and/or GLP-1 agonist therapy is likely to justify costs through improved health outcomes and reduced long-term costs of diabetes-related complications.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43035608/
+ER  - 
+
+TY  - JOUR
+ID  - 43002765
+TI  - Developing Robust Antiobesity Medication Implementation Approaches to Maximize Population Health: Protocol for the DOMINO Study.
+AU  - Marks Brittany A
+AU  - Sales Anne E
+AU  - Hsu Clarissa
+AU  - Smith Valerie A
+AU  - Meza Rosemary
+AU  - Lewis Kristina H
+AU  - Dusetzina Stacie B
+AU  - Arterburn David E
+AU  - Maciejewski Matthew L
+JO  - JMIR research protocols
+PY  - 2026
+DO  - 10.2196/108690
+AB  - Despite robust evidence supporting the efficacy of antiobesity medications (AOMs), their use remains limited and inequitable across populations. Patient, provider, and system-level barriers constrain equitable AOM use in eligible persons, limiting the cumulative health benefits realized by eligible patients. Guided by the tailored implementation for chronic diseases (TICD) framework and implementation mapping (IM), the DOMINO (Developing Robust Antiobesity Medication Implementation Approaches to Maximize Population Health) study aims to identify determinants of AOM use, obtain stakeholder input, and develop an implementation road map to guide payers, health systems, and prescribers in supporting equitable and appropriate clinical use of AOMs. The DOMINO study begins with a data-driven needs assessment, followed by qualitative interviews to assess contextual factors, and then stakeholder-guided selection of strategies to address barriers and contextual factors, resulting in an IM approach. Aim 1 evaluates AOM prescribing patterns and determinants of use using electronic health record data from 3 southeastern US health systems. Demographic, clinical, and provider characteristics of AOM users and nonusers will be compared. Cox regression will estimate time from first eligible BMI to AOM initiation, incorporating time-varying covariates and calendar-year fixed effects; secondary analyses will assess repeated use, duration, and medication switching. Aim 2 uses the TICD framework to guide approximately 90 semistructured interviews with patients, providers, health system leaders, and payers to identify multilevel barriers and facilitators to AOM adoption. Our analytic approaches will allow for both deductive and inductive insights to identify salient determinants. Aim 3 will use findings from aims 1 and 2 to develop an AOM implementation road map. Determinants will be prioritized by importance and feasibility, mapped to implementation strategies, and refined through advisory panels using acceptability, feasibility, effectiveness, cost-effectiveness, side effects or unintended consequences, safety, and equity criteria to enable future hybrid trial testing. The DOMINO study was funded in April 2024. Preliminary data obtained prior to submitting the grant application indicated significant variability in the number of AOM users, the number with a glucagon-like peptide-1 (GLP-1) prescription, and race/ethnicity demographics. Electronic health record (EHR) data extraction from the 3 health systems was completed in April 2026; data cleaning and preparation of analytic datasets are underway. As of August 2026, aim 2 included 40 patient interviews, 5 payer interviews, and 14 provider interviews. Aim 3, including advisory board panels, is anticipated to begin in late 2026. Publication of results is expected by June 2028. This study will generate an empirically derived, partner-driven road map for implementing AOM use. By addressing operational barriers, workflow integration, and patient affordability, DOMINO will produce scalable tools and processes for health systems to optimize obesity care and advance equity in obesity management. DERR1-10.2196/108690.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43002765/
+ER  - 
+
+TY  - JOUR
 ID  - 42896210
 TI  - The Cost-Effectiveness of Semaglutide and Tirzepatide for Patients With Knee Osteoarthritis and Obesity.
 AU  - Smith Karen C
