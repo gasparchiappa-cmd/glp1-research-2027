@@ -17,6 +17,112 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "43055289",
+    "title": "Development of a novel neuronal phenotypic in vitro model of familial Alzheimer's disease using the human neuroblastoma-derived immortalized SH-SY5Y cell line.",
+    "authors": [
+      "Barro Mateo",
+      "Martínez Antón L",
+      "Moreira David",
+      "Cosme Neila",
+      "Asensio Magdalena",
+      "Brea José",
+      "Loza María Isabel"
+    ],
+    "journal": "Journal of Alzheimer's disease : JAD",
+    "year": "2026",
+    "doi": "10.1177/13872877261506370",
+    "abstract": "BackgroundAlzheimer's disease (AD) is the most prevalent neurodegenerative disorder and the leading cause of dementia. Despite its undeniable effect on current society, it remains one of the diseases for which clinical trials have the highest failure rate, and therapeutic interventions remain palliative, thus creating an unmet demand to develop translational models that can accelerate pre-clinical drug discovery.ObjectiveWe aimed to develop a scalable neuronal phenotypic model using differentiated SH-SY5Y cells with mature neuronal phenotypes.MethodsSH-SY5Y were differentiated by exposure to either retinoic acid and phorbol 12-myristate 13-acetate or retinoic acid and GLP-1. Cells differentiated with retinoic acid and GLP-1 were transfected with APP V717I and MAPT P301L mutants. Mutation-induced morphological alterations were measured by immunocytochemistry and neuron activation through intracellular calcium accumulation.ResultsTransfection induced alterations, including reduced cell densities, neurite lengths, and dendritic arborization, together with increase of amyloid-β (Aβ) aggregation and ROS activity, which are compatible with the neurodegenerative changes observed in AD. A physiological assay based on intracellular calcium imaging revealed hypoexcitability in transfected cultures, suggesting a neurodegenerative process compatible with the later stages of the disease. Treatment of cell cultures with the reference neuroprotective compounds melatonin and resveratrol exerted a significant restorative effect on the morphophysiological variables studied.ConclusionsTherefore, we introduce a novel, miniaturized, and automatable in vitro AD model that enables studies on the neurodegenerative mechanisms related to the disease and supports high-throughput screening assays for pre-clinical drug discovery.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055289/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43054852",
+    "title": "The Growing Role of Glucagon-Like Peptide-1 Receptor Agonists in Neuropsychiatry.",
+    "authors": [
+      "Buyuksandalyaci Tunc Ece",
+      "Park Mary",
+      "Kansara Rudra",
+      "Paul Shristi",
+      "Grysman Noam",
+      "Grossberg George T"
+    ],
+    "journal": "Clinical pharmacology : advances and applications",
+    "year": "2026",
+    "doi": "10.2147/CPAA.S580850",
+    "abstract": "The co-occurrence of metabolic and psychiatric disorders poses a major challenge in medicine, and glucagon-like peptide-1 receptor agonists (GLP-1RAs) have emerged as candidates for neuropsychiatric repurposing given the wide distribution of glucagon-like peptide-1 (GLP-1) receptors in brain regions governing mood, cognition, and reward. This narrative review summarizes central and peripheral mechanisms linking GLP-1 signaling to neuropsychiatric outcomes, critically appraises clinical evidence across psychiatric and neurodegenerative domains, and proposes a framework for integrating GLP-1RAs into neuropsychiatric care. A targeted search of PubMed/MEDLINE and ClinicalTrials.gov (January 2015-August 2026) prioritized randomized controlled trials, meta-analyses, and prospective cohorts reporting neuropsychiatric outcomes. Four converging mechanisms- neuroinflammation, metabolic-vascular neuroprotection, synaptic plasticity, and mesolimbic reward modulation- underpin this rationale. The strongest and most clinically actionable evidence supports GLP-1RA use for antipsychotic-induced metabolic dysfunction, with trials in clozapine/olanzapine-treated patients showing substantial weight loss and glycemic normalization without psychiatric worsening or altered clozapine levels. By contrast, in Alzheimer's disease, despite consistent observational signals of 33-53% dementia risk reduction, Phase 3 EVOKE/EVOKE+ trials found no benefit of oral semaglutide in early symptomatic disease despite biomarker engagement, favoring a prevention- rather than treatment-focused framework. Evidence in Parkinson's disease and major depressive disorder remains more limited: motor benefit in Parkinson's disease appears restricted to short-acting agents, with the largest phase 3 trial negative, while broad antidepressant efficacy is unsupported, although semaglutide improved effort-based decision-making in anhedonic, metabolically burdened patients. Additional signals exist for alcohol use disorder, binge eating disorder, and obstructive sleep apnea. Psychiatric safety appears reassuring across meta-analyses of over 133,000 participants, though exclusion of psychiatric populations from pivotal trials limits generalizability. Current evidence supports selective, investigational use of GLP-1RAs in neuropsychiatric care- most robustly for antipsychotic-induced metabolic dysfunction- rather than generalized repurposing, pending adequately powered trials with neuropsychiatric endpoints, structured monitoring, and equitable access strategies.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054852/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43049829",
+    "title": "Incretin-Based Therapies and the Gut-Brain Axis in Neurodegenerative Diseases.",
+    "authors": [
+      "Lázaro Álvaro",
+      "Mohammed Vajagathali",
+      "Bridgeman Luna",
+      "Frangiamone Massimo"
+    ],
+    "journal": "Molecular neurobiology",
+    "year": "2026",
+    "doi": "10.1007/s12035-026-06334-5",
+    "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs), originally developed for metabolic disorders, remain under active investigation as potential therapeutic candidates for neurodegenerative diseases, including Alzheimer's and Parkinson's disease, with clinical trials to date reporting both positive and negative findings. This scoping review critically synthesizes evidence from preclinical and clinical studies (n = 99), with a focus on the molecular pharmacodynamics of semaglutide, liraglutide, exenatide, dulaglutide, and lixisenatide, together with tirzepatide, a dual GLP-1/GIP receptor agonist (GLP-1/GIP RA) discussed separately given its distinct receptor pharmacology. In preclinical models, GLP-1 receptor activation has been associated with engagement of intracellular signaling pathways, including PI3K/Akt/GSK-3β, cAMP/PKA/CREB, and AMPK/SIRT1, and several studies report reduced neuroinflammation, oxidative stress, and amyloid-β or α-synuclein accumulation. These findings are not uniform: recent studies in preventive and established Alzheimer's disease mouse models found no benefit of semaglutide or tirzepatide, and the phase 3 EVOKE/EVOKE+ trials of oral semaglutide in early Alzheimer's disease did not slow clinical progression. GLP-1 RAs are also frequently associated with shifts in gut microbiota composition, including enrichment of short-chain fatty acid-producing taxa, which supports a biologically plausible gut-brain axis interaction. However, microbiota responses are heterogeneous and context-dependent, and no included study used causal designs such as germ-free models or fecal microbiota transplantation. Whether neuroprotective effects arise from direct central receptor engagement, from peripheral metabolic effects, or from microbiota remodeling therefore remains unresolved, and microbiota changes may be a secondary consequence of metabolic improvement rather than a mediator of therapeutic effect.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43049829/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43042026",
+    "title": "Vascular risk in dementia; underappreciated but tractable.",
+    "authors": [
+      "Markus Hugh S"
+    ],
+    "journal": "Cerebral circulation - cognition and behavior",
+    "year": "2026",
+    "doi": "10.1016/j.cccb.2026.100572",
+    "abstract": "Vascular contributions to dementia are substantial but remain under-recognised, and vastly underfunded relative to Alzheimer's disease. This commentary discusses the recently published World Stroke Organisation Scientific statement on the vascular contribution to dementia, in which a multidisciplinary panel of global experts review the different ways in which vascular risk contributes to dementia, and highlights opportunities for prevention and treatment. Vascular cognitive impairment encompasses both post-stroke cognitive impairment and chronic cerebral small vessel disease which is the commonest vascular pathology underlying dementia. Cerebrovascular disease, particularly cerebral small vessel disease also interacts with Alzheimer's disease pathology to increase the chance that Alzheimer's disease pathology will result in clinical dementia. Evidence from randomised controlled trials demonstrates that intensive blood pressure control can reduce all-cause dementia, supporting vascular risk modification as a feasible preventive strategy to reduce not only vascular dementia, but also all cause dementia. Recent insights into the pathogenesis of cerebral small vessel disease are generating new potential therapeutic targets. These include impaired cerebral autoregulation, endothelial dysfunction, extracellular matrix disruption and blood brain barrier permeability, glymphatic dysfunction, and neuroinflammation. Ongoing trials are evaluating vasodilators, PDE5 inhibitors, neuroprotective agents, GLP-1 agonists, and remote ischaemic conditioning. Greater research investment is required to translate these mechanistic advances into effective future therapies. Despite its importance vascular dementia is markedly underfunded compared with Alzheimer's disease. For example, in the United States in 2025 the National Institute of Health (NIH) spent $3.62 billion on Alzheimer's disease research, compared with $0.49 billion on vascular dementia. Similar inequalities are seen in many other counties worldwide, despite the fact that cerebrovascular disease accounts for about 30% of all dementia [4]. A concerted effort from governments, academic institutions, researchers, and particularly funders, worldwide is required to increase research, and develop new treatments, for this important condition.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43042026/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43039332",
+    "title": "Metabolic, Hepatic, and Neuropathological Effects of Palm11-PrRP31 and Liraglutide in High-Fat Diet-Fed APP/PS1 Mice.",
+    "authors": [
+      "Mengr A",
+      "Sopko Z",
+      "Vaculová P",
+      "Charvát V",
+      "Neprašová B",
+      "Vrkoslav V",
+      "Strnad Š",
+      "Železná B",
+      "Maletínská L",
+      "Pačesová A"
+    ],
+    "journal": "Neuropharmacology",
+    "year": "2026",
+    "doi": "10.1016/j.neuropharm.2026.111263",
+    "abstract": "Metabolic stress is known to accelerate Alzheimer's disease (AD) progression. In our previous study, we demonstrated that long-term high-fat diet (HFD) feeding exacerbated not only amyloid-β (Aβ) burden but also liver steatosis in APP/PS1 mice, a transgenic model of AD, with effects worsening with age. The present study investigated whether a three-month treatment (from 6 to 9 months of age) with anorexigenic peptides (palm11-PrRP31 or liraglutide) could attenuate AD-like pathology, neuroinflammation, liver steatosis, and Aβ clearance in APP/PS1 male mice on HFD. The two compounds exhibited distinct therapeutic effects. Liraglutide reduced body weight and improved glucose tolerance in both genotypes, while also attenuating insulin resistance in APP/PS1 mice. In contrast, palm11-PrRP31 significantly reduced Aβ plaque burden and showed a tendency to decrease astrocytosis. Notably, both peptides markedly reduced microgliosis and pathological tau phosphorylation at Ser202 and Thr205 in the hippocampus and cerebral cortex. HFD induced pronounced hepatic steatosis in both genotypes; however, APP/PS1 mice exhibited more severe lipid imbalance, characterized by increased triacylglycerols and decreased phospholipids and cardiolipins compared to wild-type controls. While both compounds reduced liver steatosis and inflammation in wild-type mice, only liraglutide normalized lipid composition in APP/PS1 mice. Furthermore, Aβ deposits colocalized with CD11b clusters were absent in the liver of liraglutide-treated APP/PS1 mice. In conclusion, both peptides exert neuroprotective effects under metabolic stress, but through distinct mechanisms. Palm11-PrRP31 primarily reduces amyloid pathology and neuroinflammation, whereas liraglutide acts mainly through metabolic improvement.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43039332/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "43030219",
     "title": "Anatomical and Molecular Foundations of the Gut-Brain Axis in Alzheimer's Disease: From Molecular Mechanisms to Therapeutic Translation.",
     "authors": [
@@ -137,7 +243,7 @@
     "journal": "bioRxiv : the preprint server for biology",
     "year": "2026",
     "doi": "10.64898/2026.10.12.758524",
-    "abstract": "Capturing the systemic effects of drugs in vivo remains a fundamental challenge for drug repurposing strategies. Here, we present an in vivo transcriptomics-based drug repurposing framework that profiles multi-organ RNA-seq from drug-treated rodents to model systemic drug responses and match tissue-specific drug signatures against a compendium of disease signatures for indication expansion. We applied this framework to semaglutide, a GLP-1 receptor agonist originally developed for diabetes and subsequently expanded for several other indications. By harmonizing more than 900 human disease transcriptomic signatures via agentic AI and using Z-transformed reversal of gene expression scoring to quantify drug-disease relationships, our approach successfully recovered established semaglutide indications while deprioritizing Alzheimer's disease, an indication for which semaglutide was not effective. Top predictions for common diseases were supported by real-world electronic health record data from the Mount Sinai Health System and several predictions for rare indications are proposed for further investigation. This framework provides a scalable strategy for indication expansion across diverse therapeutic agents, especially investigational compounds for which real-world evidence remains sparse. Comparing drug and disease expression profiles from in vivo contexts achieves indication profiles reflective of the interconnected mammalian organism.",
+    "abstract": "Capturing the systemic effects of drugs in vivo remains a fundamental challenge for drug repurposing strategies. Here, we present an in vivo transcriptomics-based drug repurposing framework that profiles multi-organ RNA-seq from drug-treated rodents to model systemic drug responses and match tissue-specific drug signatures against a compendium of disease signatures for indication expansion. We applied this framework to semaglutide, a GLP-1 receptor agonist originally developed for diabetes and subsequently expanded for several other indications. By harmonizing more than 900 human disease transcriptomic signatures via agentic AI and using Z-transformed reversal of gene expression scoring to quantify drug-disease relationships, our approach successfully recovered established semaglutide indications while deprioritizing Alzheimer's disease, an indication for which semaglutide was not effective. Top predictions for common diseases were supported by real-world electronic health record data from the Mount Sinai Health System and several predictions for rare indications are proposed for further investigation. This framework provides a scalable strategy for indication expansion across diverse therapeutic agents, especially investigational compounds for which real-world evidence remains sparse.",
     "publication_types": [
       "Journal Article",
       "Preprint"
@@ -300,8 +406,7 @@
     "publication_types": [
       "Journal Article",
       "Systematic Review",
-      "Meta-Analysis",
-      "Review"
+      "Meta-Analysis"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42942883/",
     "screening_status": "não avaliado"

@@ -12,6 +12,28 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42869735/
 ER  - 
 
 TY  - JOUR
+ID  - 43063527
+TI  - Cancer risk with glucagon-like peptide-1 receptor agonists: An umbrella review of meta-analyses.
+AU  - Petrelli Fausto
+AU  - Meregalli Giancarla
+AU  - Berzi Denise
+AU  - Nicolì Francesca
+AU  - Viglino Francesca
+AU  - Della Pepa Giuseppe
+AU  - Indovina Francesco
+AU  - Dalmiglio Cristina
+AU  - Forloni Franco
+AU  - Bossi Antonio
+AU  - D'Alessio Andrea
+AU  - Ghidini Antonio
+JO  - Cancer epidemiology
+PY  - 2026
+DO  - 10.1016/j.canep.2026.103273
+AB  - Use of glucagon-like peptide-1 receptor agonists (GLP-1RAs) for diabetes and obesity is increasing, but effects on uncommon or long-latency cancers are uncertain. We synthesised meta-analytic evidence for overall and site-specific cancer risk and assessed methodological quality, overlap, outcome-level certainty, and credibility. We searched PubMed, Embase, and the Cochrane Library from inception to 30 June 2026 for meta-analyses of GLP-1RAs or the dual GIP/GLP-1 receptor agonist tirzepatide and incident cancer. Randomised and observational evidence was considered separately; review-level estimates were not recombined. We assessed methodological confidence with AMSTAR 2, overlap with corrected covered area (CCA), outcome-level certainty with a GRADE-informed algorithm, and association credibility with Ioannidis criteria. We included 38 meta-analyses from 2012 to 2026. The most comprehensive placebo-controlled randomised evidence (48 trials, 94 245 participants, median follow-up 70 weeks) showed no statistically significant association with thyroid cancer (odds ratio [OR] 1·37, 95% CI 0·82-2·31; 1 fewer to 9 more cases per 10 000 treated), pancreatic cancer (0·84, 0·53-1·35), colorectal cancer (1·11, 0·75-1·65), or breast cancer (0·95, 0·60-1·49), and no overall cancer increase (OR 1·05, 0·98-1·13 across 50 trials). Thyroid and agent-specific haematological signals were inconsistent or based on sparse events; between-review discordance for thyroid and colorectal cancer was largely attributable to comparator restriction, choice of estimator, and handling of zero-event trials rather than to differences in cancer ascertainment. Observational syntheses suggested lower hepatocellular carcinoma risk (hazard ratio 0·60, 95% CI 0·41-0·88), but four reviews had very high overlap (CCA 50·0%). Outcome-level certainty was moderate for five outcomes, low for 11, and very low for five; none was high. No association met class I or II credibility criteria. Randomised evidence shows no evidence of a material increase in overall or site-specific cancer risk over currently observed trial durations (median about 70 weeks, maximum about 5 years), and cancer concerns alone do not justify withholding indicated GLP-1RA treatment. Small, rare, long-latency, dose-specific, or agent-specific effects cannot be excluded, and the evidence cannot address exposure beyond approximately five years, well short of the 8-10 years generally required to evaluate cancer incidence. Observational protective associations should not support causal or cancer-prevention claims. None.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43063527/
+ER  - 
+
+TY  - JOUR
 ID  - 43009382
 TI  - Temporal dynamics and prognostic value of serum calcitonin during tirzepatide therapy in adults with obesity.
 AU  - Angelopoulos Nikolaos

@@ -12,6 +12,120 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42869735/
 ER  - 
 
 TY  - JOUR
+ID  - 43068621
+TI  - Cardiovascular outcomes and mortality risk associated with GLP-1 RAs vs. SGLT-2 inhibitors in patients with incident lung cancer: A target trial emulation.
+AU  - Cheng Hung-Wen
+AU  - Tsai Po-Yu
+AU  - Li Ching-Yu
+AU  - Lin Ruei-Jhen
+AU  - Yang Shun-Fa
+JO  - Lung cancer (Amsterdam, Netherlands)
+PY  - 2026
+DO  - 10.1016/j.lungcan.2026.109698
+AB  - This study aims to evaluate whether glucagon-like peptide-1 receptor agonists (GLP-1 RAs), as compared to sodium-glucose cotransporter 2 (SGLT-2) inhibitors, confer superior cardioprotective benefits and reduce all-cause mortality in patients with incident lung cancer. Using the TriNetX global federated database, we emulated a target trial comparing the initiation of GLP-1 RAs versus SGLT-2 inhibitors in patients with incident lung cancer. To minimize confounding, we employed 1:1 propensity score matching to balance baseline demographics and clinical comorbidities. The primary outcomes were all-cause mortality and major adverse cardiovascular events (MACE). A total of 5,206 patients with incident lung cancer were identified, including 1,400 initiators of GLP-1 RAs and 3,806 initiators of SGLT-2 inhibitors. After 1:1 propensity score matching, which yielded two balanced cohorts, the use of GLP-1 RAs was associated with a significantly lower risk of all-cause mortality (HR 0.68; 95% CI, 0.57 to 0.80) and MACE (HR 0.71; 95% CI, 0.62 to 0.82) compared with SGLT-2 inhibitors. Regarding secondary outcomes, GLP-1 RA initiation was also associated with a reduced risk of heart failure incidence (HR 0.60; 95% CI, 0.51 to 0.70) and all-cause hospitalization (HR 0.75; 95% CI, 0.67 to 0.84). Among patients with incident lung cancer, the initiation of GLP-1 RAs was associated with a significantly lower risk of all-cause mortality and MACE compared to SGLT-2 inhibitors. These findings suggest that GLP-1 RAs are associated with favorable cardiovascular outcomes and a reduced risk of mortality compared to SGLT-2 inhibitors in this high-risk population. However, further large-scale prospective trials are warranted to validate these comparative pleiotropic effects.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43068621/
+ER  - 
+
+TY  - JOUR
+ID  - 43064262
+TI  - Laundered Survival: When Target Trial Emulation Doesn't Emulate-Implications for GLP-1 Receptor Agonists and Cancer Outcomes.
+AU  - Brophy James M
+JO  - Journal of clinical epidemiology
+PY  - 2026
+DO  - 10.1016/j.jclinepi.2026.112595
+AB  - Target trial emulation (TTE) is increasingly invoked in observational studies to address time-related biases. Recent observational studies reporting large protective associations between glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and cancer outcomes have cited TTE as a methodological strength. TTE validity, however, depends on explicit alignment of eligibility, treatment assignment, and time zero when outcome start to be counted (EAT0). We conducted a conceptual and quantitative evaluation of two recent observational studies that defined GLP-1 RA exposure using post-baseline information (≥2 prescriptions) while initiating follow-up at the first prescription. We reproduced these designs using Monte Carlo simulation (500 replications; n = 5,000 per replication) under a null treatment effect (hazard ratio [HR] = 1.0), varying the interval between first and second prescriptions. Analyses enforcing EAT0 alignment were used as comparators. By deferring treatment assignment while accruing person-time from an earlier index date, these designs violate a core requirement of TTE. This structure induces immortal time bias through both exposure misclassification and survivor selection. Simulated analyses reproducing these features generated HRs ranging from 0.72 to 0.39 in longer follow-up settings and from 0.85 to 0.60 in shorter follow-up settings, closely approximating published estimates. In contrast, analyses aligning time zero with treatment initiation eliminated the bias and recovered the true (simulated) HRs centered on 1.0. Invocation of TTE does not, in itself, prevent bias; its defining requirement is proper EAT0 alignment. Exposure definitions based on post-baseline events violate this principle and can generate substantial spurious protective associations. In the current GLP-1 RA / cancer research, these simulation findings suggest that the reported associations are more consistent with bias than with large causal effects.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43064262/
+ER  - 
+
+TY  - JOUR
+ID  - 43063527
+TI  - Cancer risk with glucagon-like peptide-1 receptor agonists: An umbrella review of meta-analyses.
+AU  - Petrelli Fausto
+AU  - Meregalli Giancarla
+AU  - Berzi Denise
+AU  - Nicolì Francesca
+AU  - Viglino Francesca
+AU  - Della Pepa Giuseppe
+AU  - Indovina Francesco
+AU  - Dalmiglio Cristina
+AU  - Forloni Franco
+AU  - Bossi Antonio
+AU  - D'Alessio Andrea
+AU  - Ghidini Antonio
+JO  - Cancer epidemiology
+PY  - 2026
+DO  - 10.1016/j.canep.2026.103273
+AB  - Use of glucagon-like peptide-1 receptor agonists (GLP-1RAs) for diabetes and obesity is increasing, but effects on uncommon or long-latency cancers are uncertain. We synthesised meta-analytic evidence for overall and site-specific cancer risk and assessed methodological quality, overlap, outcome-level certainty, and credibility. We searched PubMed, Embase, and the Cochrane Library from inception to 30 June 2026 for meta-analyses of GLP-1RAs or the dual GIP/GLP-1 receptor agonist tirzepatide and incident cancer. Randomised and observational evidence was considered separately; review-level estimates were not recombined. We assessed methodological confidence with AMSTAR 2, overlap with corrected covered area (CCA), outcome-level certainty with a GRADE-informed algorithm, and association credibility with Ioannidis criteria. We included 38 meta-analyses from 2012 to 2026. The most comprehensive placebo-controlled randomised evidence (48 trials, 94 245 participants, median follow-up 70 weeks) showed no statistically significant association with thyroid cancer (odds ratio [OR] 1·37, 95% CI 0·82-2·31; 1 fewer to 9 more cases per 10 000 treated), pancreatic cancer (0·84, 0·53-1·35), colorectal cancer (1·11, 0·75-1·65), or breast cancer (0·95, 0·60-1·49), and no overall cancer increase (OR 1·05, 0·98-1·13 across 50 trials). Thyroid and agent-specific haematological signals were inconsistent or based on sparse events; between-review discordance for thyroid and colorectal cancer was largely attributable to comparator restriction, choice of estimator, and handling of zero-event trials rather than to differences in cancer ascertainment. Observational syntheses suggested lower hepatocellular carcinoma risk (hazard ratio 0·60, 95% CI 0·41-0·88), but four reviews had very high overlap (CCA 50·0%). Outcome-level certainty was moderate for five outcomes, low for 11, and very low for five; none was high. No association met class I or II credibility criteria. Randomised evidence shows no evidence of a material increase in overall or site-specific cancer risk over currently observed trial durations (median about 70 weeks, maximum about 5 years), and cancer concerns alone do not justify withholding indicated GLP-1RA treatment. Small, rare, long-latency, dose-specific, or agent-specific effects cannot be excluded, and the evidence cannot address exposure beyond approximately five years, well short of the 8-10 years generally required to evaluate cancer incidence. Observational protective associations should not support causal or cancer-prevention claims. None.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43063527/
+ER  - 
+
+TY  - JOUR
+ID  - 43057933
+TI  - Associations of GLP-1 Receptor Agonist Usage With Clinical Outcomes of Limb Osteomyelitis in Type 2 Diabetes.
+AU  - Perng Pang-Chung
+AU  - Chang Yu
+AU  - Wong Chia-En
+AU  - Huang Chih-Yuan
+AU  - Lee Jung-Shun
+AU  - Khor Wei-Thing
+AU  - Perng Pang-Shuo
+AU  - Lai Yeu Her
+JO  - Clinical therapeutics
+PY  - 2026
+DO  - 10.1016/j.clinthera.2026.10.011
+AB  - Patients with type 2 diabetes are prone to limb osteomyelitis, a condition associated with high morbidity and mortality. The relationship between glucagon-like peptide-1 receptor agonist (GLP-1RA) use and outcomes in these patients remains unclear. We performed a retrospective cohort study using a large federated database from 2015 to 2024. Adult patients with type 2 diabetes (ICD-10 E11) and limb osteomyelitis were identified. GLP-1RA exposure was defined as use within 6 months prior to the diagnosis of osteomyelitis. Patients with end-stage renal disease, malignancy, or human immunodeficiency virus infection were excluded. Outcomes included all-cause mortality, amputation, sepsis, major adverse cardiovascular events, acute respiratory distress syndrome, and acute kidney injury. Propensity score matching was applied to balance baseline characteristics and disease severity. A total of 21,858 patients were identified. After propensity score matching, 2615 patients remained in each cohort with balanced baseline characteristics. GLP-1RA use was associated with lower mortality, with rates of 1.0% at 6 months (HR 0.48, 95% confidence interval [CI] 0.30-0.78) and 4.7% at 3 years (HR 0.62, 95% CI 0.49-0.78). Compared with non-users, GLP-1RA users also had lower risks of amputation, sepsis, acute respiratory distress syndrome, and acute kidney injury. No significant differences were observed in major adverse cardiovascular events at either 6 months (odds ratio [OR], 0.88; 95% CI, 0.74-1.04) or 3 years (OR, 0.89; 95% CI, 0.78-1.02). Among patients with type 2 diabetes and limb osteomyelitis, GLP-1RA use was associated with lower risks of mortality, sepsis, acute respiratory distress syndrome, and acute kidney injury. These findings suggest a potential supportive role for GLP-1RAs in this high-risk population, although further studies are needed to clarify the underlying mechanisms.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43057933/
+ER  - 
+
+TY  - JOUR
+ID  - 43044264
+TI  - Glucagon-like peptide-1 receptor agonist use and overall survival in endometrial cancer: a multicenter propensity score-matched cohort study.
+AU  - Yousif Abdelrahman
+AU  - Elchouemi Mohanad
+AU  - Asad Arsalaan B
+JO  - Gynecologic oncology
+PY  - 2026
+DO  - 10.1016/j.ygyno.2026.11.009
+AB  - To evaluate the association between glucagon-like peptide-1 receptor agonist (GLP-1RA) use and overall survival in women with endometrial cancer. Using the TriNetX network, we identified women aged 18-75 years with endometrial cancer diagnosed between 2018 and 2024 and propensity score matched those with a GLP-1RA record within 12 months before diagnosis to women without prior use, with follow-up anchored to the date of diagnosis. A 2-year landmark analysis compared new GLP-1RA use within 2 years of diagnosis with no use among women alive at 2 years without evidence of advanced disease, and sensitivity analyses included an active comparator, race-stratified analyses and a negative-control outcome. The outcome was 5-year all-cause mortality. In the primary analysis (2646 matched pairs), 5-year survival was 91.6% among GLP-1RA users and 90.2% among non-users (hazard ratio [HR] 0.81; 95% confidence interval [CI], 0.65-1.02), and in the 2-year landmark analysis (2275 pairs) it was 96.4% and 96.3% (HR 0.92; 95% CI, 0.63-1.34). Results were similar against dipeptidyl peptidase-4 inhibitors (HR 0.91; 95% CI, 0.45-1.84) and by race (interaction P = 0.46), whereas a comparison with women who never received a GLP-1RA, as in previous studies, yielded an HR of 0.58 (95% CI, 0.48-0.70). Once follow-up was anchored to the date of diagnosis, GLP-1RA use was not associated with significantly lower all-cause mortality in women with endometrial cancer, and these hypothesis-generating findings should temper the extrapolation of survival associations reported in other cancers until prospective trials are completed.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43044264/
+ER  - 
+
+TY  - JOUR
+ID  - 43044077
+TI  - Optimizing use of GLP-1 receptor agonists: safety, tolerability, adherence, and patient selection in cardiovascular practice.
+AU  - Pejcic Ana V
+AU  - Stefanovic Srdjan M
+AU  - Milosavljevic Milos N
+JO  - Journal of cardiovascular pharmacology
+PY  - 2026
+DO  - 10.1097/FJC.0000000000001901
+AB  - Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have fundamentally transformed modern cardiometabolic care, moving beyond glycemic control to become a cornerstone of obesity management and potent cardiovascular risk reduction. Large-scale clinical trials consistently highlight their cardioprotective benefits, demonstrating significant reductions in major adverse cardiovascular events (MACE), cardiovascular mortality, and obesity-related heart failure complications. However, translating these remarkable clinical trial successes into routine clinical practice reveals a marked gap between efficacy and effectiveness, primarily driven by suboptimal patient persistence and adherence. This narrative review synthesizes current evidence regarding the pharmacology, safety, tolerability, adherence, and patient selection of GLP-1RAs to support optimal therapeutic decision-making in cardiovascular practice. While long-term data disprove clear causal relationships with pancreatic or thyroid malignancies, a high incidence of predictable, dose-related gastrointestinal adverse events (nausea, vomiting, diarrhea) remains the leading cause of early treatment discontinuation. Additionally, treatment persistence in clinical practice is heavily influenced by financial burdens, supply chain instability, and formulation choices. Cardioprotective benefits are well-established for patients with type 2 diabetes and atherosclerotic cardiovascular disease. Mitigating challenges in clinical practice requires a systematic, multi-step prescribing framework focused on targeted patient selection, gradual individualized dose titration ("start low and go slow"), and proactive multidisciplinary symptom management.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43044077/
+ER  - 
+
+TY  - JOUR
+ID  - 43039358
+TI  - Peptides and Obesity: Evaluating Intranasal Administration of Peptides for Therapeutic Potential.
+AU  - Duraisamy Karthi
+AU  - Dlimi Omayma
+AU  - Bourzam Amine
+AU  - Lefranc Benjamin
+AU  - Le Solliec Marie-Anne
+AU  - Picot Marie
+AU  - Chartrel Nicolas
+AU  - Boutin Jean A
+AU  - Masmoudi Olfa
+AU  - Fetissov Sergueï O
+AU  - Prévost Gaëtan
+AU  - Leprince Jérôme
+JO  - Obesity reviews : an official journal of the International Association for the Study of Obesity
+PY  - 2026
+DO  - 10.1111/obr.70259
+AB  - Obesity is a complex global health issue characterized by an imbalance in energy homeostasis and associated with significant health risks, including cardiovascular diseases, diabetes, and cancer. While various therapeutic approaches exist, peptide-based treatments have emerged as promising candidates due to their specificity and reduced side effects. Because many of the mechanisms are centrally regulated in the brain, effective intervention requires peptides with good brain penetration or alternative delivery strategies. In this context, this review explores the potential of intranasal delivery of therapeutic peptide candidates for obesity management, highlighting its advantages in bypassing the blood-brain barrier, targeting central pathways regulating appetite and energy expenditure, and minimizing systemic exposure, while also considering the translational limitations of this delivery route. The review analyses established and emerging peptides, including leptin, GLP-1 analogs, and oxytocin, focusing on their central mechanisms of action, specifically their ability to target the brain. It highlights how these peptides regulate energy homeostasis, appetite, and metabolism through direct activation of neural circuits in the hypothalamus, brainstem, and other key regions involved in obesity management. Furthermore, it evaluates the prospects of intranasal peptide therapeutics as an innovative strategy in obesity treatment, addressing both the opportunities and limitations in the context of clinical and preclinical evidence. Continued research and technological advancements are essential to optimize peptide formulations and delivery systems, ensuring efficacy, safety, and patient compliance in combating the obesity epidemic.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43039358/
+ER  - 
+
+TY  - JOUR
 ID  - 43034104
 TI  - Glucagon-like peptide-1 receptor agonists in adults with overweight/obesity and alcohol use disorder: A retrospective cohort study.
 AU  - Maurer Gretchen E
@@ -219,15 +333,15 @@ ER  -
 
 TY  - JOUR
 ID  - 42980483
-TI  - Incretin-Based Therapies in Prostate Cancer: From Metabolic Protection to Potential Antitumour Activity - A Narrative Review.
+TI  - Incretin-based therapies in prostate cancer: from metabolic protection to potential antitumour activity: a narrative review.
 AU  - Talmor Barak
 AU  - Crumbaker Megan
-AU  - Greenfield Jerry
+AU  - Greenfield Jerry R
 AU  - Joshua Anthony
 JO  - Endocrine-related cancer
 PY  - 2026
 DO  - 10.1530/ERC-26-0291
-AB  - This narrative review evaluates the clinical rationale for integrating incretin-based therapies as therapeutic adjuncts for men with advanced prostate cancer undergoing androgen axis suppression. Androgen deprivation therapy combined with potent androgen receptor pathway inhibitors significantly prolongs survival but induces severe, progressive metabolic toxicities, including sarcopenic obesity, profound insulin resistance, dyslipidemia, and heightened cardiovascular mortality. To address this unmet need, this study reviews published preclinical mechanisms, epidemiological data, and emerging clinical datasets examining glucagon-like peptide-1 receptor agonists and dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonists. The compiled evidence indicates that these agents provide robust metabolic protection by counteracting treatment-induced metabolic syndrome and cardiovascular risk. Furthermore, incretins may exert indirect antitumor effects by attenuating systemic hyperinsulinemia and visceral adiposity-driven chronic inflammation. Direct antitumor activity is also supported by preclinical evidence demonstrating that receptor engagement on malignant cells downregulates oncogenic signaling pathways, which correlates with recent retrospective clinical database trends showing a numerical reduction in metastatic stage migration among men with localized disease. However, dual receptor agonism introduces mechanistic uncertainty due to potential proliferative signaling cascades in neuroendocrine tumor phenotypes. In conclusion, incretin-based therapies offer a highly rational dual-action strategy for metabolic rescue and potential tumor suppression in advanced prostate cancer. Although several early-phase prospective clinical trials are currently underway to evaluate safety and metabolic efficacy, routine clinical implementation cannot be recommended until rigorously designed randomized controlled trials definitively establish long-term safety, optimal patient selection, and durable oncological outcomes.
+AB  - This narrative review evaluates the clinical rationale for integrating incretin-based therapies as therapeutic adjuncts for men with advanced prostate cancer undergoing androgen-axis suppression. Androgen deprivation therapy combined with potent androgen receptor pathway inhibitors significantly prolongs survival but induces severe, progressive metabolic toxicities, including sarcopenic obesity, profound insulin resistance, dyslipidaemia, and heightened cardiovascular mortality. To address this unmet need, this study reviews published preclinical mechanisms, epidemiological data, and emerging clinical datasets examining glucagon-like peptide-1 receptor agonists and dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonists. The compiled evidence indicates that these agents provide robust metabolic protection by counteracting treatment-induced metabolic syndrome and cardiovascular risk. Furthermore, incretins may exert indirect antitumour effects by attenuating systemic hyperinsulinaemia and visceral adiposity-driven chronic inflammation. Direct antitumour activity is also supported by preclinical evidence demonstrating that receptor engagement on malignant cells downregulates oncogenic signalling pathways, which correlates with recent retrospective clinical database trends showing a numerical reduction in metastatic stage migration among men with localised disease. However, dual receptor agonism introduces mechanistic uncertainty due to potential proliferative signalling cascades in neuroendocrine tumour phenotypes. In conclusion, incretin-based therapies offer a highly rational dual-action strategy for metabolic rescue and potential tumour suppression in advanced prostate cancer. Although several early-phase prospective clinical trials are currently underway to evaluate safety and metabolic efficacy, routine clinical implementation cannot be recommended until rigorously designed randomised controlled trials definitively establish long-term safety, optimal patient selection, and durable oncological outcomes.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42980483/
 ER  - 
 
@@ -1644,6 +1758,25 @@ PY  - 2026
 DO  - 10.3238/arztebl.m2026.0074
 AB  - At least one-quarter of the world’s population now suffers from hepatic steatosis (fatty liver disease), which, in current terminology, is called metabolic dysfunction-associated steatotic liver disease (MASLD). This disease and its more dangerous inflammatory variant, metabolic dysfunction-associated steatohepatitis (MASH), promote the development of serious secondary conditions including cardiovascular diseases (CVDs), type 2 diabetes mellitus, and hepatocellular carcinoma (HCC). This review is based on pertinent publications retrieved from the PubMed-MEDLINE and Google Scholar databases and on current guidelines. Conditions that are known to be associated with MASLD and/or MASH include obesity (with or without insulin resistance), dyslipidemia, hypertension, type 2 diabetes mellitus, obstructive sleep apnea, CVDs, and chronic kidney disease (CKD). The frequency of serious secondary diseases (CVDs, CKD, HCC, and extrahepatic malignancies) increases with the degree of fibrosis progression. Cardiovascular events are the main cause of death. Intensive lifestyle changes, including a hypocaloric, low-sugar diet and physical activity and exercise in an adequate amount and intensity, are the first line of treatment and the basis for further treatment options (resmetirom, incretin analogues, bariatric surgery). In view of its high prevalence and its associated profile of elevated cardiovascular risk, MASLD should be recognized as clinical evidence of the danger of major secondary disease and integrated into a structured, interdisciplinary management program with strict risk stratification. Drugs are part of the therapeutic spectrum but are no substitute for lifestyle modification, which remains the basis of treatment.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42213742/
+ER  - 
+
+TY  - JOUR
+ID  - 42207473
+TI  - Evaluation of the safety profile of glucagon-like peptide-1 receptor agonists: a focus on thyroid cancer-related adverse events by using the European pharmacovigilance database.
+AU  - Anatriello Antonietta
+AU  - Liguori Valerio
+AU  - Pentella Ciro
+AU  - Zinzi Alessia
+AU  - Longo Miriam
+AU  - Caruso Paola
+AU  - Maiorino Maria Ida
+AU  - Esposito Katherine
+AU  - Capuano Annalisa
+JO  - Pharmacological reports : PR
+PY  - 2026
+DO  - 10.1007/s43440-026-00864-4
+AB  - The therapeutic landscape for the treatment of type 2 diabetes mellitus (T2DM) has greatly evolved with the introduction of glucagon-like peptide-1 receptor agonists (GLP-1 RAs); however, concerns regarding their potential association with thyroid cancer have emerged. The aim of this study is to analyze individual case safety reports (ICSRs) involving GLP-1 RAs, focusing on thyroid cancer-related adverse events (AEs) using the European pharmacovigilance database. ICSRs reporting GLP-1 RAs (semaglutide, liraglutide, exenatide, lixisenatide, dulaglutide) or the dual GLP-1 and glucose-dependent insulinotropic polypeptide (GIP) agonist tirzepatide as suspected drugs were retrieved from the EudraVigilance (EV) database from 1st January 2022 to 26th September 2024. A disproportionality analysis was performed to compare the probability of reporting thyroid cancer-related AEs among these drugs using the reporting odds ratio (ROR) and its 95% confidence interval (95% CI). Considering the different therapeutic indications, a sensitivity analysis was also conducted. A total of 34,956 ICSRs were included in the analysis. The majority of AEs were experienced by adult and elderly female patients. The most reported system organ classes (SOCs) were: "gastrointestinal disorders", "general disorders and administration site conditions", and "injury, poisoning and procedural complications". Disproportionality analysis revealed that semaglutide had a lower probability of reporting thyroid cancer-related AEs than tirzepatide (ROR = 0.54, 95% CI 0.37-0.81, p < 0.05), whereas sensitivity analysis revealed no significant signals across stratified therapeutic groups. These findings should be interpreted with caution, given the inherent limitations of pharmacovigilance databases. Further studies are recommended to better assess the potential causal relationship between GLP-1 RAs and thyroid cancer.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42207473/
 ER  - 
 
 TY  - JOUR

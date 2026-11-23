@@ -1,5 +1,47 @@
 [
   {
+    "pmid": "43047762",
+    "title": "Dual Versus Single Incretin Receptor Agonism and Outcomes After Arthroscopic Rotator Cuff Repair: Comparing Tirzepatide Versus Semaglutide.",
+    "authors": [
+      "Thota Praneeth K",
+      "Pandya Shivani",
+      "Kelly Anne Marie",
+      "Kelly John D"
+    ],
+    "journal": "Orthopaedic journal of sports medicine",
+    "year": "2026",
+    "doi": "10.1177/23259671261490664",
+    "abstract": "Single incretin receptor agonists, such as semaglutide, are associated with improved postoperative outcomes after arthroscopic rotator cuff repair (ARCR) in diabetic patients. Dual incretin receptor agonism may differ from single glucagon-like peptide-1 receptor agonists (GLP-1) receptor agonism in its effects on postoperative recovery, but comparative outcomes after ARCR have not been investigated. To compare outcomes after ARCR between patients on preoperative dual incretin receptor agonism (tirzepatide) versus single incretin receptor agonism (semaglutide) and evaluate the effects of these incretin therapies versus no exposure. Cohort study; Level of evidence, 3. Using the TriNetX Database, patients aged between 40 and 80 years who underwent primary ARCR were stratified by preoperative exposure to tirzepatide or semaglutide within 12 months of surgery. Two 1-to-1 propensity-matched analyses were performed. Match 1 compared tirzepatide versus semaglutide, and Match 2 compared patients on either drug to controls on neither medication. Matching variables included various demographic and comorbidity characteristics. The primary outcome was subsequent rotator cuff repair (RCR) coding, defined as a repeat Current Procedural Terminology 29827 after the index procedure. Secondary outcomes included complete tear recurrence, opioid utilization, and physical therapy utilization. Outcomes were assessed at 90 days, 1 year, and 2 years. Relative risks (RR) with 95% CIs were calculated. In Match 1, tirzepatide was associated with a significantly lower 2-year rate of subsequent RCR compared with semaglutide (2.83% vs 5.67%; RR, 0.500; P = .008). Opioid use (48.2% vs 55.7%; RR, 0.865; P = .005) and physical therapy utilization (36.5% vs 42.5%; RR, 0.860; P = .022) were also significantly lower in the tirzepatide cohort at 2 years. In Match 2, use of either drug was associated with significantly lower complete tear recurrence at 90 days (RR, 0.828; P = .0006), 1 year (RR, 0.849; P = .0006), and 2 years (RR, 0.841; P = .0002), as well as reduced opioid use at 1 year (RR, 0.937; P = .013) and 2 years (RR, 0.905; P < .0001) compared to controls. After ARCR, dual incretin receptor agonism with tirzepatide was associated with lower 2-year rates of subsequent RCR coding, opioid utilization, and physical therapy utilization compared with exclusive GLP-1 receptor agonism with semaglutide. These findings describe differences in subsequent procedure coding and health care utilization rather than confirmed structural healing.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43047762/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43043463",
+    "title": "Perioperative pulmonary aspiration reports associated with GLP-1 receptor agonists: a pharmacovigilance analysis of FAERS.",
+    "authors": [
+      "Akhtar Shanzay",
+      "Shaukat Muhammad Talha",
+      "Abid Mobeen",
+      "Alghzawi Hamzah M",
+      "Mustafa Muhammad Salman",
+      "Shami Besher",
+      "Duseja Nikhil",
+      "Anjum Humayun"
+    ],
+    "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+    "year": "2026",
+    "doi": "10.1007/s00210-026-06090-2",
+    "abstract": "Glucagon-like peptide - 1 receptor agonists (GLP-1 RAs) are increasingly prescribed for the treatment of type 2 diabetes and obesity. Although these agents provide substantial metabolic and cardiovascular benefits, they also delay gastric emptying, which may increase the risk of perioperative pulmonary aspiration during anesthesia. Real-world evidence evaluating this potential safety concern remains limited. We conducted a retrospective pharmacovigilance study using reports from the U.S. Food and Drug Administration Adverse Event Reporting System (FAERS) from January 2016 through March 2024. A perioperative-enriched cohort was identified by restricting reports to those listing general anesthetic or neuromuscular blocking agents as surrogate markers of a perioperative setting. Patients were classified into three mutually exclusive groups: GLP-1 receptor agonists, sodium-glucose cotransporter-2 (SGLT-2) inhibitors as an active comparator, and a background surgical population. Pulmonary aspiration events were identified using MedDRA preferred terms. Disproportionality analyses were performed using reporting odds ratios (RORs), and Firth penalized multivariable logistic regression was used to evaluate independent predictors of aspiration after adjustment for age, sex, and concomitant opioid use, because exposed events were sparse. After deduplication, a total of 41,308 unique perioperative reports were identified, including 158 reports involving GLP-1 receptor agonists and 174 involving SGLT-2 inhibitors. Pulmonary aspiration showed non-significantly higher reporting odds among GLP-1 RA users (ROR 1.27, P = 0.56). In the Firth penalized adjusted analysis, GLP-1 RA exposure was associated with numerically higher, but statistically non-significant, adjusted reporting odds of pulmonary aspiration (aOR 2.08; P = 0.185). SGLT-2 inhibitor exposure showed numerically lower but statistically non-significant reporting odds of pulmonary aspiration than the background cohort (aOR 0.27; P = 0.059); this estimate rests on a single event and should not be interpreted as a protective effect. Concomitant opioid use was independently associated with aspiration (aOR 2.12; P < 0.001). In this perioperative-enriched FAERS analysis, neither the unadjusted disproportionality analysis nor the adjusted model demonstrated a statistically significant association between GLP-1 receptor agonist exposure and pulmonary aspiration, although a non-significant numerical trend was observed. Given the small number of events and the inherent limitations of spontaneous reporting data, these findings are hypothesis-generating, require prospective validation, and should not on their own guide individual perioperative decision-making.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043463/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "43023294",
     "title": "The Expanding Role of Autoinjector Technologies: Redefining Drug Delivery for the 21st Century.",
     "authors": [
@@ -38,7 +80,7 @@
   },
   {
     "pmid": "43020169",
-    "title": "GLP-1 Receptor Agonist Use and Risk of Pain-Related Medical Encounters Among Patients with Comorbid Type 2 Diabetes and Opioid Use Disorder: A Target Trial Emulation Study.",
+    "title": "GLP-1 receptor agonist use and risk of pain-related medical encounters among patients with comorbid type 2 diabetes and opioid use disorder: A target trial emulation study.",
     "authors": [
       "Gain Easter Protiva",
       "Shrestha Nistha",

@@ -1,5 +1,24 @@
 [
   {
+    "pmid": "43045435",
+    "title": "Innovative Treatments for Obstructive Sleep Apnea.",
+    "authors": [
+      "Khosla Seema",
+      "Sidorski Kayla",
+      "Glinka Steve"
+    ],
+    "journal": "Neurologic clinics",
+    "year": "2027",
+    "doi": "10.1016/j.ncl.2026.08.008",
+    "abstract": "This article reviews current and emerging treatment options for obstructive sleep apnea (OSA), emphasizing alternatives for patients who cannot tolerate continuous positive airway pressure. Established therapies include mandibular advancement devices, which mechanically enlarge the airway and weight-loss interventions that address a major modifiable risk factor. Newer approaches include daytime tongue stimulation, intraoral negative pressure therapy, nasal expiratory positive airway pressure devices, positional therapy, and orofacial myofunctional therapy. Implantable hypoglossal nerve stimulation systems, including Inspire and Food and Drug Administration-approved devices, offer effective treatment of patients with moderate-to-severe OSA. Together, these expanding options support a more personalized approach to OSA management.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43045435/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42810933",
     "title": "Bariatric Surgery, Medical Weight Loss, and the Upper Aerodigestive Tract.",
     "authors": [
@@ -34,6 +53,63 @@
       "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42629209/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43062826",
+    "title": "Lp(a) Lowering, a GLP-1 Drug for Sleep Apnea, Stopping Statins in Older Age, and More From AHA 2026.",
+    "authors": [
+      "Abbasi Jennifer"
+    ],
+    "journal": "JAMA",
+    "year": "2026",
+    "doi": "10.1001/jama.2026.22534",
+    "abstract": "",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43062826/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43055718",
+    "title": "Optimizing the management of obstructive sleep apnea with pharmacotherapy.",
+    "authors": [
+      "Bird Elizabeth Michelle",
+      "Schmickl Christopher N",
+      "Lam Michael Tun Yin",
+      "Malhotra Atul"
+    ],
+    "journal": "Expert review of clinical pharmacology",
+    "year": "2026",
+    "doi": "10.1080/17512433.2026.2764156",
+    "abstract": "Obstructive sleep apnea (OSA) affects up to 1 billion people worldwide. Despite availability of continuous positive airway pressure (CPAP) therapy as the main treatment modality, a need for additional pharmacologic agents remains. Pharmacologic therapies can help improve patient symptoms of sleepiness and address the underlying mechanisms (endotypes) of disordered breathing in patients with OSA. Potential pharmacologic target therapy of the four main OSA endotypes, airway collapsibility, poor upper airway muscle dilation, high loop gain, and low arousal threshold, are reviewed. Medications to help with daytime sleepiness are also discussed. Both original research and review articles spanning 2000 to 2026 are included in this review. Published articles were identified through PubMed and in-progress studies were identified through field experts. The current landscape of pharmacologic options for OSA is very exciting, especially with the expansion in number of agents addressing obesity that also help improve airway collapsibility. However, many of these therapies (apart from anti-obesity medications and medications for daytime sleepiness) are still experimental. Further evaluation is required before many of these pharmacologic agents are officially approved for use with or without CPAP. Agents addressing specific endotypes will pave the way for more personalized OSA treatment.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055718/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43054852",
+    "title": "The Growing Role of Glucagon-Like Peptide-1 Receptor Agonists in Neuropsychiatry.",
+    "authors": [
+      "Buyuksandalyaci Tunc Ece",
+      "Park Mary",
+      "Kansara Rudra",
+      "Paul Shristi",
+      "Grysman Noam",
+      "Grossberg George T"
+    ],
+    "journal": "Clinical pharmacology : advances and applications",
+    "year": "2026",
+    "doi": "10.2147/CPAA.S580850",
+    "abstract": "The co-occurrence of metabolic and psychiatric disorders poses a major challenge in medicine, and glucagon-like peptide-1 receptor agonists (GLP-1RAs) have emerged as candidates for neuropsychiatric repurposing given the wide distribution of glucagon-like peptide-1 (GLP-1) receptors in brain regions governing mood, cognition, and reward. This narrative review summarizes central and peripheral mechanisms linking GLP-1 signaling to neuropsychiatric outcomes, critically appraises clinical evidence across psychiatric and neurodegenerative domains, and proposes a framework for integrating GLP-1RAs into neuropsychiatric care. A targeted search of PubMed/MEDLINE and ClinicalTrials.gov (January 2015-August 2026) prioritized randomized controlled trials, meta-analyses, and prospective cohorts reporting neuropsychiatric outcomes. Four converging mechanisms- neuroinflammation, metabolic-vascular neuroprotection, synaptic plasticity, and mesolimbic reward modulation- underpin this rationale. The strongest and most clinically actionable evidence supports GLP-1RA use for antipsychotic-induced metabolic dysfunction, with trials in clozapine/olanzapine-treated patients showing substantial weight loss and glycemic normalization without psychiatric worsening or altered clozapine levels. By contrast, in Alzheimer's disease, despite consistent observational signals of 33-53% dementia risk reduction, Phase 3 EVOKE/EVOKE+ trials found no benefit of oral semaglutide in early symptomatic disease despite biomarker engagement, favoring a prevention- rather than treatment-focused framework. Evidence in Parkinson's disease and major depressive disorder remains more limited: motor benefit in Parkinson's disease appears restricted to short-acting agents, with the largest phase 3 trial negative, while broad antidepressant efficacy is unsupported, although semaglutide improved effort-based decision-making in anhedonic, metabolically burdened patients. Additional signals exist for alcohol use disorder, binge eating disorder, and obstructive sleep apnea. Psychiatric safety appears reassuring across meta-analyses of over 133,000 participants, though exclusion of psychiatric populations from pivotal trials limits generalizability. Current evidence supports selective, investigational use of GLP-1RAs in neuropsychiatric care- most robustly for antipsychotic-induced metabolic dysfunction- rather than generalized repurposing, pending adequately powered trials with neuropsychiatric endpoints, structured monitoring, and equitable access strategies.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054852/",
     "screening_status": "não avaliado"
   },
   {
@@ -178,7 +254,8 @@
     "doi": "10.1001/jama.2026.18806",
     "abstract": "Obesity affects 15% of children aged 2 to 5 years and 22% of children aged 6 to 11 years in the US. Obesity in children is associated with dyslipidemia, hypertension, metabolic dysfunction-associated steatotic liver disease, and obstructive sleep apnea. Compared with normal-weight peers, children with obesity have lower quality of life and are 5 times more likely to have obesity in adulthood. Body mass index (BMI; calculated as weight in kilograms divided by height in meters squared) is used to identify children at risk for excess adiposity, and guidelines recommend that clinicians screen for obesity using BMI starting at age 2 years. Among children, obesity is defined using standardized age- and sex-specific growth charts, with obesity defined as BMI in the 95th or higher percentile and severe obesity as BMI of 120% or greater of the 95th percentile. Obesity treatment in children includes intensive health behavior and lifestyle treatment, consisting of at least 26 contact hours of face-to-face group or family-based activities that incorporate nutrition, physical activity, and behavior change education delivered to the child and caregivers over a 3- to 12-month period. Intensive health behavior and lifestyle treatment reduces BMI by 0.7 compared with children who do not participate in intensive health behavior and lifestyle treatment. The only obesity pharmacotherapy currently approved by the US Food and Drug Administration (FDA) for children younger than 12 years is setmelanotide, a melanocortin-4 receptor agonist, which is indicated for 3 forms of rare monogenic obesity (LEPR, POMC, and PCSK1 genetic variants), Bardet-Biedl syndrome, and acquired hypothalamic obesity. Liraglutide is currently only FDA approved for youth aged 12 years or older; however, a randomized clinical trial among children aged 6 to younger than 12 years demonstrated that, compared with placebo, liraglutide reduced BMI by 7.4%. Metabolic and bariatric surgery is rarely used in children younger than age 12 years and evidence supporting its use in children is limited. Early identification and treatment of obesity during childhood may reduce risk of type 2 diabetes, dyslipidemia, hypertension, and mortality in adulthood. Obesity in children is associated with chronic disease, such as hypertension, and with poor quality of life. Evidence-based treatment for obesity in children includes intensive health behavior and lifestyle treatment, and pharmacotherapy may provide additional benefit, although short- and long-term safety and efficacy data are limited. Early identification and treatment of obesity during childhood may reduce risk of type 2 diabetes, dyslipidemia, hypertension, and mortality in adulthood.",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42905688/",
     "screening_status": "não avaliado"

@@ -1,5 +1,28 @@
 [
   {
+    "pmid": "43065563",
+    "title": "Next-generation anti-obesity drugs: emerging molecular targets and translational opportunities.",
+    "authors": [
+      "Shetty Sneha",
+      "Rangle Asmi",
+      "Mukherjee Anirban Goutam",
+      "Bharti Ankit Kumar",
+      "Jena Sudip Prasad",
+      "Prince Sabina Evan",
+      "Gopalakrishnan Abilash Valsala"
+    ],
+    "journal": "Journal of diabetes and metabolic disorders",
+    "year": "2027",
+    "doi": "10.1007/s40200-026-02101-4",
+    "abstract": "Obesity is a heterogeneous, chronic metabolic disease driven by dysregulation of energy homeostasis across interconnected central nervous system, gastrointestinal, adipose, endocrine, immune, and mitochondrial networks. Despite the established roles of lifestyle intervention and metabolic/bariatric surgery, limitations in accessibility, durability, and interindividual response have stimulated the development of mechanism-based pharmacotherapies. This review critically examines emerging therapeutic strategies targeting integrated energy-regulatory pathways and evaluates their translational potential for precision obesity management. Current evidence was synthesized across major biological systems governing appetite, energy expenditure, and metabolic adaptation. Central melanocortin, Neuropeptide Y (NPY)/ Agouti-related peptide (AgRP), serotonergic, dopaminergic, and endocannabinoid pathways were considered alongside gut-derived incretin, amylin, Peptide YY (PYY), ghrelin, Fibroblast Growth Factor (FGF), and bile acid signaling. Emerging approaches targeting adipose remodeling, thermogenesis, mitochondrial energetics, AMPK-mTOR-sirtuin signaling, inflammation, and fibrosis were also evaluated. Genetic, epigenetic, and artificial intelligence-based approaches to patient stratification were incorporated to assess prospects for precision therapy. Obesity pharmacotherapy is shifting from conventional appetite suppression toward coordinated modulation of interconnected metabolic pathways. Incretin-based and multi-agonist therapies provide the strongest clinical evidence for substantial weight reduction and metabolic improvement. However, treatment discontinuation, weight regain, adverse effects, cost, and heterogeneous therapeutic responses remain major challenges. Strategies targeting adipose tissue dysfunction, mitochondrial metabolism, thermogenesis, immune-metabolic signaling, and fibrosis offer additional opportunities for disease modification, although many remain in preclinical or early clinical development. Increasing evidence for biological heterogeneity supports individualized therapeutic selection. The emerging therapeutic paradigm positions obesity as a systems-level disorder requiring mechanism-informed, individualized intervention. Integrating CNS-gut-adipose-mitochondrial biology with multi-omics, biomarkers, and artificial intelligence may enable more durable and precise treatment. Long-term safety, durability, affordability, equitable access, and clinical validation remain essential for translation.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065563/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42759644",
     "title": "Immunometabolic regulation of macrophage function in cardio-hepatic-renal comorbidities: Mechanisms and therapeutic opportunities.",
     "authors": [
@@ -16,6 +39,322 @@
       "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42759644/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43070843",
+    "title": "Therapeutic Potential of GLP-1 Receptor Agonists in Stroke Management: Evidence From Bench to Bedside.",
+    "authors": [
+      "Wang Leilei",
+      "Fan Qiuyue",
+      "Xie Wanqing",
+      "Xiang Lu",
+      "Liu Qian",
+      "Huang Dan",
+      "Yin Wen",
+      "Zhang Yueman",
+      "Li Yan",
+      "Chen Chen",
+      "Li Peiying"
+    ],
+    "journal": "CNS neuroscience & therapeutics",
+    "year": "2026",
+    "doi": "10.1002/cns.71271",
+    "abstract": "Stroke remains a leading cause of global disability, yet no pharmacotherapy has shown consistent neuroprotection. Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have emerged as multifaceted therapeutic agents with cerebrovascular and neuroprotective properties. We synthesized evidence from preclinical models, major cardiovascular outcome trials, and real-world registries, evaluating agent-specific heterogeneity by contrasting long-acting and short-acting formulations across metabolic phenotypes. We further integrate multi-dimensional mechanisms beyond glucose lowering, including neuroinflammation modulation via microglial polarization, blood-brain barrier preservation through astrocyte-dependent pathways, and vascular protection via Wnt/β-catenin and Nrf2 signaling. Long-acting GLP-1RAs consistently reduced stroke and major adverse cardiovascular events, with benefit partly independent of glycemic control, while short-acting agents showed a less consistent signal. Preclinically, GLP-1RAs limited infarct volume, edema, and hemorrhagic transformation and preserved barrier integrity through the above pathways. However, these robust functional gains failed to translate into clinical functional endpoints, as trials were powered for incidence and mortality rather than disability. GLP-1RAs represent a paradigm shift in comprehensive stroke management, but the pivotal translational gap persists: clinical endpoints have focused on incidence and mortality while functional benefit remains untested. Rigorously designed phase III trials prioritizing functional recovery, cognitive preservation, and optimal therapeutic windows are urgently needed.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070843/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43065494",
+    "title": "Beyond hepatoprotection: a meta-analysis quantifying the cardiovascular benefit of antidiabetic drugs in patients with metabolic dysfunction-associated steatohepatitis.",
+    "authors": [
+      "Ullah Najeeb",
+      "Mijiti Yasen",
+      "Du Guoli"
+    ],
+    "journal": "Frontiers in endocrinology",
+    "year": "2026",
+    "doi": "10.3389/fendo.2026.1948283",
+    "abstract": "Metabolic dysfunction-associated steatohepatitis (MASH), the progressive form of metabolic dysfunction-associated steatotic liver disease (MASLD), is associated with substantially elevated cardiovascular risk, yet the cardiovascular efficacy of antidiabetic drugs in this population has not been systematically quantified. We searched PubMed, Cochrane CENTRAL, Web of Science, and Embase from January 2016 to May 2026 for studies reporting major adverse cardiovascular events (MACE) in adults with MASLD/MASH or nonalcoholic fatty liver disease treated with glucagon-like peptide-1 (GLP-1) receptor agonists, dual GIP/GLP-1 agonists, or sodium-glucose cotransporter-2 (SGLT-2) inhibitors. Random-effects meta-analysis using the Der Simonian-Laird method pooled hazard ratios (HRs) with 95% confidence intervals (CIs). Heterogeneity was assessed using the I² statistic. The certainty of evidence was evaluated using the GRADE framework. The protocol was prospectively registered with PROSPERO (CRD420261411507). Ten studies contributing 13 estimates (over 450,000 participants) were included. In subgroup analyses by comparator type, SGLT-2 inhibitors reduced MACE versus active comparators (HR 0.60, 95% CI 0.47-0.76), while GLP-1 receptor agonists showed consistent but more modest reductions (HR 0.84, 95% CI 0.68-1.03 versus placebo; HR 0.91, 95% CI 0.82-1.00 versus active comparators). An exploratory omnibus analysis combining all comparisons yielded a pooled HR of 0.83 (95% CI 0.76-0.90, P<0.0001, I²=82.0%). Significant reductions were also observed for cardiovascular death (HR 0.58, 95% CI 0.45-0.75, I²=57.8%) and heart failure hospitalization (HR 0.73, 95% CI 0.56-0.96, I²=81.2%). All-cause mortality was reduced (HR 0.68, 95% CI 0.51-0.91), although heterogeneity was very high (I²=96.5%) and the GRADE certainty of evidence was low. Nonfatal myocardial infarction was reduced by 33% (HR 0.67, 95% CI 0.52-0.86), while the reduction in nonfatal stroke was not significant (HR 0.93, 95% CI 0.70-1.23). The treatment effect was robust across sensitivity analyses, including restriction to randomized controlled trials (HR 0.72, 95% CI 0.62-0.85, I²=0.0%). In trim-and-fill analysis accounting for potential publication bias, the point estimate was attenuated (HR 0.91, 95% CI 0.79-1.04), indicating that the observed benefit should be interpreted with appropriate caution. Hypoglycemia was not reported alongside cardiovascular outcomes in any included study, representing a critical evidence gap. In patients with MASLD/MASH, GLP-1 receptor agonists and SGLT-2 inhibitors are associated with a reduction in cardiovascular events, although the magnitude of benefit is uncertain given the predominance of observational evidence, substantial heterogeneity, and attenuation of the effect in publication bias sensitivity analysis. These findings support the integration of these agents into MASLD/MASH management beyond their metabolic and hepatic benefits, while underscoring the need for dedicated cardiovascular outcome trials in this population. The complete absence of hypoglycemia reporting alongside cardiovascular outcomes highlights a substantial evidence deficit warranting attention in future trials. https://www.crd.york.ac.uk/prospero/, identifier CRD420261411507.",
+    "publication_types": [
+      "Journal Article",
+      "Meta-Analysis",
+      "Systematic Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065494/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43060841",
+    "title": "Wnt/β-catenin-mTOR crosstalk in TSC-associated epilepsy: pharmacological evidence and therapeutic opportunities.",
+    "authors": [
+      "Alqurashi Roaya S"
+    ],
+    "journal": "Frontiers in pharmacology",
+    "year": "2026",
+    "doi": "10.3389/fphar.2026.1972918",
+    "abstract": "Tuberous sclerosis complex (TSC), caused by pathogenic variants in TSC1 or TSC2, is frequently associated with early-onset and drug-resistant epilepsy. Loss of hamartin-tuberin activity causes Rheb-dependent mTORC1 hyperactivation and provides the mechanistic basis for mTOR-directed treatment with everolimus, but mTORC1 activation alone does not fully account for variation in seizure burden or treatment response. Evidence from biochemical and disease-model studies indicates that TSC1/TSC2 also interacts with canonical Wnt/β-catenin signaling through GSK3β and Axin, while cellular metabolism may provide an additional point of convergence through AMPK-dependent regulation of TSC2. This narrative review examines the biochemical, neuronal, human-tissue, pharmacological, and clinical evidence for this Wnt-GSK3β-TSC2-mTOR framework and distinguishes established findings from context-limited, emerging, and hypothetical relationships. Everolimus remains the established mechanism-based therapy for TSC-associated refractory seizures, whereas metformin has the strongest TSC-specific clinical signal among the investigational metabolic approaches discussed. GLP-1 receptor agonists and direct GSK3β modulation remain preclinical or mechanistically speculative in this setting. Gene- and RNA-based approaches provide emerging precedents for pathway-selective intervention, but none has directly targeted the Wnt-GSK3β-TSC2 interface. The principal unresolved question is whether this signaling relationship operates in human TSC epileptogenic tissue. Direct tissue-level validation, followed by selective pathway interrogation and adequately powered therapeutic studies, is needed before Wnt-directed strategies can be considered clinically relevant in TSC-associated epilepsy.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43060841/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43052191",
+    "title": "GLP-1 Receptor Agonists and the Risk of Glaucoma and Ocular Hypertension: A Systematic Review and Meta-Analysis.",
+    "authors": [
+      "Alotaibi Hammam A",
+      "Alshaibani Askar K",
+      "Alzahrani Raghad M",
+      "Alanazi Bdour R",
+      "Alamoudi Anas",
+      "Almutairi Ghadah M"
+    ],
+    "journal": "Seminars in ophthalmology",
+    "year": "2026",
+    "doi": "10.1080/08820538.2026.2767204",
+    "abstract": "Whether glucagon-like peptide-1 receptor agonist (GLP-1RA) use is associated with a lower risk of incident glaucoma or ocular hypertension (OHT) in adults, and whether the association differs by diabetes status or comparator. Glaucoma is the leading cause of irreversible blindness worldwide, and every licensed treatment targets lowering intraocular pressure (IOP); none protects retinal ganglion cells directly. GLP-1RAs are widely prescribed and have been proposed to be neuroprotective, so whether this class of medication alters glaucoma risk matters at prescribing and to the search for pressure-independent treatment. Four earlier meta-analyses found no significant association but pooled non-equivalent comparators. Systematic review and meta-analysis of observational studies, following PRISMA 2020 and registered on PROSPERO (CRD420251082642). PubMed was searched on 15 April 2026 and updated to 30 August 2026, with CENTRAL, Europe PMC, the first 100 Google Scholar results and bidirectional citation tracking as supplementary sources. Eligible studies were retrospective cohort or nested case-control studies of GLP-1RA exposure with incident glaucoma, OHT or IOP change as the outcome and with adjustment for confounding. Two reviewers screened, extracted and applied ROBINS-I. Estimates were pooled by DerSimonian-Laird random effects, with a Hartung-Knapp-Sidik-Jonkman (HKSJ) interval, a 95% prediction interval and GRADE. Ten studies were included from 406 screened records. Six cohorts covering 225,814 matched or analysed patients were pooled. GLP-1RA use was associated with a lower incidence of recorded glaucoma or OHT (pooled hazard ratio 0.69, 95% CI 0.59 to 0.80; HKSJ CI 0.56 to 0.85), but heterogeneity was 58.5%, the 95% prediction interval (0.44 to 1.08) included no effect, and certainty was low. The association held after all TriNetX studies were removed (0.78, 0.71 to 0.85) and after restriction to open-angle outcomes (0.66, 0.53 to 0.82). Diabetes status, comparator type and data platform could not be separated. Low-certainty observational evidence suggests GLP-1RA use is not associated with a higher risk of glaucoma or OHT and may be associated with a lower one. Confounding by indication, coded outcome ascertainment and a prediction interval that includes no effect mean protection has not been shown. The findings support reassurance and the randomized trial under way.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43052191/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43050287",
+    "title": "Semaglutide Effect on Kidney, Cardiovascular, and Mortality Outcomes in Racial and Ethnic Groups: FLOW Trial Post Hoc Analyses.",
+    "authors": [
+      "Campos Carlos",
+      "Pratley Richard",
+      "Mehanna Sherif",
+      "Swift Caroline",
+      "Rasmussen Søren",
+      "Rossing Peter",
+      "Tuttle Katherine",
+      "Mahaffey Kenneth W",
+      "Busch Robert",
+      "Charytan David M",
+      "Mende Christian"
+    ],
+    "journal": "Clinical journal of the American Society of Nephrology : CJASN",
+    "year": "2026",
+    "doi": "10.2215/CJN.0000001242",
+    "abstract": "Potential variation in semaglutide treatment response across racial and ethnic groups of people with chronic kidney disease and type 2 diabetes has not been assessed. In a post hoc analysis of the international FLOW randomized controlled clinical trial, we assessed the efficacy of once-weekly subcutaneous semaglutide 1.0 mg vs placebo on kidney and cardiovascular outcomes in racial and ethnic subgroups. Using FLOW trial data, we compared semaglutide 1.0 mg vs placebo (in addition to the standard of care) on the primary kidney outcome (onset of kidney failure, ≥50% reduction in estimate glomerular filtration rate [eGFR] from baseline sustained for ≥28 days, or death from kidney-related or cardiovascular causes) and three confirmatory secondary outcomes (annual change [total slope] in eGFR, major adverse cardiovascular events [MACE], and all-cause death) between Black/African American and non-Black/African American participants and between Hispanic/Latino and non-Hispanic/Latino participants. Cox proportional hazards models were used to compare semaglutide 1.0 mg vs placebo groups on the occurrence of the primary kidney outcome, MACE, and all-cause death. Random-effects linear regression models were used to compare groups on the change in eGFR. Models included interaction terms for treatment by race or ethnicity. Of 3,533 total participants in the FLOW trial, 3,454 had race data available (Black/African American, n=160; non-Black/African American, n=3,294), and 3,388 had ethnicity data available (Hispanic/Latino, n=556; non-Hispanic Latino, n=2,832). Over a median 3.4 years of follow-up, the effect of semaglutide on the primary kidney outcome, MACE, all-cause death, and annual change in eGFR did not statistically significantly differ between Black/African American and non-Black/African American participants or between Hispanic/Latino and non-Hispanic/Latino participants (all interaction P-values >0.05). In this post hoc exploratory analysis of the FLOW trial, there was no statistical evidence that the efficacy of semaglutide treatment on kidney and cardiovascular outcomes differed by race or ethnicity.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43050287/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43047309",
+    "title": "Semaglutide and optic neuritis in the FDA adverse event reporting system: a comparator-based, time-calibrated pharmacovigilance analysis.",
+    "authors": [
+      "Xu Fengjiao",
+      "Luo Wei",
+      "Liu Zhuoran",
+      "Zhang Ran",
+      "Yang Jie",
+      "Zhao Xin"
+    ],
+    "journal": "Frontiers in immunology",
+    "year": "2026",
+    "doi": "10.3389/fimmu.2026.1933845",
+    "abstract": "Glucagon-like peptide-1 receptor agonists and dual glucose-dependent insulinotropic polypeptide/glucagon-like peptide-1 receptor agonists are increasingly used for glycemic control, obesity management, cardiovascular risk reduction, and kidney protection. Ocular safety research has focused mainly on diabetic retinopathy and nonarteritic anterior ischemic optic neuropathy. Whether inflammatory neuro-ophthalmic events, particularly optic neuritis, show a reproducible postmarketing reporting association remains uncertain. We performed a case/non-case pharmacovigilance study using FAERS reports from 2004Q1 to 2026Q1. Reports were deduplicated by CASEID/CASEVERSION. Primary-suspect GLP-1/GIP exposures were linked to MedDRA-defined inflammatory neuro-ophthalmic outcomes. The primary comparison was semaglutide versus SGLT2 inhibitors/metformin, with secondary DPP-4 inhibitor, strict non-GLP-1 weight-loss, separate SGLT2 inhibitor, separate metformin, and indication-restricted analyses. We used ROR, PRR, transparently labeled approximate shrinkage proxies, BH-FDR adjustment, exact report-year stratification, exact-year frequency matching, reporter-channel sensitivity, and Firth-type adjusted logistic regression. After latest-version deduplication, 59,790 semaglutide and 178,670 pooled SGLT2 inhibitor/metformin reports were included. The crude semaglutide-optic neuritis ROR was 11.67 (60 vs 15 events; 95% CI 6.68-20.40; BH q=1.99e-27). Given the different report-year distributions (semaglutide: 62.7% in 2024-2026; pooled comparator: 17.5%), the principal calendar-time-calibrated estimate was the exact report-year Mantel-Haenszel common OR of 5.06 (95% CI 2.64-9.72), supported by exact-year 1:1 frequency matching (OR 4.64, 95% CI 2.42-8.90). Separate comparator analyses remained positive for SGLT2 inhibitors (ROR 15.68, 95% CI 6.55-37.53) and metformin (ROR 8.53, 95% CI 4.43-16.42), whereas the obesity/weight-management restriction was sparse and not supported. Estimates were positive in health-professional and consumer/legal reports. The Firth-type adjusted OR was 16.76 (95% CI 8.51-33.00). Among 12 reports with valid TTO, the median was 62.5 days; TTO was analyzed descriptively without hazard modeling and did not support an early-failure or temporal causal inference. FAERS data support a semaglutide-optic neuritis reporting association that persists after calendar-time calibration and comparator expansion, but the magnitude is sensitive to reporting era and unmeasured clinical heterogeneity. The finding is hypothesis-generating, cannot establish incidence, relative risk, or causality, and should not be interpreted as complete separation from ischemic optic neuropathy/NAION. The sparse TTO subset was descriptive only and did not support an early-failure or temporal causal interpretation.",
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43047309/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43046294",
+    "title": "GLP-1 Receptor Agonists in Psychotic Disorders: Mechanistic Convergence and Therapeutic Implications for Brain and Metabolic Health.",
+    "authors": [
+      "Le Thao D V",
+      "Memetoglu Onur",
+      "Ayala Julio E",
+      "Du Fei",
+      "Cohen Bruce",
+      "Öngür Dost",
+      "Chouinard Virginie-Anne"
+    ],
+    "journal": "The American journal of psychiatry",
+    "year": "2026",
+    "doi": "10.1176/appi.ajp.20260061",
+    "abstract": "The objective of this study was to review and synthesize the mechanistic rationale and emerging clinical evidence for the use of glucagon-like peptide 1 (GLP-1) receptor agonists (GLP-1RAs) in psychotic disorders. The authors conducted a systematic review of the clinical literature relevant to GLP-1RA use in people with psychotic disorders. Searches of PubMed/MEDLINE, Embase, APA PsycInfo, and Cochrane CENTRAL were conducted from database inception through March 7, 2026, and were supplemented by searches of ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform and reference-list screening. The findings were integrated into a narrative synthesis of preclinical and translational evidence relevant to novel metabolic mechanisms in the pathophysiology of psychotic disorders. Preclinical and early human mechanistic studies suggest that GLP-1RAs may influence several pathways relevant to psychotic disorders, including systemic and central glucose homeostasis, gut-brain signaling, inflammatory processes, redox alterations, mitochondrial function, and reward-related signaling. Clinically, the clearest evidence of benefit is for antipsychotic-associated weight gain and cardiometabolic risk, with most randomized clinical trials reporting meaningful improvements in body weight and metabolic outcomes. Relevant to comorbidities in psychotic disorders, the evidence for GLP-1RA effects on alcohol and nicotine use is suggestive but inconclusive. Available studies have not yet demonstrated consistent improvements in psychotic symptoms, cognition, or functioning. Limitations to the clinical evidence include small samples; short follow-up; heterogeneity in agents, dosing, and endpoints; and minimal incorporation of mechanistic endpoints. GLP-1RAs represent a clinically and mechanistically grounded strategy to address the substantial cardiometabolic burden in psychotic disorders, with the potential for reduced substance use and other neuropsychiatric benefits.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43046294/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43045518",
+    "title": "Impact of Preoperative Weight Loss and Obesity Medications on Postoperative Weight Loss After Sleeve Gastrectomy.",
+    "authors": [
+      "Ying Lee",
+      "Butensky Samuel D",
+      "Flom Emily",
+      "Rojas Andres",
+      "Esdaille Jayson",
+      "Morton John"
+    ],
+    "journal": "Obesity (Silver Spring, Md.)",
+    "year": "2026",
+    "doi": "10.1002/oby.70321",
+    "abstract": "Preoperative weight loss for bariatric surgery may optimize postoperative outcomes. Antiobesity medications (AOMs) may impact postoperative weight loss. This study evaluated preoperative GLP-1 receptor agonist use on total weight loss (%TWL) after sleeve gastrectomy. This was a retrospective cohort study of sleeve gastrectomy patients at an academic institution, 2020-2024. Patients were categorized by preoperative weight change: preoperative weight gain (PWG), 0%-5% preoperative weight loss (PWL), 5%-10% PWL, and > 10% PWL. Demographics, comorbidities, AOM use, and %TWL at 2 months, 6 months, and 1 year post surgery were analyzed. Logistic regression identified predictors of achieving > 10% PWL. A total of 436 patients were included: PWG (n = 75), 0%-5% PWL (n = 173), 5%-10% PWL (n = 126), and > 10% PWL (n = 62). %TWL differed significantly between groups at all time points, including 1 year post surgery (PWG: 22.3% ± 9.9%, 0%-5% PWL: 25.9% ± 8.8%, 5%-10% PWL: 27.1% ± 8.8%, > 10% PWL: 31.7% ± 9.9%; p < 0.0001). Overall, 41.5% of patients used AOMs preoperatively, from 22.7% in the PWG group to 64.5% in the > 10% PWL group (p < 0.001). AOM use was significantly associated with > 10% PWL (OR 3.3, 95% CI 1.8-6.1). AOM use was associated with > 10% preoperative weight loss, and greater preoperative weight loss was also coupled with higher cumulative postoperative %TWL.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43045518/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43043854",
+    "title": "Effectiveness of Bariatric Surgery and Incretin-based Therapies on Cardiovascular Outcomes in Patients with Obesity: A Systematic Review and Network Meta-Analysis.",
+    "authors": [
+      "Roumeliotis Anastasios",
+      "Vythoulkas-Biotis Nikolaos",
+      "Gianakodimos Alexios",
+      "Oikonomou Evangelos",
+      "Katsarou Ourania",
+      "Pliouta Loukia",
+      "Lambadiari Vaia",
+      "Gialafos Elias",
+      "Stampouloglou Panagiota K",
+      "Tripyla Niki",
+      "Lysandrou Antonios",
+      "Sarantos Savvas",
+      "Korakas Emmanouil",
+      "Theofilis Panagiotis",
+      "Menenakos Evangelos",
+      "Siasos Gerasimos"
+    ],
+    "journal": "European journal of preventive cardiology",
+    "year": "2026",
+    "doi": "10.1093/eurjpc/zwag588",
+    "abstract": "Bariatric surgery and pharmacological weight-loss therapies improve cardiometabolic risk factors. However, direct head-to-head comparisons assessing their impact on cardiovascular outcomes remain limited. We performed an exploratory meta-analysis to compare bariatric surgery and pharmacological weight-loss therapies on major clinical outcomes in adults with obesity. A systematic literature search using PubMed and Scopus databases was conducted. Randomized and observational studies comparing bariatric surgery or incretin receptor agonists with controls were included in the analysis. The primary outcomes were all-cause mortality and MACE. A frequentist random-effects network meta-analysis was conducted across three nodes. A total of 40 studies, comprising more than 1.9 million patients, were included in the meta-analysis. Compared with control, bariatric surgery was associated with a significant reduction in all evaluated outcomes, including all-cause mortality (HR:0.57, 95%CI:0.51-0.65), MACE (HR:0.54, 95%CI:0.45-0.64), cardiovascular mortality, heart failure hospitalization, myocardial infarction, and stroke. Incretin receptor agonists were also associated with lower all-cause mortality (HR:0.62, 95%CI:0.52-0.74), lower MACE (HR:0.75, 95%CI:0.61-0.92) and reduced heart failure hospitalization. All-cause mortality-representing the most direct and clinically relevant endpoint-did not differ significantly between the two strategies in the exploratory network meta-analysis. Importantly, the network estimates should be cautiously interpreted, given the predominance of observational evidence, substantial heterogeneity, and very low confidence across all comparisons. Bariatric surgery and incretin receptor agonists are associated with substantial reductions in major cardiovascular outcomes in adults with obesity. In head-to-head comparisons, no significant differences were observed in all-cause mortality and stroke. Both strategies provide clinically meaningful benefits.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043854/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43043463",
+    "title": "Perioperative pulmonary aspiration reports associated with GLP-1 receptor agonists: a pharmacovigilance analysis of FAERS.",
+    "authors": [
+      "Akhtar Shanzay",
+      "Shaukat Muhammad Talha",
+      "Abid Mobeen",
+      "Alghzawi Hamzah M",
+      "Mustafa Muhammad Salman",
+      "Shami Besher",
+      "Duseja Nikhil",
+      "Anjum Humayun"
+    ],
+    "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+    "year": "2026",
+    "doi": "10.1007/s00210-026-06090-2",
+    "abstract": "Glucagon-like peptide - 1 receptor agonists (GLP-1 RAs) are increasingly prescribed for the treatment of type 2 diabetes and obesity. Although these agents provide substantial metabolic and cardiovascular benefits, they also delay gastric emptying, which may increase the risk of perioperative pulmonary aspiration during anesthesia. Real-world evidence evaluating this potential safety concern remains limited. We conducted a retrospective pharmacovigilance study using reports from the U.S. Food and Drug Administration Adverse Event Reporting System (FAERS) from January 2016 through March 2024. A perioperative-enriched cohort was identified by restricting reports to those listing general anesthetic or neuromuscular blocking agents as surrogate markers of a perioperative setting. Patients were classified into three mutually exclusive groups: GLP-1 receptor agonists, sodium-glucose cotransporter-2 (SGLT-2) inhibitors as an active comparator, and a background surgical population. Pulmonary aspiration events were identified using MedDRA preferred terms. Disproportionality analyses were performed using reporting odds ratios (RORs), and Firth penalized multivariable logistic regression was used to evaluate independent predictors of aspiration after adjustment for age, sex, and concomitant opioid use, because exposed events were sparse. After deduplication, a total of 41,308 unique perioperative reports were identified, including 158 reports involving GLP-1 receptor agonists and 174 involving SGLT-2 inhibitors. Pulmonary aspiration showed non-significantly higher reporting odds among GLP-1 RA users (ROR 1.27, P = 0.56). In the Firth penalized adjusted analysis, GLP-1 RA exposure was associated with numerically higher, but statistically non-significant, adjusted reporting odds of pulmonary aspiration (aOR 2.08; P = 0.185). SGLT-2 inhibitor exposure showed numerically lower but statistically non-significant reporting odds of pulmonary aspiration than the background cohort (aOR 0.27; P = 0.059); this estimate rests on a single event and should not be interpreted as a protective effect. Concomitant opioid use was independently associated with aspiration (aOR 2.12; P < 0.001). In this perioperative-enriched FAERS analysis, neither the unadjusted disproportionality analysis nor the adjusted model demonstrated a statistically significant association between GLP-1 receptor agonist exposure and pulmonary aspiration, although a non-significant numerical trend was observed. Given the small number of events and the inherent limitations of spontaneous reporting data, these findings are hypothesis-generating, require prospective validation, and should not on their own guide individual perioperative decision-making.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043463/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43042329",
+    "title": "Predictors of Successful Prandial Insulin Withdrawal Following the Initiation of Therapy Based on Glucagon-Like Peptide-1 (GLP-1) in Adults With Type 2 Diabetes (T2D): A Systematic Review of Clinical, Biochemical, and Treatment-Related Factors.",
+    "authors": [
+      "Elhassan Lamyaa A",
+      "Abdelsalam Abdallah Adel Hassan Mohamed",
+      "Ali Mohamed Abdelrahman Mohamed",
+      "Elhaj Mustafa Eisa Ahmed",
+      "Muzamil Mohamed",
+      "Eltreifi Obeid Safwa Obeid",
+      "Attaelmanan Ghada",
+      "Elsheikh Yousif Zainab Elfatih",
+      "Yousif Elamein"
+    ],
+    "journal": "Cureus",
+    "year": "2026",
+    "doi": "10.7759/cureus.118067",
+    "abstract": "Glucagon-like peptide-1 (GLP-1)-based therapy may permit withdrawal of scheduled prandial insulin in adults with type 2 diabetes. The clinical and biochemical factors associated with successful withdrawal remain less clearly established than the feasibility of treatment simplification. PubMed, Embase, Scopus, and Web of Science were searched for publications from January 1, 2021 through September 16, 2026. The authors' final study selection comprised peer-reviewed primary research evaluating prandial insulin withdrawal, replacement, or related prognostic factors, with follow-up of at least 12 weeks. Prognostic studies, randomized trials, and other nonrandomized studies were assessed using design-specific tools. Clinical and methodological heterogeneity was addressed through narrative synthesis. Of 467 records identified, 243 duplicates were removed and 224 records were screened. Sixty-one reports underwent full-text assessment, and 15 studies were included: three randomized comparisons and 12 nonrandomized studies. Four included reports examined candidate predictors, of which two provided prandial-specific analyses. Lower baseline insulin requirements and preserved endogenous secretion were the principal signals. Other associations involved diabetes duration, baseline glycemia, microvascular complications, and supervised fasting-test glycemia, although several concerned indirect endpoints. Reported discontinuation proportions varied substantially across selected populations and follow-up periods. Prandial insulin withdrawal is feasible in selected adults receiving GLP-1-based therapy. Lower insulin requirements and preserved endogenous secretion may help identify candidates, but neither establishes a universally reliable cutoff. Broader prospective validation and consistent definitions of durable glycemic success are needed.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43042329/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43041846",
+    "title": "Metabolic reprogramming in PTSD: GLP-1 receptor agonists and cardiometabolic drug repurposing for precision therapeutics.",
+    "authors": [
+      "Halabitska Iryna",
+      "Petakh Pavlo",
+      "Kamyshna Iryna",
+      "Lushchak Oleh",
+      "Kamyshnyi Oleksandr"
+    ],
+    "journal": "Frontiers in behavioral neuroscience",
+    "year": "2026",
+    "doi": "10.3389/fnbeh.2026.1957516",
+    "abstract": "Post-traumatic stress disorder (PTSD) is increasingly recognized as a systemic disorder closely linked to metabolic dysfunction, including obesity, insulin resistance, type 2 diabetes and cardiovascular disease. These comorbidities are associated with poorer treatment response, yet pharmacological options for PTSD remain limited. Here, we review evidence that PTSD and metabolic disease share convergent mechanisms, including dysregulation of the hypothalamic-pituitary-adrenal axis, glucocorticoid receptor signaling, neuroinflammation, insulin resistance and mitochondrial dysfunction. We evaluate the rationale for repurposing approved cardiometabolic drugs, including glucagon-like peptide-1 receptor agonists, insulin sensitizers, statins, renin-angiotensin system modulators and glial-targeting agents. We critically assess preclinical and clinical evidence, highlight current limitations and propose a biomarker-guided framework to match therapies to dominant biological mechanisms. Finally, we discuss the exceptional burden of PTSD with cardiometabolic disease in war-affected Ukraine as a priority setting for future mechanism-based clinical trials. Drug repurposing represents a promising, but unproven, precision-psychiatry strategy.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041846/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43041828",
+    "title": "Potential synergy between GLP-1 receptor agonists and follicle-stimulating hormone in improving spermatogenesis: biological rationale and future directions.",
+    "authors": [
+      "La Vignera Sandro",
+      "Calogero Aldo E",
+      "Cannarella Rossella",
+      "Crafia Andrea",
+      "Barbagallo Federica",
+      "Condorelli Rosita A"
+    ],
+    "journal": "Frontiers in endocrinology",
+    "year": "2026",
+    "doi": "10.3389/fendo.2026.1997083",
+    "abstract": "Male infertility represents a significant global health burden, with obesity and metabolic dysfunction emerging as major contributors to impaired spermatogenesis and functional hypogonadism. Follicle-stimulating hormone (FSH) has been employed to stimulate spermatogenesis in selected patients, while glucagon-like peptide-1 receptor agonists (GLP-1RAs) have demonstrated beneficial effects on male reproductive function beyond their metabolic actions. Understanding their potential synergistic mechanisms may open new therapeutic avenues. We conducted a narrative review examining FSH signaling in spermatogenesis, GLP-1 receptor expression in testicular cells, the impact of obesity on male reproduction, and the molecular mechanisms underlying GLP-1RA-FSH synergistic interactions. Relevant studies were identified through a structured non-systematic search of PubMed/MEDLINE and Scopus (last searched September 2025), using search terms including 'GLP-1 receptor agonists', 'semaglutide', 'liraglutide', 'follicle-stimulating hormone', 'FSH', 'spermatogenesis', 'male infertility', 'obesity', and 'functional hypogonadism', supplemented by manual reference screening. No formal quality appraisal tool was applied, consistent with the narrative review format. FSH acts primarily through Sertoli cells via cAMP-dependent pathways, with clinical efficacy demonstrated in men with idiopathic oligozoospermia and hypogonadotropic hypogonadism. GLP-1 receptors are expressed in Leydig, Sertoli, and germ cells; GLP-1RAs improve testosterone, gonadotropin secretion, and sperm parameters predominantly in obese men with functional hypogonadism. Obesity impairs spermatogenesis through HPG axis suppression, insulin resistance, aromatase activity, oxidative stress, and chronic inflammation. GLP-1RAs may potentiate FSH action through shared signaling pathways (cAMP, PI3K/Akt, AMPK), enhanced Sertoli cell metabolism, and restoration of the HPG axis in metabolically impaired men. The convergence of GLP-1 and FSH signaling in testicular cells, combined with GLP-1RA metabolic benefits in obese infertile men, provides a strong biological rationale for combination therapy. Preliminary clinical evidence supports GLP-1RA efficacy in improving reproductive outcomes in men with obesity-associated hypogonadism; this benefit appears conditional on pre-existing metabolic dysfunction, with negligible or mildly adverse effects in eugonadal metabolically healthy men. Prospective randomized controlled trials are urgently needed to evaluate combined GLP-1RA and FSH therapy, with particular attention to responder profiles and long-term reproductive outcomes.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041828/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43039780",
+    "title": "Early response to incretin-based obesity pharmacotherapy.",
+    "authors": [
+      "Patoulias Dimitrios",
+      "Conte Caterina"
+    ],
+    "journal": "Trends in endocrinology and metabolism: TEM",
+    "year": "2026",
+    "doi": "10.1016/j.tem.2026.10.011",
+    "abstract": "Early weight loss achieved with incretin-based obesity pharmacotherapy provides prognostic information, but it should not define treatment response. We propose a multidimensional framework that integrates the pattern and magnitude of weight reduction achieved with treatment and its impact on anthropometric and cardiometabolic indices, tolerability, and adherence to phenotype the treatment response to obesity pharmacotherapy.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43039780/",
     "screening_status": "não avaliado"
   },
   {
@@ -159,7 +498,7 @@
     "journal": "Diabetes & metabolism",
     "year": "2026",
     "doi": "10.1016/j.diabet.2026.101807",
-    "abstract": "Tirzepatide reduces body weight and improves glycemic control, but real-world comparisons between individuals with obesity with and without type 2 diabetes (T2D) remain limited, as well as the potential influence on weight-loss response of baseline characteristics (especially sex and previous treatment exposure). We aimed to compare anthropometric and metabolic outcomes in these populations, as well as treatment persistence, discontinuation, and the influence of prior GLP-1 receptor agonist (GLP-1 RA) exposure. This retrospective multicenter study included adults with overweight/obesity without T2D (Ob) or with T2D (ObT2D) treated with tirzepatide. Data were collected at baseline and after 2-4 (T1), 5-8 (T2), and 9-15 (T3) months. Longitudinal changes were assessed using linear mixed-effects models, and multivariable analyses identified predictors of weight loss. Ob participants (n=210, 74.8% female) were younger, had higher BMI, better glycemic control, and less previous GLP-1RA exposure than ObT2D participants (n=378, 49.7% female) (45.7% vs 79.3%; p<0.001). Weight loss was greater in Ob than ObT2D at all follow-ups (-5.0% vs -2.8%, -10.1% vs -3.3%, and -14.2% vs -4.7%; all p≤0.011), with mixed-effects models confirming different trajectories. This difference was attenuated and no longer statistically significant when analyses were restricted to treatment-naïve participants. Prior GLP-1RA exposure was independently associated with lower weight loss, while an interaction between prior GLP-1RA exposure and T2D status emerged at longer follow-up. No effect modification by sex or age was clearly detectable in this cohort. Discontinuation was more frequent in Ob, with adverse events, and financial barriers among the main reported reasons. Adverse events occurred in 16.9%, were mainly mild, transient gastrointestinal events, more frequent in Ob than ObT2D (26.9% vs 11.1%; p<0.001). Tirzepatide was effective and well tolerated in routine practice. Greater weight loss occurred in obesity without T2D, while prior GLP-1RA exposure was independently associated with a reduced weight response. Previous GLP1-RA exposure may partly account for the different weight-loss trajectories observed between obesity with and without T2D. Residual differences at longer follow-up may reflect additional unmeasured clinical, metabolic, and treatment-related factors.",
+    "abstract": "Tirzepatide reduces body weight and improves glycemic control, but real-world comparisons between individuals with obesity with and without type 2 diabetes (T2D) remain limited, as well as the potential influence on weight-loss response of baseline characteristics (especially sex and previous treatment exposure). We aimed to compare anthropometric and metabolic outcomes in these populations, as well as treatment persistence, discontinuation, and the influence of prior GLP-1 receptor agonist (GLP-1 RA) exposure. This retrospective multicenter study included adults with overweight/obesity without T2D (Ob) or with T2D (ObT2D) treated with tirzepatide. Data were collected at baseline and after 2-4 (T1), 5-8 (T2), and 9-15 (T3) months. Longitudinal changes were assessed using linear mixed-effects models, and multivariable analyses identified predictors of weight loss. Ob participants (n = 210, 74.8% female) were younger, had higher BMI, better glycemic control, and less previous GLP-1RA exposure than ObT2D participants (n = 378, 49.7% female) (45.7%vs 79.3%; p < 0.001). Weight loss was greater in Ob than ObT2D at all follow-ups (-5.0% vs -2.8%, -10.1% vs -3.3%, and -14.2% vs -4.7%; all p ≤ 0.011), with mixed-effects models confirming different trajectories. This difference was attenuated and no longer statistically significant when analyses were restricted to treatment-naïve participants. Prior GLP-1RA exposure was independently associated with lower weight loss, while an interaction between prior GLP-1RA exposure and T2D status emerged at longer follow-up. No effect modification by sex or age was clearly detectable in this cohort. Discontinuation was more frequent in Ob, with adverse events, and financial barriers among the main reported reasons. Adverse events occurred in 16.9%, were mainly mild, transient gastrointestinal events, more frequent in Ob than ObT2D (26.9%vs 11.1%; p < 0.001). Tirzepatide was effective and well tolerated in routine practice. Greater weight loss occurred in obesity without T2D, while prior GLP-1RA exposure was independently associated with a reduced weight response. Previous GLP1-RA exposure may partly account for the different weight-loss trajectories observed between obesity with and without T2D. Residual differences at longer follow-up may reflect additional unmeasured clinical, metabolic, and treatment-related factors.",
     "publication_types": [
       "Journal Article"
     ],
@@ -635,8 +974,7 @@
     "publication_types": [
       "Journal Article",
       "Systematic Review",
-      "Meta-Analysis",
-      "Review"
+      "Meta-Analysis"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42967597/",
     "screening_status": "não avaliado"
@@ -713,8 +1051,7 @@
     "abstract": "Hyperandrogenic insulin-resistant states, most commonly polycystic ovary syndrome (PCOS) and severe phenotypes such as HAIR-AN syndrome, are characterized by metabolic dysfunction, androgen excess, and reproductive disturbance. Insulin resistance is a central pathogenic driver and therapeutic target. To systematically evaluate the effects of glucagon-like peptide-1 (GLP-1) receptor agonizts on metabolic, hormonal, and reproductive outcomes in adult women with hyperandrogenic insulin-resistant states. Data Sources and Study Selection: A systematic search identified randomized controlled trials, observational studies, and case series evaluating GLP-1 receptor agonizts in PCOS and HAIR-AN syndrome, reflecting the heterogeneity of the current evidence base.Data extraction and synthesis Outcomes were synthesized across metabolic (anthropometric and glycaemic), hormonal, reproductive, dermatologic, and safety domains, accounting for heterogeneity in interventions and study designs. Metabolic responses appeared more consistent and robust than endocrine outcomes. Reproductive outcomes such as menstrual regularity were variably reported and showed inconsistent improvement across studies, limiting firm conclusions regarding fertility-related benefit. Evidence in severe phenotypes remains limited but suggestive of clinical benefit. GLP-1 receptor agonizts are a promising adjunctive therapy in hyperandrogenic insulin-resistant states, with the strongest evidence for metabolic improvement. Reproductive and endocrine outcomes remain less consistent, likely reflecting heterogeneity in study design, populations, and outcome reporting. Further high-quality, phenotype-specific trials are required.",
     "publication_types": [
       "Journal Article",
-      "Systematic Review",
-      "Review"
+      "Systematic Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42960716/",
     "screening_status": "não avaliado"
@@ -1502,8 +1839,7 @@
     "doi": "10.1016/j.explore.2026.103540",
     "abstract": "Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) have transformed the treatment of obesity and type 2 diabetes, yet individual responses vary substantially. Some patients achieve marked improvements in glycemia, weight, and cardiometabolic risk, whereas others have limited benefit, gastrointestinal intolerance, excessive weight loss, or clinically concerning loss of lean tissue. Genetics may explain part of this heterogeneity, but Ayurveda suggests an additional question: are we applying the same metabolic intervention to patients with meaningfully different digestive, nutritional, and metabolic phenotypes? Ayurveda has long described prameha as heterogeneous and evaluates agni (digestive and metabolic capacity), ama (incompletely processed or accumulated material), srotas (pathways of transport), and suitability for langhana (reducing or lightening therapy) before selecting treatment. These concepts should not be equated literally with modern biomarkers. Rather, they provide a framework for a testable contemporary hypothesis: identifying and, where possible, modifying gastrointestinal, nutritional, and metabolic phenotypes before and during GLP-1 therapy may improve tolerability and the quality of response.",
     "publication_types": [
-      "Journal Article",
-      "Review"
+      "Journal Article"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42837836/",
     "screening_status": "não avaliado"
@@ -1837,8 +2173,7 @@
     "abstract": "Interest in glucagon-like peptide-1 receptor agonists (GLP-1RAs) has expanded beyond obesity and diabetes, with growing preclinical and clinical evidence supporting potential applications in psychiatric and neurodegenerative disorders. However, the central nervous system (CNS) mechanisms engaged by GLP-1RAs remain poorly characterized, limiting the capacity to optimize their therapeutic potential. This systematic review synthesized the literature examining GLP-1RA-related CNS effects, focusing on treatment-related neural responsivity, temporal dynamics, and modulators of CNS response. PubMed and Embase were systematically searched from inception to January 2026 for human studies across structural magnetic resonance imaging (MRI), task-based and resting-state functional MRI, molecular imaging, and neurophysiological approaches. Thirty-seven studies met inclusion criteria. The reviewed evidence suggests that GLP-1RAs engage distributed cortical and subcortical brain systems. Attenuation of reward-related responsivity following acute GLP-1RA administration was among the more consistent findings. Notably, evidence suggests that GLP-1RAs differentially modulate reward-related processes rather than uniformly attenuate reward function, with neural effects further varying according to metabolic status and underlying phenotype. Several studies additionally indicated that CNS effects evolve over the course of treatment, with more pronounced neural modulation during short-term treatment and diminished or altered effects following prolonged exposure. However, the current neuroimaging literature is constrained by small sample sizes and methodological heterogeneity, limiting direct comparisons across studies and underscoring the need for greater standardization. This review provides insight into the neurobiological mechanisms engaged by GLP-1RAs, identifies emerging patterns of CNS response with potential implications for mechanistically informed treatment strategies, and highlights key mechanistic considerations and priorities for future neuroimaging research.",
     "publication_types": [
       "Journal Article",
-      "Systematic Review",
-      "Review"
+      "Systematic Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42762879/",
     "screening_status": "não avaliado"

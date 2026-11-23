@@ -2,10 +2,10 @@
   "project_id": 22,
   "title": "Tecido adiposo termogênico",
   "query": "(brown adipose tissue[tiab] OR brown fat[tiab] OR thermogenesis[tiab]) AND (metabolic health[tiab] OR cardiometabolic[tiab] OR obesity[tiab]) AND (\"2025/01/01\"[Date - Publication] : \"3000\"[Date - Publication])",
-  "last_run_utc": "2026-11-16T21:05:22.203266+00:00",
-  "pubmed_total_matching": 990,
+  "last_run_utc": "2026-11-23T22:42:16.064142+00:00",
+  "pubmed_total_matching": 997,
   "retrieved_in_latest_run": 100,
-  "stored_unique_records": 119,
+  "stored_unique_records": 129,
   "retrieval_limit_per_run": 100,
   "note": "Candidatos automáticos não equivalem a artigos incluídos. Estratégia exploratória, requer validação por revisores."
 }

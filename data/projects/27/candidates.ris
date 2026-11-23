@@ -1,4 +1,21 @@
 TY  - JOUR
+ID  - 43065563
+TI  - Next-generation anti-obesity drugs: emerging molecular targets and translational opportunities.
+AU  - Shetty Sneha
+AU  - Rangle Asmi
+AU  - Mukherjee Anirban Goutam
+AU  - Bharti Ankit Kumar
+AU  - Jena Sudip Prasad
+AU  - Prince Sabina Evan
+AU  - Gopalakrishnan Abilash Valsala
+JO  - Journal of diabetes and metabolic disorders
+PY  - 2027
+DO  - 10.1007/s40200-026-02101-4
+AB  - Obesity is a heterogeneous, chronic metabolic disease driven by dysregulation of energy homeostasis across interconnected central nervous system, gastrointestinal, adipose, endocrine, immune, and mitochondrial networks. Despite the established roles of lifestyle intervention and metabolic/bariatric surgery, limitations in accessibility, durability, and interindividual response have stimulated the development of mechanism-based pharmacotherapies. This review critically examines emerging therapeutic strategies targeting integrated energy-regulatory pathways and evaluates their translational potential for precision obesity management. Current evidence was synthesized across major biological systems governing appetite, energy expenditure, and metabolic adaptation. Central melanocortin, Neuropeptide Y (NPY)/ Agouti-related peptide (AgRP), serotonergic, dopaminergic, and endocannabinoid pathways were considered alongside gut-derived incretin, amylin, Peptide YY (PYY), ghrelin, Fibroblast Growth Factor (FGF), and bile acid signaling. Emerging approaches targeting adipose remodeling, thermogenesis, mitochondrial energetics, AMPK-mTOR-sirtuin signaling, inflammation, and fibrosis were also evaluated. Genetic, epigenetic, and artificial intelligence-based approaches to patient stratification were incorporated to assess prospects for precision therapy. Obesity pharmacotherapy is shifting from conventional appetite suppression toward coordinated modulation of interconnected metabolic pathways. Incretin-based and multi-agonist therapies provide the strongest clinical evidence for substantial weight reduction and metabolic improvement. However, treatment discontinuation, weight regain, adverse effects, cost, and heterogeneous therapeutic responses remain major challenges. Strategies targeting adipose tissue dysfunction, mitochondrial metabolism, thermogenesis, immune-metabolic signaling, and fibrosis offer additional opportunities for disease modification, although many remain in preclinical or early clinical development. Increasing evidence for biological heterogeneity supports individualized therapeutic selection. The emerging therapeutic paradigm positions obesity as a systems-level disorder requiring mechanism-informed, individualized intervention. Integrating CNS-gut-adipose-mitochondrial biology with multi-omics, biomarkers, and artificial intelligence may enable more durable and precise treatment. Long-term safety, durability, affordability, equitable access, and clinical validation remain essential for translation.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43065563/
+ER  - 
+
+TY  - JOUR
 ID  - 42674194
 TI  - Engineering 3'-UTR hairpin structures to modulate mRNA stability and recombinant protein production in Escherichia coli.
 AU  - Khasanshina Zukhra
@@ -11,6 +28,285 @@ PY  - 2027
 DO  - 10.1016/j.pep.2026.106993
 AB  - Engineering mRNA stability is a promising yet underexplored approach for improving recombinant protein production in bacterial systems. In this study, we evaluated the effect of synthetic 3'-UTR hairpin structures on mRNA stability and protein yield in Escherichia coli using two SUMO-fusion expression systems. Hairpin elements with defined structural features were introduced downstream of the coding sequence. In all constructs, 3'-UTR hairpins increased mRNA half-life, with stabilization ranging from approximately 2-fold to 3-fold (n = 3 biological replicates). In the SUMO-SARS-CoV-2-derived peptide system, enhanced transcript stability was accompanied by a marked increase in specific cellular fusion-protein content, reaching up to 6.8-fold relative to the control (n = 3). In the SUMO-liraglutide-derived peptide system, mRNA stabilization was also pronounced, and the increase in specific cellular fusion-protein content reached approximately 3-fold (p < 0.001, n = 6). These findings show that 3'-UTR engineering is an effective strategy for modulating mRNA stability in *E. coli*, but the quantitative relationship between transcript persistence and protein accumulation is context-dependent and likely influenced by additional factors, including translation efficiency. Overall, engineering of 3'-terminal RNA structures provides a practical tool for post-transcriptional tuning of recombinant expression systems.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42674194/
+ER  - 
+
+TY  - JOUR
+ID  - 43070945
+TI  - An Integrated Ligand- and Structure-Based Virtual Screening and Experimental Strategy for the Prediction of Chemically Diverse GLP-1R Agonists.
+AU  - Murcia-García Elena
+AU  - Tian Ning
+AU  - Alonso Fernández Jorge Ricardo
+AU  - Cai Xiaoqing
+AU  - Yang Dehua
+AU  - Hernández-Morante Juan José
+AU  - Pérez-Sánchez Horacio
+JO  - Journal of chemical information and modeling
+PY  - 2026
+DO  - 10.1021/acs.jcim.6c01453
+AB  - The glucagon-like peptide-1 receptor (GLP-1R) plays a central role in metabolic regulation and is a major therapeutic target for obesity and diabetes. Peptide agonists, like semaglutide, targeting GLP-1R, remain among the most effective regulators of glucose metabolism and appetite. Nonetheless, recent reports of weight regain after treatment discontinuation sustain the interest in expanding the chemical diversity of GLP-1R ligands through drug discovery strategies. However, the structural complexity and conformational plasticity of class B1 G protein-coupled receptors (GPCRs) make conventional single-method virtual screening approaches prone to bias and limited chemotype recovery. Using an integrated ligand- and structure-based virtual screening pipeline, combining complementary ligand-based descriptors, multifingerprint similarity, electrostatic similarity, pharmacophore modeling, and multiconformation docking under a consensus-driven selection strategy, we identified three chemically distinct GLP-1R agonists comprising one nonpeptidic molecule (GQB47810), and two peptides (neuromedin C and DPDPE). Among them, DPDPE showed the greatest effectiveness, reaching nearly 100% of the maximal GLP-1 response, although with lower potency (EC50 = 4.3 μM). Further in vitro characterization confirmed that DPDPE behaved as a full agonist and exhibited dual agonistic activity at GLP-1R and at the glucose-dependent insulinotropic polypeptide receptor (GIPR, EC50 = 4.3 μM). Site-directed mutagenesis of the predicted binding site, with cell-surface expression measured for every mutant, and whole-cell competition binding against 125I-GLP-1 are consistent with direct engagement of the receptor. These findings establish a consensus-driven computational framework for chemotype-diverse agonist discovery at conformationally flexible GPCR targets and reveal a pentapeptide with GLP-1-like efficacy as a promising lead for next-generation small peptide therapeutics.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43070945/
+ER  - 
+
+TY  - JOUR
+ID  - 43068476
+TI  - Amylin-Based Pharmacotherapy for Type 2 Diabetes in the Incretin Era: Mechanisms, Emerging Evidence, and Clinical Implementation.
+AU  - Varghese Ron T
+AU  - Calcaterra Giuseppe
+AU  - Fanaropoulou Nina M
+AU  - Varghese Diana G
+AU  - Iacobellis Gianluca
+JO  - Endocrinology, diabetes & metabolism
+PY  - 2026
+DO  - 10.1002/edm2.70401
+AB  - Type 2 diabetes (T2D) management increasingly requires simultaneous improvement in glycaemia, excess adiposity, treatment burden, and cardiovascular and kidney risk. Amylin slows gastric emptying, suppresses postprandial glucagon secretion, and promotes satiation, providing a complementary therapeutic pathway to incretin-based treatment. We conducted a targeted narrative search of PubMed/MEDLINE and trial registries through 30 September 2026. We prioritised peer-reviewed Phase 2 and Phase 3 human trials and treated registry records as planned rather than completed evidence. Pramlintide established the clinical value of amylin replacement but remains limited by mealtime administration, gastrointestinal adverse effects, and the need for insulin adjustment. Long-acting amylin analogues and amylin-incretin combinations have renewed interest in this pathway. In a 32-week Phase 2 T2D trial, CagriSema reduced HbA1c by 2.2 percentage points and body weight by 15.6%; HbA1c superiority over semaglutide was not demonstrated (estimated difference -0.4 percentage points, 95% CI -0.8 to 0.0; p = 0.075). Phase 3 trials have evaluated early T2D, oral-therapy-treated T2D, and basal-insulin-treated T2D, although populations, comparators, durations, and estimands differ. Gastrointestinal tolerability and treatment discontinuation remain important considerations, and cardiovascular and kidney benefits have not been established. Amylin-based therapies could broaden metabolic treatment for T2D, but their clinical role will depend on comparative efficacy, tolerability, persistence, body composition, patient-reported outcomes, and long-term cardiovascular and kidney outcomes.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43068476/
+ER  - 
+
+TY  - JOUR
+ID  - 43068364
+TI  - [Position paper: colonoscopy preparation - the position of the Israeli Association of Gastroenterology and Liver Diseases].
+AU  - Sneh-Arbib Orly
+AU  - Lichtenstein Lev
+AU  - Calvarysky Bronislava
+AU  - Kimhi Nimrod
+AU  - Benjaminov Fabiana
+AU  - Keret Dan
+AU  - Spectre Galia
+AU  - Leader Avi
+AU  - Dotan Idit
+AU  - Dicker-Cohen Talia
+AU  - Leibovici-Weissman Yaara
+AU  - Steinmetz Tali
+AU  - Rosen-Zvi Benaya
+AU  - Aharoni Golan Maya
+AU  - Segol Uri
+AU  - Gingold-Belfer Rachel
+AU  - Shakhman Sheli
+AU  - Pfeffer-Gik Tamar
+AU  - Levi Zohar
+JO  - Harefuah
+PY  - 2026
+AB  - Preparing for a colonoscopy involves bowel cleansing and medication adjustments, including anticoagulants and anti-diabetics. Various protocols can make these adjustments confusing for both physicians and patients. While essential for a successful procedure, this preparation can cause discomfort and carry potential risks. We aimed to provide clear guidance for colonoscopy preparation, achieving consensus among multiple societies to ensure safety and effectiveness, including patient forms. This position paper is based on guidelines from major professional associations in Europe and the USA. Representatives from associations in Gastroenterology, Pharmacology, Hematology, Nephrology, Endocrinology, and Geriatrics have collaborated to develop these recommendations. Bowel preparation now requires two days using a split-dose method. Updated guidelines include "enhanced" preparation definitions, adjustments for anti-diabetic drugs, discontinuation of anticoagulants, enoxaparin bridging, and resuming therapy post-procedure. PicoLax is suitable for patients with a GFR above 30 mL/min. New glucagon-like peptide-1 (GLP-1) receptor agonist guidelines address gastroparesis and sedation risks. Finally, we provide breastfeeding recommendations for colonoscopy. This consensus paper provides interdisciplinary guidance to ensure effective bowel preparation while addressing safety concerns, making it a valuable resource for healthcare providers and patients.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43068364/
+ER  - 
+
+TY  - JOUR
+ID  - 43066155
+TI  - Acute Colonic Pseudo-obstruction Requiring Subtotal Colectomy Following Semaglutide Use.
+AU  - Loh Hanyou
+AU  - Aiti Diana
+AU  - Bolyard Jennifer
+JO  - ACG case reports journal
+PY  - 2026
+DO  - 10.14309/crj.0000000000002393
+AB  - Glucagon-like peptide-1 receptor agonists are increasingly used for obesity and diabetes management and are commonly associated with mild gastrointestinal adverse effects. Severe dysmotility is rare. We report a 61-year-old man with class III obesity and multiple comorbidities who developed acute colonic pseudo-obstruction following once-weekly injectable semaglutide, ultimately requiring subtotal colectomy. Despite discontinuation of therapy and conservative management including bowel rest and colonoscopic decompression, colonic dilatation progressed to 13 cm without obstruction, prompting surgical intervention given perforation risk. This case highlights a rare but severe gastrointestinal event associated with glucagon-like peptide-1 receptor agonists, underscoring the importance of careful patient selection.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43066155/
+ER  - 
+
+TY  - JOUR
+ID  - 43063014
+TI  - Where patients obtain GLP-1 receptor agonists: direct-to-consumer channels, compounded product use, and reason-specific nonadherence in a national survey.
+AU  - Bhagavathula Akshaya Srikanth
+AU  - Abegaz Tadesse M
+JO  - American journal of health-system pharmacy : AJHP : official journal of the American Society of Health-System Pharmacists
+PY  - 2026
+DO  - 10.1093/ajhp/zxag415
+AB  - To examine acquisition channels for glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and associations with compounded use, prescription status, and nonadherence. This cross-sectional analysis used the National Center for Health Statistics Rapid Surveys System Round 7 (July-August 2025; N = 8118). Among 976 past-year users, channels were classified as clinician/pharmacy without direct-to-consumer (DTC) acquisition, any DTC telehealth/medical spa, or other. Survey-weighted logistic regression estimated adjusted odds ratios (aORs). GLP-1 RA use was reported by 9.8% of adults, approximately 25.9 million. Of users, 18.3% used a DTC or medical spa channel and 9.2% reported no clinician prescription. Among users reporting known compounded status, compounded use was 73.0% (95% CI, 62.7%-81.2%) for DTC versus 12.9% (8.8%-18.4%) for conventional acquisition (aOR, 14.56; 95% CI, 7.99-26.54). Overall, 22.6% reported compounded use and 8.6% did not know. DTC acquisition was associated with cost-attributed nonadherence (aOR, 4.94; 95% CI, 2.77-8.81); the supply-attributed association was not statistically significant (aOR, 1.15; 95% CI, 0.56-2.38; contrast P < 0.001). Associations were also observed for side-effect-attributed reduction/discontinuation (aOR, 2.12; 95% CI, 1.05-4.27) and complete discontinuation (aOR, 1.83; 95% CI, 1.01-3.32). Counseling associations were imprecise. Insurance nonpayment was associated with DTC acquisition (aOR, 8.01; 95% CI, 4.70-13.67). DTC acquisition was associated with compounded use, insurance nonpayment, and cost-attributed nonadherence. These cross-sectional findings suggest that acquisition sources and reasons for nonadherence may be useful topics for patient assessment. They do not establish causal effects of acquisition channel or demonstrate that medication records are incomplete.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43063014/
+ER  - 
+
+TY  - JOUR
+ID  - 43058312
+TI  - Managing post-bariatric weight recurrence with new obesity management medications.
+AU  - Masi Davide
+AU  - De Domenico Francesco
+AU  - Zanghi Buffi Valeria
+AU  - Tozzi Rossella
+AU  - Cipriani Valentina
+AU  - Di Gioia Ludovico
+AU  - Di Molfetta Sergio
+AU  - Caruso Irene
+AU  - Cipriani Fiammetta
+AU  - De Luca Maurizio
+AU  - Castagneto-Gissey Lidia
+AU  - Perrini Sebastio
+AU  - Gianfrilli Daniele
+AU  - Isidori Andrea Marcello
+AU  - Giorgino Francesco
+AU  - Mingrone Geltrude
+AU  - le Roux Carel W
+AU  - Manfrini Silvia
+AU  - Clément Karine
+AU  - Watanabe Mikiko
+AU  - Tuccinardi Dario
+JO  - Nature reviews. Endocrinology
+PY  - 2026
+DO  - 10.1038/s41574-026-01324-y
+AB  - Recurrent weight gain (RWG) following metabolic and bariatric surgery (MBS) represents a major challenge in the long-term management of obesity and is distinct from insufficient weight loss and suboptimal clinical response, which reflect a primary inadequate response. RWG is defined as regain of ≥25% of the maximum weight lost, assessed ≥24 months after surgery. It affects approximately 35% of patients within 5 years of sleeve gastrectomy and approximately 15% within 5 years after Roux-en-Y gastric bypass. With longer follow-up, the number of affected patients rises to about one-third. RWG is multifactorial: genetic predisposition, preoperative metabolic phenotype, inadequate or failed surgical anatomy, and neurohormonal and adipose tissue adaptations interact over time to cause it, and no single variable accounts for it. Randomized evidence indicates that the operation itself is a determinant of long-term response: Roux-en-Y gastric bypass elicits greater postprandial GLP1 secretion, more durable weight loss and higher rates of type 2 diabetes mellitus remission than sleeve gastrectomy, so procedure selection warrants as much attention as postoperative management. Treatment should therefore be specific to phenotype and procedure, escalating from lifestyle optimization to obesity management medications, endoscopic revision and revisional surgery, if needed. Randomized data now support semaglutide after MBS, whereas evidence for tirzepatide, combined endoscopic-pharmacological strategies, or treatment sequencing remains observational and real-world adherence is a major constraint. Multimodal, integrated approaches combining behavioural, pharmacological and surgical strategies could help to improve treatment strategies for patients who experience RWG. This Review discusses the factors that contribute to RWG after MBS, considerations for clinical management of RWG, and questions that future research should aim to address to improve and maintain weight loss and other clinical outcomes after MBS. The Review also discusses clinical approaches to insufficient weight loss and suboptimal clinical response after MBS.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43058312/
+ER  - 
+
+TY  - JOUR
+ID  - 43058048
+TI  - Effects of a Prebiotic Functional Soda on Gastrointestinal Symptoms in Adults Receiving GLP-1-Based Therapy for Weight Management: A Randomized Controlled Pilot Trial.
+AU  - Grant Azure D
+AU  - McCormick Courtney
+AU  - Bolster Douglas
+AU  - Babazadeh Demsina
+AU  - Erfe Marie Crisel B
+AU  - Doshi Megha
+AU  - Saldaña Brenda
+AU  - Craft Noah
+JO  - Diabetes, obesity & metabolism
+PY  - 2026
+DO  - 10.1111/dom.71538
+AB  - Gastrointestinal (GI) adverse effects are common during glucagon-like peptide-1 (GLP-1)-based therapy and may negatively affect quality of life (QOL) and treatment persistence. This pilot evaluated the effects of daily consumption of a prebiotic functional soda on GI symptom burden in adults who recently initiated GLP-1-based therapy for weight management. In this open-label, randomized controlled pilot, 80 adults receiving semaglutide or tirzepatide for weight management and experiencing at least one GI symptom were randomized 1:1 to consume a prebiotic functional soda (OLIPOP; 1 can/day, with the option of 2 cans/day) for 4 weeks or continue their usual free-living fluid intake. The primary outcome was change in Gastrointestinal Symptom Rating Scale (GSRS) total score. Secondary outcomes included GSRS subscales, health-related QOL (SF-36), stool characteristics and frequency, appetite and cravings, dietary intake and GI rescue medication use. Sixty-eight participants completed the study (intervention, n = 36; control, n = 32). GSRS total score decreased significantly more with the prebiotic functional soda than control (adjusted least-squares [LS] mean change, -0.931 vs. -0.405; between-group difference, -0.526 [95% CI: -0.713 to -0.339]; p < 0.001). Greater reductions were observed for constipation, abdominal pain and indigestion relative to control. The group difference in overall SF-36 scores was also significant (p = 0.037). Four weeks of daily prebiotic functional soda consumption was associated with greater reductions in participant-reported GSRS scores compared with usual fluid intake among adults receiving GLP-1-based therapy for weight management. These preliminary findings warrant confirmation in larger, blinded trials using a matched beverage control. ClinicalTrials.gov Identifier: NCT07744360.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43058048/
+ER  - 
+
+TY  - JOUR
+ID  - 43053482
+TI  - When Clinical Innovation Outpaces Implementation: A Dual Diffusion Model for GLP-1 Therapy and Employer Cardiometabolic Health.
+AU  - Halterman Steven L
+JO  - Population health management
+PY  - 2026
+DO  - 10.1177/19427891261507912
+AB  - Glucagon-like peptide-1 (GLP-1)-based and related incretin therapies have rapidly expanded from glycemic management to obesity and broader cardiovascular-kidney-metabolic care. Their population-health impact, however, depends on more than therapeutic efficacy. Translation into durable benefit requires clinicians to identify and manage appropriate patients, benefit systems to enable effective access, and patients to initiate and sustain treatment. This review applies diffusion of innovations theory to propose a dual diffusion model for GLP-1 therapy and employer cardiometabolic health. The model conceptualizes provider implementation and employer/plan effective access as interdependent organizational diffusion processes that converge on the patient treatment trajectory. Their interaction produces 4 implementation states: implementation failure, identification gap, access gap, and integrated opportunity. Employer/plan effective access is proposed as a construct extending beyond binary coverage to include eligibility, affordability, utilization management, provider access, administrative feasibility, continuity, and treatment-support infrastructure. The model further distinguishes treatment initiation from sustainability and introduces system-generated discontinuation as a conceptual description of treatment cessation driven by structural barriers. Clinically Integrated cardiometabolic optimization is proposed as an implementation architecture positioning pharmacotherapy within coordinated longitudinal management of cardiometabolic risk rather than as an isolated pharmacy intervention. Seven propositions define a research agenda for testing the model. As incretin therapies expand across cardiometabolic indications, closing the efficacy-to-implementation gap may become as consequential as further gains in pharmacologic efficacy.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43053482/
+ER  - 
+
+TY  - JOUR
+ID  - 43049753
+TI  - From Discussion to Treatment, and From Treatment to Persistence: The Two Leaky Joints of Incretin Therapy in Obesity-Related HFpEF.
+AU  - Zhan Zhong-Qun
+JO  - Cardiology
+PY  - 2026
+DO  - 10.1159/crd/absag034
+UR  - https://pubmed.ncbi.nlm.nih.gov/43049753/
+ER  - 
+
+TY  - JOUR
+ID  - 43046651
+TI  - Painful Non-Diabetic Lumbosacral Radiculoplexus Neuropathy Following Tirzepatide Exposure: A Case Report.
+AU  - Stabile Liberato
+AU  - Poli Loris
+AU  - Leggio Ugo
+AU  - Bozzoni Virginia
+AU  - Bissolotti Luciano
+AU  - Gasparotti Roberto
+AU  - Pilotto Andrea
+AU  - Padovani Alessandro
+AU  - Filosto Massimiliano
+JO  - Journal of the peripheral nervous system : JPNS
+PY  - 2026
+DO  - 10.1111/jns.70188
+AB  - Lumbosacral radiculoplexus neuropathy (LRPN) is an uncommon neuropathic syndrome occurring predominantly in patients with diabetes mellitus, although non-diabetic forms are increasingly recognized. Rare peripheral neuropathies have been reported during glucagon-like peptide-1 receptor agonist (GLP-1 receptor agonist [GLP-1RA]) therapy; however, LRPN has not previously been described in this clinical context, particularly in non-diabetic individuals. We describe a well-characterized case of painful non-diabetic LRPN developing following a period of rapid metabolic shift during tirzepatide therapy. A 62-year-old man previously treated with tirzepatide for weight loss developed, approximately 8 weeks after discontinuation, acute left-sided low back pain, rapidly progressing to severe neuropathic pain, distal weakness, and sensory loss. MR neurography demonstrated enlargement and contrast enhancement of the left L5 nerve root and sciatic nerve, associated with denervation edema. Electrophysiological studies demonstrated an axonal process consistent with lumbosacral radiculoplexus neuropathy, while cerebrospinal fluid analysis showed albuminocytological dissociation. Classical diabetic-related plexopathy was excluded by normal glucose values; an extensive work-up excluded infectious, neoplastic, paraneoplastic, and systemic inflammatory causes. The patient was treated with intravenous methylprednisolone followed by an oral corticosteroid taper and intensive rehabilitation. At 8-month follow-up, neuropathic pain had completely resolved and plantar flexion had recovered, whereas severe foot dorsiflexion weakness persisted, and the patient walked with a single crutch and an ankle-foot orthosis, consistent with the expected outcome of severe axonal lumbosacral radiculoplexus neuropathy. Tirzepatide exposure was associated with rapid weight loss in a normoglycaemic individual. This case highlights a severe non-diabetic lumbosacral radiculoplexus neuropathy following a period of rapid metabolic shift during GLP-1RA therapy. Although causality cannot be established, the temporal association and clinical context raise the hypothesis that abrupt metabolic changes may act as a permissive factor for immune-mediated lumbosacral plexus injury in susceptible individuals.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43046651/
+ER  - 
+
+TY  - JOUR
+ID  - 43044077
+TI  - Optimizing use of GLP-1 receptor agonists: safety, tolerability, adherence, and patient selection in cardiovascular practice.
+AU  - Pejcic Ana V
+AU  - Stefanovic Srdjan M
+AU  - Milosavljevic Milos N
+JO  - Journal of cardiovascular pharmacology
+PY  - 2026
+DO  - 10.1097/FJC.0000000000001901
+AB  - Glucagon-like peptide-1 receptor agonists (GLP-1RAs) have fundamentally transformed modern cardiometabolic care, moving beyond glycemic control to become a cornerstone of obesity management and potent cardiovascular risk reduction. Large-scale clinical trials consistently highlight their cardioprotective benefits, demonstrating significant reductions in major adverse cardiovascular events (MACE), cardiovascular mortality, and obesity-related heart failure complications. However, translating these remarkable clinical trial successes into routine clinical practice reveals a marked gap between efficacy and effectiveness, primarily driven by suboptimal patient persistence and adherence. This narrative review synthesizes current evidence regarding the pharmacology, safety, tolerability, adherence, and patient selection of GLP-1RAs to support optimal therapeutic decision-making in cardiovascular practice. While long-term data disprove clear causal relationships with pancreatic or thyroid malignancies, a high incidence of predictable, dose-related gastrointestinal adverse events (nausea, vomiting, diarrhea) remains the leading cause of early treatment discontinuation. Additionally, treatment persistence in clinical practice is heavily influenced by financial burdens, supply chain instability, and formulation choices. Cardioprotective benefits are well-established for patients with type 2 diabetes and atherosclerotic cardiovascular disease. Mitigating challenges in clinical practice requires a systematic, multi-step prescribing framework focused on targeted patient selection, gradual individualized dose titration ("start low and go slow"), and proactive multidisciplinary symptom management.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43044077/
+ER  - 
+
+TY  - JOUR
+ID  - 43043523
+TI  - Nutrition in the Era of Incretin-Based Therapies: Clinical Strategies for Optimizing Care.
+AU  - Gold Stephanie L
+AU  - Pearlman Michelle
+AU  - Pandey Akash
+AU  - Mundi Manpreet S
+AU  - McClave Stephen
+JO  - Current gastroenterology reports
+PY  - 2026
+DO  - 10.1007/s11894-026-01070-1
+AB  - To review current evidence and practical nutrition strategies for patients receiving incretin-based therapies, including glucagon-like peptide-1 receptor agonists (GLP-1RAs) and dual glucose-dependent insulinotropic polypeptide (GIP)/GLP-1 receptor agonists, with a focus on nutritional adequacy, body composition, gastrointestinal tolerance, and long-term adherence. Incretin-based therapies have transformed obesity treatment by producing substantial weight loss and cardiometabolic improvement. However, these therapies are also associated with reduced oral intake, gastrointestinal adverse effects, lean mass loss, and potential micronutrient inadequacy, highlighting the need for comprehensive nutritional management. Emerging evidence supports individualized dietary strategies to improve tolerance and maintain nutritional status, including targeted approaches for constipation, diarrhea, nausea, and reflux, as well as considerations for special populations such as pati​ents with inflammatory bowel disease, short bowel syndrome, gastroesophageal reflux disease, and pediatric obesity. Nutrition care is a critical component of treatment with incretin-based therapies. Individualized dietary strategies may help preserve lean body mass, optimize nutrient intake, reduce gastrointestinal side effects, and support long-term adherence and clinical outcomes.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43043523/
+ER  - 
+
+TY  - JOUR
+ID  - 43042433
+TI  - Prescribe, Co-Manage, or Refer? A Practical Approach for Incretin-Based Obesity Therapy in Gastroenterology Practice.
+AU  - Salem George
+AU  - Haddad Gael
+AU  - Vardaman Averie
+AU  - Lang Khoi
+AU  - Brant Steven R
+AU  - Baker Mary Zoe
+JO  - Gastroenterology research
+PY  - 2026
+DO  - 10.14740/gr2182
+AB  - Incretin-based therapies create opportunities for gastroenterology (GI) services to treat obesity, but drug efficacy does not determine prescribing responsibility. We propose a practical care-allocation framework. A targeted narrative synthesis of adult clinical studies, professional guidance, labeling, and service evaluations informed the framework. A supplementary evidence map distinguishes treatment evidence from implementation extrapolation; selection was non-systematic. GI-led prescribing, co-management, and referral are organized around patient preference, indication, complexity, existing care, prescriber competence, and follow-up capacity. Product-specific precautions are separated from proposed routing criteria. Advanced practice providers and clinical pharmacists can provide defined functions within authorized scopes, although non-GI service evidence does not establish equivalent GI outcomes. Essential safety functions are distinguished from desirable staffing. Safeguards address nutrition, advanced liver disease, behavioral health, medication continuity, and fragmentation; candidate measures address response, persistence, safety, access, and patient experience. Prepared GI services may provide incretin therapy without making prescribing obligatory in every practice. The proposed prescriber-accountable framework should complement existing care and undergo prospective evaluation.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43042433/
+ER  - 
+
+TY  - JOUR
+ID  - 43041042
+TI  - Liraglutide Therapy and Weight Control in Adolescents with Severe Obesity: A Real-World Experience.
+AU  - Karakaş Hasan
+AU  - Tarçın Gürkan
+AU  - Turan Hande
+AU  - Güneş Kaya Didem
+AU  - Altun İlayda
+AU  - Uçar Mert
+AU  - Velioğlu Haşlak Gökçe
+AU  - Bayramoğlu Elvan
+AU  - Evliyaoğlu Olcay
+JO  - Turkish archives of pediatrics
+PY  - 2026
+DO  - 10.65717/TurkArchPediatr.2026.26191
+AB  - Adolescent obesity remains a major clinical challenge, with limited effective treatment options beyond lifestyle modification. Liraglutide, a glucagon-like peptide-1 receptor agonist approved for adolescents aged ≥ 12 years, has shown promising results in clinical trials; however, real-world data remain scarce. This study aimed to evaluate the real-world effectiveness and tolerability of liraglutide in adolescents with severe obesity, including weight, body composition, and metabolic outcomes. This retrospective longitudinal cohort study included adolescents with obesity aged 12-19 years who received liraglutide therapy. Anthropometric, biochemical, body composition, and adverse event data were assessed monthly. A total of 29 adolescents with obesity (13 males) were included (mean age: 15.7 ± 2.0 years; mean body mass index (BMI): 38.6 ± 6.0 kg/m2; body mass index standard deviation score (BMI-SDS): 3.38 ± 0.57). - BMI-SDS decreased progressively, with an estimated reduction of 0.46 from baseline to month 6; the decline was numerically faster in the first 3 months than in months 3-6, without reaching statistical significance (P = .11). Lean mass percentage increased and total fat percentage decreased after 3 months (both P < .05). Total cholesterol, fasting insulin, and homeostasis model assessment of insulin resistance decreased significantly, while other metabolic parameters remained unchanged. Gastrointestinal adverse events were common; 3 patients discontinued due to intolerance and 1 due to gallstones. In this real-world cohort, liraglutide treatment was associated with early and clinically meaningful reductions in BMI-SDS and improvements in insulin sensitivity in adolescents with severe obesity. The therapy was generally well tolerated, though gastrointestinal side effects and financial barriers limited treatment persistence. Longer-term prospective studies are needed to assess durability and cardiometabolic outcomes.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43041042/
+ER  - 
+
+TY  - JOUR
+ID  - 43039780
+TI  - Early response to incretin-based obesity pharmacotherapy.
+AU  - Patoulias Dimitrios
+AU  - Conte Caterina
+JO  - Trends in endocrinology and metabolism: TEM
+PY  - 2026
+DO  - 10.1016/j.tem.2026.10.011
+AB  - Early weight loss achieved with incretin-based obesity pharmacotherapy provides prognostic information, but it should not define treatment response. We propose a multidimensional framework that integrates the pattern and magnitude of weight reduction achieved with treatment and its impact on anthropometric and cardiometabolic indices, tolerability, and adherence to phenotype the treatment response to obesity pharmacotherapy.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43039780/
+ER  - 
+
+TY  - JOUR
+ID  - 43039709
+TI  - Tirzepatide Titration to Reduce side Effects (TiTRE) in individuals with obesity: a protocol for a randomised controlled trial.
+AU  - AlOzairi Ebaa
+AU  - Alawadhi Ameenah
+AU  - Alawadhi Ayoub
+AU  - Le Roux Carel
+JO  - BMJ open
+PY  - 2026
+DO  - 10.1136/bmjopen-2026-125338
+AB  - The epidemic of obesity contributes substantially to non-communicable disease burden and mortality. While nutritional and exercise therapies remain effective for some, the majority of patients may need effective pharmacotherapy and surgical options. Tirzepatide, a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist, achieved more than 20% weight loss and improved metabolic outcomes. However, gastrointestinal (GI) adverse events, particularly nausea and vomiting during dose escalation, frequently limit adherence, affecting 65%–84% of patients and leading to discontinuation in some cases. Standard fixed titration schedules fail to account for inter-individual variability in tolerability. Symptom-guided titration may improve adherence by individualising dose escalation but this approach has not been evaluated in randomised trials. This 76-week, open-label, randomised controlled trial will enrol 68 adults with obesity without diabetes. Participants will be randomised (1:1) to either standard per-label tirzepatide titration or a symptom-guided titration strategy allowing dose adjustments based on tolerability. The primary outcome is time to discontinuation of tirzepatide regimen because of adverse effects over 76 weeks, which captures the cumulative impact of all adverse effects. Secondary outcomes include vomiting frequency, the incidence and severity of individual GI and non-GI adverse effects, discontinuation for any reason, adherence and percentage weight change at 76 weeks. Additional exploratory endpoints include cardiometabolic markers and patient-reported outcomes. Analyses will follow the intention-to-treat principle using appropriate comparative statistical methods. The study has received ethical approval from the Ethical Review Committee, Dasman Diabetes Institute (RA HM-2026-06), and will adhere to Good Clinical Practice guidelines. Written informed consent will be obtained from all participants. Findings will be disseminated through peer-reviewed publications and scientific conferences, with the potential to inform patient-centred dosing strategies and improve long-term outcomes in obesity pharmacotherapy. NCT07574723.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43039709/
+ER  - 
+
+TY  - JOUR
+ID  - 43037879
+TI  - A comparative analysis of the safety and tolerability of oral small-molecule versus injectable peptide GLP-1 receptor agonists.
+AU  - Habib Mohammad Asadul
+AU  - Sulieman Amal K
+AU  - Albarq Zahera
+AU  - Lua Pei Lin
+AU  - Tan Ching Siang
+AU  - Ming Long Chiau
+JO  - Endocrine
+PY  - 2026
+DO  - 10.1007/s12020-026-04878-z
+AB  - To compare the safety and tolerability profiles of oral small-molecule glucagon-like peptide-1 receptor agonists (GLP-1RAs) against established injectable peptide GLP-1RAs, with emphasis on orforglipron, the most clinically advanced class member. This narrative review synthesises receptor pharmacology, Phase 3 clinical trial data, network meta-analyses, and regulatory prescribing-information documents for orforglipron; early-phase data for GSBR-1290 and CT-996 are considered separately as hypothesis-generating only. Orforglipron occupies a non-canonical orthosteric pocket and elicits Gs-protein-biased signalling; as a chemically stable small molecule, it also eliminates cold-chain dependence and parenteral administration burden. Gastrointestinal adverse events remain the dominant class-effect liability: in ATTAIN-1, nausea occurred in 33.7% of participants receiving orforglipron 36 mg (investigational capsule dose, equivalent to approved 17.2 mg tablet dose), with adverse-event discontinuation at 10.3%; in ACHIEVE-3, orforglipron produced approximately twice the discontinuation rate of oral semaglutide. The six-step dose-escalation protocol (minimum 30 days per step) is the primary modifiable tolerability variable. Orforglipron undergoes hepatic CYP3A4 metabolism with 87% faecal elimination, introducing hepatic-impairment and drug-interaction liabilities absent for peptides while avoiding renal dose adjustment. Shared class risks include pancreatitis, gallbladder disease, acute kidney injury, and a boxed warning for thyroid C-cell tumour. Orforglipron removes injection, cold-chain and fasting requirements, but its gastrointestinal tolerability is not superior to injectable peptides, and gastrointestinal events were more frequent than with oral semaglutide in direct comparison. Findings should not be extrapolated to other oral small molecules, and although cardiovascular non-inferiority to insulin glargine has now been shown (ACHIEVE-4), placebo-controlled outcome trials are required before cardiovascular or renal benefit can be assumed.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43037879/
 ER  - 
 
 TY  - JOUR
@@ -111,7 +407,7 @@ AU  - Guglielmi Valeria
 JO  - Diabetes & metabolism
 PY  - 2026
 DO  - 10.1016/j.diabet.2026.101807
-AB  - Tirzepatide reduces body weight and improves glycemic control, but real-world comparisons between individuals with obesity with and without type 2 diabetes (T2D) remain limited, as well as the potential influence on weight-loss response of baseline characteristics (especially sex and previous treatment exposure). We aimed to compare anthropometric and metabolic outcomes in these populations, as well as treatment persistence, discontinuation, and the influence of prior GLP-1 receptor agonist (GLP-1 RA) exposure. This retrospective multicenter study included adults with overweight/obesity without T2D (Ob) or with T2D (ObT2D) treated with tirzepatide. Data were collected at baseline and after 2-4 (T1), 5-8 (T2), and 9-15 (T3) months. Longitudinal changes were assessed using linear mixed-effects models, and multivariable analyses identified predictors of weight loss. Ob participants (n=210, 74.8% female) were younger, had higher BMI, better glycemic control, and less previous GLP-1RA exposure than ObT2D participants (n=378, 49.7% female) (45.7% vs 79.3%; p<0.001). Weight loss was greater in Ob than ObT2D at all follow-ups (-5.0% vs -2.8%, -10.1% vs -3.3%, and -14.2% vs -4.7%; all p≤0.011), with mixed-effects models confirming different trajectories. This difference was attenuated and no longer statistically significant when analyses were restricted to treatment-naïve participants. Prior GLP-1RA exposure was independently associated with lower weight loss, while an interaction between prior GLP-1RA exposure and T2D status emerged at longer follow-up. No effect modification by sex or age was clearly detectable in this cohort. Discontinuation was more frequent in Ob, with adverse events, and financial barriers among the main reported reasons. Adverse events occurred in 16.9%, were mainly mild, transient gastrointestinal events, more frequent in Ob than ObT2D (26.9% vs 11.1%; p<0.001). Tirzepatide was effective and well tolerated in routine practice. Greater weight loss occurred in obesity without T2D, while prior GLP-1RA exposure was independently associated with a reduced weight response. Previous GLP1-RA exposure may partly account for the different weight-loss trajectories observed between obesity with and without T2D. Residual differences at longer follow-up may reflect additional unmeasured clinical, metabolic, and treatment-related factors.
+AB  - Tirzepatide reduces body weight and improves glycemic control, but real-world comparisons between individuals with obesity with and without type 2 diabetes (T2D) remain limited, as well as the potential influence on weight-loss response of baseline characteristics (especially sex and previous treatment exposure). We aimed to compare anthropometric and metabolic outcomes in these populations, as well as treatment persistence, discontinuation, and the influence of prior GLP-1 receptor agonist (GLP-1 RA) exposure. This retrospective multicenter study included adults with overweight/obesity without T2D (Ob) or with T2D (ObT2D) treated with tirzepatide. Data were collected at baseline and after 2-4 (T1), 5-8 (T2), and 9-15 (T3) months. Longitudinal changes were assessed using linear mixed-effects models, and multivariable analyses identified predictors of weight loss. Ob participants (n = 210, 74.8% female) were younger, had higher BMI, better glycemic control, and less previous GLP-1RA exposure than ObT2D participants (n = 378, 49.7% female) (45.7%vs 79.3%; p < 0.001). Weight loss was greater in Ob than ObT2D at all follow-ups (-5.0% vs -2.8%, -10.1% vs -3.3%, and -14.2% vs -4.7%; all p ≤ 0.011), with mixed-effects models confirming different trajectories. This difference was attenuated and no longer statistically significant when analyses were restricted to treatment-naïve participants. Prior GLP-1RA exposure was independently associated with lower weight loss, while an interaction between prior GLP-1RA exposure and T2D status emerged at longer follow-up. No effect modification by sex or age was clearly detectable in this cohort. Discontinuation was more frequent in Ob, with adverse events, and financial barriers among the main reported reasons. Adverse events occurred in 16.9%, were mainly mild, transient gastrointestinal events, more frequent in Ob than ObT2D (26.9%vs 11.1%; p < 0.001). Tirzepatide was effective and well tolerated in routine practice. Greater weight loss occurred in obesity without T2D, while prior GLP-1RA exposure was independently associated with a reduced weight response. Previous GLP1-RA exposure may partly account for the different weight-loss trajectories observed between obesity with and without T2D. Residual differences at longer follow-up may reflect additional unmeasured clinical, metabolic, and treatment-related factors.
 UR  - https://pubmed.ncbi.nlm.nih.gov/43020464/
 ER  - 
 
@@ -1659,6 +1955,16 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42806285/
 ER  - 
 
 TY  - JOUR
+ID  - 42805503
+TI  - EASL-EASD-EASO guidance on the use of resmetirom and semaglutide as MASH-targeted therapy.
+JO  - Journal of hepatology
+PY  - 2026
+DO  - 10.1016/j.jhep.2026.08.028
+AB  - Adults with metabolic dysfunction-associated steatotic liver disease (MASLD) and steatohepatitis (MASH) are at risk of cardiometabolic complications and major adverse liver-related outcome (MALO), including cirrhosis, cancer, and liver transplantation. Non-invasive tests (NITs) for hepatic fibrosis, including vibration-controlled transient elastography (VCTE), magnetic resonance elastography (MRE), or enhanced liver fibrosis (ELF) score, can replace liver biopsy to identify patients at high risk of MALOs (e.g. VCTE 10-20 kPa, MRE 3.1-5.0 kPa, or ELF 9.8-11.3), in which pharmacotherapy may be considered. Following approval by regulatory agencies, this joint EASL-EASD-EASO guidance provides updated recommendations for the use of resmetirom (80 mg/100 mg per os) and semaglutide (2.4 mg subcutaneously weekly) in MASH, covering treatment candidate selection, treatment initiation, monitoring, and discontinuation. Pharmacotherapy is recommended for adults with non-cirrhotic MASH and fibrosis stages 2-3 (based on NITs or biopsy), alongside structured lifestyle intervention and optimised comorbidity management. Treatment selection should be individualised according to preferences, potential risks, and cardio-renal-metabolic profile, including presence of obesity, type 2 diabetes (T2D), cardiovascular, and chronic kidney disease. Semaglutide, a glucagon-like peptide-1 receptor agonist (GLP-1RA), may be preferred in adults with obesity or T2D as well as with established cardiovascular disease or high cardiovascular risk because of its cardiometabolic benefits, whereas resmetirom may be prioritised in individuals without obesity or those already receiving or intolerant to GLP-1RAs. Additional recommendations include structured safety and efficacy monitoring such as nutritional and sarcopenia assessment during semaglutide or use of fibrosis NITs for longitudinal response criteria. Ongoing studies are evaluating the long-term effectiveness of both agents to reduce MALOs. In adults with MASH cirrhosis, resmetirom or semaglutide appear safe but should not be used as MASH-targeted treatment, until further data establish liver-related benefits.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42805503/
+ER  - 
+
+TY  - JOUR
 ID  - 42803597
 TI  - Tirzepatide Initiation in Lithium-Treated Bipolar Disorder: Renal Biomarker Trajectories and Lithium Safety Signals Over 12 Months in a Real-World Cohort.
 AU  - Rescalli Maria Beatrice
@@ -2105,6 +2411,34 @@ PY  - 2026
 DO  - 10.1016/j.numecd.2026.104872
 AB  - Overweight and obesity are major global health challenges and key drivers of cardiovascular disease (CVD), yet patients with established CVD and excess body weight remain systematically under-recognized and undertreated. This consensus paper, developed by an Italian multidisciplinary panel of cardiology, endocrinology and obesity experts, aims to characterize the clinical phenotype of CVD patients most likely to benefit from semaglutide therapy, identify barriers to its implementation, and propose patient-centered strategies to optimize treatment pathways. The document reviews the pathophysiological relevance of adiposity in cardiovascular risk, and discusses the evolving diagnostic framework beyond body mass index (e.g., waist-to-height ratio). Evidence from SELECT trial is contextualized to support semaglutide as a disease-modifying therapy with benefits largely independent of weight loss. The expert panel highlights persistent barriers related to reimbursement, organizational limitations, cultural bias, and therapeutic inertia. To address these gaps, a flexible multidisciplinary care model is proposed, centered on systematic patient identification, shared follow-up responsibilities among cardiologists, general practitioners and obesity specialists, structured clinical pathways, and digital or automated tools to reduce missed opportunities for treatment. Emphasis is placed on consistent clinician education and patient empowerment as essential components for long-term adherence and cardiometabolic risk reduction. Integrating semaglutide into routine cardiovascular care requires a coordinated, patient-centered approach supported by specialty networking, aligned educational frameworks, and organizational tools to streamline identification, initiation, and monitoring. Implementing these strategies can strengthen secondary prevention, reduce therapeutic inertia, and ensure that patients with CVD and excess adiposity receive timely, evidence-based, and holistic management.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42469146/
+ER  - 
+
+TY  - JOUR
+ID  - 42203210
+TI  - Efficacy and Acceptability of Liraglutide for Obesity in People With HIV: Results of an Open-Label Clinical Trial in South Africa.
+AU  - Behuhuma Ngundu
+AU  - Gasa Gugulethu
+AU  - Derache Anne
+AU  - Nhlapo Buhle
+AU  - Khumalo Sfundo
+AU  - Lam Megan
+AU  - Mfusi Snenhlanhla
+AU  - Marin Miguel
+AU  - Bird Kristien
+AU  - Venter Willem D F
+AU  - Ali Mohammed
+AU  - Hanekom Willem
+AU  - Bekker Linda-Gail
+AU  - Chandiwana Nomathemba
+AU  - Siedner Mark J
+AU  - Kløverpris Henrik N
+AU  - Lebina Limakatso
+AU  - Manne-Goehler Jennifer
+JO  - Clinical infectious diseases : an official publication of the Infectious Diseases Society of America
+PY  - 2026
+DO  - 10.1093/cid/ciag337
+AB  - In the Liraglutide for Obesity in HIV (LIROH) trial, we evaluated the efficacy and acceptability of liraglutide plus lifestyle counseling on weight and cardiometabolic health markers, along with the effect of discontinuation of therapy, among people with HIV (PWH) and a body mass index (BMI) ≥30 kg/m2 in rural South Africa. From May-September 2024, we enrolled 40 PWH in KwaZulu-Natal in a Phase IV, open-label clinical trial of liraglutide 3.0 mg daily for 12 weeks. Key cardiometabolic health outcomes included changes in weight, waist circumference, and hemoglobin A1c (HbA1c). We also assessed depression, quality of life (QoL), and sleep quality. Finally, we assessed acceptability of the intervention based on enrollment fraction and retention at 12 weeks and 24 weeks. We screened 52 participants, of whom 44 (85%) were eligible and 40 (91%) consented to enroll. Thirty-eight (95%) completed the study, with 2 (5%) discontinuing treatment due to relocation. Participants experienced substantial reductions in weight and waist circumference, and mean HbA1c (weight: -2.9% [-1.0%-4.5%]; waist: -5.6 cm [-8.2 to -2.9]; HbA1c: -0.3% [-0.4 to -0.2]). Moreover, depressive symptoms, sleep quality, and psychological QoL all improved significantly with treatment. Weight and waist circumference rebounded significantly off treatment. The changes in depression, sleep quality, and QoL were negligible post-treatment. This trial is among the first studies of GLP-1 RAs in Southern Africa and demonstrates that this class for obesity treatment among PWH in this region has efficacy to improve metabolic health and that the study intervention was acceptable in this population.
+UR  - https://pubmed.ncbi.nlm.nih.gov/42203210/
 ER  - 
 
 TY  - JOUR

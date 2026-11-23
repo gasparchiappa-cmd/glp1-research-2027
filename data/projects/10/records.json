@@ -17,6 +17,93 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "43055289",
+    "title": "Development of a novel neuronal phenotypic in vitro model of familial Alzheimer's disease using the human neuroblastoma-derived immortalized SH-SY5Y cell line.",
+    "authors": [
+      "Barro Mateo",
+      "Martínez Antón L",
+      "Moreira David",
+      "Cosme Neila",
+      "Asensio Magdalena",
+      "Brea José",
+      "Loza María Isabel"
+    ],
+    "journal": "Journal of Alzheimer's disease : JAD",
+    "year": "2026",
+    "doi": "10.1177/13872877261506370",
+    "abstract": "BackgroundAlzheimer's disease (AD) is the most prevalent neurodegenerative disorder and the leading cause of dementia. Despite its undeniable effect on current society, it remains one of the diseases for which clinical trials have the highest failure rate, and therapeutic interventions remain palliative, thus creating an unmet demand to develop translational models that can accelerate pre-clinical drug discovery.ObjectiveWe aimed to develop a scalable neuronal phenotypic model using differentiated SH-SY5Y cells with mature neuronal phenotypes.MethodsSH-SY5Y were differentiated by exposure to either retinoic acid and phorbol 12-myristate 13-acetate or retinoic acid and GLP-1. Cells differentiated with retinoic acid and GLP-1 were transfected with APP V717I and MAPT P301L mutants. Mutation-induced morphological alterations were measured by immunocytochemistry and neuron activation through intracellular calcium accumulation.ResultsTransfection induced alterations, including reduced cell densities, neurite lengths, and dendritic arborization, together with increase of amyloid-β (Aβ) aggregation and ROS activity, which are compatible with the neurodegenerative changes observed in AD. A physiological assay based on intracellular calcium imaging revealed hypoexcitability in transfected cultures, suggesting a neurodegenerative process compatible with the later stages of the disease. Treatment of cell cultures with the reference neuroprotective compounds melatonin and resveratrol exerted a significant restorative effect on the morphophysiological variables studied.ConclusionsTherefore, we introduce a novel, miniaturized, and automatable in vitro AD model that enables studies on the neurodegenerative mechanisms related to the disease and supports high-throughput screening assays for pre-clinical drug discovery.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055289/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43054852",
+    "title": "The Growing Role of Glucagon-Like Peptide-1 Receptor Agonists in Neuropsychiatry.",
+    "authors": [
+      "Buyuksandalyaci Tunc Ece",
+      "Park Mary",
+      "Kansara Rudra",
+      "Paul Shristi",
+      "Grysman Noam",
+      "Grossberg George T"
+    ],
+    "journal": "Clinical pharmacology : advances and applications",
+    "year": "2026",
+    "doi": "10.2147/CPAA.S580850",
+    "abstract": "The co-occurrence of metabolic and psychiatric disorders poses a major challenge in medicine, and glucagon-like peptide-1 receptor agonists (GLP-1RAs) have emerged as candidates for neuropsychiatric repurposing given the wide distribution of glucagon-like peptide-1 (GLP-1) receptors in brain regions governing mood, cognition, and reward. This narrative review summarizes central and peripheral mechanisms linking GLP-1 signaling to neuropsychiatric outcomes, critically appraises clinical evidence across psychiatric and neurodegenerative domains, and proposes a framework for integrating GLP-1RAs into neuropsychiatric care. A targeted search of PubMed/MEDLINE and ClinicalTrials.gov (January 2015-August 2026) prioritized randomized controlled trials, meta-analyses, and prospective cohorts reporting neuropsychiatric outcomes. Four converging mechanisms- neuroinflammation, metabolic-vascular neuroprotection, synaptic plasticity, and mesolimbic reward modulation- underpin this rationale. The strongest and most clinically actionable evidence supports GLP-1RA use for antipsychotic-induced metabolic dysfunction, with trials in clozapine/olanzapine-treated patients showing substantial weight loss and glycemic normalization without psychiatric worsening or altered clozapine levels. By contrast, in Alzheimer's disease, despite consistent observational signals of 33-53% dementia risk reduction, Phase 3 EVOKE/EVOKE+ trials found no benefit of oral semaglutide in early symptomatic disease despite biomarker engagement, favoring a prevention- rather than treatment-focused framework. Evidence in Parkinson's disease and major depressive disorder remains more limited: motor benefit in Parkinson's disease appears restricted to short-acting agents, with the largest phase 3 trial negative, while broad antidepressant efficacy is unsupported, although semaglutide improved effort-based decision-making in anhedonic, metabolically burdened patients. Additional signals exist for alcohol use disorder, binge eating disorder, and obstructive sleep apnea. Psychiatric safety appears reassuring across meta-analyses of over 133,000 participants, though exclusion of psychiatric populations from pivotal trials limits generalizability. Current evidence supports selective, investigational use of GLP-1RAs in neuropsychiatric care- most robustly for antipsychotic-induced metabolic dysfunction- rather than generalized repurposing, pending adequately powered trials with neuropsychiatric endpoints, structured monitoring, and equitable access strategies.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054852/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43052179",
+    "title": "Association of Newer Glucose-Lowering Medications and Phenoconversion From REM Sleep Behaviour Disorder to Parkinsonian Disorders in Older Adults with Type 2 Diabetes.",
+    "authors": [
+      "Presti Michael F",
+      "Kotecha Pareeta",
+      "Lahijani Majid",
+      "Vallaincourt David",
+      "Jaffee Michael",
+      "Okun Michael S",
+      "Ramirez-Zamora Adolfo",
+      "Mehrad Borna",
+      "Donahoo William T",
+      "Bian Jiang",
+      "Guo Jingchuan"
+    ],
+    "journal": "Journal of sleep research",
+    "year": "2026",
+    "doi": "10.1111/jsr.70490",
+    "abstract": "It has been estimated that as many as 90% of patients with isolated REM behaviour disorder (iRBD) develop an α-synucleinopathy, yet there are currently no treatments proven to prevent or to delay phenoconversion. This study evaluated the association between glucose-lowering drug classes and incident Parkinson's disease (PD), parkinsonism, and dementia with Lewy bodies (DLB) among older adults with RBD and type 2 diabetes (T2D). We conducted a target trial emulation using a retrospective active-comparator new-user design with 2016-2020 Medicare fee-for-service claims data amongst beneficiaries ≥ 66 years with RBD and T2D and atleast 12 months of continuous enrollment before treatment initiation. We identified initators of glucagon-like peptide-1 receptor agonists (GLP-1RAs), dipeptidyl peptidase-4 inhibitors (DPP-4is) or sodium-glucose cotransporter-2 inhibitors (SGLT-2is). Patients with prior use of either drug during the 12-month baseline period or initiation of both drugs on the index date were excluded. Hazard ratios for incident PD, parkinsonism or DLB were estimated using Cox proportional hazards models with stabilized inverse probability of treatment weighting. Hazard ratios were estimated using Cox proportional regression models with inverse probability of treatment weighting. A total of 148, 144 and 138 patients were included in the GLP-1RA versus DPP-4i, GLP-1RA versus SGLT-2i and SGLT-2i versus DPP-4i cohorts, respectively. Compared with DPP-4i use, GLP-1RA use was associated with a lower risk of PD (HR, 0.02; 95% CI, 0.001-0.20), parkinsonism (HR, 0.08; 95% CI, 0.01-0.96) and the PD or parkinsonism composite (HR, 0.11; 95% CI, 0.01-0.83), but not DLB (HR, 0.45; 95% CI, 0.04-5.37). Similarly, compared with DPP-4i use, SGLT-2i use was associated with a lower risk of PD (HR, 0.03; 95% CI, 0.001-0.97), parkinsonism (HR, 0.02; 95% CI, 0.001-0.87), and their composite (HR, 0.02; 95% CI, 0.001-0.86), but not DLB (HR, 0.94; 95% CI, 0.17-5.17). No statistically significant differences were observed between GLP-1RA and SGLT-2i users. Amongst older adults with RBD and T2D, the risk of incident PD and parkinsonism differed by class of GLDs. Use of GLP-1RAs or SGLT-2is was associated with a lower risk of PD and parkinsonism compared with DPP-4is, while no significant differences were observed for DLB. No statistically significant differences were observed between GLP-1RAs and SGLT-2is. These findings warrant confirmation in studies with longer follow-up and larger sample sizes.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43052179/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43042026",
+    "title": "Vascular risk in dementia; underappreciated but tractable.",
+    "authors": [
+      "Markus Hugh S"
+    ],
+    "journal": "Cerebral circulation - cognition and behavior",
+    "year": "2026",
+    "doi": "10.1016/j.cccb.2026.100572",
+    "abstract": "Vascular contributions to dementia are substantial but remain under-recognised, and vastly underfunded relative to Alzheimer's disease. This commentary discusses the recently published World Stroke Organisation Scientific statement on the vascular contribution to dementia, in which a multidisciplinary panel of global experts review the different ways in which vascular risk contributes to dementia, and highlights opportunities for prevention and treatment. Vascular cognitive impairment encompasses both post-stroke cognitive impairment and chronic cerebral small vessel disease which is the commonest vascular pathology underlying dementia. Cerebrovascular disease, particularly cerebral small vessel disease also interacts with Alzheimer's disease pathology to increase the chance that Alzheimer's disease pathology will result in clinical dementia. Evidence from randomised controlled trials demonstrates that intensive blood pressure control can reduce all-cause dementia, supporting vascular risk modification as a feasible preventive strategy to reduce not only vascular dementia, but also all cause dementia. Recent insights into the pathogenesis of cerebral small vessel disease are generating new potential therapeutic targets. These include impaired cerebral autoregulation, endothelial dysfunction, extracellular matrix disruption and blood brain barrier permeability, glymphatic dysfunction, and neuroinflammation. Ongoing trials are evaluating vasodilators, PDE5 inhibitors, neuroprotective agents, GLP-1 agonists, and remote ischaemic conditioning. Greater research investment is required to translate these mechanistic advances into effective future therapies. Despite its importance vascular dementia is markedly underfunded compared with Alzheimer's disease. For example, in the United States in 2025 the National Institute of Health (NIH) spent $3.62 billion on Alzheimer's disease research, compared with $0.49 billion on vascular dementia. Similar inequalities are seen in many other counties worldwide, despite the fact that cerebrovascular disease accounts for about 30% of all dementia [4]. A concerted effort from governments, academic institutions, researchers, and particularly funders, worldwide is required to increase research, and develop new treatments, for this important condition.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43042026/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "43025540",
     "title": "Neuroprotective actions of GLP-1 receptor agonists in Neurodegeneration: From mechanisms to clinical translation.",
     "authors": [

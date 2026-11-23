@@ -51,9 +51,371 @@
     "abstract": "Obesity and chronic kidney disease (CKD) are potent risk factors for atrial fibrillation (AF), yet whether GLP-1 receptor agonists (GLP-1RAs) prevent incident AF in non-diabetic adults with obesity and CKD is unexamined. We assessed whether GLP-1RA therapy reduces 1-year AF incidence in this cardiorenal phenotype. Using the TriNetX US Collaborative Network (66 healthcare organizations), we conducted a retrospective target trial emulation of non-diabetic adults aged 18 or older with obesity and CKD stages 3-5 diagnosed 2021-2024. Patients receiving semaglutide, liraglutide, or tirzepatide (n = 10,985) were compared with unexposed patients (n = 94,527). After propensity score matching, 7326 patients remained per cohort. The primary outcome was incident AF at 1 year; secondary outcomes included AF subtypes, ventricular tachyarrhythmias, and all-cause hospitalization. Cox models generated hazard ratios (HRs); sensitivity analyses extended follow-up to 2-3 years with landmark analyses. At 1 year, GLP-1RA use was associated with significantly lower incident AF (1.63% vs. 2.62%; HR 0.655, 95% CI 0.508-0.844; p = 0.001), a 34.5% relative risk reduction. Reductions were consistent for paroxysmal (HR 0.586), persistent (HR 0.482), and longstanding persistent AF (HR 0.527; all p < 0.05); permanent AF was non-significant at 1 year. Ventricular tachyarrhythmias (HR 0.556; p = 0.002) and hospitalization (HR 0.668; p < 0.001) were also significantly reduced. Benefits persisted across 2- and 3-year follow-up and remained consistent in landmark analyses. In non-diabetic adults with obesity and CKD, GLP-1RA therapy was associated with significant, durable reductions in incident AF, ventricular arrhythmias, and hospitalization. These findings are consistent with a possible cardiorenal benefit and support prioritizing this phenotype for dedicated randomized trials.",
     "publication_types": [
       "Journal Article",
-      "Multicenter Study"
+      "Multicenter Study",
+      "Observational Study"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42892471/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43070923",
+    "title": "Kidney Effect of Tirzepatide in Pediatric Type 2 Diabetes.",
+    "authors": [
+      "Bjornstad Petter",
+      "Hannon Tamara S",
+      "Maldonado Juan M",
+      "Ranta Kari",
+      "Pamidipati Karthik Chandrasekhar",
+      "Patel Hiren",
+      "Bergman Brandon K"
+    ],
+    "journal": "Diabetes care",
+    "year": "2026",
+    "doi": "10.2337/dc26-1647",
+    "abstract": "To assess the effect of tirzepatide on kidney parameters in youth-onset type 2 diabetes. In this SURPASS-PEDS analysis, estimated glomerular filtration rate (eGFR) and albuminuria were assessed in 99 participants (aged 10 to <18 years) treated with tirzepatide or placebo. At baseline, 18% of participants exhibited hyperfiltration (mean eGFR 142 vs. 104 mL/min/1.73 m2 in normofiltration), and 26% had a urine albumin-to-creatinine ratio ≥30 mg/g. Tirzepatide (pooled) reduced eGFR, with more than twofold greater reductions in participants with baseline hyperfiltration versus normofiltration at week 30 (-20.2 vs. -8.4 mL/min/1.73 m2; both P < 0.05 vs. placebo). The proportion of participants with hyperfiltration decreased with tirzepatide and increased with placebo (P < 0.05 for pooled tirzepatide vs. placebo). At week 30, fewer participants had albuminuria across all treatment groups. Tirzepatide decreased eGFR in youth with type 2 diabetes and normal to elevated eGFR, an effect primarily ascribed to the attenuation of glomerular hyperfiltration.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070923/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43069406",
+    "title": "Cutaneous Adverse Reactions Associated with Modern Antidiabetic Therapies: A Narrative Review.",
+    "authors": [
+      "Cutuli Fabrizia",
+      "Borgia Francesco",
+      "Vaccaro Mario",
+      "Li Pomi Federica"
+    ],
+    "journal": "Dermatology and therapy",
+    "year": "2026",
+    "doi": "10.1007/s13555-026-01982-w",
+    "abstract": "Modern antidiabetic therapies have transformed the management of type 2 diabetes mellitus (T2DM), while their expanding use has been accompanied by increasing recognition of cutaneous adverse reactions. This narrative review critically examines the dermatologic safety profiles of sodium-glucose cotransporter-2 (SGLT2) inhibitors, dipeptidyl peptidase-4 (DPP-4) inhibitors, glucagon-like peptide-1 receptor agonists (GLP-1 RAs), and the dual glucose-dependent insulinotropic polypeptide (GIP) /GLP-1 receptor agonist tirzepatide, with emphasis on the strength of evidence supporting individual drug-event associations. A targeted search of PubMed/MEDLINE, Scopus, and Google Scholar was conducted through September 2026, encompassing clinical trials, observational and pharmacovigilance studies, systematic reviews, case series, and case reports. DPP-4 inhibitor-associated bullous pemphigoid (BP) represents the most consistently supported drug-disease association, with the strongest signals reported for vildagliptin and linagliptin. For SGLT2 inhibitors, genital mycotic infections are the best-established mucocutaneous adverse event, whereas most inflammatory and immune-mediated reactions remain supported by lower-level evidence. For GLP-1 RAs, injection-site reactions are the most well-characterized cutaneous adverse events, while rare hypersensitivity, inflammatory, and autoimmune eruptions have also been described. The cutaneous safety profile of tirzepatide remains comparatively less well characterized. Alopecia has emerged as a clinically relevant signal with semaglutide and tirzepatide, with recent pooled evidence supporting an association with non-scarring alopecia; however, causality and the contribution of rapid weight loss remain uncertain. Overall, the assessment of suspected drug-related dermatoses should consider the strength of evidence supporting the drug-event association, alternative causes, concomitant medications, and the clinical consequences of treatment withdrawal.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43069406/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43069381",
+    "title": "Lower urinary tract events reported with GLP-1 receptor agonists: a disproportionality analysis of FAERS and Canada Vigilance.",
+    "authors": [
+      "Selimoğlu Ahmet",
+      "Türk Akif",
+      "Ucdal Mete"
+    ],
+    "journal": "International urology and nephrology",
+    "year": "2026",
+    "doi": "10.1007/s11255-026-05499-1",
+    "abstract": "Rapid weight loss with GLP-1 receptor agonists removes lean mass, and whether this weakens the pelvic floor and causes incontinence is under prospective study. We examined lower urinary tract event reporting and whether its patterns fit a pelvic floor or diabetic bladder explanation. Disproportionality analysis of FAERS with replication in Canada Vigilance, using diabetes and obesity drug comparators, adjusted reporting odds ratios (ROR), SGLT2 inhibitors as positive control and a sensitivity analysis without them, and exploratory analyses of indication, brand, dose, onset and co-reported terms. The GLP-1 receptor agonist class was not disproportionately reported with lower urinary tract events in FAERS or Canada Vigilance (adjusted ROR 0.43 and 0.50). With SGLT2 inhibitor comparators, semaglutide was neutral for the composite (0.94, 95%CI 0.85-1.04), with an incontinence signal in women (1.44, 1.14-1.81). Without them, semaglutide and DPP-4 inhibitors showed excess reporting of several urinary outcomes, tirzepatide did not. Semaglutide incontinence was reported less often with obesity than diabetes use (OR 0.66, 0.34-1.28) and with Wegovy than Ozempic (0.64, 0.36-1.16), neither significant after correction, did not rise with dose, and was co-reported with urinary tract infection, other urinary symptoms and, in six reports, muscle weakness. No class-level excess reporting was detected. Semaglutide findings depended on the comparator set, and DPP-4 inhibitors shared its incontinence signal without SGLT2 comparators. The pattern is compatible with diabetes-related urinary morbidity, but exploratory data cannot separate this from pelvic floor weakening, confounding or reporting artefacts.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43069381/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43063617",
+    "title": "Beyond weight loss: GLP-1-based therapies and the reversal of type 2 diabetes pathophysiology.",
+    "authors": [
+      "Rossatto Thales",
+      "de Andrade Oliveira Ricardo",
+      "Manica Aline",
+      "Cardoso Andréia Machado"
+    ],
+    "journal": "Journal of diabetes and its complications",
+    "year": "2026",
+    "doi": "10.1016/j.jdiacomp.2026.109453",
+    "abstract": "Glucagon-like peptide-1 (GLP-1)-based therapies have transformed the treatment of type 2 diabetes (T2D), producing substantial improvements in glycemic control and, with newer agents, unprecedented reductions in body weight. However, their effects extend beyond these conventional outcomes and include reductions in visceral and hepatic fat, improved insulin sensitivity, attenuation of glucolipotoxicity, and enhancement of β-cell function. These actions overlap with mechanisms implicated in the reversal of T2D following substantial weight loss, raising the possibility that GLP-1-based therapies may modify the underlying pathophysiology of the disease rather than simply control its metabolic manifestations. In this review, we integrate evidence linking ectopic fat accumulation, hepatic insulin resistance, altered lipid trafficking, oxidative and inflammatory stress, and β-cell dysfunction with the development and reversibility of T2D. We then examine how GLP-1 receptor agonists and dual GIP/GLP-1 receptor agonism remodel these metabolic and cellular abnormalities and discuss whether such changes may facilitate β-cell functional recovery. Particular attention is given to the distinction between treatment-induced normoglycemia and medication-free remission. Although current evidence indicates that GLP-1-based therapies can profoundly modify the diabetic metabolic phenotype, durability after treatment withdrawal remains uncertain. We propose that the potential for disease modification may depend on the interaction between the magnitude of metabolic unloading and residual β-cell functional reserve. Prospective withdrawal studies incorporating detailed assessments of β-cell function, insulin sensitivity, and ectopic adiposity are needed to determine whether early and profound incretin-based intervention can translate metabolic normalization into durable, medication-independent remission of T2D.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063617/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43063527",
+    "title": "Cancer risk with glucagon-like peptide-1 receptor agonists: An umbrella review of meta-analyses.",
+    "authors": [
+      "Petrelli Fausto",
+      "Meregalli Giancarla",
+      "Berzi Denise",
+      "Nicolì Francesca",
+      "Viglino Francesca",
+      "Della Pepa Giuseppe",
+      "Indovina Francesco",
+      "Dalmiglio Cristina",
+      "Forloni Franco",
+      "Bossi Antonio",
+      "D'Alessio Andrea",
+      "Ghidini Antonio"
+    ],
+    "journal": "Cancer epidemiology",
+    "year": "2026",
+    "doi": "10.1016/j.canep.2026.103273",
+    "abstract": "Use of glucagon-like peptide-1 receptor agonists (GLP-1RAs) for diabetes and obesity is increasing, but effects on uncommon or long-latency cancers are uncertain. We synthesised meta-analytic evidence for overall and site-specific cancer risk and assessed methodological quality, overlap, outcome-level certainty, and credibility. We searched PubMed, Embase, and the Cochrane Library from inception to 30 June 2026 for meta-analyses of GLP-1RAs or the dual GIP/GLP-1 receptor agonist tirzepatide and incident cancer. Randomised and observational evidence was considered separately; review-level estimates were not recombined. We assessed methodological confidence with AMSTAR 2, overlap with corrected covered area (CCA), outcome-level certainty with a GRADE-informed algorithm, and association credibility with Ioannidis criteria. We included 38 meta-analyses from 2012 to 2026. The most comprehensive placebo-controlled randomised evidence (48 trials, 94 245 participants, median follow-up 70 weeks) showed no statistically significant association with thyroid cancer (odds ratio [OR] 1·37, 95% CI 0·82-2·31; 1 fewer to 9 more cases per 10 000 treated), pancreatic cancer (0·84, 0·53-1·35), colorectal cancer (1·11, 0·75-1·65), or breast cancer (0·95, 0·60-1·49), and no overall cancer increase (OR 1·05, 0·98-1·13 across 50 trials). Thyroid and agent-specific haematological signals were inconsistent or based on sparse events; between-review discordance for thyroid and colorectal cancer was largely attributable to comparator restriction, choice of estimator, and handling of zero-event trials rather than to differences in cancer ascertainment. Observational syntheses suggested lower hepatocellular carcinoma risk (hazard ratio 0·60, 95% CI 0·41-0·88), but four reviews had very high overlap (CCA 50·0%). Outcome-level certainty was moderate for five outcomes, low for 11, and very low for five; none was high. No association met class I or II credibility criteria. Randomised evidence shows no evidence of a material increase in overall or site-specific cancer risk over currently observed trial durations (median about 70 weeks, maximum about 5 years), and cancer concerns alone do not justify withholding indicated GLP-1RA treatment. Small, rare, long-latency, dose-specific, or agent-specific effects cannot be excluded, and the evidence cannot address exposure beyond approximately five years, well short of the 8-10 years generally required to evaluate cancer incidence. Observational protective associations should not support causal or cancer-prevention claims. None.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063527/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43059008",
+    "title": "Glucagon-Like Peptide-1 Agonists or Tezepelumab for Obesity-Associated Asthma: A Cohort Study.",
+    "authors": [
+      "Staggers Kristen A",
+      "Minard Charles",
+      "McCormack Meredith C",
+      "Cahill Katherine N",
+      "Wu Tianshi David"
+    ],
+    "journal": "American journal of respiratory and critical care medicine",
+    "year": "2026",
+    "doi": "10.1093/ajrccm/aamag613",
+    "abstract": "Obesity is associated with poor asthma outcomes. GLP-1 and dual GLP-1/GIP receptor agonists induce weight loss and dampen airway inflammation independent of pathways currently targeted by biologics. To compare differences in respiratory outcomes and weight loss between GLP-1-based medications and tezepelumab in asthma patients without diabetes. A retrospective study was performed in a multi-institutional electronic health record database. Patients with specialist-treated, obesity-associated, moderate-to-severe asthma with at least one severe exacerbation in the prior year who initiated liraglutide, semaglutide, tirzepatide, or tezepelumab between January 1, 2022 and December 31, 2025 were identified. Prevalent diabetes was excluded. Patients were followed for subsequent exacerbations, rescue inhaler prescriptions, respiratory-related healthcare encounters, and time to greater than 10% loss in body mass index. Overlap weighting accounted for imbalance in baseline asthma and obesity characteristics. 2779 patients were identified, of whom 133 initiated liraglutide, 1770 semaglutide, 472 tirzepatide, and 404 tezepelumab. In weighted estimates, patients starting tirzepatide experienced a lower hazard of severe exacerbation compared to tezepelumab (weighted hazard ratio [wHR] 0.41; 95% confidence interval [CI] 0.24-0.70); those starting semaglutide had a similar hazard (wHR 0.99; 95% CI 0.70-1.39). Tirzepatide and semaglutide initiators attained >10% reduction in BMI sooner, had less need for rescue inhalers, and had fewer subsequent respiratory-related encounters compared to tezepelumab. GLP-1-based medications, and in particular dual-incretin GLP-1/GIP receptor agonists, may have comparable effectiveness to biologic therapy among patients with associated obesity without diabetes. Clinical trials are necessary to validate findings in this observational study.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059008/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43058312",
+    "title": "Managing post-bariatric weight recurrence with new obesity management medications.",
+    "authors": [
+      "Masi Davide",
+      "De Domenico Francesco",
+      "Zanghi Buffi Valeria",
+      "Tozzi Rossella",
+      "Cipriani Valentina",
+      "Di Gioia Ludovico",
+      "Di Molfetta Sergio",
+      "Caruso Irene",
+      "Cipriani Fiammetta",
+      "De Luca Maurizio",
+      "Castagneto-Gissey Lidia",
+      "Perrini Sebastio",
+      "Gianfrilli Daniele",
+      "Isidori Andrea Marcello",
+      "Giorgino Francesco",
+      "Mingrone Geltrude",
+      "le Roux Carel W",
+      "Manfrini Silvia",
+      "Clément Karine",
+      "Watanabe Mikiko",
+      "Tuccinardi Dario"
+    ],
+    "journal": "Nature reviews. Endocrinology",
+    "year": "2026",
+    "doi": "10.1038/s41574-026-01324-y",
+    "abstract": "Recurrent weight gain (RWG) following metabolic and bariatric surgery (MBS) represents a major challenge in the long-term management of obesity and is distinct from insufficient weight loss and suboptimal clinical response, which reflect a primary inadequate response. RWG is defined as regain of ≥25% of the maximum weight lost, assessed ≥24 months after surgery. It affects approximately 35% of patients within 5 years of sleeve gastrectomy and approximately 15% within 5 years after Roux-en-Y gastric bypass. With longer follow-up, the number of affected patients rises to about one-third. RWG is multifactorial: genetic predisposition, preoperative metabolic phenotype, inadequate or failed surgical anatomy, and neurohormonal and adipose tissue adaptations interact over time to cause it, and no single variable accounts for it. Randomized evidence indicates that the operation itself is a determinant of long-term response: Roux-en-Y gastric bypass elicits greater postprandial GLP1 secretion, more durable weight loss and higher rates of type 2 diabetes mellitus remission than sleeve gastrectomy, so procedure selection warrants as much attention as postoperative management. Treatment should therefore be specific to phenotype and procedure, escalating from lifestyle optimization to obesity management medications, endoscopic revision and revisional surgery, if needed. Randomized data now support semaglutide after MBS, whereas evidence for tirzepatide, combined endoscopic-pharmacological strategies, or treatment sequencing remains observational and real-world adherence is a major constraint. Multimodal, integrated approaches combining behavioural, pharmacological and surgical strategies could help to improve treatment strategies for patients who experience RWG. This Review discusses the factors that contribute to RWG after MBS, considerations for clinical management of RWG, and questions that future research should aim to address to improve and maintain weight loss and other clinical outcomes after MBS. The Review also discusses clinical approaches to insufficient weight loss and suboptimal clinical response after MBS.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43058312/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43058082",
+    "title": "Testosterone Added to Incretin Therapy in Men With Overweight or Obesity: A Systematic Review of Body Composition Evidence and Gaps.",
+    "authors": [
+      "Bruna-Mejías Alejandro",
+      "Valenzuela-Fuenzalida Juan José",
+      "Oyanedel Gustavo",
+      "Jeria-Pizarro Yasna",
+      "Cabezas-Salgado Juan José",
+      "Orellana-Donoso Mathias",
+      "Cifuentes-Suazo Gloria",
+      "Blackwood-Espinoza Christopher",
+      "Loro-Ferrer Juan Francisco"
+    ],
+    "journal": "Diabetes, obesity & metabolism",
+    "year": "2026",
+    "doi": "10.1111/dom.71565",
+    "abstract": "To characterize body-composition evidence and muscle and safety gaps for testosterone replacement therapy (TRT) added to incretin treatment in men with overweight or obesity and hypogonadism. PROSPERO CRD420261489220. Seven databases and two registries were searched through 4 September 2026; citations were checked on 10 September. Eligible studies compared concurrent TRT with a comparable incretin regimen without TRT or examined baseline androgen status longitudinally. The original eight reports underwent independent assessment. Following joint initial screening, 300 randomly sampled units were independently rescreened. ROBINS-I, RoB 2 and GRADE informed synthesis by design and outcome. Two reports provided non-equivalent body-composition outcomes with very low certainty. Neither established incremental TRT benefit. In a nonrandomized pilot (five men per group), the final DXA lean-mass difference was +2.70 kg (exploratory, unadjusted 95% CI -1.75 to +7.15); the descriptive difference in changes was +2.1 kg, with change-score dispersion unavailable. A randomized conference report (266 men across five arms; comparison-arm sizes unavailable) attributed 26% versus 38% of weight loss to fat-free mass with versus without TRT. These observations do not corroborate a common biological effect. No usable TRT-specific strength, function or safety comparisons or eligible baseline-androgen analyses were identified. Two unclassified registry entries limit completeness. Available evidence does not establish incremental TRT benefit for body composition or muscle outcomes. Missing functional and safety evidence remains a central gap. TRT solely for lean-tissue preservation is unsupported.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43058082/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43058048",
+    "title": "Effects of a Prebiotic Functional Soda on Gastrointestinal Symptoms in Adults Receiving GLP-1-Based Therapy for Weight Management: A Randomized Controlled Pilot Trial.",
+    "authors": [
+      "Grant Azure D",
+      "McCormick Courtney",
+      "Bolster Douglas",
+      "Babazadeh Demsina",
+      "Erfe Marie Crisel B",
+      "Doshi Megha",
+      "Saldaña Brenda",
+      "Craft Noah"
+    ],
+    "journal": "Diabetes, obesity & metabolism",
+    "year": "2026",
+    "doi": "10.1111/dom.71538",
+    "abstract": "Gastrointestinal (GI) adverse effects are common during glucagon-like peptide-1 (GLP-1)-based therapy and may negatively affect quality of life (QOL) and treatment persistence. This pilot evaluated the effects of daily consumption of a prebiotic functional soda on GI symptom burden in adults who recently initiated GLP-1-based therapy for weight management. In this open-label, randomized controlled pilot, 80 adults receiving semaglutide or tirzepatide for weight management and experiencing at least one GI symptom were randomized 1:1 to consume a prebiotic functional soda (OLIPOP; 1 can/day, with the option of 2 cans/day) for 4 weeks or continue their usual free-living fluid intake. The primary outcome was change in Gastrointestinal Symptom Rating Scale (GSRS) total score. Secondary outcomes included GSRS subscales, health-related QOL (SF-36), stool characteristics and frequency, appetite and cravings, dietary intake and GI rescue medication use. Sixty-eight participants completed the study (intervention, n = 36; control, n = 32). GSRS total score decreased significantly more with the prebiotic functional soda than control (adjusted least-squares [LS] mean change, -0.931 vs. -0.405; between-group difference, -0.526 [95% CI: -0.713 to -0.339]; p < 0.001). Greater reductions were observed for constipation, abdominal pain and indigestion relative to control. The group difference in overall SF-36 scores was also significant (p = 0.037). Four weeks of daily prebiotic functional soda consumption was associated with greater reductions in participant-reported GSRS scores compared with usual fluid intake among adults receiving GLP-1-based therapy for weight management. These preliminary findings warrant confirmation in larger, blinded trials using a matched beverage control. ClinicalTrials.gov Identifier: NCT07744360.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43058048/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43055718",
+    "title": "Optimizing the management of obstructive sleep apnea with pharmacotherapy.",
+    "authors": [
+      "Bird Elizabeth Michelle",
+      "Schmickl Christopher N",
+      "Lam Michael Tun Yin",
+      "Malhotra Atul"
+    ],
+    "journal": "Expert review of clinical pharmacology",
+    "year": "2026",
+    "doi": "10.1080/17512433.2026.2764156",
+    "abstract": "Obstructive sleep apnea (OSA) affects up to 1 billion people worldwide. Despite availability of continuous positive airway pressure (CPAP) therapy as the main treatment modality, a need for additional pharmacologic agents remains. Pharmacologic therapies can help improve patient symptoms of sleepiness and address the underlying mechanisms (endotypes) of disordered breathing in patients with OSA. Potential pharmacologic target therapy of the four main OSA endotypes, airway collapsibility, poor upper airway muscle dilation, high loop gain, and low arousal threshold, are reviewed. Medications to help with daytime sleepiness are also discussed. Both original research and review articles spanning 2000 to 2026 are included in this review. Published articles were identified through PubMed and in-progress studies were identified through field experts. The current landscape of pharmacologic options for OSA is very exciting, especially with the expansion in number of agents addressing obesity that also help improve airway collapsibility. However, many of these therapies (apart from anti-obesity medications and medications for daytime sleepiness) are still experimental. Further evaluation is required before many of these pharmacologic agents are officially approved for use with or without CPAP. Agents addressing specific endotypes will pave the way for more personalized OSA treatment.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055718/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43047647",
+    "title": "Case Report: Resolution of severe hypertriglyceridemia and cessation of exogenous insulin during ketogenic-range therapeutic carbohydrate reduction, insulin deprescribing, and tirzepatide.",
+    "authors": [
+      "Calkins Matthew",
+      "Buchanan Laura",
+      "Dudzinski Austin",
+      "Wageman Joshua"
+    ],
+    "journal": "Frontiers in nutrition",
+    "year": "2026",
+    "doi": "10.3389/fnut.2026.1960774",
+    "abstract": "Severe hypertriglyceridemia [sHTG; triglycerides ≥500 mg/dL (SI: ≥5.65 mmol/L)] is conventionally managed with dietary fat restriction, but in insulin-resistant type 2 diabetes mellitus (T2DM) low-fat diets may increase carbohydrate intake and worsen dysglycemia. A 51-year-old woman with persistent sHTG, five episodes of pancreatitis, T2DM requiring 210 units of insulin daily, and a body mass index of 27.5 kg/m2 was evaluated. Despite two decades of low-fat counseling and multidrug therapy, fasting triglycerides were 860 mg/dL (SI: 9.71 mmol/L), hemoglobin A1c 7.1% (SI: 54 mmol/mol), glucose management indicator (GMI) 8.3%, and continuous glucose monitoring (CGM) time in range (TIR) 35%. She was prescribed therapeutic carbohydrate reduction (TCR), a whole-food eating pattern delivered as a written food list designed to provide fewer than 20 g/day of carbohydrate (approximately 5% of energy, within the ketogenic range); intake was not quantified and ketones were not measured. A chylomicronemia gene panel identified no pathogenic variants, consistent with probable multifactorial chylomicronemia syndrome (MCS). At 1 month, after initiation of carbohydrate reduction with concurrent CGM-guided reduction of insulin from 210 to 20 units/day, with no other medication change and before tirzepatide, triglycerides had fallen 49.5% to 434 mg/dL (SI: 4.90 mmol/L), GMI to 7.1%, and TIR had risen to 74%. This brought triglycerides below the level at which endocrinology, cardiology, and the treating clinician had, by individualized judgment, deferred incretin therapy, and tirzepatide 2.5 mg was initiated. At 5 months triglycerides were 162 mg/dL (SI: 1.83 mmol/L), hemoglobin A1c 6.1% (SI: 43 mmol/mol), body weight had fallen 18%, and exogenous insulin had been discontinued. At 9 months she remained free of exogenous insulin, with triglycerides 172 mg/dL (SI: 1.94 mmol/L) and hemoglobin A1c 6.1% (SI: 43 mmol/mol). The first-month triglyceride reduction occurred during ketogenic-range TCR with concurrent insulin reduction; later improvements occurred during continued TCR, insulin cessation, weight loss, and tirzepatide, and the contributions of these components cannot be separated. In selected patients with probable MCS and insulin-resistant T2DM, supervised ketogenic-range TCR may be considered when low-fat counseling has not achieved sustained control and may permit reconsideration of therapies deferred by individualized judgment for pancreatitis risk.",
+    "publication_types": [
+      "Case Reports",
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43047647/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43047309",
+    "title": "Semaglutide and optic neuritis in the FDA adverse event reporting system: a comparator-based, time-calibrated pharmacovigilance analysis.",
+    "authors": [
+      "Xu Fengjiao",
+      "Luo Wei",
+      "Liu Zhuoran",
+      "Zhang Ran",
+      "Yang Jie",
+      "Zhao Xin"
+    ],
+    "journal": "Frontiers in immunology",
+    "year": "2026",
+    "doi": "10.3389/fimmu.2026.1933845",
+    "abstract": "Glucagon-like peptide-1 receptor agonists and dual glucose-dependent insulinotropic polypeptide/glucagon-like peptide-1 receptor agonists are increasingly used for glycemic control, obesity management, cardiovascular risk reduction, and kidney protection. Ocular safety research has focused mainly on diabetic retinopathy and nonarteritic anterior ischemic optic neuropathy. Whether inflammatory neuro-ophthalmic events, particularly optic neuritis, show a reproducible postmarketing reporting association remains uncertain. We performed a case/non-case pharmacovigilance study using FAERS reports from 2004Q1 to 2026Q1. Reports were deduplicated by CASEID/CASEVERSION. Primary-suspect GLP-1/GIP exposures were linked to MedDRA-defined inflammatory neuro-ophthalmic outcomes. The primary comparison was semaglutide versus SGLT2 inhibitors/metformin, with secondary DPP-4 inhibitor, strict non-GLP-1 weight-loss, separate SGLT2 inhibitor, separate metformin, and indication-restricted analyses. We used ROR, PRR, transparently labeled approximate shrinkage proxies, BH-FDR adjustment, exact report-year stratification, exact-year frequency matching, reporter-channel sensitivity, and Firth-type adjusted logistic regression. After latest-version deduplication, 59,790 semaglutide and 178,670 pooled SGLT2 inhibitor/metformin reports were included. The crude semaglutide-optic neuritis ROR was 11.67 (60 vs 15 events; 95% CI 6.68-20.40; BH q=1.99e-27). Given the different report-year distributions (semaglutide: 62.7% in 2024-2026; pooled comparator: 17.5%), the principal calendar-time-calibrated estimate was the exact report-year Mantel-Haenszel common OR of 5.06 (95% CI 2.64-9.72), supported by exact-year 1:1 frequency matching (OR 4.64, 95% CI 2.42-8.90). Separate comparator analyses remained positive for SGLT2 inhibitors (ROR 15.68, 95% CI 6.55-37.53) and metformin (ROR 8.53, 95% CI 4.43-16.42), whereas the obesity/weight-management restriction was sparse and not supported. Estimates were positive in health-professional and consumer/legal reports. The Firth-type adjusted OR was 16.76 (95% CI 8.51-33.00). Among 12 reports with valid TTO, the median was 62.5 days; TTO was analyzed descriptively without hazard modeling and did not support an early-failure or temporal causal inference. FAERS data support a semaglutide-optic neuritis reporting association that persists after calendar-time calibration and comparator expansion, but the magnitude is sensitive to reporting era and unmeasured clinical heterogeneity. The finding is hypothesis-generating, cannot establish incidence, relative risk, or causality, and should not be interpreted as complete separation from ischemic optic neuropathy/NAION. The sparse TTO subset was descriptive only and did not support an early-failure or temporal causal interpretation.",
+    "publication_types": [
+      "Journal Article",
+      "Research Support, Non-U.S. Gov't"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43047309/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43046651",
+    "title": "Painful Non-Diabetic Lumbosacral Radiculoplexus Neuropathy Following Tirzepatide Exposure: A Case Report.",
+    "authors": [
+      "Stabile Liberato",
+      "Poli Loris",
+      "Leggio Ugo",
+      "Bozzoni Virginia",
+      "Bissolotti Luciano",
+      "Gasparotti Roberto",
+      "Pilotto Andrea",
+      "Padovani Alessandro",
+      "Filosto Massimiliano"
+    ],
+    "journal": "Journal of the peripheral nervous system : JPNS",
+    "year": "2026",
+    "doi": "10.1111/jns.70188",
+    "abstract": "Lumbosacral radiculoplexus neuropathy (LRPN) is an uncommon neuropathic syndrome occurring predominantly in patients with diabetes mellitus, although non-diabetic forms are increasingly recognized. Rare peripheral neuropathies have been reported during glucagon-like peptide-1 receptor agonist (GLP-1 receptor agonist [GLP-1RA]) therapy; however, LRPN has not previously been described in this clinical context, particularly in non-diabetic individuals. We describe a well-characterized case of painful non-diabetic LRPN developing following a period of rapid metabolic shift during tirzepatide therapy. A 62-year-old man previously treated with tirzepatide for weight loss developed, approximately 8 weeks after discontinuation, acute left-sided low back pain, rapidly progressing to severe neuropathic pain, distal weakness, and sensory loss. MR neurography demonstrated enlargement and contrast enhancement of the left L5 nerve root and sciatic nerve, associated with denervation edema. Electrophysiological studies demonstrated an axonal process consistent with lumbosacral radiculoplexus neuropathy, while cerebrospinal fluid analysis showed albuminocytological dissociation. Classical diabetic-related plexopathy was excluded by normal glucose values; an extensive work-up excluded infectious, neoplastic, paraneoplastic, and systemic inflammatory causes. The patient was treated with intravenous methylprednisolone followed by an oral corticosteroid taper and intensive rehabilitation. At 8-month follow-up, neuropathic pain had completely resolved and plantar flexion had recovered, whereas severe foot dorsiflexion weakness persisted, and the patient walked with a single crutch and an ankle-foot orthosis, consistent with the expected outcome of severe axonal lumbosacral radiculoplexus neuropathy. Tirzepatide exposure was associated with rapid weight loss in a normoglycaemic individual. This case highlights a severe non-diabetic lumbosacral radiculoplexus neuropathy following a period of rapid metabolic shift during GLP-1RA therapy. Although causality cannot be established, the temporal association and clinical context raise the hypothesis that abrupt metabolic changes may act as a permissive factor for immune-mediated lumbosacral plexus injury in susceptible individuals.",
+    "publication_types": [
+      "Case Reports",
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43046651/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43044770",
+    "title": "Tirzepatide and risk of nutritional deficiency anemia compared with GLP-1 receptor agonists in adults with type 2 diabetes and overweight or obesity.",
+    "authors": [
+      "Tu Kuan-Chieh",
+      "Huang Kuo-Hsun",
+      "Liu Mei-Yuan",
+      "Lin Yu-Min",
+      "Wu Jheng-Yan"
+    ],
+    "journal": "Diabetes research and clinical practice",
+    "year": "2026",
+    "doi": "10.1016/j.diabres.2026.113675",
+    "abstract": "Nutritional deficiency anemia (NDA) is a potential concern during incretin-based treatment, but its comparative occurrence with tirzepatide and glucagon-like peptide-1 receptor agonists (GLP-1RAs) remains uncertain. We conducted a retrospective cohort study using the TriNetX database. Adults with type 2 diabetes and overweight or obesity who initiated tirzepatide or a GLP-1RA between January 1, 2022, and August 31, 2026, were identified. Patients with prior use of either treatment, NDA, type 1 diabetes, or bariatric surgery were excluded. After 1:1 propensity score matching, outcomes were assessed from day 1 through day 365. The primary outcome was a composite of iron, vitamin B12, or folate deficiency anemia. The matched cohorts included 67,608 patients each. NDA occurred in 1,440 tirzepatide users (2.13%) and 1,917 GLP-1RA users (2.84%; hazard ratio [HR], 0.88; 95% confidence interval [CI], 0.83-0.95). Tirzepatide was associated with less iron deficiency anemia (HR, 0.87; 95% CI, 0.81-0.93), whereas estimates for vitamin B12 deficiency anemia (1.07; 0.83-1.38) and folate deficiency anemia (0.98; 0.56-1.71) were inconclusive. Tirzepatide initiation was associated with a modestly lower hazard of diagnosed NDA, predominantly iron deficiency anemia, than GLP-1RA initiation. Residual confounding and differences in follow-up and ascertainment limit causal interpretation.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044770/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43041286",
+    "title": "Polydopamine-coated liposomes for oral delivery of tirzepatide: Overcoming gastrointestinal barriers to improve therapeutic efficacy.",
+    "authors": [
+      "Wan Xian",
+      "Kong Weibo",
+      "Gao Zihan",
+      "Pan Yafeng",
+      "Long Miaomiao",
+      "Wang Huili",
+      "Chen Weijun",
+      "Qiu Lipeng"
+    ],
+    "journal": "International journal of pharmaceutics: X",
+    "year": "2026",
+    "doi": "10.1016/j.ijpx.2026.100700",
+    "abstract": "Tirzepatide (TZP), the first dual GIP/GLP-1 receptor agonist, offers substantial therapeutic benefits for type 2 diabetes mellitus (T2DM) but remains confined to subcutaneous injection. While oral delivery of peptide therapeutics improves patient compliance, it is severely hampered by enzymatic degradation and mucosal barriers in the gastrointestinal tract. Liposomes, as biocompatible nanocarriers, can protect encapsulated drugs, enhance intestinal stability, and enable controlled release. Herein, TZP-loaded liposomes (TZP-Lip) were prepared via reverse-phase evaporation and further coated with polydopamine (PDA) to obtain TZP-Lip@PDA for enhanced oral delivery. TZP-Lip@PDA exhibited an encapsulation efficiency of 95.02 ± 1.14%, a particle size of 145.9 ± 1.49 nm, and preservation of the secondary structure of TZP. The PDA coating functioned as a physical diffusion barrier that conferred sustained-release behavior in simulated gastrointestinal fluids, while enhancing mucus penetration and promoting cellular uptake in Caco-2 cells. Pharmacokinetic studies showed that oral TZP-Lip@PDA achieved measurable plasma exposure, whereas oral free TZP remained below the lower limit of quantification (LLOQ, 5 ng/mL). Despite a tenfold higher dose (8.8 vs 0.88 mg/kg), oral TZP-Lip@PDA achieved a Cmax approximately 50% of that observed after subcutaneous administration of free TZP, within the 12-h sampling window, indicating substantial progress but also the remaining quantitative gap between the two routes. In T2DM rats, oral TZP-Lip@PDA (8.8 mg/kg) significantly enhanced the integrated hypoglycemic response during the 12-h observation period compared with oral free TZP and TZP-Lip. In summary, TZP-Lip@PDA enhances the oral delivery of TZP by sustaining drug release, enhancing mucus penetration and promoting cellular uptake, which offers a potential strategy for peptide and protein oral delivery.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041286/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43039709",
+    "title": "Tirzepatide Titration to Reduce side Effects (TiTRE) in individuals with obesity: a protocol for a randomised controlled trial.",
+    "authors": [
+      "AlOzairi Ebaa",
+      "Alawadhi Ameenah",
+      "Alawadhi Ayoub",
+      "Le Roux Carel"
+    ],
+    "journal": "BMJ open",
+    "year": "2026",
+    "doi": "10.1136/bmjopen-2026-125338",
+    "abstract": "The epidemic of obesity contributes substantially to non-communicable disease burden and mortality. While nutritional and exercise therapies remain effective for some, the majority of patients may need effective pharmacotherapy and surgical options. Tirzepatide, a dual glucose-dependent insulinotropic polypeptide and glucagon-like peptide-1 receptor agonist, achieved more than 20% weight loss and improved metabolic outcomes. However, gastrointestinal (GI) adverse events, particularly nausea and vomiting during dose escalation, frequently limit adherence, affecting 65%–84% of patients and leading to discontinuation in some cases. Standard fixed titration schedules fail to account for inter-individual variability in tolerability. Symptom-guided titration may improve adherence by individualising dose escalation but this approach has not been evaluated in randomised trials. This 76-week, open-label, randomised controlled trial will enrol 68 adults with obesity without diabetes. Participants will be randomised (1:1) to either standard per-label tirzepatide titration or a symptom-guided titration strategy allowing dose adjustments based on tolerability. The primary outcome is time to discontinuation of tirzepatide regimen because of adverse effects over 76 weeks, which captures the cumulative impact of all adverse effects. Secondary outcomes include vomiting frequency, the incidence and severity of individual GI and non-GI adverse effects, discontinuation for any reason, adherence and percentage weight change at 76 weeks. Additional exploratory endpoints include cardiometabolic markers and patient-reported outcomes. Analyses will follow the intention-to-treat principle using appropriate comparative statistical methods. The study has received ethical approval from the Ethical Review Committee, Dasman Diabetes Institute (RA HM-2026-06), and will adhere to Good Clinical Practice guidelines. Written informed consent will be obtained from all participants. Findings will be disseminated through peer-reviewed publications and scientific conferences, with the potential to inform patient-centred dosing strategies and improve long-term outcomes in obesity pharmacotherapy. NCT07574723.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43039709/",
     "screening_status": "não avaliado"
   },
   {
@@ -314,7 +676,7 @@
     "journal": "Diabetes & metabolism",
     "year": "2026",
     "doi": "10.1016/j.diabet.2026.101807",
-    "abstract": "Tirzepatide reduces body weight and improves glycemic control, but real-world comparisons between individuals with obesity with and without type 2 diabetes (T2D) remain limited, as well as the potential influence on weight-loss response of baseline characteristics (especially sex and previous treatment exposure). We aimed to compare anthropometric and metabolic outcomes in these populations, as well as treatment persistence, discontinuation, and the influence of prior GLP-1 receptor agonist (GLP-1 RA) exposure. This retrospective multicenter study included adults with overweight/obesity without T2D (Ob) or with T2D (ObT2D) treated with tirzepatide. Data were collected at baseline and after 2-4 (T1), 5-8 (T2), and 9-15 (T3) months. Longitudinal changes were assessed using linear mixed-effects models, and multivariable analyses identified predictors of weight loss. Ob participants (n=210, 74.8% female) were younger, had higher BMI, better glycemic control, and less previous GLP-1RA exposure than ObT2D participants (n=378, 49.7% female) (45.7% vs 79.3%; p<0.001). Weight loss was greater in Ob than ObT2D at all follow-ups (-5.0% vs -2.8%, -10.1% vs -3.3%, and -14.2% vs -4.7%; all p≤0.011), with mixed-effects models confirming different trajectories. This difference was attenuated and no longer statistically significant when analyses were restricted to treatment-naïve participants. Prior GLP-1RA exposure was independently associated with lower weight loss, while an interaction between prior GLP-1RA exposure and T2D status emerged at longer follow-up. No effect modification by sex or age was clearly detectable in this cohort. Discontinuation was more frequent in Ob, with adverse events, and financial barriers among the main reported reasons. Adverse events occurred in 16.9%, were mainly mild, transient gastrointestinal events, more frequent in Ob than ObT2D (26.9% vs 11.1%; p<0.001). Tirzepatide was effective and well tolerated in routine practice. Greater weight loss occurred in obesity without T2D, while prior GLP-1RA exposure was independently associated with a reduced weight response. Previous GLP1-RA exposure may partly account for the different weight-loss trajectories observed between obesity with and without T2D. Residual differences at longer follow-up may reflect additional unmeasured clinical, metabolic, and treatment-related factors.",
+    "abstract": "Tirzepatide reduces body weight and improves glycemic control, but real-world comparisons between individuals with obesity with and without type 2 diabetes (T2D) remain limited, as well as the potential influence on weight-loss response of baseline characteristics (especially sex and previous treatment exposure). We aimed to compare anthropometric and metabolic outcomes in these populations, as well as treatment persistence, discontinuation, and the influence of prior GLP-1 receptor agonist (GLP-1 RA) exposure. This retrospective multicenter study included adults with overweight/obesity without T2D (Ob) or with T2D (ObT2D) treated with tirzepatide. Data were collected at baseline and after 2-4 (T1), 5-8 (T2), and 9-15 (T3) months. Longitudinal changes were assessed using linear mixed-effects models, and multivariable analyses identified predictors of weight loss. Ob participants (n = 210, 74.8% female) were younger, had higher BMI, better glycemic control, and less previous GLP-1RA exposure than ObT2D participants (n = 378, 49.7% female) (45.7%vs 79.3%; p < 0.001). Weight loss was greater in Ob than ObT2D at all follow-ups (-5.0% vs -2.8%, -10.1% vs -3.3%, and -14.2% vs -4.7%; all p ≤ 0.011), with mixed-effects models confirming different trajectories. This difference was attenuated and no longer statistically significant when analyses were restricted to treatment-naïve participants. Prior GLP-1RA exposure was independently associated with lower weight loss, while an interaction between prior GLP-1RA exposure and T2D status emerged at longer follow-up. No effect modification by sex or age was clearly detectable in this cohort. Discontinuation was more frequent in Ob, with adverse events, and financial barriers among the main reported reasons. Adverse events occurred in 16.9%, were mainly mild, transient gastrointestinal events, more frequent in Ob than ObT2D (26.9%vs 11.1%; p < 0.001). Tirzepatide was effective and well tolerated in routine practice. Greater weight loss occurred in obesity without T2D, while prior GLP-1RA exposure was independently associated with a reduced weight response. Previous GLP1-RA exposure may partly account for the different weight-loss trajectories observed between obesity with and without T2D. Residual differences at longer follow-up may reflect additional unmeasured clinical, metabolic, and treatment-related factors.",
     "publication_types": [
       "Journal Article"
     ],
@@ -1063,7 +1425,10 @@
     "doi": "10.1016/S2213-8587(26)00232-9",
     "abstract": "Orforglipron, a small-molecule, non-peptide, oral GLP-1 receptor agonist, has shown bodyweight reduction and cardiometabolic benefits in adults with obesity across phase 3 trials globally. We aimed to assess the efficacy and safety of orforglipron versus placebo for treating obesity disease in Japanese adults. ATTAIN-J was a double-blind, randomised, placebo-controlled, parallel-group, phase 3 trial conducted across 16 medical research centres and hospitals in Japan and included adults aged 18 years or older with a BMI between 27 kg/m2 and less than 35 kg/m2 and two or more obesity-related health disorders, or a BMI of 35 kg/m2 or higher and one or more obesity-related health disorder, with one or more of the obesity-related health disorders being hypertension, dyslipidaemia, or type 2 diabetes (targeted at about 25% of participants), consistent with Japanese indications for tirzepatide and semaglutide for obesity disease; and at least one unsuccessful dietary attempt to lose weight. Participants were randomly assigned (1:1:1:1) via a computer-generated sequence to once-daily oral orforglipron (6 mg, 12 mg, or 36 mg) or placebo. Co-primary endpoints were mean percentage change in bodyweight and percentage of participants with at least 5% bodyweight reduction from baseline to week 72. Efficacy endpoints were primarily evaluated by the treatment regimen estimand in all randomly assigned participants. Safety was assessed in participants who received at least one dose of study treatment. This trial is registered with ClinicalTrials.gov, NCT05931380 (completed). Between July 31, 2023, and June 19, 2025, 291 participants were screened, of whom 238 (144 [61%] males and 94 [39%] females; mean age 54·1 years [SD 11·2]) were randomly assigned to receive orforglipron 6 mg (n=61), 12 mg (n=57), or 36 mg (n=60), or placebo (n=60); 214 (90%) participants completed the study. At week 72, mean percentage change in bodyweight was -5·9% (95% CI -7·6 to -4·2) with orforglipron 6 mg, -8·7% (-10·9 to -6·5) with 12 mg, and -7·9% (-10·0 to -5·8) with 36 mg, compared with -0·6% (-2·1 to 0·8) with placebo (all p<0·0001 vs placebo). At week 72, a bodyweight reduction of at least 5% was seen in 15·2% (SE 4·8; nine of 60) of participants in the placebo group compared with 45·6% (6·1; 28 of 61; p=0·0001) of participants in the orforglipron 6 mg group, 60·8% (6·4; 35 of 57; p<0·0001) of participants in the orforglipron 12 mg group, and 58·8% (6·5; 35 of 60; p<0·0001) of participants in the orforglipron 36 mg group. Adverse events with orforglipron were mostly mild-to-moderate gastrointestinal symptoms. Across all orforglipron groups, treatment-emergent adverse events that most frequently led to study treatment discontinuation were nausea (one [2%] of 61 in the 6 mg group, one [2%] of 57 in the 12 mg group, and five [8%] of 60 in the 36 mg group vs none with placebo) and vomiting (none in the 6 mg group, two [4%] in the 12 mg group, and one [2%] in the 36 mg group vs none in the placebo group). In Japanese adults with obesity disease, once-daily orforglipron resulted in statistically superior reductions in bodyweight versus placebo, with a safety profile consistent with that of other GLP-1 receptor agonists. Eli Lilly and Company. For the Japanese translation of the abstract see Supplementary Materials section.",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Randomized Controlled Trial",
+      "Clinical Trial, Phase III",
+      "Multicenter Study"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42962687/",
     "screening_status": "não avaliado"
@@ -1082,7 +1447,9 @@
     "doi": "10.1097/DAD.0000000000003440",
     "abstract": "Amyloidosis is a heterogeneous group of diseases characterized by extracellular deposition of insoluble proteins. Glucagon-like peptide-1 analog (AGLP1)-type amyloidosis is a rare iatrogenic form of amyloidosis localized to areas of glucagon-like peptide-1 analog injections. In this study, we describe a case of AGLP1-type amyloidosis presenting as a subcutaneous mass on the abdomen of a 71-year-old woman with a history of liraglutide, semaglutide, and tirzepatide use. Biopsy, including Congo red stain, was consistent with an amyloid deposit. Amyloid protein identification by liquid chromatography tandem mass spectrometry showed a typical amyloid profile with low spectra for liraglutide. Immunohistochemistry, subsequently performed, showed that the amyloid deposits were positive for glucagon; there is an extensive peptide homology between liraglutide and glucagon. Only 3 cases of AGLP1-type amyloidosis have been previously reported. It is vital for clinicians and pathologists to be aware of AGLP1-type amyloidosis given the increasing worldwide use of GLP-1 agonists, as well as the potential for misdiagnosis of systemic amyloidosis, which has profound therapeutic and prognostic implications.",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Case Reports",
+      "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42961329/",
     "screening_status": "não avaliado"
@@ -2192,6 +2559,34 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42727208",
+    "title": "Postoperative outcomes after total knee arthroplasty in type 2 diabetes mellitus patients receiving semaglutide versus tirzepatide: a propensity score-matched national research network analysis.",
+    "authors": [
+      "Wu Kevin A",
+      "Choudhury Ankit",
+      "Wu Joshua A",
+      "Shenoy Devika A",
+      "Song Junho",
+      "Mai Eric",
+      "Dhanjani Suraj",
+      "Shatkin Michael",
+      "Wellman Samuel S",
+      "Seyler Thorsten M",
+      "Moucha Calin S",
+      "Hayden Brett L"
+    ],
+    "journal": "The Knee",
+    "year": "2026",
+    "doi": "10.1016/j.knee.2026.104639",
+    "abstract": "Semaglutide (GLP-1 receptor agonist) and tirzepatide (dual GIP/GLP-1 agonist) are increasingly prescribed to adults with type 2 diabetes mellitus (T2DM) undergoing total knee arthroplasty (TKA). Whether short-term postoperative outcomes differ between these agents was unknown. This was a retrospective cohort study using the TriNetX research network database. Adults with T2DM who underwent primary TKA between June 1, 2022, and December 31, 2024, and had an active prescription for semaglutide or tirzepatide within 90 days preoperatively were eligible. 1:1 propensity score matching was conducted on age, sex, race, body mass index, hemoglobin A1c, comorbidity burden, and concurrent diabetes medication use, yielding 415 matched pairs. Outcomes through 90 and 180 days included medical complications, surgical complications, and healthcare utilization. Odds ratios (ORs) with 95% confidence intervals (CIs) were estimated using logistic regression. After matching (n = 830), there were no differences in 90-day medical complications (OR 1.122, 95% CI 0.736-1.710; P = 0.591) or 180-day surgical complications (OR 1.632, 95% CI 0.845-3.152; P = 0.141) between semaglutide and tirzepatide cohorts. Individual events, including myocardial infarction, stroke, pneumonia, sepsis, pulmonary embolism, deep vein thrombosis, acute kidney injury (OR 0.867, 95% CI 0.417-1.801; P = 0.701), urinary tract infection (OR 1.562, 95% CI 0.863-2.827; P = 0.138), surgical site infection (OR 1.726, 95% CI 0.782-3.810; P = 0.172), periprosthetic joint infection, wound dehiscence, mortality, and revision-were statistically similar (all P > 0.05). Emergency department visits and/or readmissions were comparable at 90 days (OR 0.775, 95% CI 0.570-1.052; P = 0.102) and 180 days (OR 0.887, 95% CI 0.672-1.170; P = 0.397). Several outcomes had low event counts in both groups, limiting precision. In a large, propensity-matched national cohort of primary TKA, semaglutide and tirzepatide demonstrated similar short-term safety and utilization profiles. These findings support continued perioperative use of either agent in T2DM patients undergoing TKA.",
+    "publication_types": [
+      "Journal Article",
+      "Comparative Study"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42727208/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42712125",
     "title": "GLP-1 Receptor Agonists Post-Bariatric Surgery (GRABS) Trial: Rationale, Design and Baseline Characteristics.",
     "authors": [
@@ -2728,6 +3123,22 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42507846",
+    "title": "Accidental intradermal injection of tirzepatide associated with increased adverse events.",
+    "authors": [
+      "Di Guardo Antonio"
+    ],
+    "journal": "Postgraduate medical journal",
+    "year": "2026",
+    "doi": "10.1093/postmj/qgag104",
+    "abstract": "",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42507846/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42492687",
     "title": "One receptor, two opposite approaches: efficacy and tolerability of GIPR agonism and antagonism in obesity pharmacotherapy.",
     "authors": [
@@ -2767,8 +3178,7 @@
     "publication_types": [
       "Systematic Review",
       "Journal Article",
-      "Meta-Analysis",
-      "Review"
+      "Meta-Analysis"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42469143/",
     "screening_status": "não avaliado"

@@ -1,5 +1,28 @@
 [
   {
+    "pmid": "43065563",
+    "title": "Next-generation anti-obesity drugs: emerging molecular targets and translational opportunities.",
+    "authors": [
+      "Shetty Sneha",
+      "Rangle Asmi",
+      "Mukherjee Anirban Goutam",
+      "Bharti Ankit Kumar",
+      "Jena Sudip Prasad",
+      "Prince Sabina Evan",
+      "Gopalakrishnan Abilash Valsala"
+    ],
+    "journal": "Journal of diabetes and metabolic disorders",
+    "year": "2027",
+    "doi": "10.1007/s40200-026-02101-4",
+    "abstract": "Obesity is a heterogeneous, chronic metabolic disease driven by dysregulation of energy homeostasis across interconnected central nervous system, gastrointestinal, adipose, endocrine, immune, and mitochondrial networks. Despite the established roles of lifestyle intervention and metabolic/bariatric surgery, limitations in accessibility, durability, and interindividual response have stimulated the development of mechanism-based pharmacotherapies. This review critically examines emerging therapeutic strategies targeting integrated energy-regulatory pathways and evaluates their translational potential for precision obesity management. Current evidence was synthesized across major biological systems governing appetite, energy expenditure, and metabolic adaptation. Central melanocortin, Neuropeptide Y (NPY)/ Agouti-related peptide (AgRP), serotonergic, dopaminergic, and endocannabinoid pathways were considered alongside gut-derived incretin, amylin, Peptide YY (PYY), ghrelin, Fibroblast Growth Factor (FGF), and bile acid signaling. Emerging approaches targeting adipose remodeling, thermogenesis, mitochondrial energetics, AMPK-mTOR-sirtuin signaling, inflammation, and fibrosis were also evaluated. Genetic, epigenetic, and artificial intelligence-based approaches to patient stratification were incorporated to assess prospects for precision therapy. Obesity pharmacotherapy is shifting from conventional appetite suppression toward coordinated modulation of interconnected metabolic pathways. Incretin-based and multi-agonist therapies provide the strongest clinical evidence for substantial weight reduction and metabolic improvement. However, treatment discontinuation, weight regain, adverse effects, cost, and heterogeneous therapeutic responses remain major challenges. Strategies targeting adipose tissue dysfunction, mitochondrial metabolism, thermogenesis, immune-metabolic signaling, and fibrosis offer additional opportunities for disease modification, although many remain in preclinical or early clinical development. Increasing evidence for biological heterogeneity supports individualized therapeutic selection. The emerging therapeutic paradigm positions obesity as a systems-level disorder requiring mechanism-informed, individualized intervention. Integrating CNS-gut-adipose-mitochondrial biology with multi-omics, biomarkers, and artificial intelligence may enable more durable and precise treatment. Long-term safety, durability, affordability, equitable access, and clinical validation remain essential for translation.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065563/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42628587",
     "title": "HACD3 integrates central leptin sensitivity and peripheral thermogenesis to oppositely regulate energy balance.",
     "authors": [
@@ -19,6 +42,142 @@
       "Journal Article"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42628587/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43064193",
+    "title": "Cold adaptation enhances sustained alternative thermogenic mechanisms to counteract obesity in mice.",
+    "authors": [
+      "Bardova Kristina",
+      "Janovska Petra",
+      "Vavrova Anna",
+      "Haasova Eliska",
+      "Kobets Tatyana",
+      "Cajka Tomas",
+      "Stanic Sara",
+      "Buresova Jana",
+      "Yildirim Koken Gulnaz",
+      "Vagnerova Karla",
+      "Shekhar Nivasini",
+      "Steiner Mrazova Lenka",
+      "Stranecky Viktor",
+      "Kmoch Stanislav",
+      "Zouhar Petr",
+      "Kopecky Jan"
+    ],
+    "journal": "Molecular metabolism",
+    "year": "2026",
+    "doi": "10.1016/j.molmet.2026.102475",
+    "abstract": "Non-shivering thermogenesis (NST), traditionally attributed to brown adipose tissue (BAT), accounts for a substantial fraction of energy expenditure (EE) below thermoneutrality. Comparing obesity-prone C57BL/6J (B6) mice, which rely on BAT, with obesity-resistant A/J mice, which preferentially recruit alternative mechanisms, probably including muscle NST, we sought to determine whether the understudied muscle-based NST contributes to strain-specific obesity resistance. Mice underwent 2-week cold acclimation (CA) and rewarming, or were maintained at thermoneutrality on a standard or high-fat diet. Continuous indirect calorimetry assessed EE and core body temperature (Tb). At the end of CA, the gastrocnemius muscle was analysed by integrated multi-omics approaches, and muscle performance was evaluated using in vivo force-frequency measurements and treadmill exercise calorimetry. We found that (i) circadian Tb rhythmicity was transiently attenuated in A/J mice during the first week of CA, (ii) CA increased EE more in A/J than in B6 mice, (iii) rewarming rapidly abolished most CA-induced elevation of EE in both strains, although a small yet significant elevation persisted in A/J mice, and (iv) CA increased the energetic cost of physical activity in A/J but not B6 mice. CA also induced extensive transcriptomic and metabolomic remodeling in muscle, particularly in A/J mice on a standard diet, consistent with activation of energy-dissipating pathways, including sarcolipin-mediated SERCA uncoupling and futile lipid cycling. These findings suggest that CA recruits a persistent muscle NST program in A/J mice that increases whole-body EE, in part by reducing skeletal muscle work efficiency, providing a mechanistic explanation for sustained thermogenesis and resistance to obesity.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43064193/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43060628",
+    "title": "Tyrosine hydroxylase deletion in Ntsr1 neurons confers resistance to diet-induced weight gain: an energy-balance analysis.",
+    "authors": [
+      "Wu Renqi",
+      "Gomez Alyssa",
+      "Wong Justine T",
+      "Gordillo Ruth",
+      "Kamitakahara Anna K",
+      "Steele Andrew D"
+    ],
+    "journal": "bioRxiv : the preprint server for biology",
+    "year": "2026",
+    "doi": "10.64898/2026.11.05.764678",
+    "abstract": "High-fat diet (HFD) disrupts circadian feeding rhythms and promotes diet-induced obesity (DIO), but the neural mechanisms linking diet to energy balance remain unclear. Previously, we demonstrated that dopamine production in neurotensin receptor 1 ( Ntsr1 )-expressing neurons was required for HFD-induced daytime overfeeding and DIO. Here, we tested whether DIO resistance in Ntsr1 Cre ;Th flox conditional knockout (cKO) mice was explained by altered energy expenditure. We replicated resistance to HFD-induced weight gain and assessed food intake, indirect calorimetry, activity, body temperature, fecal energy, fecal nonesterified fatty acids, and the gut microbiome. Indirect calorimetry on standard chow diet (SCD) was confounded by reduced intake and body weight loss, whereas HFD-fed cKO mice consumed food readily and resisted weight gain. Unlike our previous study, daytime feeding was not suppressed; instead, cKO mice were slightly and variably hypophagic on HFD but not SCD. DIO resistance was not accompanied by increased energy expenditure, activity, or body temperature. Rather, cKO mice showed reduced energy expenditure and activity and lower body temperature on both diets. In the replication cohort, HFD fecal output was lower in cKO mice, whereas the independent bomb-calorimetry cohort showed no genotype difference in fecal mass; fecal energy density and nonesterified fatty acid concentration were unchanged. Preliminary analysis of the microbiome was consistent with an obesity-resistant gut profile. Together, these findings indicate that the feeding phenotype is diet- and experiment-dependent and that DIO resistance is not explained by increased energy expenditure, activity, thermogenesis, or detectable changes in fecal energy or fat content.",
+    "publication_types": [
+      "Journal Article",
+      "Preprint"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43060628/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43059051",
+    "title": "Linking Dopaminergic Signaling to Adipose Thermogenesis in Obesity.",
+    "authors": [
+      "Jang Min Kyoung",
+      "Koh Eun Hee"
+    ],
+    "journal": "Diabetes & metabolism journal",
+    "year": "2026",
+    "doi": "10.4093/dmj.2026.0973",
+    "abstract": "",
+    "publication_types": [
+      "Editorial"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43059051/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43049334",
+    "title": "Polysaccharide from Ziyang black tea prevents high-fat diet-induced obesity by remodeling gut microbiota and promoting adipose thermogenesis.",
+    "authors": [
+      "Yang Ruirui",
+      "Li Jiaxue",
+      "Zhang Lingrui",
+      "Li Ting",
+      "Tian Xinwei",
+      "Liu Ziang",
+      "Yang Xingbin",
+      "Ren Daoyuan"
+    ],
+    "journal": "Food & function",
+    "year": "2026",
+    "doi": "10.1039/d6fo04699a",
+    "abstract": "This study aims to explore the mechanism of obesity prevention by polysaccharide extracted from Ziyang black tea (BTP). BTP is an acidic heteropolysaccharide, mainly composed of galactose (36.5%), arabinose (31.7%), and glucose (15.9%). Treating high-fat diet (HFD)-fed mice with BTP prevented weight gain, lowered adiposity and reduced liver steatosis. These effects were associated with upregulated mRNA expression of browning-associated genes (Ucp1, Cidea, Pparγ, and Prdm16) in inguinal white adipose tissue (iWAT) and thermogenic genes (Ucp1, Pgc-1α, and Ampk) in brown adipose tissue (BAT). 16S rRNA gene sequencing results showed that BTP improved gut microbiota imbalance in obese mice, increased the abundance of Akkermansia, Lactobacillus and other probiotics, and promoted the production of colonic short-chain fatty acids (SCFAs). Interestingly, antibiotic treatment confirmed that BTP-induced microbial changes contributed to the promotion of iWAT browning and BAT thermogenesis. These results suggest that BTP prevents obesity mainly by regulating the gut microbiota and thereby promoting adipose tissue browning and thermogenesis.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43049334/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43046914",
+    "title": "The myokine irisin: role in the regulation of adipose tissue homeostasis and potential in the treatment of obesity.",
+    "authors": [
+      "Gisina A M",
+      "Lupatov A Yu",
+      "Yarygin K N"
+    ],
+    "journal": "Biomeditsinskaia khimiia",
+    "year": "2026",
+    "doi": "10.18097/PBMCR1757",
+    "abstract": "Obesity is a global health issue that, in the modern world, affects children and adolescents as well. It is a chronic disease accompanied by metabolic disturbances such as insulin resistance and dyslipidemia. Obesity is characterized by low-grade chronic inflammation of adipose tissue, with the blood showing elevated levels of pro-inflammatory factors and reduced levels of anti-inflammatory factors - collectively known as adipokines - secreted by this tissue. Obesity contributes to the development of type 2 diabetes mellitus and increases the risk of atherosclerosis, hypertension, and other cardiovascular diseases. Skeletal muscles play a vital role in regulating systemic metabolism, partly through the secretion of biologically active factors called myokines. One such myokine, currently the subject of active research, is irisin, which is involved in the homeostasis of adipose tissue. Irisin is a peptide derived from the precursor protein FNDC5, produced primarily in striated muscle in response to physical exercise. Irisin participates in the regulation of carbohydrate and lipid metabolism, influences metabolic processes in the liver and skeletal muscle, stimulates thermogenesis, and is capable of modulating the remodeling of the immuno-metabolic microenvironment within adipose tissue. Increasing blood irisin levels through the administration of exogenous irisin is currently being explored as a potential therapeutic approach for obesity and associated cardiometabolic disorders.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43046914/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43043058",
+    "title": "Poly(ethylene glycol)-Modified Polydopamine Nanozymes Activated by Near-Infrared Irradiation Induce White Adipocyte Browning.",
+    "authors": [
+      "Hu Xinying",
+      "Yu Wei",
+      "Wen Taotao",
+      "Su Yu",
+      "Xu Mengfan",
+      "Zhang Kexin",
+      "Chen Hanxing",
+      "Li Xiaoyang",
+      "Lin Zhenkun"
+    ],
+    "journal": "Langmuir : the ACS journal of surfaces and colloids",
+    "year": "2026",
+    "doi": "10.1021/acs.langmuir.6c03451",
+    "abstract": "Obesity, as a global public health crisis, is fundamentally linked to the pathological expansion and dysfunction of white fat. White adipose tissue (WAT) browning, which activates UCP1-mediated mitochondrial thermogenesis, has emerged as a promising therapeutic target for obesity and related metabolic diseases. In this study, we developed polydopamine-polyethylene glycol (PDA-PEG) nanozymes that integrate the photothermal-tunable multienzyme activities of PDA with the stealth properties of PEG. Furthermore, the PDA-PEG nanozymes were engineered in combination with near-infrared (NIR) irradiation to induce browning of white adipocytes. Our experimental results demonstrated that PDA-PEG nanozymes showed temperature-dependent SOD- and CAT-like activities, as well as excellent photothermal properties. The combination of the PDA-PEG nanozymes and NIR markedly promoted white adipocyte browning, as indicated by morphological remodeling of lipid droplets, decreased lipid storage, increased mitochondrial levels, and upregulation of thermogenic genes, including Pparg, Sirt1, Cidea, and Ucp1. Notably, this combined treatment effectively reversed mitochondrial structural impairment and significantly increased the mitochondrial population with a well-defined and intact ultrastructure. Further mechanistic studies showed that by scavenging excess reactive oxygen species (ROS) in white adipocytes, the PDA-PEG nanozymes with NIR alleviated AMPK suppression, thus enhancing its phosphorylation and upregulating PGC-1α to coordinate mitochondrial biogenesis and UCP1 expression, ultimately driving the browning. This work presents a photothermal-enzymatic synergistic strategy to promote white adipocyte browning, thereby offering a promising therapeutic approach against obesity and related metabolic disorders.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43043058/",
     "screening_status": "não avaliado"
   },
   {
@@ -140,7 +299,7 @@
     "title": "Large tumor suppressor kinases regulate brown adipocyte thermogenic function and systemic energy homeostasis.",
     "authors": [
       "Jancovicova Alzbeta",
-      "Petriskova Livia Ban",
+      "Ban Petriskova Livia",
       "Kovanicova Zuzana",
       "Zarnovicanova Silvia",
       "Urminsky Roman",
@@ -2006,6 +2165,35 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42675584",
+    "title": "The Adipose-Sympathetic Nerve Crosstalk: FSTL1 as an Adipocyte-Derived Neurotrophic Factor for WAT Browning.",
+    "authors": [
+      "Jia Xiao-Wei",
+      "Liu Jia-Xin",
+      "Wang Rui-Ping",
+      "Wu Xue-Qin",
+      "Che Yao",
+      "Wu Mu-Chen",
+      "Shang Hong-Wei",
+      "Lu Xin",
+      "Lu Tao",
+      "Wang Lu-Lu",
+      "Jiang Chun-Yan",
+      "Fang Dong-Liang",
+      "Yang Chun",
+      "Gao Yan"
+    ],
+    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+    "year": "2026",
+    "doi": "10.1002/advs.77433",
+    "abstract": "Follistatin-like 1 (FSTL1) has been considered a vital adipokine. Several lines of evidence have shown that FSTL1 is essential for white adipose tissue (WAT) adipogenesis, brown adipose tissue involution, and thermogenesis. However, the roles of FSTL1 in WAT browning and its underlying mechanisms are not fully understood. Our data show that FSTL1 overexpression induces WAT browning, enhances energy metabolism, and promotes glucose uptake in male mice at ambient room temperature. Overexpression of FSTL1 specifically in WAT prevents metabolic dysfunction in mice with diet-induced obesity. Mice with FSTL1 deficiency exhibit cold intolerance and are prone to obesity. FSTL1 cannot directly induce adipocyte browning in vitro. FSTL1 promotes sympathetic innervation both in vivo and in vitro. Furthermore, sympathetic denervation in adipose tissue abrogates FSTL1-induced browning, enhancement of energy metabolism, and regional glucose uptake. Notably, FSTL1 is endocytosed by sympathetic neurons primarily via tropomyosin-related kinase B (TrkB) in vitro. Blocking TrkB suppresses WAT browning and sympathetic innervation induced by FSTL1 overexpression in adipose tissue. Our findings shed new light on the role of FSTL1 in WAT browning and identify FSTL1 as an adipose-derived 'neurotrophic factor' adipokine.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42675584/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42675151",
     "title": "Neutrophil serine proteases inhibit thermogenic capacity of visceral white adipose tissue.",
     "authors": [
@@ -2937,6 +3125,53 @@
       "Journal Article"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/41772961/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "41634539",
+    "title": "D2Rs Agonist Ropinirole Cooperates with Metformin to Modulate Thermogenesis and Ameliorate Obesity-Related Metabolic Disorders in Mice.",
+    "authors": [
+      "Huang Bangrui",
+      "Liu Daowei",
+      "Jiang Fakun",
+      "Wang Zihui",
+      "Mao Chuanjun",
+      "Lu Qian",
+      "Chen Tao",
+      "Xie Chun",
+      "Chen Wenli",
+      "Wang Qian",
+      "Xiong Wenyong"
+    ],
+    "journal": "Diabetes & metabolism journal",
+    "year": "2026",
+    "doi": "10.4093/dmj.2025.0335",
+    "abstract": "Metabolic disorders present a significant challenge to human health, primarily because of their widespread prevalence and limited availability of alternative pharmacotherapy. Drug repurposing is a promising and rapid strategy for addressing these conditions. This study elucidate the efficacy and underlying mechanism of the combination of metformin with ropinirole on antiobesity and obesity-related metabolic disorders. Ropinirole-metformin combination therapy significantly reduced body weight and improved hyperglycemia, dyslipidemia, and insulin resistance. These enhancements, with the increased energy expenditure, were significantly greater than those achieved with either drug alone. We observed browning of inguinal white adipose tissue (iWAT), alterations in whitened brown adipose tissue (BAT), and substantial increases in mitochondrial function-related proteins. However, the drug combination did not exhibit any enhanced effect on cell thermogenesis or these proteins in vitro. The combination of norepinephrine and metformin induced an additive upregulation of mitochondrial function-related proteins. Pharmacological blockade of the β3 adrenergic receptor inhibited the combination therapy-induced energy expenditure. The ropinirole-metformin combination therapy amplified treatment effectiveness in obesity-related metabolic disorders is dependent on dopamine-controlled sympathetic nerve activity. Metformin acts directly on BAT and iWAT to improve mitochondrial function, which offers a new perspective for future clinical co-treatment of metabolic disorders with these two drugs.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41634539/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "41548896",
+    "title": "Sleeve Gastrectomy with Fundoplication Enhances Metabolic Health in Obese Rats via Ghrelin Pathway Modulation and Multi-Organ Regulation.",
+    "authors": [
+      "Li Xin",
+      "Aili Aikebaier",
+      "Tusuntuoheti Yusujiang",
+      "Aierken Yusunjiang",
+      "Abudureyimu Kelimu",
+      "Liu Weihui"
+    ],
+    "journal": "Diabetes & metabolism journal",
+    "year": "2026",
+    "doi": "10.4093/dmj.2025.0392",
+    "abstract": "Obesity serves as a predominant factor in the progression of metabolic syndrome and type 2 diabetes mellitus. While sleeve gastrectomy (SG) is a well-established surgical intervention, its impact on appetite-regulating hormones, such as ghrelin (GHRL), is limited. Sleeve gastrectomy combined with fundoplication (SGFD) has emerged as a potential strategy to improve metabolic outcomes by modifying both gastric anatomy and gut-brain signaling. Sixty-five Sprague-Dawley rats were enrolled. After 8 weeks of high-fat feeding, 48 rats developed diet-induced obesity (DIO). These rats were randomized into four experimental groups: DIO control, sham-operated, SG, and SGFD, alongside a normal control cohort. Biochemical indicators, hormonal fluctuations, and insulin responsiveness were analyzed. Molecular expressions were evaluated through quantitative real-time polymerase chain reaction and Western blotting. SGFD reduced body weight (-24.7%), food intake (-28.3%), fasting glucose (-37.5%), triglycerides (-42.6%), and serum GHRL (-51.2%) compared with the DIO group (P<0.01). Gastric GHRL, preproghrelin, and ghrelin O-acyltransferase (GOAT) expression were suppressed. Hypothalamic neuropeptide Y (NPY) was downregulated, and AMP-activated protein kinase (AMPK) signaling was robustly enhanced across various tissues. SGFD also improved insulin receptor substrate-1 (IRS-1), glucose transporter type 4 (GLUT4), β-cell function, hepatic lipid oxidation, and brown adipose thermogenesis. SGFD outperformed SG in most metabolic and molecular outcomes (P<0.05). SGFD provides superior metabolic benefits over SG alone by suppressing GHRL signaling and activating systemic AMPK pathways. SGFD represents a promising surgical strategy for obesity and metabolic syndrome.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/41548896/",
     "screening_status": "não avaliado"
   }
 ]

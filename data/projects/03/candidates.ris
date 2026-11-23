@@ -32,6 +32,41 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42727623/
 ER  - 
 
 TY  - JOUR
+ID  - 43065042
+TI  - Short-term dietary and exercise interventions modify the CD86-Faecalibaculum association linked to adipose tissue inflammation after prolonged high-fat diet exposure.
+AU  - Yun Kyeongeui
+AU  - Gim Jeong-An
+AU  - Xiang Ying-Ying
+AU  - Won Jong-Hwa
+AU  - Kim Ji-Seok
+AU  - Kim Mingyo
+AU  - Lee So Eun
+AU  - Ahn Yong Ju
+AU  - Han Kyudong
+AU  - Lee Donghyoun
+AU  - Ahn Kung
+AU  - Baek Kyung-Wan
+JO  - Gut pathogens
+PY  - 2026
+DO  - 10.1186/s13099-026-00869-7
+AB  - Long-term high-fat diet (HFD) models mirror chronic human obesity. How immune polarization and the gut microbiota jointly drive pathology, and whether short-term lifestyle intervention can reverse it, is not fully defined. Male C57BL/6 mice (n = 26) received HFD for 44 weeks and were allocated to 8 weeks of continued HFD without exercise (Sed-HFD; initial n = 8, 3 deaths, final n = 5) or with exercise (Ex-HFD; n = 6), or diet reversal without exercise (Sed-ND; n = 6) or with exercise (Ex-ND; n = 6). Exercise used treadmill running (18 m/min, 50 min/session, 5 days/week). We assessed metabolic outcomes, survival, histology, adipose tissue (AT) macrophage polarization, and gut microbiota by long-read 16 S rRNA sequencing. Prolonged HFD was associated with progressive obesity, glucose intolerance, colon shortening. As an exploratory observation, chronic HFD was accompanied by macroscopic tumors in two Sed-HFD mice, whereas no deaths or macroscopic tumors were observed in the intervention groups. Survival rate was reduced in sedentary HFD mice (62.5% [5/8]) compared with the other experimental groups (100% survival) (log-rank p = 0.0053). Diet reversal rapidly induced body weight loss (-2.93 g in Sed-ND and - 7.03 g in Ex-ND, vs. +0.39 g in Sed-HFD) and improved OGTT. Exercise plus diet preserved bone mineral density and content. CD86, not CD11c, sensitively captured intervention-responsive AT polarization. The CD86-based M1/M2 ratio decreased significantly with diet reversal (1.05 ± 0.48 in Sed-ND) and combined intervention (1.06 ± 0.46 in Ex-ND) compared with continued HFD (1.97 ± 0.72 in Sed-HFD; p < 0.05). Microbiota diversity and structure improved after dietary reversal, most prominently with combined intervention. The Firmicutes/Bacteroidota ratio decreased with diet reversal (p = 0.0313). Faecalibaculum rodentium correlated strongly with highly activated CD86⁺ CD11c⁺ macrophages (r = 0.75, p < 0.001) as well as total CD86⁺ macrophages (r = 0.43, p = 0.043) and adverse metabolic indices, whereas Akkermansia and Roseburia increased with recovery. The CD86-Faecalibaculum association was linked to AT inflammation and adverse metabolic measures after prolonged HFD exposure. Dietary reversal, particularly when combined with exercise, was associated with improved metabolic, immune, and microbial profiles.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43065042/
+ER  - 
+
+TY  - JOUR
+ID  - 43046914
+TI  - The myokine irisin: role in the regulation of adipose tissue homeostasis and potential in the treatment of obesity.
+AU  - Gisina A M
+AU  - Lupatov A Yu
+AU  - Yarygin K N
+JO  - Biomeditsinskaia khimiia
+PY  - 2026
+DO  - 10.18097/PBMCR1757
+AB  - Obesity is a global health issue that, in the modern world, affects children and adolescents as well. It is a chronic disease accompanied by metabolic disturbances such as insulin resistance and dyslipidemia. Obesity is characterized by low-grade chronic inflammation of adipose tissue, with the blood showing elevated levels of pro-inflammatory factors and reduced levels of anti-inflammatory factors - collectively known as adipokines - secreted by this tissue. Obesity contributes to the development of type 2 diabetes mellitus and increases the risk of atherosclerosis, hypertension, and other cardiovascular diseases. Skeletal muscles play a vital role in regulating systemic metabolism, partly through the secretion of biologically active factors called myokines. One such myokine, currently the subject of active research, is irisin, which is involved in the homeostasis of adipose tissue. Irisin is a peptide derived from the precursor protein FNDC5, produced primarily in striated muscle in response to physical exercise. Irisin participates in the regulation of carbohydrate and lipid metabolism, influences metabolic processes in the liver and skeletal muscle, stimulates thermogenesis, and is capable of modulating the remodeling of the immuno-metabolic microenvironment within adipose tissue. Increasing blood irisin levels through the administration of exogenous irisin is currently being explored as a potential therapeutic approach for obesity and associated cardiometabolic disorders.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43046914/
+ER  - 
+
+TY  - JOUR
 ID  - 43030681
 TI  - The Immune Paradox in Acute Anorexia Nervosa: A Hypothesis Linking Hyperactivity, Restrained Inflammation, Preserved Innate Defense, and Constrained Adaptive Immunity.
 AU  - Smith Lucille Lakier

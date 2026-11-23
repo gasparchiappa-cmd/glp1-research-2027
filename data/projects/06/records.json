@@ -1,5 +1,81 @@
 [
   {
+    "pmid": "43066666",
+    "title": "Cardiac and Metabolic Effects of Semaglutide in Obesity-Related HFpEF: Rationale and Design of CAMEO-SEMA.",
+    "authors": [
+      "Kazui Sho",
+      "Ghanbari Fahime",
+      "Harada Tomonari",
+      "Reddy Yogesh N V",
+      "Packer Milton",
+      "Carter Rickey",
+      "Jensen Michael D",
+      "Borlaug Barry A"
+    ],
+    "journal": "JACC. Heart failure",
+    "year": "2026",
+    "doi": "10.1016/j.jchf.2026.103500",
+    "abstract": "Two-thirds of patients with heart failure with preserved ejection fraction (HFpEF) have obesity, and >90% have increased visceral adiposity. Adiposity-associated HFpEF is characterized by hemodynamic congestion driven by impaired cardiac reserve, volume overload and altered blood distribution, adverse cardiac remodeling, pericardial constraint, systemic vascular stiffening, myosteatosis, metabolic dysfunction, and altered adipokine signaling profiles. Recent clinical trials have demonstrated that glucagon-like peptide-1 receptor agonists alleviate symptoms and improve exercise capacity in patients with obesity-related HFpEF, but the mechanisms underlying these benefits remain uncertain. This study aims to elucidate the mechanisms by which semaglutide improves clinical status in patients with HFpEF and obesity. The CAMEO-SEMA trial is a single-center, prospective, randomized, double-blind, placebo-controlled mechanistic trial evaluating the effects of semaglutide in obesity-related HFpEF. Eighty-one participants have been randomized in a 2:1 ratio to semaglutide subcutaneously once weekly or matching placebo for 52 weeks. Comprehensive pathophysiological characterization is being performed at baseline and following treatment, including invasive exercise hemodynamic status, transcardiac (arterial and coronary sinus) blood sampling at rest and with exercise, cardiac magnetic resonance imaging, submaximal and peak aerobic capacity through expired gas analysis, comprehensive rest and exercise echocardiography, body composition and visceral adiposity assessment, blood volume analysis, oral glucose testing, subcutaneous adipose tissue biopsy, and inflammatory-adipokine profiling. The CAMEO-SEMA trial will provide comprehensive, novel insights into the mechanisms by which the glucagon-like peptide-1 receptor agonists semaglutide affects the key pathophysiological factors causing symptoms, exercise limitation, and morbidity in patients with obesity-related HFpEF. (Cardiac and Metabolic Effects of Semaglutide [CAMEO-SEMA]; NCT05371496).",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43066666/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43045850",
+    "title": "Tissue-specific metabolomics in experimental HFpEF reveals hepatic remodelling modulated by SGLT2 inhibition.",
+    "authors": [
+      "Kiyar Muhammed",
+      "Magaye Ruth",
+      "Bailey Shanae",
+      "Wang XiaoSuo",
+      "Nuon Rithy",
+      "Kiriazis Helen",
+      "Grigolon Kyah",
+      "Donner Daniel G",
+      "Snelson Matthew",
+      "Antonacci Simona",
+      "Harper Rebecca L",
+      "Marques Francine Z",
+      "O'Sullivan John F",
+      "Wang Bing H",
+      "Kaye David M"
+    ],
+    "journal": "Cellular and molecular life sciences : CMLS",
+    "year": "2026",
+    "doi": "10.1007/s00018-026-06393-w",
+    "abstract": "Recent favourable clinical trials of sodium-glucose transporter 2 (SGLT2) inhibitors and glucagon-like-peptide-1 (GLP-1) agonists have substantially changed the management landscape for heart failure with preserved ejection fraction (HFpEF) patients. However, the organ-level metabolic mechanisms underpinning these benefits remain incompletely understood and it is unclear how these therapies reshape inter-organ metabolic crosstalk in HFpEF. In many patients, the HFpEF phenotype appears to result from an intersection between abnormal cardiovascular physiology together with metabolic and inflammatory changes. Experimental HFpEF was induced in 18-month-old female C57BL/6J mice with a high-fat diet for 12 weeks, an angiotensin II infusion beginning at week 6, with age-matched controls, to establish a cardiometabolic phenotype. Treatment with the SGLT2 inhibitor Dapagliflozin (Dapa) was administered for 6 weeks, concurrently with AngII administration. In addition to comprehensive cardiovascular and inflammatory phenotyping, we conducted metabolomic profiling of the heart, liver and plasma and performed 16S rRNA sequencing to characterise alterations in the gut microbiome. Characteristic cardiometabolic and inflammatory profiles were observed in experimental HFpEF, including obesity, hypertension, diastolic dysfunction, hepatic steatosis, and gut dysbiosis. Despite no detectable improvement in echocardiographic function at endpoint, Dapa induced distinct hepatic remodelling, with increased citraconate, restoration of succinate, modulation of branched-chain amino acid and ketone pathways and reduced oxidative stress markers. Aromatic amino acid metabolism and gut-derived metabolites were broadly disrupted across heart, liver, and plasma. HFpEF is defined by complex, tissue-specific metabolic derangements. SGLT2 inhibition primarily remodeled the hepatic metabolome, positioning the liver as a central hub of cardio-renal-liver crosstalk. These findings suggest that extra-cardiac metabolic pathways, particularly liver-centered mechanisms, may contribute to the therapeutic benefits of SGLT2 inhibitors in HFpEF and provide new insights into inter-organ metabolic regulation.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43045850/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43040373",
+    "title": "Convergent and complementary cardiorenal protective mechanisms of SGLT2 inhibitors, GLP-1 receptor agonists, and non-steroidal mineralocorticoid receptor antagonists in diabetic kidney disease within the CKM framework.",
+    "authors": [
+      "Jia Zhuoran",
+      "Zheng Peiyang",
+      "Wu Xiaohe",
+      "Cao Yanlong",
+      "Li Chao",
+      "Meng Xiaoming",
+      "Zhao Ren"
+    ],
+    "journal": "Diabetology & metabolic syndrome",
+    "year": "2026",
+    "doi": "10.1186/s13098-026-02284-z",
+    "abstract": "Diabetic kidney disease (DKD) is a major manifestation of cardiovascular-kidney-metabolic (CKM) syndrome and remains a leading cause of chronic kidney disease, kidney failure, heart failure, atherosclerotic cardiovascular disease, and premature mortality. Over the past decade, sodium-glucose cotransporter-2 inhibitors (SGLT2is), glucagon-like peptide-1 receptor agonists (GLP-1RAs), and the non-steroidal mineralocorticoid receptor antagonist (ns-MRAs), currently represented clinically by finerenone, have transformed the therapeutic landscape of DKD and related CKM phenotypes. Their benefits extend beyond glucose lowering and have been reproduced, to varying degrees, across populations with DKD, heart failure, obesity, and high cardiovascular risk. Although these drug classes act on distinct proximal targets, they appear to converge on several shared downstream mechanisms, including restoration of hemodynamic homeostasis, attenuation of inflammation and oxidative stress, preservation of mitochondrial and cellular metabolic integrity, and suppression of maladaptive fibrosis. At the same time, each class retains mechanistic strengths that may explain their partially distinct clinical profiles, with SGLT2is showing prominent benefits in heart failure and kidney disease progression, GLP-1RAs exerting stronger effects on weight reduction and atherosclerotic cardiovascular risk, and ns-MRAs such as finerenone targeting mineralocorticoid receptor-driven inflammatory and fibrotic injury. In this review, we synthesize current mechanistic and randomized clinical evidence supporting the convergent and complementary cardiorenal-metabolic effects of these three therapeutic pillars. We further discuss the biological rationale for dual- and triple-pathway combination strategies, the emerging role of phenotype-guided treatment selection, persistent residual risk, and unresolved questions regarding sequencing, safety, and implementation. A mechanistically integrated framework may help move DKD care within the broader CKM spectrum from conventional risk-factor management toward precision cardiorenal-metabolic medicine.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43040373/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "43036293",
     "title": "GLP-1(9-37) Improves Left Ventricular Function in a Murine Model of Cardiac Pressure Overload by Promoting Mitochondrial Biogenesis.",
     "authors": [

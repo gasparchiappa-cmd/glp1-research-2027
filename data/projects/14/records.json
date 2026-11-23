@@ -24,6 +24,47 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "43046294",
+    "title": "GLP-1 Receptor Agonists in Psychotic Disorders: Mechanistic Convergence and Therapeutic Implications for Brain and Metabolic Health.",
+    "authors": [
+      "Le Thao D V",
+      "Memetoglu Onur",
+      "Ayala Julio E",
+      "Du Fei",
+      "Cohen Bruce",
+      "Öngür Dost",
+      "Chouinard Virginie-Anne"
+    ],
+    "journal": "The American journal of psychiatry",
+    "year": "2026",
+    "doi": "10.1176/appi.ajp.20260061",
+    "abstract": "The objective of this study was to review and synthesize the mechanistic rationale and emerging clinical evidence for the use of glucagon-like peptide 1 (GLP-1) receptor agonists (GLP-1RAs) in psychotic disorders. The authors conducted a systematic review of the clinical literature relevant to GLP-1RA use in people with psychotic disorders. Searches of PubMed/MEDLINE, Embase, APA PsycInfo, and Cochrane CENTRAL were conducted from database inception through March 7, 2026, and were supplemented by searches of ClinicalTrials.gov and the WHO International Clinical Trials Registry Platform and reference-list screening. The findings were integrated into a narrative synthesis of preclinical and translational evidence relevant to novel metabolic mechanisms in the pathophysiology of psychotic disorders. Preclinical and early human mechanistic studies suggest that GLP-1RAs may influence several pathways relevant to psychotic disorders, including systemic and central glucose homeostasis, gut-brain signaling, inflammatory processes, redox alterations, mitochondrial function, and reward-related signaling. Clinically, the clearest evidence of benefit is for antipsychotic-associated weight gain and cardiometabolic risk, with most randomized clinical trials reporting meaningful improvements in body weight and metabolic outcomes. Relevant to comorbidities in psychotic disorders, the evidence for GLP-1RA effects on alcohol and nicotine use is suggestive but inconclusive. Available studies have not yet demonstrated consistent improvements in psychotic symptoms, cognition, or functioning. Limitations to the clinical evidence include small samples; short follow-up; heterogeneity in agents, dosing, and endpoints; and minimal incorporation of mechanistic endpoints. GLP-1RAs represent a clinically and mechanistically grounded strategy to address the substantial cardiometabolic burden in psychotic disorders, with the potential for reduced substance use and other neuropsychiatric benefits.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43046294/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43041929",
+    "title": "Correction: Exploring factors predicting the effectiveness of oral semaglutide in Japanese individuals with type 2 diabetes switching from dipeptidyl peptidase 4 inhibitors: a pilot study.",
+    "authors": [
+      "Hirotsu Takao",
+      "Taniguchi Kanta",
+      "Nishimura Rimei"
+    ],
+    "journal": "Frontiers in clinical diabetes and healthcare",
+    "year": "2026",
+    "doi": "10.3389/fcdhc.2026.1978946",
+    "abstract": "[This corrects the article DOI: 10.3389/fcdhc.2025.1520389.].",
+    "publication_types": [
+      "Published Erratum"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041929/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "43034520",
     "title": "Combination therapies for hidradenitis suppurativa: Narrative review of current strategies and emerging perspectives.",
     "authors": [
@@ -466,7 +507,9 @@
     "doi": "10.2337/dci26-0141",
     "abstract": "The American Diabetes Association and the European Association for the Study of Diabetes convened a panel to update the consensus statement on the management of type 2 diabetes in nonpregnant adults, published since 2006 and last updated in 2022. The target audience is the multidisciplinary health care team providing diabetes care in the U.S. and Europe. A systematic examination of publications since 2022 informed new recommendations. This update has broadened the focus from the management of hyperglycemia to the holistic management of type 2 diabetes and its risk of associated multiple long-term conditions. Fundamental aspects of diabetes care include promoting healthy lifestyle behaviors (healthy eating, 24-h physical behaviors including sleep, and avoiding tobacco and substance use), alongside the provision of psychological support and weight management interventions. For the management of people living with type 2 diabetes, earlier use, potentially from diagnosis, of sodium-glucose cotransporter 2 (SGLT2) inhibitors and/or glucagon-like peptide 1 (GLP-1)-based therapies to offer organ protection and improve long-term outcomes in type 2 diabetes is advocated. Furthermore, earlier combination use of SGLT2 inhibitors and GLP-1-based therapies should be considered in people with concomitant cardiovascular disease, chronic kidney disease, and heart failure. Finally, the ability to transform outcomes for people living with type 2 diabetes is within our grasp through the consistent, equitable, and systematic implementation of strategies and therapies that are already available.",
     "publication_types": [
-      "Journal Article"
+      "Journal Article",
+      "Consensus Statement",
+      "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42825450/",
     "screening_status": "não avaliado"

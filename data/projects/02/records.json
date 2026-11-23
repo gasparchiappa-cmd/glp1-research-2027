@@ -1,5 +1,49 @@
 [
   {
+    "pmid": "43066666",
+    "title": "Cardiac and Metabolic Effects of Semaglutide in Obesity-Related HFpEF: Rationale and Design of CAMEO-SEMA.",
+    "authors": [
+      "Kazui Sho",
+      "Ghanbari Fahime",
+      "Harada Tomonari",
+      "Reddy Yogesh N V",
+      "Packer Milton",
+      "Carter Rickey",
+      "Jensen Michael D",
+      "Borlaug Barry A"
+    ],
+    "journal": "JACC. Heart failure",
+    "year": "2026",
+    "doi": "10.1016/j.jchf.2026.103500",
+    "abstract": "Two-thirds of patients with heart failure with preserved ejection fraction (HFpEF) have obesity, and >90% have increased visceral adiposity. Adiposity-associated HFpEF is characterized by hemodynamic congestion driven by impaired cardiac reserve, volume overload and altered blood distribution, adverse cardiac remodeling, pericardial constraint, systemic vascular stiffening, myosteatosis, metabolic dysfunction, and altered adipokine signaling profiles. Recent clinical trials have demonstrated that glucagon-like peptide-1 receptor agonists alleviate symptoms and improve exercise capacity in patients with obesity-related HFpEF, but the mechanisms underlying these benefits remain uncertain. This study aims to elucidate the mechanisms by which semaglutide improves clinical status in patients with HFpEF and obesity. The CAMEO-SEMA trial is a single-center, prospective, randomized, double-blind, placebo-controlled mechanistic trial evaluating the effects of semaglutide in obesity-related HFpEF. Eighty-one participants have been randomized in a 2:1 ratio to semaglutide subcutaneously once weekly or matching placebo for 52 weeks. Comprehensive pathophysiological characterization is being performed at baseline and following treatment, including invasive exercise hemodynamic status, transcardiac (arterial and coronary sinus) blood sampling at rest and with exercise, cardiac magnetic resonance imaging, submaximal and peak aerobic capacity through expired gas analysis, comprehensive rest and exercise echocardiography, body composition and visceral adiposity assessment, blood volume analysis, oral glucose testing, subcutaneous adipose tissue biopsy, and inflammatory-adipokine profiling. The CAMEO-SEMA trial will provide comprehensive, novel insights into the mechanisms by which the glucagon-like peptide-1 receptor agonists semaglutide affects the key pathophysiological factors causing symptoms, exercise limitation, and morbidity in patients with obesity-related HFpEF. (Cardiac and Metabolic Effects of Semaglutide [CAMEO-SEMA]; NCT05371496).",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43066666/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43041190",
+    "title": "Semaglutide-Induced Weight Loss Does Not Impair Muscle Function and Improves Endurance Running Capacity in Obese Mice.",
+    "authors": [
+      "Minderis Petras",
+      "Cesanelli Leonardo",
+      "Sviderskis Mazvydas",
+      "Venckunas Tomas",
+      "Gray Stuart R",
+      "Ratkevicius Aivaras"
+    ],
+    "journal": "Journal of cachexia, sarcopenia and muscle",
+    "year": "2026",
+    "doi": "10.1002/jcsm.70427",
+    "abstract": "Semaglutide, a member of the glucagon-like peptide-1 receptor agonists, induces substantial weight loss, primarily through appetite suppression and reduced energy intake. In addition to fat mass reduction, a considerable loss of lean body mass is also observed. How these effects compare to conventional caloric restriction is unclear. The aim of the current study was to compare the effects of semaglutide injections and energy-matched caloric restriction on skeletal muscle mass, function and exercise capacity. An 8-month-old high-fat diet-induced obese male C57BL/6J mice were pair-fed (n = 14), with one receiving semaglutide injections (SEMA; 30 μg/kg/day) and the other undergoing energy-matched caloric restriction (CR; sham PBS injections) for 28 days. A group of obese mice (n = 12) continued unrestricted high-fat feeding and served as controls (CON). Body mass and energy intake were monitored daily. During the final week, exercise capacity was assessed using a progressive treadmill test with oxygen consumption and lactate measurements. At study completion, mice were euthanized, and slow- and fast-twitch muscles (soleus [SOL] and extensor digitorum longus [EDL]) were dissected, weighed and used for ex vivo assessment of mechanical and contractile properties. Despite similar energy intake, SEMA mice lost more body mass than CR mice (20.9 ± 4.9 vs. 14.8% ± 5.8%, p < 0.01). Both groups exhibited lower SOL muscle mass compared with CON (10.0 ± 0.7 mg; SEMA: 9.1 ± 0.8 mg, p < 0.01; CR: 9.4 ± 0.7 mg, p < 0.05), whereas EDL muscle mass was not significantly different. During the treadmill test, SEMA mice displayed higher relative VO2peak (43.4 ± 3.0 mL/min/ kg0.75) compared with CR (40.8 ± 2.6 mL/min/kg0.75, p < 0.05) and CON (38.6 ± 2.69 mL/min/kg0.75, p < 0.001), together with advantages in running distance and maximal running speed, which were largely attributable to lower body mass. SOL and EDL force, normalized to muscle mass and PCSA, did not differ between groups (SOL: 21.2 ± 2.8 N/g and 22.4 ± 3.1 N/cm2 [SEMA], 20.8 ± 2.4 N/g and 21.7 ± 2.5 N/cm2 [CR], 19.7 ± 3.5 N/g and 20.4 ± 3.7 N/cm2 [CON]; EDL: 22.8 ± 2.2 N/g and 17.0 ± 2.0 N/cm2 [SEMA], 24.5 ± 2.5 N/g and 18.2 ± 2.0 N/cm2 [CR], 22.9 ± 2.1 N/g and 16.8 ± 1.8 N/cm2 [CON]). Muscle contraction and relaxation kinetics as well as stretched induced hysteresis and relaxation were similar across groups. In obese mice, semaglutide induces greater weight loss but similar muscle loss than energy-matched caloric restriction, while improving aerobic endurance without compromising skeletal muscle function.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041190/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42988221",
     "title": "Semaglutide versus diet-based weight loss in obesity and heart failure with reduced ejection fraction (FIT-HF): Protocol for a randomized controlled trial.",
     "authors": [
@@ -280,8 +324,7 @@
     "publication_types": [
       "Journal Article",
       "Systematic Review",
-      "Meta-Analysis",
-      "Review"
+      "Meta-Analysis"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42399550/",
     "screening_status": "não avaliado"

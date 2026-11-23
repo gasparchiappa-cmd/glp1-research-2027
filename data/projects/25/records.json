@@ -1,5 +1,28 @@
 [
   {
+    "pmid": "43065563",
+    "title": "Next-generation anti-obesity drugs: emerging molecular targets and translational opportunities.",
+    "authors": [
+      "Shetty Sneha",
+      "Rangle Asmi",
+      "Mukherjee Anirban Goutam",
+      "Bharti Ankit Kumar",
+      "Jena Sudip Prasad",
+      "Prince Sabina Evan",
+      "Gopalakrishnan Abilash Valsala"
+    ],
+    "journal": "Journal of diabetes and metabolic disorders",
+    "year": "2027",
+    "doi": "10.1007/s40200-026-02101-4",
+    "abstract": "Obesity is a heterogeneous, chronic metabolic disease driven by dysregulation of energy homeostasis across interconnected central nervous system, gastrointestinal, adipose, endocrine, immune, and mitochondrial networks. Despite the established roles of lifestyle intervention and metabolic/bariatric surgery, limitations in accessibility, durability, and interindividual response have stimulated the development of mechanism-based pharmacotherapies. This review critically examines emerging therapeutic strategies targeting integrated energy-regulatory pathways and evaluates their translational potential for precision obesity management. Current evidence was synthesized across major biological systems governing appetite, energy expenditure, and metabolic adaptation. Central melanocortin, Neuropeptide Y (NPY)/ Agouti-related peptide (AgRP), serotonergic, dopaminergic, and endocannabinoid pathways were considered alongside gut-derived incretin, amylin, Peptide YY (PYY), ghrelin, Fibroblast Growth Factor (FGF), and bile acid signaling. Emerging approaches targeting adipose remodeling, thermogenesis, mitochondrial energetics, AMPK-mTOR-sirtuin signaling, inflammation, and fibrosis were also evaluated. Genetic, epigenetic, and artificial intelligence-based approaches to patient stratification were incorporated to assess prospects for precision therapy. Obesity pharmacotherapy is shifting from conventional appetite suppression toward coordinated modulation of interconnected metabolic pathways. Incretin-based and multi-agonist therapies provide the strongest clinical evidence for substantial weight reduction and metabolic improvement. However, treatment discontinuation, weight regain, adverse effects, cost, and heterogeneous therapeutic responses remain major challenges. Strategies targeting adipose tissue dysfunction, mitochondrial metabolism, thermogenesis, immune-metabolic signaling, and fibrosis offer additional opportunities for disease modification, although many remain in preclinical or early clinical development. Increasing evidence for biological heterogeneity supports individualized therapeutic selection. The emerging therapeutic paradigm positions obesity as a systems-level disorder requiring mechanism-informed, individualized intervention. Integrating CNS-gut-adipose-mitochondrial biology with multi-omics, biomarkers, and artificial intelligence may enable more durable and precise treatment. Long-term safety, durability, affordability, equitable access, and clinical validation remain essential for translation.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065563/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42834213",
     "title": "AA in Obesity and Metabolic Dysfunction-Associated Steatotic Liver Disease (MASLD) Nonalcoholic Fatty Liver Disease (NAFLD).",
     "authors": [
@@ -14,6 +37,164 @@
       "Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/42834213/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43066751",
+    "title": "GLP-1 receptor agonists in idiopathic subglottic stenosis: patient attitudes, barriers, facilitators and patient-reported outcomes.",
+    "authors": [
+      "Gosselin Laura-Elisabeth",
+      "Anderson Catherine",
+      "Al Yaghchi Chadwan"
+    ],
+    "journal": "European archives of oto-rhino-laryngology : official journal of the European Federation of Oto-Rhino-Laryngological Societies (EUFOS) : affiliated with the German Society for Oto-Rhino-Laryngology - Head and Neck Surgery",
+    "year": "2026",
+    "doi": "10.1007/s00405-026-10835-3",
+    "abstract": "Idiopathic subglottic stenosis (iSGS) is a rare disease of unknown etiology. There has been a growing interest within the patient community regarding the potential therapeutic role of GLP-1 receptor agonists (GLP-1 RA) in the management of iSGS, potentially through weight loss-mediated or direct anti-inflammatory mechanisms. The objective of this study was to evaluate patient perspectives and attitudes regarding the potential role of GLP-1 RA in the overall management of iSGS. We conducted a cross-sectional observational study through a structured online anonymous survey. The survey comprised 53 items organized across four domains: demographics; attitudes, barriers and facilitators to GLP-1 RA use; therapy details and adverse effects; and perceived therapeutic impact. A total of 1382 patients with iSGS completed the survey. Diagnostic delay of iSGS was a prominent finding, with patients reporting a substantial lag between symptom onset and confirmed diagnosis. Overall, 407 patients used GLP-1 RA therapy. Among GLP-1 RA users, 38.44% self-reported perceived improvement in airway symptoms. Key barriers to GLP-1 RA therapy included cost, access, and limited physician awareness. Thematic analysis of the patient's responses revealed patients' attitudes toward GLP-1 RA therapy were largely favorable, with patients citing anti-inflammatory benefits and quality of life improvements as primary motivators for use. GLP-1 receptor agonists are generally viewed favorably by patients with iSGS. Patient-reported experiences suggest possible improvements in airway symptoms, although prospective studies are required to establish causality and clarify mechanistic benefit.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43066751/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43065609",
+    "title": "The next frontier of peptide therapeutics: from targeted conjugates (PDC/ODC) to AI-driven safety-by-design.",
+    "authors": [
+      "Morceau Franck",
+      "Kim YoungJun",
+      "Kwon Yong-Jun",
+      "Shin Yong Jae"
+    ],
+    "journal": "Frontiers in pharmacology",
+    "year": "2026",
+    "doi": "10.3389/fphar.2026.1970939",
+    "abstract": "The pharmaceutical landscape is witnessing a profound \"Peptide Renaissance,\" driven primarily by the clinical success of GLP-1 receptor agonists and reinforced by engineering advanced drug delivery platforms. This review provides a comprehensive analysis of current trends in peptide-based drug development, using a target-localization framework that distinguishes molecular recognition from pharmacological action. We delineate the functional divergence between extracellular, cell-surface, and intracellular targeting, highlighting how peptides bridge the gap between small molecules and monoclonal antibodies. Central to this discussion is a comparative evaluation of next-generation conjugation technologies-Peptide-Drug Conjugates (PDCs) and Oligonucleotide-Drug Conjugates (ODCs)-against the backdrop of conventional Antibody-Drug Conjugates (ADCs). Rather than a simple performance comparison, this analysis focuses on how the distinct structural architectures of these modalities dictate their pharmacological profiles. We examine the inherent trade-offs between the long systemic half-life of bulky, antibody-based scaffolds and the construct-dependent tissue distribution and immunogenicity of peptide and oligonucleotide delivery systems, thereby elucidating their respective strengths and limitations in targeting complex disease environments. PDCs can use peptide-mediated recognition or uptake to deliver therapeutic payloads, whereas ODCs deliver oligonucleotides that act intracellularly through mechanisms such as RNA interference or splice modulation. Furthermore, we explore the transformative role of generative Artificial Intelligence and structural algorithms, such as AlphaFold 3, in shifting the development paradigm toward a \"Safety-by-Design\" philosophy. By integrating predictive toxicology (e.g., pepADMET) into the nascent design phase, researchers may prioritize candidates for experimental testing. Importantly, the pharmacoeconomic case for this approach remains provisional rather than established. A retrospective analysis of AI-derived candidates reported Phase I success rates of approximately 80%-90% and a Phase II success rate of approximately 40%, comparable to historical Phase II averages. The limited sample and historical comparison do not establish a causal effect of AI or a peptide-specific economic benefit. We therefore present AI-guided safety-by-design as a proposed strategy for candidate prioritization, and set out explicitly the comparative evidence that would be required before claims of reduced development cost, shortened timelines, or improved affordability can be regarded as demonstrated.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065609/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43060806",
+    "title": "GLP-1 Receptor agonist use and attempted access in individuals with and without lifetime eating disorders: The role of diagnostic history, BMI, and medication motivation.",
+    "authors": [
+      "Mantilla Emma Forsén",
+      "Hog Liv",
+      "Dinkler Lisa",
+      "Lu Yi",
+      "Bulik Cynthia M",
+      "Thornton Laura M",
+      "Birgegård Andreas"
+    ],
+    "journal": "Research square",
+    "year": "2026",
+    "doi": "10.21203/rs.3.rs-11189051/v1",
+    "abstract": "Background Glucagon-like peptide-1 receptor agonist medications (GLP-1RAs) have revolutionized management of type-2 diabetes and obesity and are increasingly widespread. In eating disorders (ED), where dietary restriction is a triggering and maintaining factor, concerns have been raised regarding risks related to GLP-1RAs. Methods We studied self-reported prescribed, unprescribed, and attempted use in 5882 individuals with various lifetime EDs compared to 1322 controls, stratified by highest lifetime body mass index (BMI) following drug indication thresholds (above 30 or above 27 with complications, e.g. hypertension). Logistic regression models using single-diagnosis- and mutually adjusted models was used, and prescription for T2D was used as a covariate to control for purely medically motivated use. Results Lifetime atypical anorexia nervosa, bulimia nervosa, and binge eating disorder were generally associated with higher engagement compared to controls. Anorexia nervosa was associated with lower engagement in participants with lifetime BMI above 30, but higher engagement in BMI strata below 30 and below 27. Sex-separated analyses suggested higher engagement in males with lifetime anorexia nervosa also in higher-weight strata. Avoidant-restrictive food intake disorder did not differ from controls on any outcome. While weight loss was the primary motivation for engagement, a notable proportion cited management of binge eating even though that is not among the approved indications. Conclusions Findings suggest that lifetime ED is associated with heightened drug-seeking and inappropriate use in some individuals, and support recent calls for increased monitoring of ED history and symptoms in relation to GLP-1RA treatment.",
+    "publication_types": [
+      "Journal Article",
+      "Preprint"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43060806/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43055718",
+    "title": "Optimizing the management of obstructive sleep apnea with pharmacotherapy.",
+    "authors": [
+      "Bird Elizabeth Michelle",
+      "Schmickl Christopher N",
+      "Lam Michael Tun Yin",
+      "Malhotra Atul"
+    ],
+    "journal": "Expert review of clinical pharmacology",
+    "year": "2026",
+    "doi": "10.1080/17512433.2026.2764156",
+    "abstract": "Obstructive sleep apnea (OSA) affects up to 1 billion people worldwide. Despite availability of continuous positive airway pressure (CPAP) therapy as the main treatment modality, a need for additional pharmacologic agents remains. Pharmacologic therapies can help improve patient symptoms of sleepiness and address the underlying mechanisms (endotypes) of disordered breathing in patients with OSA. Potential pharmacologic target therapy of the four main OSA endotypes, airway collapsibility, poor upper airway muscle dilation, high loop gain, and low arousal threshold, are reviewed. Medications to help with daytime sleepiness are also discussed. Both original research and review articles spanning 2000 to 2026 are included in this review. Published articles were identified through PubMed and in-progress studies were identified through field experts. The current landscape of pharmacologic options for OSA is very exciting, especially with the expansion in number of agents addressing obesity that also help improve airway collapsibility. However, many of these therapies (apart from anti-obesity medications and medications for daytime sleepiness) are still experimental. Further evaluation is required before many of these pharmacologic agents are officially approved for use with or without CPAP. Agents addressing specific endotypes will pave the way for more personalized OSA treatment.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055718/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43054852",
+    "title": "The Growing Role of Glucagon-Like Peptide-1 Receptor Agonists in Neuropsychiatry.",
+    "authors": [
+      "Buyuksandalyaci Tunc Ece",
+      "Park Mary",
+      "Kansara Rudra",
+      "Paul Shristi",
+      "Grysman Noam",
+      "Grossberg George T"
+    ],
+    "journal": "Clinical pharmacology : advances and applications",
+    "year": "2026",
+    "doi": "10.2147/CPAA.S580850",
+    "abstract": "The co-occurrence of metabolic and psychiatric disorders poses a major challenge in medicine, and glucagon-like peptide-1 receptor agonists (GLP-1RAs) have emerged as candidates for neuropsychiatric repurposing given the wide distribution of glucagon-like peptide-1 (GLP-1) receptors in brain regions governing mood, cognition, and reward. This narrative review summarizes central and peripheral mechanisms linking GLP-1 signaling to neuropsychiatric outcomes, critically appraises clinical evidence across psychiatric and neurodegenerative domains, and proposes a framework for integrating GLP-1RAs into neuropsychiatric care. A targeted search of PubMed/MEDLINE and ClinicalTrials.gov (January 2015-August 2026) prioritized randomized controlled trials, meta-analyses, and prospective cohorts reporting neuropsychiatric outcomes. Four converging mechanisms- neuroinflammation, metabolic-vascular neuroprotection, synaptic plasticity, and mesolimbic reward modulation- underpin this rationale. The strongest and most clinically actionable evidence supports GLP-1RA use for antipsychotic-induced metabolic dysfunction, with trials in clozapine/olanzapine-treated patients showing substantial weight loss and glycemic normalization without psychiatric worsening or altered clozapine levels. By contrast, in Alzheimer's disease, despite consistent observational signals of 33-53% dementia risk reduction, Phase 3 EVOKE/EVOKE+ trials found no benefit of oral semaglutide in early symptomatic disease despite biomarker engagement, favoring a prevention- rather than treatment-focused framework. Evidence in Parkinson's disease and major depressive disorder remains more limited: motor benefit in Parkinson's disease appears restricted to short-acting agents, with the largest phase 3 trial negative, while broad antidepressant efficacy is unsupported, although semaglutide improved effort-based decision-making in anhedonic, metabolically burdened patients. Additional signals exist for alcohol use disorder, binge eating disorder, and obstructive sleep apnea. Psychiatric safety appears reassuring across meta-analyses of over 133,000 participants, though exclusion of psychiatric populations from pivotal trials limits generalizability. Current evidence supports selective, investigational use of GLP-1RAs in neuropsychiatric care- most robustly for antipsychotic-induced metabolic dysfunction- rather than generalized repurposing, pending adequately powered trials with neuropsychiatric endpoints, structured monitoring, and equitable access strategies.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054852/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43053482",
+    "title": "When Clinical Innovation Outpaces Implementation: A Dual Diffusion Model for GLP-1 Therapy and Employer Cardiometabolic Health.",
+    "authors": [
+      "Halterman Steven L"
+    ],
+    "journal": "Population health management",
+    "year": "2026",
+    "doi": "10.1177/19427891261507912",
+    "abstract": "Glucagon-like peptide-1 (GLP-1)-based and related incretin therapies have rapidly expanded from glycemic management to obesity and broader cardiovascular-kidney-metabolic care. Their population-health impact, however, depends on more than therapeutic efficacy. Translation into durable benefit requires clinicians to identify and manage appropriate patients, benefit systems to enable effective access, and patients to initiate and sustain treatment. This review applies diffusion of innovations theory to propose a dual diffusion model for GLP-1 therapy and employer cardiometabolic health. The model conceptualizes provider implementation and employer/plan effective access as interdependent organizational diffusion processes that converge on the patient treatment trajectory. Their interaction produces 4 implementation states: implementation failure, identification gap, access gap, and integrated opportunity. Employer/plan effective access is proposed as a construct extending beyond binary coverage to include eligibility, affordability, utilization management, provider access, administrative feasibility, continuity, and treatment-support infrastructure. The model further distinguishes treatment initiation from sustainability and introduces system-generated discontinuation as a conceptual description of treatment cessation driven by structural barriers. Clinically Integrated cardiometabolic optimization is proposed as an implementation architecture positioning pharmacotherapy within coordinated longitudinal management of cardiometabolic risk rather than as an isolated pharmacy intervention. Seven propositions define a research agenda for testing the model. As incretin therapies expand across cardiometabolic indications, closing the efficacy-to-implementation gap may become as consequential as further gains in pharmacologic efficacy.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43053482/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43046872",
+    "title": "Semaglutide in Heart Failure With Preserved-Ejection Fraction and Obesity: The Gap Between Discussion and Use.",
+    "authors": [
+      "Jurin Ivana",
+      "Jakljević Tomislav"
+    ],
+    "journal": "Cardiology",
+    "year": "2026",
+    "doi": "10.1159/crd/absag023",
+    "abstract": "Semaglutide improves symptoms and physical function in heart failure with preserved-ejection fraction and obesity. Whether discussion of treatment is accompanied by its use in routine care is less well understood. We retrospectively assessed treatment discussion, follow-up medication records and documented reasons for non-initiation in 159 patients from a prospective registry. Available follow-up information was retained when assessment dates were incompletely transcribed. Exploratory associations with registry-recorded diabetes or prediabetes were assessed using Firth logistic regression. Semaglutide was discussed or offered in 148/159 patients (93.1%). Among 148 baseline nonusers with subsequent medication information, newly recorded semaglutide use was identified in 23 (15.5%). Recorded diabetes or prediabetes showed an exploratory association with this outcome (adjusted odds ratio 3.76, 95% confidence interval 1.08-19.93), but a sensitivity analysis restricting the reference group by glycated haemoglobin was inconclusive. Among 125 patients without newly recorded semaglutide use, affordability concerns were documented in 55 (44.0%), safety concerns in 48 (38.4%), and both in 38 (30.4%). Frequent discussion of semaglutide coexisted with infrequent documentation of subsequent use. Financial and medication-related concerns commonly overlapped. These findings identify a gap in routine care without establishing its causal determinants or verifying treatment initiation.",
+    "publication_types": [
+      "Journal Article"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43046872/",
+    "screening_status": "não avaliado"
+  },
+  {
+    "pmid": "43042433",
+    "title": "Prescribe, Co-Manage, or Refer? A Practical Approach for Incretin-Based Obesity Therapy in Gastroenterology Practice.",
+    "authors": [
+      "Salem George",
+      "Haddad Gael",
+      "Vardaman Averie",
+      "Lang Khoi",
+      "Brant Steven R",
+      "Baker Mary Zoe"
+    ],
+    "journal": "Gastroenterology research",
+    "year": "2026",
+    "doi": "10.14740/gr2182",
+    "abstract": "Incretin-based therapies create opportunities for gastroenterology (GI) services to treat obesity, but drug efficacy does not determine prescribing responsibility. We propose a practical care-allocation framework. A targeted narrative synthesis of adult clinical studies, professional guidance, labeling, and service evaluations informed the framework. A supplementary evidence map distinguishes treatment evidence from implementation extrapolation; selection was non-systematic. GI-led prescribing, co-management, and referral are organized around patient preference, indication, complexity, existing care, prescriber competence, and follow-up capacity. Product-specific precautions are separated from proposed routing criteria. Advanced practice providers and clinical pharmacists can provide defined functions within authorized scopes, although non-GI service evidence does not establish equivalent GI outcomes. Essential safety functions are distinguished from desirable staffing. Safeguards address nutrition, advanced liver disease, behavioral health, medication continuity, and fragmentation; candidate measures address response, persistence, safety, access, and patient experience. Prepared GI services may provide incretin therapy without making prescribing obligatory in every practice. The proposed prescriber-accountable framework should complement existing care and undergo prospective evaluation.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43042433/",
     "screening_status": "não avaliado"
   },
   {
@@ -743,15 +924,15 @@
     "pmid": "42918456",
     "title": "Pharmacotherapy for MASLD: current evidence and challenges in clinical practice.",
     "authors": [
-      "Pages Laura",
+      "Pagès Laura",
       "Rojo Diego",
-      "Jimenez-Masip Alba",
+      "Jimenéz-Masip Alba",
       "Tricarico Elena",
       "Mas Eduard",
       "Aguilar Anna",
-      "Gomez Nerea",
+      "Gómez Nerea",
       "Molinero Lucia",
-      "Pericas Juan M"
+      "Pericàs Juan M"
     ],
     "journal": "Annals of hepatology",
     "year": "2026",
@@ -2200,6 +2381,30 @@
     "screening_status": "não avaliado"
   },
   {
+    "pmid": "42251798",
+    "title": "Incretin therapy and transplant readiness: Distinguishing BMI-based access from physiologic reserve in solid organ transplantation.",
+    "authors": [
+      "Corrêa Lucas Maciel de Almeida",
+      "Brandão Luiggi Kevin Virgino",
+      "Silva Yan Roberth Delmiro",
+      "Fernandes Camilla Cristina Silva",
+      "Fossati Gabriela Wander",
+      "Queiroz Lara Reis Gomes de Mello",
+      "Zanella Juliana",
+      "Hernandes Fabiana Glazer"
+    ],
+    "journal": "Transplantation reviews (Orlando, Fla.)",
+    "year": "2026",
+    "doi": "10.1016/j.trre.2026.101037",
+    "abstract": "Obesity and metabolic disease frequently shape transplant candidacy, and body mass index (BMI) remains embedded in evaluation and listing criteria. Glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and dual GLP-1/glucose-dependent insulinotropic polypeptide (GIP) agonists now offer non-surgical pathways to clinically meaningful weight loss, including among candidates previously limited by BMI thresholds. However, in transplantation, crossing a BMI cutoff does not necessarily establish readiness for major surgery, immunosuppression, rehabilitation, and graft-protective follow-up. This focused narrative review examines evidence on incretin-based therapy in solid organ transplant candidates and recipients and proposes a distinction between an access response (achievement of BMI-related eligibility or listing goals) and a reserve response (weight loss accompanied by preserved or improved body composition, muscle strength, function, nutrition, cardiopulmonary tolerance, treatment tolerability, and immunosuppressive stability). Available transplant data are promising but largely observational and centered on weight, glycated hemoglobin, graft function, tacrolimus troughs, listing, and transplantation. Measures of lean mass, frailty trajectory, handgrip strength, gait speed, nutritional adequacy, patient-reported outcomes, perioperative events, and tacrolimus exposure variability remain underreported. We outline reserve-sensitive monitoring domains, an operational reserve-response matrix that classifies concordant favorable, access-only, metabolic-only, depletion, intolerance, pharmacokinetic-instability, and perioperative-risk trajectories, and reporting priorities for future studies. Incretin therapy may become an important bridge to transplantation, but its success should not be defined by BMI reduction alone. Prospective studies should determine whether BMI-based access gains are accompanied by preserved or improved physiologic reserve and safer progression to transplantation.",
+    "publication_types": [
+      "Journal Article",
+      "Review"
+    ],
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42251798/",
+    "screening_status": "não avaliado"
+  },
+  {
     "pmid": "42228850",
     "title": "Acute glucagon-like peptide-1 receptor agonist, semaglutide, attenuates cue-, drug-, and stress-induced fentanyl seeking in male Sprague-Dawley rats.",
     "authors": [
@@ -2355,8 +2560,7 @@
     "abstract": "This review aims to map the existing literature on the use of diabetes technology in people receiving dialysis, with a focus on utilization, accuracy, and effectiveness. A scoping review was conducted using the Joanna Briggs Institute methodology, with systematic searches of Medline, Embase, and CINAHL for studies on diabetes technologies in dialysis populations. The search identified 1060 continuous glucose monitoring (CGM) and 1467 continuous subcutaneous insulin infusion or automated insulin delivery (CSII/AID) records, with 64 studies included. Eighteen studies assessed CGM accuracy, reporting mean absolute relative difference (MARD) values ranging from 8.1% to 29%, with over 97% of readings falling within Clarke error grid zones A or B. Thirteen studies compared glycemic markers, finding that HbA1c underestimated glucose by 7.3 mmol/mol, while glycated albumin showed a stronger correlation (r = 0.508). Four studies reported on dialysis effects, showing that people on automated peritoneal dialysis (APD) had lower mean glucose levels (181 ± 64 mg/dL) compared to continuous ambulatory peritoneal dialysis (CAPD) (238 ± 67 mg/dL; P < .05). Eleven studies evaluating diabetes treatment efficacy using CGM found that dulaglutide significantly reduced glucose CV from 28.1% to 19.8% (P = .003). Twenty-two studies examining glycemic outcomes reported that TIR was lower on dialysis days (80.2%, P = .02). Finally, four AID studies reported TIR improvements of up to 37.6% and a 1.5 mmol/L reduction in glucose (P = .003). This review highlights the potential of CGM and AID to improve diabetes outcomes in people on dialysis. While their clinical utility is evident, broader access and further research are needed to optimize their use in this high-risk population.",
     "publication_types": [
       "Journal Article",
-      "Scoping Review",
-      "Review"
+      "Scoping Review"
     ],
     "url": "https://pubmed.ncbi.nlm.nih.gov/40891490/",
     "screening_status": "não avaliado"

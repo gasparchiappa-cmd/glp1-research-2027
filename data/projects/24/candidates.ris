@@ -78,6 +78,146 @@ UR  - https://pubmed.ncbi.nlm.nih.gov/42503322/
 ER  - 
 
 TY  - JOUR
+ID  - 43068353
+TI  - Effects of Liraglutide as Add-on to Metformin on Hepatic Steatosis and Fibrosis in Patients with Prediabetes and MASLD: A Retrospective Cohort Study.
+AU  - He Qin
+AU  - Yang Jianming
+AU  - Tang Renmin
+AU  - Wang Wen
+JO  - Journal of gastrointestinal and liver diseases : JGLD
+PY  - 2026
+DO  - 10.15403/jgld-6926
+AB  - The coexistence of prediabetes and metabolic dysfunction-associated steatotic liver disease (MASLD) is common and accelerates metabolic and hepatic complications. This study evaluated the effects of liraglutide on hepatic steatosis and fibrosis in patients with prediabetes and MASLD. This retrospective cohort study included 263 patients with prediabetes and MASLD who received either liraglutide plus metformin (liraglutide group, n=142) or metformin alone (control group, n=121) for 12 months. Primary outcomes were changes in controlled attenuation parameter (CAP), liver stiffness measurement (LSM), Fibrosis-4 (FIB-4) index, and non-alcoholic fatty liver disease fibrosis score (NFS). Secondary outcomes included anthropometric measurements, glycemic parameters, lipid profiles, and liver enzymes. After 12 months of treatment, CAP values decreased significantly in both groups (both p<0.001), with significantly lower values in the liraglutide group compared to the control group (p<0.001). LSM showed significant reductions in both groups, with more pronounced improvement in the liraglutide group (p<0.001) and significantly lower values compared to the control group at 12 months (p<0.05). FIB-4 index and NFS decreased significantly in both groups (p<0.05), though between-group differences did not reach statistical significance (p>0.05). The liraglutide group achieved significantly greater improvements in body weight, waist circumference, glycemic parameters [fasting plasma glucose (FPG), glycated hemoglobin (HbA1c), fasting insulin, homeostasis model assessment of insulin resistance (HOMA-IR)], triglycerides, and non-high-density lipoprotein (HDL) cholesterol compared to the control group (all p<0.05). Liver enzymes [alanine aminotransferase (ALT), aspartate aminotransferase (AST]), gamma-glutamyl transferase (GGT)] improved significantly in both groups, with greater reductions in the liraglutide group (all p<0.001). The most common adverse events were mild-to-moderate gastrointestinal symptoms, with no serious adverse events reported. In patients with prediabetes and MASLD, 12-month liraglutide as add-on therapy to metformin was associated with significant improvements in hepatic steatosis and liver stiffness measurement compared to metformin monotherapy, alongside favorable metabolic effects and an acceptable safety profile. These findings support liraglutide as a potential therapeutic option for this high-risk population.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43068353/
+ER  - 
+
+TY  - JOUR
+ID  - 43065494
+TI  - Beyond hepatoprotection: a meta-analysis quantifying the cardiovascular benefit of antidiabetic drugs in patients with metabolic dysfunction-associated steatohepatitis.
+AU  - Ullah Najeeb
+AU  - Mijiti Yasen
+AU  - Du Guoli
+JO  - Frontiers in endocrinology
+PY  - 2026
+DO  - 10.3389/fendo.2026.1948283
+AB  - Metabolic dysfunction-associated steatohepatitis (MASH), the progressive form of metabolic dysfunction-associated steatotic liver disease (MASLD), is associated with substantially elevated cardiovascular risk, yet the cardiovascular efficacy of antidiabetic drugs in this population has not been systematically quantified. We searched PubMed, Cochrane CENTRAL, Web of Science, and Embase from January 2016 to May 2026 for studies reporting major adverse cardiovascular events (MACE) in adults with MASLD/MASH or nonalcoholic fatty liver disease treated with glucagon-like peptide-1 (GLP-1) receptor agonists, dual GIP/GLP-1 agonists, or sodium-glucose cotransporter-2 (SGLT-2) inhibitors. Random-effects meta-analysis using the Der Simonian-Laird method pooled hazard ratios (HRs) with 95% confidence intervals (CIs). Heterogeneity was assessed using the I² statistic. The certainty of evidence was evaluated using the GRADE framework. The protocol was prospectively registered with PROSPERO (CRD420261411507). Ten studies contributing 13 estimates (over 450,000 participants) were included. In subgroup analyses by comparator type, SGLT-2 inhibitors reduced MACE versus active comparators (HR 0.60, 95% CI 0.47-0.76), while GLP-1 receptor agonists showed consistent but more modest reductions (HR 0.84, 95% CI 0.68-1.03 versus placebo; HR 0.91, 95% CI 0.82-1.00 versus active comparators). An exploratory omnibus analysis combining all comparisons yielded a pooled HR of 0.83 (95% CI 0.76-0.90, P<0.0001, I²=82.0%). Significant reductions were also observed for cardiovascular death (HR 0.58, 95% CI 0.45-0.75, I²=57.8%) and heart failure hospitalization (HR 0.73, 95% CI 0.56-0.96, I²=81.2%). All-cause mortality was reduced (HR 0.68, 95% CI 0.51-0.91), although heterogeneity was very high (I²=96.5%) and the GRADE certainty of evidence was low. Nonfatal myocardial infarction was reduced by 33% (HR 0.67, 95% CI 0.52-0.86), while the reduction in nonfatal stroke was not significant (HR 0.93, 95% CI 0.70-1.23). The treatment effect was robust across sensitivity analyses, including restriction to randomized controlled trials (HR 0.72, 95% CI 0.62-0.85, I²=0.0%). In trim-and-fill analysis accounting for potential publication bias, the point estimate was attenuated (HR 0.91, 95% CI 0.79-1.04), indicating that the observed benefit should be interpreted with appropriate caution. Hypoglycemia was not reported alongside cardiovascular outcomes in any included study, representing a critical evidence gap. In patients with MASLD/MASH, GLP-1 receptor agonists and SGLT-2 inhibitors are associated with a reduction in cardiovascular events, although the magnitude of benefit is uncertain given the predominance of observational evidence, substantial heterogeneity, and attenuation of the effect in publication bias sensitivity analysis. These findings support the integration of these agents into MASLD/MASH management beyond their metabolic and hepatic benefits, while underscoring the need for dedicated cardiovascular outcome trials in this population. The complete absence of hypoglycemia reporting alongside cardiovascular outcomes highlights a substantial evidence deficit warranting attention in future trials. https://www.crd.york.ac.uk/prospero/, identifier CRD420261411507.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43065494/
+ER  - 
+
+TY  - JOUR
+ID  - 43045858
+TI  - Glucagon-like peptide-1 receptor agonist use is associated with higher severity of acute pancreatitis.
+AU  - Urias Esteban
+AU  - Panchal Sarjukumar
+AU  - Hatipoglu Dilara
+AU  - Tran Van Anh
+AU  - Dash Anwesh
+AU  - Madhu Veena
+AU  - Ertmann Emily
+AU  - Kochman Michael L
+JO  - Surgical endoscopy
+PY  - 2026
+DO  - 10.1007/s00464-026-13472-3
+AB  - Glucagon-like peptide-1 receptor agonists (GLP-1RAs) are widely used for obesity, type 2 diabetes, and MASLD. Although an association with pancreatitis has been reported, the clinical features, severity, and course of acute pancreatitis in patients receiving GLP-1RA therapy remain poorly characterized. We aimed to compare pancreatitis severity and outcomes in patients with and without GLP-1RA exposure. We conducted a retrospective cohort study of patients admitted with acute pancreatitis from March 2017 to August 2024. Patients were stratified by GLP-1RA exposure for at least 3 months prior to diagnosis. The primary outcome was disease severity measured by the Bedside Index for Severity in Acute Pancreatitis (BISAP). Secondary outcomes included liver biochemical abnormalities (AST, ALT, ALP, bilirubin), imaging findings, clinical complications, length of stay, and post-pancreatitis sequelae. An exploratory analysis compared biliary pathology (gallstones, choledocholithiasis, or biliary sludge) between GLP-1RA users with antecedent weight loss and patients with prior bariatric surgery. Among 149 patients, 49 (32.9%) were receiving a GLP-1RA. In adjusted analysis, GLP-1RA use was independently associated with a BISAP score ≥ 2 (OR 5.25, 95% CI 1.13-24.34, p = 0.034), and increasing age was also associated with higher severity (OR 1.07, 95% CI 1.03-1.12, p = 0.001). GLP-1RA users had higher rates of pancreatitis-associated ascites but lower rates of new-onset diabetes and exocrine pancreatic insufficiency, with no significant differences in other clinical outcomes. GLP-1RA users exhibited greater antecedent weight loss (p < 0.001), but biliary pathology did not differ significantly between groups. GLP-1RA use was associated with higher predicted severity of pancreatitis at presentation, reflected by a greater probability of a BISAP score ≥ 2, without a corresponding increase in post-pancreatitis complications. Nearly, half of GLP-1RA users developed pancreatitis within 1 year of therapy initiation. Most experienced antecedent weight loss, raising concern for a biliary contribution, although biliary pathology was observed both with the gallbladder in situ and after prior cholecystectomy.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43045858/
+ER  - 
+
+TY  - JOUR
+ID  - 43041053
+TI  - KASL Consensus Statement for Pharmacologic Treatment of Metabolic Dysfunction-Associated Steatohepatitis: Focus on Semaglutide.
+AU  - Kim Jung Hee
+AU  - Chang Young
+AU  - Lee Young-Sun
+AU  - Choi Miyoung
+AU  - Sohn Won
+AU  - Lee Jae Seung
+AU  - Choi Gwang Hyeon
+AU  - Yu Soo Jong
+AU  - Kim Bo Hyun
+AU  - Kim Seung Up
+AU  - Kim Won
+AU  - Jun Dae Won
+AU  - Kim Ji Hoon
+AU  - Kim Yoon Jun
+AU  - Lee Jin-Woo
+AU  - Cho Yong Kyun
+AU  - Park Sang Hoon
+AU  - Lim Young Suk
+AU  - Jang Byoung Kuk
+JO  - Clinical and molecular hepatology
+PY  - 2026
+DO  - 10.3350/cmh.2026.1329
+AB  - Metabolic dysfunction-associated steatotic liver disease and metabolic dysfunction-associated steatohepatitis (MASH) impose a rapidly increasing hepatic and cardiometabolic burden worldwide and in Korea. Following the phase 3 ESSENCE trial, which demonstrated the histological efficacy of semaglutide in noncirrhotic MASH with fibrosis, practical guidance for routine clinical care is needed. The Korean Association for the Study of the Liver developed this expert consensus statement on semaglutide treatment in MASH. Using the RAND/UCLA Appropriateness Method, a 15-member expert panel rated 98 clinical scenarios covering patient selection, dosing, response assessment, adverse event management, and metabolic comorbidities over two rating rounds with a structured panel discussion. Semaglutide is primarily intended for patients with noncirrhotic MASH and stage 2-3 fibrosis. Eligibility should be assessed using a two-step strategy of age-adjusted Fibrosis-4 index screening followed by vibration-controlled transient elastography (VCTE). A VCTE-derived liver stiffness measurement (LSM) of 10-15 kPa defines the preferred treatment range; 15-20 kPa is acceptable when cirrhosis and portal hypertension are excluded, whereas 8-10 kPa requires repeat VCTE, magnetic resonance elastography (eligible range, 3.1-4.4 kPa), or liver biopsy. Semaglutide is initiated at 0.25 mg once weekly and escalated every 4 weeks to a target maintenance dose of 2.4 mg. Response should be assessed with noninvasive tests after at least 18 months; a ≥30% reduction in VCTE-derived LSM suggests response. This consensus provides a structured framework for semaglutide use in MASH, integrated with management of obesity, type 2 diabetes, cardiovascular risk, and chronic kidney disease.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43041053/
+ER  - 
+
+TY  - JOUR
+ID  - 43041021
+TI  - Clinical Impact of the AISF STEPS-MASH Algorithm: Real-World Application in Tertiary Hepatology Practice.
+AU  - Pugliese Nicola
+AU  - D'Ambrosio Roberta
+AU  - Armandi Angelo
+AU  - Liguori Antonio
+AU  - Lombardi Rosa
+AU  - Terracciani Francesca
+AU  - Pennisi Grazia
+AU  - Mantovani Anna
+AU  - Dalbeni Andrea
+AU  - Ferri Silvia
+AU  - Perbellini Riccardo
+AU  - Maffi Gabriele
+AU  - Perna Federico
+AU  - Gentilucci Umberto Vespasiani
+AU  - Fracanzani Anna
+AU  - Miele Luca
+AU  - Bugianesi Elisabetta
+AU  - Lampertico Pietro
+AU  - Piscaglia Fabio
+AU  - Aghemo Alessio
+AU  - Petta Salvatore
+AU  - Ravaioli Federico
+JO  - Liver international : official journal of the International Association for the Study of the Liver
+PY  - 2026
+DO  - 10.1111/liv.70956
+AB  - The approval of resmetirom and semaglutide for non-cirrhotic people living with metabolic dysfunction-associated steatohepatitis (MASH) and significant fibrosis has created a need for pragmatic strategies to identify treatment candidates in routine practice. We assessed the real-world applicability of the AISF STEPS-MASH algorithm and characterised the treatment status of people reaching final assessment in tertiary hepatology centres. We retrospectively applied the AISF STEPS-MASH algorithm to all consecutive adults undergoing vibration-controlled transient elastography (VCTE) at nine Italian tertiary hepatology centres between January and June 2025. Step S defined a broad screening pool (controlled attenuation parameter [CAP] ≥ 248 dB/m and/or a metabolic referral indication). People with CAP-defined steatosis, at least one cardiometabolic risk factor or metabolic referral indication, and no documented competing liver disease aetiology were assigned to the Primary pathway; all others were analysed separately as the Non-primary pathway. Step T applied liver stiffness measurement (LSM) ≥ 8.0 kPa, excluding LSM ≥ 20.0 kPa and/or platelet count < 150 × 109/L. Step E classified safety-related conditions as label-defined contraindications, warnings requiring monitoring, or interactions requiring treatment modification or temporary deferral. Stepwise attrition across Steps S, T and E was quantified. Of 8194 people screened, 8150 (99.5%) had paired CAP and LSM data. Step S criteria were met by 4371 (53.6%), of whom 2300 entered the Primary pathway and 2071 the Non-primary pathway. Initial Step T criteria were met by 1041 people (23.8% of Step S; 12.8% of the evaluable cohort), and 750 reached the final Step T population after excluding 291 people with LSM ≥ 20.0 kPa and/or thrombocytopenia: 458 Primary and 292 Non-primary. Within the final Step T Primary pathway, 317 people (69.2%) had a treatment status compatible with both drugs without modification, 140 (30.6%) required medication or clinical optimisation, and one (0.2%) had a formal contraindication. The Non-primary pathway contained an adjudication reservoir of 191 people with an operational MASLD phenotype and a competing aetiology. The final Step T Primary pathway corresponded to 56.2 people per 1000 evaluable VCTE examinations, approximately one in every 18. In tertiary hepatology practice, the AISF STEPS-MASH algorithm translated broad VCTE activity into a focused treatment-assessment population. Nearly one third of those assessed required medication or clinical optimisation before treatment, a proportion likely to vary across clinical settings, and the pathway also identified people requiring advanced liver disease surveillance or aetiological adjudication.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43041021/
+ER  - 
+
+TY  - JOUR
+ID  - 43039875
+TI  - Real-World Initiation of Resmetirom and Recorded Incretin Exposure in the United States.
+AU  - Papadimopoulos Ilias
+AU  - Gohar Najam
+AU  - Kokkorakis Michail
+AU  - Anagnostakis Filippos
+JO  - Diabetes, obesity & metabolism
+PY  - 2026
+DO  - 10.1111/dom.71562
+AB  - Resmetirom and semaglutide 2.4 mg are approved for metabolic dysfunction-associated steatohepatitis but have not been tested together. We examined recorded incretin exposure among resmetirom initiators and the frequency and correlates of co-initiation. This new-user cohort study used TriNetX US Collaborative Network health records of patients first prescribed resmetirom from 14 March 2024 to 16 July 2026. Among patients without incretin prescriptions in the prior 5 years, those with an incretin prescription 0-30 days after resmetirom (co-initiators) were compared with non-co-initiators using standardized mean differences (SMDs) and Mantel-Haenszel analysis stratified by overweight/obesity and Type 2 diabetes. Of 6837 initiators, 76.6% had overweight/obesity (code or body mass index [BMI] ≥ 30 kg/m2), 44.0% Type 2 diabetes and 16.8% a cirrhosis code. An incretin prescription was recorded in 37.2%, mostly before resmetirom (33.8%; excluded from the comparison). Of the remaining 4524, 231 (5.1%) were co-initiators. Coded overweight/obesity (49.4% vs. 49.0%; SMD: 0.01) and Type 2 diabetes (30.3% vs. 33.1%; SMD: 0.06) were similar; co-initiation was about 5% in every stratum (Mantel-Haenszel odds ratios: overweight/obesity 1.08 [95% CI: 0.80-1.46]; diabetes 1.00 [0.75-1.34]). Co-initiators had higher mean BMI (35.3 vs. 33.0 kg/m2; SMD: 0.33) and were more often prescribed metformin (27.7% vs. 19.0%; SMD: 0.21). Because more than one-third of resmetirom initiators had a recorded incretin prescription, mostly before initiation, trials of combined treatment are needed. Co-initiation was uncommon and not clearly associated with overweight/obesity or Type 2 diabetes, despite higher BMI in co-initiators.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43039875/
+ER  - 
+
+TY  - JOUR
+ID  - 43039332
+TI  - Metabolic, Hepatic, and Neuropathological Effects of Palm11-PrRP31 and Liraglutide in High-Fat Diet-Fed APP/PS1 Mice.
+AU  - Mengr A
+AU  - Sopko Z
+AU  - Vaculová P
+AU  - Charvát V
+AU  - Neprašová B
+AU  - Vrkoslav V
+AU  - Strnad Š
+AU  - Železná B
+AU  - Maletínská L
+AU  - Pačesová A
+JO  - Neuropharmacology
+PY  - 2026
+DO  - 10.1016/j.neuropharm.2026.111263
+AB  - Metabolic stress is known to accelerate Alzheimer's disease (AD) progression. In our previous study, we demonstrated that long-term high-fat diet (HFD) feeding exacerbated not only amyloid-β (Aβ) burden but also liver steatosis in APP/PS1 mice, a transgenic model of AD, with effects worsening with age. The present study investigated whether a three-month treatment (from 6 to 9 months of age) with anorexigenic peptides (palm11-PrRP31 or liraglutide) could attenuate AD-like pathology, neuroinflammation, liver steatosis, and Aβ clearance in APP/PS1 male mice on HFD. The two compounds exhibited distinct therapeutic effects. Liraglutide reduced body weight and improved glucose tolerance in both genotypes, while also attenuating insulin resistance in APP/PS1 mice. In contrast, palm11-PrRP31 significantly reduced Aβ plaque burden and showed a tendency to decrease astrocytosis. Notably, both peptides markedly reduced microgliosis and pathological tau phosphorylation at Ser202 and Thr205 in the hippocampus and cerebral cortex. HFD induced pronounced hepatic steatosis in both genotypes; however, APP/PS1 mice exhibited more severe lipid imbalance, characterized by increased triacylglycerols and decreased phospholipids and cardiolipins compared to wild-type controls. While both compounds reduced liver steatosis and inflammation in wild-type mice, only liraglutide normalized lipid composition in APP/PS1 mice. Furthermore, Aβ deposits colocalized with CD11b clusters were absent in the liver of liraglutide-treated APP/PS1 mice. In conclusion, both peptides exert neuroprotective effects under metabolic stress, but through distinct mechanisms. Palm11-PrRP31 primarily reduces amyloid pathology and neuroinflammation, whereas liraglutide acts mainly through metabolic improvement.
+UR  - https://pubmed.ncbi.nlm.nih.gov/43039332/
+ER  - 
+
+TY  - JOUR
 ID  - 43037586
 TI  - Two drugs, one liver: A real-world test of GLP-1 RA and SGLT-2i combination therapy in MASLD.
 AU  - Fakhoury Butros
@@ -324,7 +464,7 @@ ER  -
 
 TY  - JOUR
 ID  - 42969666
-TI  - GLP-1 Receptor Agonists Versus Empagliflozin or Dapagliflozin in the MASLD-Heart Failure Phenotype: An Exploratory Propensity-Matched Cohort Study.
+TI  - GLP-1 Receptor Agonists versus Empagliflozin or Dapagliflozin in the MASLD-Heart Failure Phenotype: An Exploratory Propensity-Matched Cohort Study.
 AU  - Gautam Naveen
 AU  - Huynh Tien Manh
 AU  - Truong Hong Hieu
@@ -332,7 +472,7 @@ AU  - Duong Nikki
 JO  - Balkan medical journal
 PY  - 2026
 DO  - 10.4274/balkanmedj.galenos.2026.2026-7-49
-AB  - Treatment selection may confound observational comparisons of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and sodium-glucose cotransporter-2 inhibitors (SGLT2i) in adults with metabolic dysfunction-associated steatotic liver disease and heart failure (HF). To compare recorded outcomes between treatment groups and examine whether the associations persisted after restricting the analysis by agent and diabetes status and separating early and later outcome windows. Retrospective, initiation-based, active-comparator cohort study (new-user design not verified). We used the TriNetX US Collaborative Network and a common index eligibility period from January 1, 2018, through June 2, 2026. The revised analyses were performed on September 12, 2026. An additional sensitivity analysis of acute HF excluded patients with this outcome before the start of the day 1-1825 window. The primary analysis compared semaglutide, liraglutide, or dulaglutide with empagliflozin or dapagliflozin using 1:1 propensity score matching and assessed outcomes during days 1-1825. Separate analyses of the broader GLP-1 RA group examined outcomes during days 1-90 and 91-1825 and among patients with type 2 diabetes and no recorded type 1 diabetes. We report endpoint-specific event proportions, risk differences, hazard ratios (HRs), 95% confidence intervals (CIs), and proportionality test results. The primary analysis included 8,550 patients per group after matching. Mortality occurred in 599/8,514 (7.0%) versus 861/8,509 (10.1%); the HR was 0.607 (95% CI, 0.546-0.673). Coded acute HF diagnoses occurred in 1,217/8,550 (14.2%) versus 2,525/8,550 (29.5%); the HR was 0.398 (95% CI, 0.372-0.427), with evidence of non-proportional hazards. In separately matched descriptive interval analyses (8,489 patients per group), the HR for coded acute HF was 0.262 (95% CI, 0.236-0.291) during days 1-90 and 0.507 (95% CI, 0.469-0.548) during days 91-1825. The HR for acute kidney injury during the later interval was 0.740 (95% CI, 0.650-0.842). Among 5,709 matched pairs with type 2 diabetes and no recorded type 1 diabetes, the HR for coded acute HF was 0.431 (95% CI, 0.397-0.468), whereas the HR for ketoacidosis was 0.683 (95% CI, 0.455-1.025). No advantage was observed for acute pancreatitis in any analysis. In a separate analysis excluding patients with prior acute HF, the HR was 0.421 (95% CI, 0.362-0.489), with evidence of non-proportional hazards. Albumin and bilirubin remained imbalanced in a direction favoring the GLP-1 RA group; body mass index also remained imbalanced. GLP-1 RA exposure was associated with lower observed hazards for several outcomes, and the association with coded acute HF was weaker after day 90. The early concentration and magnitude of this association make treatment channeling a plausible explanation, although this analysis cannot establish that explanation. These exploratory findings do not support causal inferences or treatment-preference conclusions and do not challenge randomized evidence supporting SGLT2i use in HF.
+AB  - Treatment selection may confound observational comparisons of glucagon-like peptide-1 receptor agonists (GLP-1 RAs) and sodium-glucose cotransporter-2 inhibitors (SGLT2i) in adults with metabolic dysfunction-associated steatotic liver disease and heart failure (HF). To compare recorded outcomes between treatment groups and examine whether the associations persisted after restricting the analysis by agent and diabetes status and separating early and later outcome windows. Retrospective, initiation-based, active-comparator cohort study. We used the TriNetX US Collaborative Network and a common index eligibility period from January 1, 2018, through June 2, 2026. The revised analyses were performed on September 12, 2026. An additional sensitivity analysis of acute HF excluded patients with this outcome before the start of the day 1-1825 window. The primary analysis compared semaglutide, liraglutide, or dulaglutide with empagliflozin or dapagliflozin using 1:1 propensity score matching and assessed outcomes during days 1-1825. Separate analyses of the broader GLP-1 RA group examined outcomes during days 1-90 and 91-1825 and among patients with type 2 diabetes and no recorded type 1 diabetes. We report endpoint-specific event proportions, risk differences, hazard ratios (HRs), 95% confidence intervals (CIs), and proportionality test results. The primary analysis included 8,550 patients per group after matching. Mortality occurred in 599/8,514 (7.0%) versus 861/8,509 (10.1%); the HR was 0.607 (95% CI, 0.546-0.673). Coded acute HF diagnoses occurred in 1,217/8,550 (14.2%) versus 2,525/8,550 (29.5%); the HR was 0.398 (95% CI, 0.372-0.427), with evidence of non-proportional hazards. In separately matched descriptive interval analyses (8,489 patients per group), the HR for coded acute HF was 0.262 (95% CI, 0.236-0.291) during days 1-90 and 0.507 (95% CI, 0.469-0.548) during days 91-1825. The HR for acute kidney injury during the later interval was 0.740 (95% CI, 0.650-0.842). Among 5,709 matched pairs with type 2 diabetes and no recorded type 1 diabetes, the HR for coded acute HF was 0.431 (95% CI, 0.397-0.468), whereas the HR for ketoacidosis was 0.683 (95% CI, 0.455-1.025). No advantage was observed for acute pancreatitis in any analysis. In a separate analysis excluding patients with prior acute HF, the HR was 0.421 (95% CI, 0.362-0.489), with evidence of non-proportional hazards. Albumin and bilirubin remained imbalanced in a direction favoring the GLP-1 RA group; body mass index also remained imbalanced. GLP-1 RA exposure was associated with lower observed hazards for several outcomes, and the association with coded acute HF was weaker after day 90. The early concentration and magnitude of this association make treatment channeling a plausible explanation, although this analysis cannot establish that explanation. These exploratory findings do not support causal inferences or treatment-preference conclusions and do not challenge randomized evidence supporting SGLT2i use in HF.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42969666/
 ER  - 
 
@@ -536,15 +676,15 @@ ER  -
 TY  - JOUR
 ID  - 42918456
 TI  - Pharmacotherapy for MASLD: current evidence and challenges in clinical practice.
-AU  - Pages Laura
+AU  - Pagès Laura
 AU  - Rojo Diego
-AU  - Jimenez-Masip Alba
+AU  - Jimenéz-Masip Alba
 AU  - Tricarico Elena
 AU  - Mas Eduard
 AU  - Aguilar Anna
-AU  - Gomez Nerea
+AU  - Gómez Nerea
 AU  - Molinero Lucia
-AU  - Pericas Juan M
+AU  - Pericàs Juan M
 JO  - Annals of hepatology
 PY  - 2026
 DO  - 10.1016/j.aohep.2026.102477
@@ -1073,7 +1213,7 @@ AU  - Fontana Robert J
 JO  - Clinical gastroenterology and hepatology : the official clinical practice journal of the American Gastroenterological Association
 PY  - 2026
 DO  - 10.1016/j.cgh.2026.07.027
-AB  - Steatotic liver disease (SLD) is the leading cause of chronic liver disease and liver-related mortality in the United States. The 2023 multisociety consensus nomenclature was intended to develop a more evidence-based framework regarding the differing forms of SLD, including metabolic dysfunction-associated steatotic liver disease (MASLD), metabolic dysfunction- and alcohol-associated liver disease (MetALD), and alcohol-associated liver disease. The purpose of this American Gastroenterological Association (AGA) Clinical Practice Update expert review is to provide Best Practice Advice regarding the diagnosis, staging, and treatment of MetALD. This expert review was commissioned and approved by the AGA Institute Clinical Practice Updates Committee and the AGA Governing Board to provide timely guidance on a topic of high clinical importance to the AGA membership. The document underwent internal peer review by the Clinical Practice Updates Committee and external peer review through the standard procedures of Clinical Gastroenterology and Hepatology. These BPA statements were drawn from a review of the published literature and from expert opinion. Because systematic reviews were not performed, these BPA statements do not carry formal ratings regarding the quality of evidence or strength of the presented considerations. BEST PRACTICE ADVICE STATEMENTS BEST PRACTICE ADVICE 1: Patients with SLD can be classified into MASLD, MetALD, and alcohol-associated liver disease categories by the presence of cardiometabolic risk factors and the quantity of alcohol consumed in grams per week (ideally over ≥3 months), using the thresholds of ≈140 to 350 g/wk in women and 210 to 420 g/wk in men for MetALD. BEST PRACTICE ADVICE 2: All patients with steatotic liver disease, including MetALD, should be assessed initially and at least annually thereafter for alcohol use via patient interview, completion of validated alcohol use questionnaires, and/or measurement of serum and/or urine alcohol biomarkers. BEST PRACTICE ADVICE 3: Alcohol consumption increases the extent of hepatic steatosis accumulation and fibrosis progression in a dose-dependent manner in nearly all forms of chronic liver disease, including those with MetALD. Therefore, all patients should be advised to discontinue alcohol use, recognizing that abstinence may be preceded by periods of use reduction and intermittent use. BEST PRACTICE ADVICE 4: A tiered, noninvasive strategy that combines routine blood-based biomarkers with simple fibrosis scores, such as the Fibrosis-4 Index, should be used to identify low-risk patients with MetALD and to triage those at indeterminate or high risk to second-line tests (eg, elastography or serum Enhanced Liver Fibrosis test) for detection of advanced fibrosis and cirrhosis. BEST PRACTICE ADVICE 5: Vibration-controlled transient elastography and magnetic resonance-based techniques are noninvasive tools that objectively assess the fibrosis stage and steatosis burden in patients with MetALD; however, liver stiffness values should be interpreted cautiously in the presence of active alcohol use, which can transiently increase stiffness. BEST PRACTICE ADVICE 6: Medical management of MetALD should include dietary counseling and replenishment of micronutrient deficiencies (folate, thiamine, vitamin D) as well as aerobic exercise to improve body weight and muscle mass, along with treatment of concomitant cardiometabolic risk factors. BEST PRACTICE ADVICE 7: The safety and efficacy of United States Food and Drug Administration-approved treatments for noncirrhotic MASLD (ie, resmetiron and semaglutide) has not been formally studied in MetALD. However, preliminary data suggests that glucagon-like peptide-1 and glucose-dependent insulinotropic polypeptide receptor agonists may reduce alcohol cravings and consumption and improve hepatic parameters. BEST PRACTICE ADVICE 8: Medical management of patients with MetALD and moderate or severe alcohol use disorder should include use of alcohol use disorder pharmacotherapy and behavioral approaches to reduce alcohol consumption. BEST PRACTICE ADVICE 9: Endobariatric and bariatric surgery are not advisable for patients with MetALD due to the lack of safety and efficacy data as well as concerns regarding accelerated liver disease progression with continued alcohol use after surgery.
+AB  - Steatotic liver disease (SLD) is the leading cause of chronic liver disease and liver-related mortality in the United States. The 2023 multisociety consensus nomenclature was intended to develop a more evidence-based framework regarding the differing forms of SLD, including metabolic dysfunction-associated steatotic liver disease (MASLD), metabolic dysfunction- and alcohol-associated liver disease (MetALD), and alcohol-associated liver disease. The purpose of this American Gastroenterological Association (AGA) Clinical Practice Update expert review is to provide Best Practice Advice regarding the diagnosis, staging, and treatment of MetALD. This expert review was commissioned and approved by the AGA Institute Clinical Practice Updates Committee and the AGA Governing Board to provide timely guidance on a topic of high clinical importance to the AGA membership. The document underwent internal peer review by the Clinical Practice Updates Committee and external peer review through the standard procedures of Clinical Gastroenterology and Hepatology. These BPA statements were drawn from a review of the published literature and from expert opinion. Because systematic reviews were not performed, these BPA statements do not carry formal ratings regarding the quality of evidence or strength of the presented considerations. BEST PRACTICE ADVICE STATEMENTS BEST PRACTICE ADVICE 1: Patients with SLD can be classified into MASLD, MetALD, and alcohol-associated liver disease categories by the presence of cardiometabolic risk factors and the quantity of alcohol consumed in grams per week (ideally over ≥3 months), using the thresholds of ≈140-350 g/wk in women and 210-420 g/wk in men for MetALD. BEST PRACTICE ADVICE 2: All patients with steatotic liver disease, including MetALD, should be assessed initially and at least annually thereafter for alcohol use via patient interview, completion of validated alcohol use questionnaires, and/or measurement of serum and/or urine alcohol biomarkers. BEST PRACTICE ADVICE 3: Alcohol consumption increases the extent of hepatic steatosis accumulation and fibrosis progression in a dose-dependent manner in nearly all forms of chronic liver disease, including those with MetALD. Therefore, all patients should be advised to discontinue alcohol use, recognizing that abstinence may be preceded by periods of use reduction and intermittent use. BEST PRACTICE ADVICE 4: A tiered, noninvasive strategy that combines routine blood-based biomarkers with simple fibrosis scores, such as the Fibrosis-4 Index, should be used to identify low-risk patients with MetALD and to triage those at indeterminate or high risk to second-line tests (eg, elastography or serum Enhanced Liver Fibrosis test) for detection of advanced fibrosis and cirrhosis. BEST PRACTICE ADVICE 5: Vibration-controlled transient elastography and magnetic resonance-based techniques are noninvasive tools that objectively assess the fibrosis stage and steatosis burden in patients with MetALD; however, liver stiffness values should be interpreted cautiously in the presence of active alcohol use, which can transiently increase stiffness. BEST PRACTICE ADVICE 6: Medical management of MetALD should include dietary counseling and replenishment of micronutrient deficiencies (folate, thiamine, vitamin D) as well as aerobic exercise to improve body weight and muscle mass, along with treatment of concomitant cardiometabolic risk factors. BEST PRACTICE ADVICE 7: The safety and efficacy of United States Food and Drug Administration-approved treatments for noncirrhotic MASLD (ie, resmetiron and semaglutide) has not been formally studied in MetALD. However, preliminary data suggests that glucagon-like peptide-1 and glucose-dependent insulinotropic polypeptide receptor agonists may reduce alcohol cravings and consumption and improve hepatic parameters. BEST PRACTICE ADVICE 8: Medical management of patients with MetALD and moderate or severe alcohol use disorder should include use of alcohol use disorder pharmacotherapy and behavioral approaches to reduce alcohol consumption. BEST PRACTICE ADVICE 9: Endobariatric and bariatric surgery are not advisable for patients with MetALD due to the lack of safety and efficacy data as well as concerns regarding accelerated liver disease progression with continued alcohol use after surgery.
 UR  - https://pubmed.ncbi.nlm.nih.gov/42776095/
 ER  - 
 
